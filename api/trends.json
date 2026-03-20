@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T16:37:29.146747+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-03-20T17:37:52.551234+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 112,
+      "match_count": 118,
       "titles": [
         {
           "title": "以军：继续“追杀”伊朗所有高层",
@@ -19,30 +19,17 @@
           "time_info": "[00时54分 ~ 05时33分]"
         },
         {
-          "title": "报道：伊朗拟对霍尔木兹海峡船只征收“安全通行费”，布油回落",
-          "url": "https://wallstreetcn.com/articles/3767926",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 16时37分]"
-        },
-        {
           "title": "伊朗称若基础设施再遭袭将不再克制、击中美F-35战机，美军或夺岛迫使伊开放霍尔木兹",
           "url": "https://wallstreetcn.com/articles/3767953",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 17时37分]"
         },
         {
           "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
@@ -53,11 +40,26 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 16时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 17时37分]"
+        },
+        {
+          "title": "报道：伊朗拟对霍尔木兹海峡船只征收“安全通行费”，布油回落",
+          "url": "https://wallstreetcn.com/articles/3767926",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 17时37分]"
         },
         {
           "title": "美以伊战争丨伊朗发布击中美军F-35隐形战机视频",
@@ -80,6 +82,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时54分 ~ 07时27分]"
+        },
+        {
+          "title": "卡塔尔：伊朗袭击致17%的液化天然气产能瘫痪，恢复需3-5年",
+          "url": "https://news.ifeng.com/c/8rduuj18GCO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 17时37分]"
         },
         {
           "title": "伊朗导弹击中以色列海法炼油厂",
@@ -182,17 +195,6 @@
           "time_info": "[00时54分 ~ 07时27分]"
         },
         {
-          "title": "卡塔尔：伊朗袭击致17%的液化天然气产能瘫痪，恢复需3-5年",
-          "url": "https://news.ifeng.com/c/8rduuj18GCO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 16时37分]"
-        },
-        {
           "title": "伊朗称美军F35被击中后或坠毁 国际贵金属价格暴跌 | 环球市场",
           "url": "https://www.cls.cn/detail/2318918",
           "source": "财联社热门",
@@ -225,6 +227,22 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时12分 ~ 15时43分]"
+        },
+        {
+          "title": "伊朗击中F35后让美以期待更多惊喜",
+          "url": "https://www.toutiao.com/trending/7619015208602288191/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            12,
+            13,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 17时37分]"
         },
         {
           "title": "伊朗称打击行动命中美国第五舰队，造成破坏有多大？对美军有哪些影响？",
@@ -264,6 +282,17 @@
           "time_info": "[00时55分 ~ 09时49分]"
         },
         {
+          "title": "击中F-35战机后，伊朗让美以期待更多“惊喜”",
+          "url": "https://news.ifeng.com/c/8rdmFE8d49p",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时50分 ~ 17时37分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 20 天，当前局势如何？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2017692346066630422",
           "source": "知乎",
@@ -288,21 +317,6 @@
           "time_info": "[09时49分 ~ 16时37分]"
         },
         {
-          "title": "伊朗击中F35后让美以期待更多惊喜",
-          "url": "https://www.toutiao.com/trending/7619015208602288191/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            12,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 16时37分]"
-        },
-        {
           "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突是否会彻底失控？油价会涨到多少？",
           "url": "https://www.zhihu.com/question/2017713766402385101",
           "source": "知乎",
@@ -314,15 +328,29 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
-          "title": "击中F-35战机后，伊朗让美以期待更多“惊喜”",
-          "url": "https://news.ifeng.com/c/8rdmFE8d49p",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗进入第 21 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2018125516700426373",
+          "source": "知乎",
           "ranks": [
-            2
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 17时37分]"
+        },
+        {
+          "title": "伊朗称击中美军F35战机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 17时37分]"
         },
         {
           "title": "伊朗称以色列密谋袭击沙特石油设施",
@@ -376,30 +404,6 @@
           "time_info": "[09时49分 ~ 14时50分]"
         },
         {
-          "title": "美以袭击伊朗进入第 21 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2018125516700426373",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 16时37分]"
-        },
-        {
-          "title": "伊朗称击中美军F35战机",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 16时37分]"
-        },
-        {
           "title": "伊朗称击中一架美军F35战机",
           "url": "https://www.douyin.com/hot/2436719",
           "source": "抖音",
@@ -412,6 +416,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时49分 ~ 14时50分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗伊斯兰革命卫队发言人遇袭身亡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "据福克斯新闻：过去一小时内伊朗第二轮导弹向以色列袭来。以色列中部响起警报。",
@@ -528,6 +543,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时44分 ~ 07时27分]"
+        },
+        {
+          "title": "用伊朗石油给油市“降温”？美财长：或解除海上制裁，可供两周！",
+          "url": "https://www.cls.cn/detail/2318968",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 17时37分]"
         },
         {
           "title": "伊朗要求阿联酋作出赔偿",
@@ -715,18 +743,6 @@
           "time_info": "[00时55分 ~ 01时56分]"
         },
         {
-          "title": "用伊朗石油给油市“降温”？美财长：或解除海上制裁，可供两周！",
-          "url": "https://www.cls.cn/detail/2318968",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 13时50分]"
-        },
-        {
           "title": "目前伊朗的反击有哪些行动策略",
           "url": "https://www.toutiao.com/trending/7619143382094335538/",
           "source": "今日头条",
@@ -775,6 +791,28 @@
           "time_info": "[09时49分 ~ 12时12分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队发言人遇袭身亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%91%E8%A8%80%E4%BA%BA%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时37分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人身亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%91%E8%A8%80%E4%BA%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时37分]"
+        },
+        {
           "title": "美防长称请求白宫批准针对伊朗行动的拨款",
           "url": "https://flash.jin10.com/detail/20260320032425463800",
           "source": "金十数据",
@@ -785,6 +823,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时41分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人遇袭身亡",
+          "url": "https://www.toutiao.com/trending/7619241763244346899/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时37分]"
         },
         {
           "title": "以色列海法遭伊朗导弹袭击 一炼油厂受损，部分地区停电",
@@ -809,6 +859,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 03时44分]"
+        },
+        {
+          "title": "中方回应美方或解除对伊朗石油制裁",
+          "url": "https://www.toutiao.com/trending/7619236870869831195/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时37分]"
         },
         {
           "title": "据半岛电视台：以色列总理内塔尼亚胡表示，以色列将暂停袭击伊朗主要气田。",
@@ -845,28 +907,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时33分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队发言人遇袭身亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%91%E8%A8%80%E4%BA%BA%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队发言人身亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%91%E8%A8%80%E4%BA%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "卡塔尔说伊朗袭击致17%液化天然气出口产能受损",
@@ -990,15 +1030,15 @@
           "time_info": "09时49分"
         },
         {
-          "title": "伊朗伊斯兰革命卫队发言人遇袭身亡",
-          "url": "https://www.toutiao.com/trending/7619241763244346899/",
-          "source": "今日头条",
+          "title": "伊朗伊斯兰革命卫队发言人遇袭身亡，具体情况如何？高层接连遇袭对伊朗的影响有多大？",
+          "url": "https://www.zhihu.com/question/2018353752168506862",
+          "source": "知乎",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时37分"
+          "time_info": "17时37分"
         },
         {
           "title": "伊朗称“真实承诺-4”第65轮行动打击以色列炼油厂和美军基地",
@@ -1122,6 +1162,17 @@
           "time_info": "13时50分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队发言人遇袭身亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32800768",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "据Newsmax：四名官员表示，“拳师号”两栖戒备群（ARG）及其搭载的第11海军陆战队远征部队（11th MEU）已提前从美国西海岸部署出发，预计将经由印太地区直接驶往中东；此前美国国防部已下令美国海军向靠近伊朗的美国中央司令部责任区增派额外火力。",
           "url": "https://flash.jin10.com/detail/20260320062302866800",
           "source": "金十数据",
@@ -1150,7 +1201,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -1166,13 +1217,24 @@
           "time_info": "00时55分"
         },
         {
+          "title": "内塔尼亚胡仍寻求伊朗“政权更迭”，暗示或有地面行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32798820",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队发言人遇袭身亡",
           "url": "https://wallstreetcn.com/livenews/3073911",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -1210,17 +1272,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "中方回应美方或解除对伊朗石油制裁",
-          "url": "https://www.toutiao.com/trending/7619236870869831195/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：俄罗斯和伊朗政权并非偶然地互相帮助，必须制止他们。",
           "url": "https://flash.jin10.com/detail/20260320030654307800",
           "source": "金十数据",
@@ -1241,6 +1292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "伊朗发起第67波打击",
+          "url": "https://wallstreetcn.com/livenews/3073965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗向以色列发射了新一波导弹。",
@@ -1329,12 +1391,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "伊朗议长称击中F-35战机打碎美军傲慢",
+          "url": "https://wallstreetcn.com/livenews/3073957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "能源",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "海湾能源设施又遭伊朗攻击 沙特红海炼厂首次遭袭 国际油价飙升",
@@ -1381,11 +1454,12 @@
             9,
             8,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时32分 ~ 16时37分]"
+          "appearance_count": 13,
+          "time_info": "[05时32分 ~ 17时37分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -1549,8 +1623,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时50分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时50分 ~ 17时37分]"
+        },
+        {
+          "title": "石油危机已指向需求破坏！亚洲国家或加倍投入能源转型",
+          "url": "https://www.cls.cn/detail/2319193",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时37分]"
         },
         {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
@@ -1640,18 +1726,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "石油危机已指向需求破坏！亚洲国家或加倍投入能源转型",
-          "url": "https://www.cls.cn/detail/2319193",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -1709,6 +1784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "【每日收评】沪指午后跳水失守4000点，全市场连续两日超4700股收跌，新能源赛道逆势活跃",
+          "url": "https://www.cls.cn/detail/2319565",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
@@ -1871,7 +1957,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -2024,7 +2110,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -2267,7 +2353,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -2322,7 +2408,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -2409,8 +2495,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 17时37分]"
+        },
+        {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 17时37分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -2442,24 +2541,12 @@
             12,
             19,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 16时37分]"
-        },
-        {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 16时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 17时37分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -2484,8 +2571,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 17时37分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -2610,6 +2697,18 @@
           "time_info": "[09时49分 ~ 13时50分]"
         },
         {
+          "title": "曝AI短剧使用杨紫的脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时37分]"
+        },
+        {
           "title": "普通人如何防范AI投毒",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
           "source": "bilibili 热搜",
@@ -2664,17 +2763,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "曝AI短剧使用杨紫的脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DAI%E7%9F%AD%E5%89%A7%E4%BD%BF%E7%94%A8%E6%9D%A8%E7%B4%AB%E7%9A%84%E8%84%B8%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
         },
         {
           "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
@@ -2738,7 +2826,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -2834,8 +2922,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 16时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 17时37分]"
         },
         {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
@@ -2881,8 +2969,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 17时37分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时49分 ~ 17时37分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -2894,17 +2993,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时49分 ~ 16时37分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -2954,6 +3042,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时56分]"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时37分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：从来没有哪两位领导人能像我与特朗普这样步调一致。",
@@ -3078,17 +3178,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作日本偷袭珍珠港，如何解读这一言论？如何看待当前美日关系？",
           "url": "https://www.zhihu.com/question/2018233412289318937",
           "source": "知乎",
@@ -3153,6 +3242,191 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "锦浪科技今日涨15.04%，3家机构专用席位净买入1.16亿元",
+          "url": "https://flash.jin10.com/detail/20260320162517402800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "光伏、储能板块震荡拉升，正泰电源涨停，首航新能涨超12%，艾罗能源、华民股份、锦浪科技、德业股份、阳光电源、禾迈股份涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3073701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3073790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "恒指、恒生科技指数双双转涨。地平线机器人涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3073693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.59%，报25312点。 恒生科技指数主连夜盘收跌1.08%，报4938点。",
+          "url": "https://wallstreetcn.com/livenews/3073538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 04时41分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，原材料板块收跌1.55%，可选消费板块跌0.87%，信息技术/科技板块收平，能源板块涨1.48%。",
+          "url": "https://wallstreetcn.com/livenews/3073560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时33分]"
+        },
+        {
+          "title": "瀚天天成电子科技（厦门）申请香港IPO。",
+          "url": "https://wallstreetcn.com/livenews/3073596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时27分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.2%，原材料板块跌1.6%，可选消费板块跌0.8%，科技板块大致持平，能源板块涨1.4%。 纳斯达克100指数初步收跌0.3%，成分股中，美光科技初步收跌3.8%，拼多多、Doordash、奈飞跌超3%，特斯拉跌2.9%，AMD、星巴克、拉姆研究则至少涨2.9%，西部数据涨3.9%，美国油服贝克休斯涨5.6%，希捷科技涨6.7%。 波音跌2.3%，与麦当劳、3M、宝洁、联合健康领跌道指成分股，高盛则涨0.6%，思科涨1.2%，雪佛龙涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3073551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "香港恒生指数3月20日（周五）收盘下跌223.26点，跌幅0.88%，报25277.32点；<br/>香港恒生科技指数3月20日（周五）收盘下跌123.9点，跌幅2.48%，报4872.38点；<br/>国企指数3月20日（周五）收盘下跌121.81点，跌幅1.4%，报8574.07点；<br/>红筹指数3月20日（周五）收盘上涨6.01点，涨幅0.14%，报4246.33点。",
+          "url": "https://flash.jin10.com/detail/20260320161145896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "北矿科技：2025年净利润1.25亿元，同比增长17.71%",
+          "url": "https://flash.jin10.com/detail/20260320170204137800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "香港恒生指数3月20日（周五）开盘下跌163.3点，跌幅0.64%，报25337.28点；<br/>香港恒生科技指数3月20日（周五）开盘下跌48.24点，跌幅0.97%，报4948.04点；<br/>国企指数3月20日（周五）开盘下跌71.18点，跌幅0.82%，报8624.7点；<br/>红筹指数3月20日（周五）开盘下跌3.04点，跌幅0.07%，报4237.28点。",
+          "url": "https://flash.jin10.com/detail/20260320092125799800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.00%，报6945.39点，跳空低开之后跌幅迅速扩大至将近3.12%，绝大部分时间持稳于6900点上方——形成高位窄幅震荡。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.22%，中国科技指数ETF（CQQQ）收跌0.89%。 XtrackersHarvest中证50（ASHS）收跌0.86%，德银嘉实沪深300指数ETF（ASHR）收跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3073553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "宏和科技：筹划发行H股股票并在香港联合交易所有限公司上市。",
+          "url": "https://wallstreetcn.com/livenews/3073964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至3%，小米集团跌超8%，创10月以来最大盘中跌幅，阿里巴巴跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3073863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260320105817954800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1.3%，此前一度转涨。",
+          "url": "https://wallstreetcn.com/livenews/3073706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
@@ -3251,7 +3525,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -3284,7 +3558,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -3328,172 +3602,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "锦浪科技今日涨15.04%，3家机构专用席位净买入1.16亿元",
-          "url": "https://flash.jin10.com/detail/20260320162517402800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "光伏、储能板块震荡拉升，正泰电源涨停，首航新能涨超12%，艾罗能源、华民股份、锦浪科技、德业股份、阳光电源、禾迈股份涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3073701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/3073790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "恒指、恒生科技指数双双转涨。地平线机器人涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3073693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.59%，报25312点。 恒生科技指数主连夜盘收跌1.08%，报4938点。",
-          "url": "https://wallstreetcn.com/livenews/3073538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时41分]"
-        },
-        {
-          "title": "标普500指数的11个板块中，原材料板块收跌1.55%，可选消费板块跌0.87%，信息技术/科技板块收平，能源板块涨1.48%。",
-          "url": "https://wallstreetcn.com/livenews/3073560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 05时33分]"
-        },
-        {
-          "title": "瀚天天成电子科技（厦门）申请香港IPO。",
-          "url": "https://wallstreetcn.com/livenews/3073596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时27分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.2%，原材料板块跌1.6%，可选消费板块跌0.8%，科技板块大致持平，能源板块涨1.4%。 纳斯达克100指数初步收跌0.3%，成分股中，美光科技初步收跌3.8%，拼多多、Doordash、奈飞跌超3%，特斯拉跌2.9%，AMD、星巴克、拉姆研究则至少涨2.9%，西部数据涨3.9%，美国油服贝克休斯涨5.6%，希捷科技涨6.7%。 波音跌2.3%，与麦当劳、3M、宝洁、联合健康领跌道指成分股，高盛则涨0.6%，思科涨1.2%，雪佛龙涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3073551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "香港恒生指数3月20日（周五）收盘下跌223.26点，跌幅0.88%，报25277.32点；<br/>香港恒生科技指数3月20日（周五）收盘下跌123.9点，跌幅2.48%，报4872.38点；<br/>国企指数3月20日（周五）收盘下跌121.81点，跌幅1.4%，报8574.07点；<br/>红筹指数3月20日（周五）收盘上涨6.01点，涨幅0.14%，报4246.33点。",
-          "url": "https://flash.jin10.com/detail/20260320161145896800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "香港恒生指数3月20日（周五）开盘下跌163.3点，跌幅0.64%，报25337.28点；<br/>香港恒生科技指数3月20日（周五）开盘下跌48.24点，跌幅0.97%，报4948.04点；<br/>国企指数3月20日（周五）开盘下跌71.18点，跌幅0.82%，报8624.7点；<br/>红筹指数3月20日（周五）开盘下跌3.04点，跌幅0.07%，报4237.28点。",
-          "url": "https://flash.jin10.com/detail/20260320092125799800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.00%，报6945.39点，跳空低开之后跌幅迅速扩大至将近3.12%，绝大部分时间持稳于6900点上方——形成高位窄幅震荡。 热门中概股里，阿特斯太阳能初步收跌27%，阿里巴巴跌7%，大全新能源跌5.5%，贝壳、百度跌超2%，腾讯跌1.4%，小鹏则涨1.9%，亚朵涨4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.22%，中国科技指数ETF（CQQQ）收跌0.89%。 XtrackersHarvest中证50（ASHS）收跌0.86%，德银嘉实沪深300指数ETF（ASHR）收跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3073553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至3%，小米集团跌超8%，创10月以来最大盘中跌幅，阿里巴巴跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3073863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "金十图示：2026年03月20日（周五）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260320105817954800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至1.3%，此前一度转涨。",
-          "url": "https://wallstreetcn.com/livenews/3073706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         }
       ]
     },
@@ -3529,8 +3640,22 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 17时37分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2436866",
+          "source": "抖音",
+          "ranks": [
+            22,
+            25,
+            28,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时11分 ~ 16时37分]"
+          "time_info": "[12时11分 ~ 17时37分]"
         },
         {
           "title": "金价",
@@ -3545,19 +3670,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时49分 ~ 14时50分]"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2436866",
-          "source": "抖音",
-          "ranks": [
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时43分]"
         },
         {
           "title": "金价跌到看不懂",
@@ -3644,11 +3756,12 @@
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 17时37分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
