@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T17:08:10.712264+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-03-30T18:59:42.505339+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 144,
+      "match_count": 150,
       "titles": [
         {
           "title": "伊朗军方警告美方勿采取地面行动：将坚决反击",
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时37分 ~ 17时08分]"
+          "appearance_count": 15,
+          "time_info": "[02时37分 ~ 18时59分]"
         },
         {
           "title": "伊朗：又击落一架MQ-9“死神”无人机",
@@ -97,6 +97,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时27分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
+          "url": "https://wallstreetcn.com/articles/3768680",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 18时59分]"
         },
         {
           "title": "以媒：摩萨德曾有个地面入侵伊朗的大计划，最终被取消",
@@ -273,19 +286,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时27分 ~ 07时29分]"
-        },
-        {
-          "title": "伊朗拒绝“停火协议”，美国筹划“地面进攻”，油价开盘突破115美元",
-          "url": "https://wallstreetcn.com/articles/3768680",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 17时08分]"
         },
         {
           "title": "伊朗：美国提出的建议非常极端、不合理",
@@ -631,6 +631,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "美以伊战争丨伊朗：未与美国直接对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "美以袭击伊朗一处游乐园",
           "url": "https://wallstreetcn.com/livenews/3079052",
           "source": "华尔街见闻-快讯",
@@ -653,6 +664,28 @@
           "time_info": "00时31分"
         },
         {
+          "title": "欧洲理事会主席科斯塔：今天与巴基斯坦总理进行了“良好的通话”，讨论了伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260330185129623800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 31 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2021712805401819048",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 18时59分]"
+        },
+        {
           "title": "伊朗越打越聪明了",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E8%B6%8A%E8%81%AA%E6%98%8E%E4%BA%86",
           "source": "百度热搜",
@@ -662,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：欧盟对伊朗战争的延续深感担忧。",
+          "url": "https://flash.jin10.com/detail/20260330185056792800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "泽连斯基称俄罗斯向伊朗提供中东美军卫星图像",
@@ -722,15 +766,16 @@
           "time_info": "[02时37分 ~ 06时27分]"
         },
         {
-          "title": "美以袭击伊朗进入第 31 天，当前局势如何？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2021712805401819048",
-          "source": "知乎",
+          "title": "内塔尼亚胡：以色列已改变中东面貌，伊朗不再是过去的伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860486",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时59分]"
         },
         {
           "title": "伊朗外长：美以袭击伊大学是出于无力和绝望",
@@ -876,6 +921,20 @@
           "time_info": "[13时21分 ~ 17时08分]"
         },
         {
+          "title": "伊朗一儿童游乐场遭美以袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E5%84%BF%E7%AB%A5%E6%B8%B8%E4%B9%90%E5%9C%BA%E9%81%AD%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            16,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 18时59分]"
+        },
+        {
           "title": "中东将何去何从？万斯称美无意滞留伊朗，但海湾局势却越搅越浑",
           "url": "https://www.cls.cn/detail/2328351",
           "source": "财联社热门",
@@ -914,28 +973,66 @@
           "time_info": "[13时21分 ~ 17时08分]"
         },
         {
-          "title": "内塔尼亚胡：以色列已改变中东面貌，伊朗不再是过去的伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860486",
-          "source": "澎湃新闻",
+          "title": "美方称间接谈判「进展顺利」，与伊朗「可能」很快达成停火协议，可能性有多大？",
+          "url": "https://www.zhihu.com/question/2021881398772981878",
+          "source": "知乎",
           "ranks": [
-            15
+            10,
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时08分]"
+          "time_info": "[13时21分 ~ 18时59分]"
         },
         {
-          "title": "伊朗一儿童游乐场遭美以袭击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E5%84%BF%E7%AB%A5%E6%B8%B8%E4%B9%90%E5%9C%BA%E9%81%AD%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
+          "title": "美军E3预警机遭伊朗腰斩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352490&amp;topic_name=%E7%BE%8E%E5%86%9BE3%E9%A2%84%E8%AD%A6%E6%9C%BA%E9%81%AD%E4%BC%8A%E6%9C%97%E8%85%B0%E6%96%A9",
+          "source": "贴吧",
           "ranks": [
-            6,
-            16,
-            17
+            11,
+            14,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 18时59分]"
+        },
+        {
+          "title": "伊朗革命卫队确认海军司令遇难",
+          "url": "https://www.toutiao.com/trending/7622378476884607030/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时22分 ~ 17时08分]"
+          "time_info": "[17时07分 ~ 18时59分]"
+        },
+        {
+          "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
+          "url": "https://wallstreetcn.com/articles/3768721",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 18时59分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队确认海军司令遇难",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E7%A1%AE%E8%AE%A4%E6%B5%B7%E5%86%9B%E5%8F%B8%E4%BB%A4%E9%81%87%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 18时59分]"
         },
         {
           "title": "据伊朗媒体Fars News：德黑兰和卡拉杰大部分地区已恢复供电。",
@@ -977,32 +1074,6 @@
           "time_info": "[02时37分 ~ 04时28分]"
         },
         {
-          "title": "美方称间接谈判「进展顺利」，与伊朗「可能」很快达成停火协议，可能性有多大？",
-          "url": "https://www.zhihu.com/question/2021881398772981878",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时08分]"
-        },
-        {
-          "title": "美军E3预警机遭伊朗腰斩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352490&amp;topic_name=%E7%BE%8E%E5%86%9BE3%E9%A2%84%E8%AD%A6%E6%9C%BA%E9%81%AD%E4%BC%8A%E6%9C%97%E8%85%B0%E6%96%A9",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时08分]"
-        },
-        {
           "title": "伊朗：将美以大学列为合法打击目标",
           "url": "https://www.toutiao.com/trending/7621954276688805894/",
           "source": "今日头条",
@@ -1013,28 +1084,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时37分]"
-        },
-        {
-          "title": "伊朗革命卫队确认海军司令遇难",
-          "url": "https://www.toutiao.com/trending/7622378476884607030/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队确认海军司令遇难",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E7%A1%AE%E8%AE%A4%E6%B5%B7%E5%86%9B%E5%8F%B8%E4%BB%A4%E9%81%87%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "伊朗证实革命卫队海军司令死于空袭",
@@ -1058,17 +1107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时37分]"
-        },
-        {
-          "title": "伊朗官员：计划对通过霍尔木兹海峡船只实施更严格的准入与收费制度",
-          "url": "https://wallstreetcn.com/articles/3768721",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
         },
         {
           "title": "伊朗称已击落138架美以无人机",
@@ -1417,7 +1455,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1428,7 +1466,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1466,6 +1504,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队证实，海军司令坦格西里遇难，将为中东局势带来哪些变数？",
+          "url": "https://www.zhihu.com/question/2021978428513994075",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "市场消息：伊朗首都德黑兰部分地区启动防空系统，拦截地方目标。",
           "url": "https://flash.jin10.com/detail/20260330002040350800",
           "source": "金十数据",
@@ -1475,6 +1524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "欧洲理事会主席科斯塔：今天与巴基斯坦总理通话，听取了他对伊朗战争的评估，以及最近在伊斯兰堡举行的埃及、沙特、巴基斯坦和土耳其外长之间的磋商结果。欧盟对战争的持续和其日益扩大的全球影响深感担忧。欧盟支持所有调解努力。",
+          "url": "https://flash.jin10.com/detail/20260330184113447800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "伊朗反对美方谈判条件：将坚持反击",
@@ -1497,6 +1557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "市场消息：伊朗德黑兰传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260330184033362800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "伊朗首都再遭猛烈空袭：爆炸巨响、浓烟滚滚",
@@ -1755,7 +1826,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "全球视角下A股韧性在哪里？投资主线有哪些？十大券商策略来了",
@@ -2003,6 +2074,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "A股高铁概念午后拉升",
+          "url": "https://www.toutiao.com/trending/7622963763255328831/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "A股电力板块持续下挫，晋控电力、华电辽能、华电能源多股触及跌停，金开新能、惠天热电跌超9%。",
           "url": "https://flash.jin10.com/detail/20260330094250074800",
           "source": "金十数据",
@@ -2089,8 +2171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时59分]"
         },
         {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
@@ -2103,6 +2185,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 17时08分]"
+        },
+        {
+          "title": "特朗普说中东冲突或很快停止，外交部回应",
+          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 18时59分]"
+        },
+        {
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时59分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -2118,27 +2223,17 @@
           "time_info": "[00时31分 ~ 06时27分]"
         },
         {
-          "title": "特朗普说中东冲突或很快停止，外交部回应",
-          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
-          "source": "凤凰网",
+          "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            14,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
-          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
-          "url": "https://news.ifeng.com/c/8ruabbA1FVs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时08分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 18时59分]"
         },
         {
           "title": "美以伊战争丨美媒：特朗普考虑派兵夺取伊朗900斤铀",
@@ -2185,28 +2280,17 @@
           "time_info": "07时29分"
         },
         {
-          "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 17时08分]"
-        },
-        {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时59分]"
         },
         {
           "title": "特朗普私下问：2028，万斯还是鲁比奥？",
@@ -2249,7 +2333,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -2311,285 +2395,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时29分]"
-        },
-        {
-          "title": "DeepSeek“崩了”",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时29分]"
-        },
-        {
-          "title": "DeepSeek公告服务出现重大中断",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://www.douyin.com/hot/2448162",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时08分]"
-        },
-        {
-          "title": "DeepSeek宕机12小时后恢复服务",
-          "url": "https://www.toutiao.com/trending/7622849000173178419/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时08分]"
-        },
-        {
-          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
-          "url": "https://www.zhihu.com/question/2021724542909903612",
-          "source": "知乎",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 17时08分]"
-        },
-        {
-          "title": "豆包谈DeepSeek频繁崩溃",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 15时22分]"
-        },
-        {
-          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
-          "url": "https://www.zhihu.com/question/2021724542909903612",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "等DeepSeek修复",
-          "url": "https://s.weibo.com/weibo?q=%E7%AD%89DeepSeek%E4%BF%AE%E5%A4%8D&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "DeepSeek服务出现重大中断",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "DeepSeek崩了，约12小时仍未完成修复",
-          "url": "https://wallstreetcn.com/livenews/3078853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "DeepSeek服务出现重大中断",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时29分]"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 17时08分]"
-        },
-        {
-          "title": "伊朗战争的账单，“AI牛市”来买？",
-          "url": "https://wallstreetcn.com/articles/3768662",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时21分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            24,
-            22,
-            21,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 17时08分]"
-        },
-        {
-          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3078735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 06时27分]"
-        },
-        {
-          "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
-          "url": "https://www.zhihu.com/question/2019836769743423292",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 06时27分]"
-        },
-        {
-          "title": "韩红秀牙缝自证“不是AI人”",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
-        },
-        {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
-          "url": "https://wallstreetcn.com/livenews/3078783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "能源",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗副能源部长表示，德黑兰和厄尔布尔士省的电力已恢复正常。",
@@ -2601,6 +2408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "叙利亚总统府：今天，沙拉总统与多家德国公司的代表举行了圆桌会议。会议期间，各公司在能源、金融、安全、数字转型等多个经济领域提出了建议，此外还涉及建筑、医疗保健和物流服务。会议上还签署了叙利亚方面与多家参与公司的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260330185259579800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
@@ -2685,6 +2503,28 @@
           "time_info": "07时29分"
         },
         {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://www.cls.cn/detail/2328703",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "欧元势创2024年以来最差季度表现 能源冲击令欧洲经济前景蒙上阴影",
+          "url": "https://wallstreetcn.com/livenews/3079234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "应对能源价格上涨 澳大利亚将实行燃油税减半措施",
           "url": "https://wallstreetcn.com/livenews/3078943",
           "source": "华尔街见闻-快讯",
@@ -2694,12 +2534,183 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京与塞尔维亚总统武契奇通电话，讨论了能源、石油和天然气以及核能领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260330183337042800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时29分]"
+        },
+        {
+          "title": "DeepSeek“崩了”",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时29分]"
+        },
+        {
+          "title": "DeepSeek公告服务出现重大中断",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%85%AC%E5%91%8A%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.douyin.com/hot/2448162",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时59分]"
+        },
+        {
+          "title": "DeepSeek宕机12小时后恢复服务",
+          "url": "https://www.toutiao.com/trending/7622849000173178419/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时59分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 17时08分]"
+        },
+        {
+          "title": "豆包谈DeepSeek频繁崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 15时22分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "等DeepSeek修复",
+          "url": "https://s.weibo.com/weibo?q=%E7%AD%89DeepSeek%E4%BF%AE%E5%A4%8D&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "DeepSeek服务出现重大中断",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "DeepSeek崩了，约12小时仍未完成修复",
+          "url": "https://wallstreetcn.com/livenews/3078853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "DeepSeek服务出现重大中断",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%B8%AD%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗科技大学遭袭后，伊朗将美以大学列为「合法袭击目标」，如果战争扩大到教育机构，冲突还有回头路吗？",
@@ -2723,6 +2734,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 15时22分]"
+        },
+        {
+          "title": "极米科技全年营收34.7亿元人民币，预估35.9亿元人民币。 全年净利润1.434亿元人民币，预估2.017亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3079265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "中国银河证券：中长期仍看好科技板块产业驱动与周期板块涨价线索的双主线",
@@ -2749,13 +2771,24 @@
           "time_info": "[00时31分 ~ 05时29分]"
         },
         {
+          "title": "宇树科技CEO：机器人任意动作生成、自主出招对打，六个月后可实现",
+          "url": "https://wallstreetcn.com/livenews/3079263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "中天科技：拟以2亿元-4亿元回购股份，回购股份价格不超过人民币40元/股。",
           "url": "https://wallstreetcn.com/livenews/3079148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -2771,6 +2804,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "剑桥科技：2025年净利润2.6亿元，同比增长58.08%",
+          "url": "https://wallstreetcn.com/livenews/3079221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "通用异构智能CPU芯片企业此芯科技完成近十亿元B轮融资",
           "url": "https://wallstreetcn.com/livenews/3079016",
           "source": "华尔街见闻-快讯",
@@ -2780,6 +2824,127 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时29分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 18时59分]"
+        },
+        {
+          "title": "伊朗战争的账单，“AI牛市”来买？",
+          "url": "https://wallstreetcn.com/articles/3768662",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时21分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            24,
+            22,
+            21,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 18时59分]"
+        },
+        {
+          "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3078735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时27分]"
+        },
+        {
+          "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
+          "url": "https://www.zhihu.com/question/2019836769743423292",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时27分]"
+        },
+        {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "复旦教授解析AI冲击职场真相",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
+          "url": "https://wallstreetcn.com/livenews/3078783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     },
@@ -2809,19 +2974,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 18时59分]"
         },
         {
           "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时07分 ~ 17时08分]"
+          "appearance_count": 3,
+          "time_info": "[17时07分 ~ 18时59分]"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -2874,7 +3040,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价银价大跌了",
@@ -2905,9 +3071,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "金价下跌刚需客户下手了",
+          "url": "https://www.toutiao.com/trending/7621876876252217380/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "金价下跌刚需客户下手了",
@@ -2954,7 +3131,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -2971,6 +3148,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 17时08分]"
+        },
+        {
+          "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
+          "url": "https://wallstreetcn.com/livenews/3079231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }
