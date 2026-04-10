@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T07:35:46.021751+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-04-10T10:08:06.261754+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 76,
+      "match_count": 83,
       "titles": [
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -47,22 +47,36 @@
           "url": "https://news.ifeng.com/c/8sBYm6eKYCG",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
         },
         {
           "title": "美军高官：打击伊朗消耗760万杯咖啡",
           "url": "https://news.ifeng.com/c/8sBkI9LA3yo",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
+        },
+        {
+          "title": "伊朗副外长：霍尔木兹海峡保持开放",
+          "url": "https://www.toutiao.com/trending/7626336339914477097/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
         },
         {
           "title": "西班牙宣布重开驻伊朗使馆，以色列竟批评：恬不知耻",
@@ -115,22 +129,24 @@
           "time_info": "[01时03分 ~ 07时35分]"
         },
         {
+          "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
+          "url": "https://www.cls.cn/detail/2339689",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时59分 ~ 10时08分]"
+        },
+        {
           "title": "伊朗战火外溢，中国储能出口要爆了？",
           "url": "https://news.ifeng.com/c/8sBpzHYTdXD",
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
-        },
-        {
-          "title": "伊朗副外长：霍尔木兹海峡保持开放",
-          "url": "https://www.toutiao.com/trending/7626336339914477097/",
-          "source": "今日头条",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -234,16 +250,15 @@
           "time_info": "[01时03分 ~ 06时38分]"
         },
         {
-          "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
-          "url": "https://www.cls.cn/detail/2339689",
-          "source": "财联社热门",
+          "title": "俄媒：伊朗每天限15艘船通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8sCceUR9IBI",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时59分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文，释放什么信号？双方还会如约谈判吗？",
@@ -258,13 +273,26 @@
           "time_info": "[01时04分 ~ 07时35分]"
         },
         {
+          "title": "石油巨头向白宫抗议：如果伊朗可以收费，那新加坡和土耳其也可以",
+          "url": "https://wallstreetcn.com/articles/3769560",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时42分 ~ 10时08分]"
+        },
+        {
           "title": "伊朗战争丨伊朗最高领袖外交政策顾问身亡",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -278,6 +306,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 05时42分]"
+        },
+        {
+          "title": "【早报】伊朗最高领袖：霍尔木兹海峡管理将进入新阶段；电池行业，重要座谈会召开",
+          "url": "https://www.cls.cn/detail/2339830",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时08分]"
         },
         {
           "title": "美国白宫警告其雇员，鉴于伊朗战争，不要在预测市场上进行相关下注。（华尔街日报）",
@@ -375,19 +415,6 @@
           "time_info": "[06时38分 ~ 07时35分]"
         },
         {
-          "title": "石油巨头向白宫抗议：如果伊朗可以收费，那新加坡和土耳其也可以",
-          "url": "https://wallstreetcn.com/articles/3769560",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时35分]"
-        },
-        {
           "title": "伊朗最高领袖提出三点主张",
           "url": "https://wallstreetcn.com/livenews/3085349",
           "source": "华尔街见闻-快讯",
@@ -398,6 +425,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "伊朗最高领袖提出三点主张",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%8F%90%E5%87%BA%E4%B8%89%E7%82%B9%E4%B8%BB%E5%BC%A0",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时08分]"
+        },
+        {
+          "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
+          "url": "https://wallstreetcn.com/articles/3769554",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时35分 ~ 10时08分]"
+        },
+        {
+          "title": "伊朗最高领袖外交政策顾问伤重不治",
+          "url": "https://news.ifeng.com/c/8sCJdvKBYPl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025706275451795397",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 10时08分]"
         },
         {
           "title": "伊朗外交关系战略委员会主席去世",
@@ -495,6 +569,17 @@
           "time_info": "[05时42分 ~ 06时38分]"
         },
         {
+          "title": "伊朗最高领袖提出三点主张",
+          "url": "https://www.toutiao.com/trending/7626908789756677678/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "伊朗最高领袖：伊朗民族取得“决定性胜利”",
           "url": "https://wallstreetcn.com/livenews/3085276",
           "source": "华尔街见闻-快讯",
@@ -542,6 +627,17 @@
           "time_info": "[03时00分 ~ 04时04分]"
         },
         {
+          "title": "伊朗最高领袖发文纪念哈梅内伊",
+          "url": "https://www.toutiao.com/trending/7626895863851306506/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "伊朗议长：伊朗民众和武装部队已为各类情况做好准备",
           "url": "https://wallstreetcn.com/livenews/3085333",
           "source": "华尔街见闻-快讯",
@@ -576,6 +672,39 @@
           "time_info": "[01时04分 ~ 03时00分]"
         },
         {
+          "title": "伊朗最高领袖外交政策顾问伤重不治",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E9%A1%BE%E9%97%AE%E4%BC%A4%E9%87%8D%E4%B8%8D%E6%B2%BB",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "打击伊朗期间美军消耗约760万杯咖啡",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E6%9C%9F%E9%97%B4%E7%BE%8E%E5%86%9B%E6%B6%88%E8%80%97%E7%BA%A6760%E4%B8%87%E6%9D%AF%E5%92%96%E5%95%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "伊朗前外长哈拉齐伤重不治",
+          "url": "https://www.toutiao.com/trending/7626821915265531958/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "伊朗总统说手扣扳机绝不抛弃黎巴嫩",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%B4%E6%89%8B%E6%89%A3%E6%89%B3%E6%9C%BA%E7%BB%9D%E4%B8%8D%E6%8A%9B%E5%BC%83%E9%BB%8E%E5%B7%B4%E5%AB%A9%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -588,17 +717,6 @@
           "time_info": "[04时04分 ~ 05时42分]"
         },
         {
-          "title": "伊朗最高领袖提出三点主张",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%8F%90%E5%87%BA%E4%B8%89%E7%82%B9%E4%B8%BB%E5%BC%A0",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：内塔尼亚胡的刑事审判将于本周日继续进行。若能达成全地区范围的停火协议（包括在黎巴嫩），则将加速其入狱的命运。如果美国真想通过让内塔尼亚胡破坏外交手段来破坏本国经济，那这将是美国自己的选择。我们认为这样做很愚蠢，但我们对此已做好了准备。",
           "url": "https://flash.jin10.com/detail/20260410003540769800",
           "source": "金十数据",
@@ -608,17 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025706275451795397",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
         },
         {
           "title": "美国白宫警告其雇员，鉴于伊朗战争，不要在预测市场上进行相关下注。",
@@ -643,24 +750,13 @@
           "time_info": "01时04分"
         },
         {
-          "title": "停火首日，霍尔木兹仅有4艘船通过，美国催盟友给出方案，伊朗公布安全航路图",
-          "url": "https://wallstreetcn.com/articles/3769554",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
           "title": "伊朗最高领袖提出三点主张",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E6%8F%90%E5%87%BA%E4%B8%89%E7%82%B9%E4%B8%BB%E5%BC%A0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -685,17 +781,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "【早报】伊朗最高领袖：霍尔木兹海峡管理将进入新阶段；电池行业，重要座谈会召开",
-          "url": "https://www.cls.cn/detail/2339830",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时35分"
         },
         {
           "title": "伊朗革命卫队称，在停火期间未进行任何（导弹）发射。",
@@ -781,7 +866,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -888,7 +973,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 41,
       "titles": [
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -899,8 +984,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
+        },
+        {
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -909,18 +1007,6 @@
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://wallstreetcn.com/articles/3769556",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -938,24 +1024,25 @@
           "time_info": "[01时03分 ~ 05时42分]"
         },
         {
+          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
+        },
+        {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
           "source": "澎湃新闻",
           "ranks": [
             11,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
-        },
-        {
-          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -969,11 +1056,12 @@
             7,
             5,
             8,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 10时08分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -985,6 +1073,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：若伊朗不达成协议，将极其痛苦",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -1035,6 +1156,17 @@
           "time_info": "[02时59分 ~ 04时04分]"
         },
         {
+          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
+          "url": "https://www.cls.cn/detail/2339842",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
           "url": "https://wallstreetcn.com/livenews/3085348",
           "source": "华尔街见闻-快讯",
@@ -1045,6 +1177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
         },
         {
           "title": "特朗普夫人梅拉尼娅：我从未与爱泼斯坦有过关系，爱泼斯坦没有把我介绍给特朗普，这些指控有损我的声誉。",
@@ -1107,13 +1250,24 @@
           "time_info": "[05时42分 ~ 06时38分]"
         },
         {
+          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
+          "url": "https://www.cls.cn/detail/2339829",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "特朗普警告伊朗：勿对霍尔木兹海峡船只收费",
           "url": "https://flash.jin10.com/detail/20260410065335384800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1124,7 +1278,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1135,7 +1289,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1146,7 +1300,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1168,7 +1322,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1212,7 +1366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1297,7 +1451,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -1312,6 +1466,22 @@
           "time_info": "[01时03分 ~ 07时35分]"
         },
         {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            25,
+            15,
+            16,
+            21,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
+        },
+        {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
           "url": "https://www.cls.cn/detail/2339282",
           "source": "财联社热门",
@@ -1323,19 +1493,52 @@
           "time_info": "[01时03分 ~ 07时35分]"
         },
         {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
           "ranks": [
+            30,
             25,
-            15,
-            16,
-            21,
+            22,
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 10时08分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 10时08分]"
+        },
+        {
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "据The Information：OpenAI负责“星际之门”（Stargate）的高管Peter Hoeschele已离开公司。",
+          "url": "https://flash.jin10.com/detail/20260410100154101800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -1349,29 +1552,19 @@
           "time_info": "[01时03分 ~ 05时42分]"
         },
         {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            30,
-            25,
-            22,
-            29
+            27,
+            15,
+            23,
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时35分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[03时00分 ~ 10时08分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -1391,9 +1584,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "OpenAI“星际之门”（Stargate）项目执行官Peter Hoeschele已离开公司。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3085487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
@@ -1413,23 +1617,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
         {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
+          "title": "微信回应夫妻用AI写公众号年赚200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%AB%E5%A6%BB%E7%94%A8AI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            27,
-            15,
-            23,
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时00分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
         },
         {
           "title": "件股再度集体重挫，AI智能体令行业增长前景受到沉重打击",
@@ -1462,7 +1663,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1476,6 +1677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "港股AI应用股盘初延续强势，迅策(03317.HK)涨11%，滴普科技(01384.HK)涨超5.5%，中手游(00302.HK)、商汤(00020.HK)均涨超4.5%，MINIMAX-W(00100.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410094440116800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
@@ -1506,7 +1718,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1546,8 +1758,205 @@
       ]
     },
     {
+      "keyword_group": "a股 港股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "A股存储厂商2025业绩盘点：模组厂一个季度赚足一年利润 产业链围绕下一轮周期密集落子",
+          "url": "https://www.cls.cn/detail/2339696",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
+        },
+        {
+          "title": "A股人形机器人概念异动拉升，万向钱潮封板涨停，五洲新春涨超9%，斯菱智驱、巨轮智能、美力科技、三花智控、浙江荣泰、拓普集团、中大力德、奥比中光跟涨。消息面上，阿里与宇树科技正在筹备一个出海合作项目，项目细节将于下周官宣。",
+          "url": "https://flash.jin10.com/detail/20260410095909407800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股如何在油市动荡中保持韧性",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B2%B9%E5%B8%82%E5%8A%A8%E8%8D%A1%E4%B8%AD%E4%BF%9D%E6%8C%81%E9%9F%A7%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时00分 ~ 07时35分]"
+        },
+        {
+          "title": "A股新规重磅落地",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%96%B0%E8%A7%84%E9%87%8D%E7%A3%85%E8%90%BD%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "A股开盘：上证指数涨0.49% 半导体走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0%E6%B6%A80.49%25+%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "A股三大股指均涨超1%，沪指站上4000点，深证成指涨近2%，创业板指涨2.8%，两市超4500家个股上涨。",
+          "url": "https://flash.jin10.com/detail/20260410095707545800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "港股中资券商股持续走强，中信证券(06030.HK)涨超12.5%，中州证券(01375.HK)、国联民生(01456.HK)涨超10%，弘业期货(03678.HK)、广发证券(01776.HK)、中信建投证券(06066.HK)、中金公司(03908.HK)均涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260410095546826800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股上证指数涨近0.9%，一度站上4000点，两市超4400家个股上涨。",
+          "url": "https://flash.jin10.com/detail/20260410095225685800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股玻纤板块异动拉升，山东玻纤触及涨停，宏和科技、国际复材、中国巨石、长海股份、中材科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410094932814800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股证券板块盘初走高，南华期货封板涨停，中信证券涨超7%，东方财富、广发证券、瑞达期货、越秀资本跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410094858978800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股光伏、储能板块集体走强，德业股份涨停，固德威、艾罗能源、正泰电源、爱旭股份、阳光电源涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3085465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股锂电池产业链震荡拉升，国轩高科、信宇人涨停，天华新能、鹏辉能源、德赛电池、南都电源、德方纳米等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3085463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "港股恒生科技指数涨超2%，中芯国际(00981.HK)涨超5%，阿里巴巴(09988.HK)、商汤(00020.HK)、华虹半导体(01347.HK)涨超3.5%。",
+          "url": "https://flash.jin10.com/detail/20260410094616786800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股盐湖提锂板块盘初走强，国轩高科封板涨停，欣旺达涨超15%，豪鹏科技、德赛电池、骆驼股份、南都电源、鹏辉能源等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410094059158800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股造纸板块异动拉升，青山纸业封板涨停，松炀资源、民丰特纸、冠豪高新、民士达、森林包装等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410094002709800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股创业板指日内涨超2%，深证成指涨1.25%，上证指数涨0.57%，两市近4400家个股上涨。",
+          "url": "https://flash.jin10.com/detail/20260410093935993800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "A股液冷服务器概念反复活跃，新朋股份两连板，英维克、飞龙股份、宁波精达、淳中科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260410093808303800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "能源",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "沃旭能源CEO：能源紧缺或将提振欧洲海上风电发展",
@@ -1607,6 +2016,17 @@
           "time_info": "[03时00分 ~ 04时04分]"
         },
         {
+          "title": "沪指涨幅扩大至1%，时隔14个交易日重返4000点上方，深成指涨1.96%，创业板指涨2.75%，新能源电池、半导体芯片、证券等方向涨幅居前，沪深京三市上涨个股近4700只。",
+          "url": "https://wallstreetcn.com/livenews/3085479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "据沙特通讯社：沙特能源部一名官员表示，库赖斯油田设施此前曾遭袭击，导致其日产量减少30万桶。",
           "url": "https://flash.jin10.com/detail/20260410022841060800",
           "source": "金十数据",
@@ -1657,7 +2077,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1683,11 +2103,12 @@
           "url": "https://www.cls.cn/detail/2339594",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时08分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -1710,8 +2131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时37分 ~ 07时35分]"
+          "appearance_count": 5,
+          "time_info": "[06时37分 ~ 10时08分]"
         },
         {
           "title": "房利美股价涨幅迅速扩大至19%，房地美也涨16%。",
@@ -1788,7 +2209,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
@@ -1827,15 +2248,48 @@
           "time_info": "04时04分"
         },
         {
+          "title": "恒生科技指数涨超2%，中芯国际涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3085470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
           "title": "险资最新投资策略曝光：高股息压舱，科技成长伺机",
           "url": "https://wallstreetcn.com/livenews/3085369",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "存储芯片板块延续涨势，睿能科技涨停，全志科技涨超15%，盈方微、德明利、阿石创、普冉股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3085451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
+        },
+        {
+          "title": "内蒙本地股大幅高开，内蒙新华、欧晶科技涨停，蒙草生态、骑士乳业涨超10%，华能蒙电、鄂尔多斯涨超7%，消息上，国务院日前印发的《中国（内蒙古）自由贸易试验区总体方案》4月9日对外发布，赋予内蒙古自贸试验区更大改革自主权，鼓励先行先试，在更广领域、更深层次开展首创性、集成式、差别化探索。",
+          "url": "https://wallstreetcn.com/livenews/3085440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         },
         {
           "title": "周四（4月9日），美股行业ETF多数收涨，半导体ETF涨1.75%，报430.31美元，突破2月25日所创收盘历史最高位426.16美元。 可选消费ETF涨1.73%，科技行业ETF涨0.27%，全球航空业ETF、网络股指数ETF至多跌0.64%，能源业ETF跌1.24%。",
@@ -1890,38 +2344,6 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股存储厂商2025业绩盘点：模组厂一个季度赚足一年利润 产业链围绕下一轮周期密集落子",
-          "url": "https://www.cls.cn/detail/2339696",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 07时35分]"
-        },
-        {
-          "title": "A股如何在油市动荡中保持韧性",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B2%B9%E5%B8%82%E5%8A%A8%E8%8D%A1%E4%B8%AD%E4%BF%9D%E6%8C%81%E9%9F%A7%E6%80%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时00分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "财经",
       "match_count": 2,
       "titles": [
@@ -1932,7 +2354,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -1943,7 +2365,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
