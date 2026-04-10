@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T03:41:40.456407+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-11T04:31:51.455307+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗副外长：各方已达成共识，伊方十点计划将作为谈判基础",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
         },
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
         },
         {
           "title": "伊朗战争丨霍尔木兹海峡过去2天仍保持关闭状态",
@@ -37,8 +37,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时31分]"
+        },
+        {
+          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
+          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
+          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
+          "url": "https://wallstreetcn.com/articles/3769660",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
         },
         {
           "title": "伊朗战争丨美伊谈判开始前，伊朗提出两大条件",
@@ -52,62 +87,17 @@
           "time_info": "00时46分"
         },
         {
-          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
-          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
-          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
-          "url": "https://wallstreetcn.com/articles/3769663",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队重申停火以来未袭击任何国家",
-          "url": "https://wallstreetcn.com/livenews/3086065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
-          "url": "https://wallstreetcn.com/articles/3769660",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
           "title": "伊朗武装部队称随时准备开火",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E7%A7%B0%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E5%BC%80%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
             15,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
         },
         {
           "title": "伊朗媒体称以军停止袭击黎巴嫩首都",
@@ -120,8 +110,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
         },
         {
           "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
@@ -131,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时31分]"
         },
         {
           "title": "【伊朗警告：将有力回应对黎巴嫩的持续袭击】伊朗武装部队哈塔姆安比亚中央总部10日发表声明说，如果敌方持续对黎巴嫩发动袭击，伊朗将予以有力回应。声明说，伊朗将继续掌握对霍尔木兹海峡的控制权，如果敌方持续对黎巴嫩真主党及黎巴嫩人民发动袭击，伊朗将予以有力回应。声明指出，鉴于美国和以色列方面屡次违背承诺，伊朗武装力量始终将“指头放在扳机上”。（新华社）",
@@ -141,11 +131,35 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 04时31分]"
+        },
+        {
+          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
+          "url": "https://www.zhihu.com/question/2025233700363727989",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队重申停火以来未袭击任何国家",
+          "url": "https://wallstreetcn.com/livenews/3086065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时31分]"
         },
         {
           "title": "伊朗称美以袭击伊朗近900所大中小学",
@@ -161,27 +175,17 @@
           "time_info": "[01时44分 ~ 03时41分]"
         },
         {
-          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
-          "url": "https://www.zhihu.com/question/2025233700363727989",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
           "title": "伊朗官员：霍尔木兹海峡过去两天内仍保持关闭状态",
           "url": "https://wallstreetcn.com/livenews/3086053",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时31分]"
         },
         {
           "title": "伊朗最高领袖发慰问信哀悼其外交政策顾问",
@@ -194,6 +198,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时45分]"
+        },
+        {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "消息人士：伊朗如愿与美国副总统万斯进行谈判",
@@ -251,6 +266,39 @@
           "time_info": "00时46分"
         },
         {
+          "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
+          "url": "https://flash.jin10.com/detail/20260411034714242800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411034637598800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "伊朗媒体报道称，若“先决条件得到接受”，伊美对话将启动。",
+          "url": "https://flash.jin10.com/detail/20260411034601468800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "临时停火第三天，暂无伊朗谈判代表启程消息",
           "url": "https://wallstreetcn.com/livenews/3086005",
           "source": "华尔街见闻-快讯",
@@ -260,6 +308,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，由伊朗议会议长卡利巴夫率领的伊朗代表团已在与美国举行和平会谈前夕抵达伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260411034532513800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "两名参与谈判的巴基斯坦消息人士透露，伊朗官员在巴基斯坦空军护送下抵达伊斯兰堡的努尔汗空军基地，为和平谈判做准备。",
+          "url": "https://flash.jin10.com/detail/20260411034432386800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
@@ -306,6 +376,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队重申停火以来未袭击任何国家",
+          "url": "https://flash.jin10.com/detail/20260411033932807800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "伊朗议长称谈判开始前需实现黎巴嫩停火及解冻伊朗被冻结资产",
           "url": "https://wallstreetcn.com/livenews/3085998",
           "source": "华尔街见闻-快讯",
@@ -334,6 +415,28 @@
           "time_info": "[01时44分 ~ 01时45分]"
         },
         {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
           "url": "https://flash.jin10.com/detail/20260411013302688800",
           "source": "金十数据",
@@ -345,28 +448,6 @@
           "time_info": "01时45分"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
           "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
           "source": "凤凰网",
@@ -374,8 +455,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -384,11 +465,12 @@
           "ranks": [
             1,
             10,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 04时31分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
@@ -573,6 +655,116 @@
       ]
     },
     {
+      "keyword_group": "ai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
+          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
+          "url": "https://wallstreetcn.com/livenews/3086079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
+          "url": "https://flash.jin10.com/detail/20260411023746377800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 03时41分]"
+        },
+        {
+          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
+          "url": "https://wallstreetcn.com/livenews/3086054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时31分]"
+        },
+        {
+          "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
+          "url": "https://wallstreetcn.com/livenews/3086064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时31分]"
+        },
+        {
+          "title": "夫妻称用AI写公众号年赚200万被封号",
+          "url": "https://www.toutiao.com/trending/7626953352832040996/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时45分 ~ 04时31分]"
+        },
+        {
+          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
+          "url": "https://flash.jin10.com/detail/20260411024613347800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260410233017921800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "中国AI芯片格局反转",
+          "url": "https://www.toutiao.com/trending/7627057914037289014/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "能源",
       "match_count": 8,
       "titles": [
@@ -581,11 +773,12 @@
           "url": "https://wallstreetcn.com/livenews/3086068",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时31分]"
         },
         {
           "title": "全球能源转型能力建设合作倡议在维也纳启动",
@@ -593,11 +786,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时31分]"
         },
         {
           "title": "美国能源部：借用美国战略石油储备原油的企业包括麦格理和菲利普斯66。",
@@ -606,7 +800,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -617,7 +811,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -639,7 +833,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -650,7 +844,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
         },
@@ -661,139 +855,15 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "ai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
-          "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
-          "url": "https://wallstreetcn.com/livenews/3086064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时41分]"
-        },
-        {
-          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
-          "url": "https://wallstreetcn.com/livenews/3086054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时41分]"
-        },
-        {
-          "title": "夫妻称用AI写公众号年赚200万被封号",
-          "url": "https://www.toutiao.com/trending/7626953352832040996/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时45分"
-        },
-        {
-          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
-          "url": "https://flash.jin10.com/detail/20260411024613347800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260410233017921800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 港股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股交易规则为何要进行重大调整",
-          "url": "https://www.toutiao.com/trending/7627093467767770670/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时41分]"
-        },
-        {
-          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
-          "url": "https://wallstreetcn.com/articles/3769646",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时41分]"
-        },
-        {
-          "title": "A股一周20大熊股出炉",
-          "url": "https://www.toutiao.com/trending/7626182227219005459/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "追觅科技俞浩要砸 2 亿年薪招首席科学家，疑因宇树科技挖人抢项目发飙，这薪资是什么水平？双方竞争关系如何？",
@@ -805,19 +875,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，日用消费品板块收跌1.43%，能源板块跌0.8%，可选消费、原材料、信息技术/科技板块至多涨0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3086077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.16%，报25964点。 恒生科技指数主连夜盘收涨0.21%，报4879点。",
           "url": "https://wallstreetcn.com/livenews/3086061",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时31分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，日用消费品板块跌1.6%，能源板块跌0.9%，科技板块涨0.7%。 纳斯达克100指数初步收涨0.1%，成分股中，迈威尔科技初步收涨6.9%，博通、AMD、AppLovin、英伟达、阿斯麦ADR至少涨约2%，Zscaler跌3.7%，CrowdStrike跌4.2%，铿腾电子跌5.5%，派拓网络PANW跌6.7%。 Salesforce初步收跌3.6%，与耐克、IBM等领跌道指成分股，亚马逊则涨1.9%，与英伟达领跑。",
+          "url": "https://wallstreetcn.com/livenews/3086072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时41分"
+          "time_info": "04时31分"
         },
         {
           "title": "纳斯达克100指数涨0.5%，刷新日高。成分股迈威尔科技涨6.7%，博通涨6.1%，AMD涨5%，阿斯麦ADR涨3.5%，核电股CEG涨3.2%，拉姆研究涨3.1%，Autodesk目前跌3.6%，财捷Intuit跌4.1%，Zscaler跌4.6%，CrowdStrike跌5.6%，Datadog跌7.2%，派拓网络PANW跌8.2%。",
@@ -834,8 +927,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003357698800",
@@ -859,6 +974,74 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时45分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 港股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股交易规则为何要进行重大调整",
+          "url": "https://www.toutiao.com/trending/7627093467767770670/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时31分]"
+        },
+        {
+          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
+          "url": "https://wallstreetcn.com/articles/3769646",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时31分]"
+        },
+        {
+          "title": "A股一周20大熊股出炉",
+          "url": "https://www.toutiao.com/trending/7626182227219005459/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 04时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周五（4月10日）纽约尾盘，美国10年期基准国债收益率涨3.97个基点，报4.3150%，北京时间20:30发布美国CPI通胀数据时曾短暂地跌至4.2636刷新日低，本周累计下跌2.36个基点，整体交投于4.3784%-4.2281%区间。 两年期美债收益率涨3.48个基点，报3.8015%，美国CPI数据出炉时跌至3.7453%，本周累跌4.01个基点，整体交投于3.8746%-3.7090%区间。",
+          "url": "https://wallstreetcn.com/livenews/3086070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -871,11 +1054,12 @@
           "url": "https://wallstreetcn.com/livenews/3086063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 04时31分]"
         }
       ]
     }
