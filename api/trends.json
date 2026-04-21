@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-22T02:03:29.221353+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-22T03:18:39.850850+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 32,
       "titles": [
-        {
-          "title": "伊朗战争丨美伊互放狠话：已准备重启战事",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
-        },
         {
           "title": "美军高官：已准备好重启对伊朗作战行动",
           "url": "https://news.ifeng.com/c/8sVknmMlG6R",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
@@ -37,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "伊朗最高领袖重申三项基本立场",
@@ -46,6 +35,17 @@
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗战争丨美伊互放狠话：已准备重启战事",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -59,8 +59,65 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗战争丨万斯推迟前往巴基斯坦",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "据AXIOS记者：消息人士告诉我，伊朗昨天私下发出信号表示会来参加会议，今天又说不来了。",
+          "url": "https://flash.jin10.com/detail/20260422031413498800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗革命卫队航空航天部队指挥官警告海湾阿拉伯国家，不要利用“敌方设施”攻击伊朗，否则它们将不得不“告别石油生产”。（伊朗迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3092048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗大使：已收到美国准备停止封锁的“一些信号”",
+          "url": "https://flash.jin10.com/detail/20260422030048403800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗储油罐要满了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%82%A8%E6%B2%B9%E7%BD%90%E8%A6%81%E6%BB%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "CBOT豆油期货涨约3%，刷新40个月高位至71.59美分/磅，伊朗战争推高国际油价，投资者转而关注生物燃油市场。",
@@ -75,39 +132,29 @@
           "time_info": "[00时57分 ~ 02时03分]"
         },
         {
-          "title": "伊朗储油罐要满了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%82%A8%E6%B2%B9%E7%BD%90%E8%A6%81%E6%BB%A1%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
-        },
-        {
           "title": "伊朗称已为战事重新爆发做好准备",
           "url": "https://www.toutiao.com/trending/7630242126521008169/",
           "source": "今日头条",
           "ranks": [
             8,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "美军集结三航母 伊朗能扛住吗",
           "url": "https://www.toutiao.com/trending/7630298529822736426/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
@@ -117,30 +164,76 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时18分]"
         },
         {
           "title": "巴基斯坦与伊朗就确认代表团事宜保持持续联系。",
           "url": "https://wallstreetcn.com/livenews/3092022",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时18分]"
         },
         {
           "title": "【一艘载有液化气的伊朗船只正穿越美国军队的封锁】一艘载有伊朗液化气的伊朗船只正在穿越美国军队的封锁。这是24小时内第三艘通过霍尔木兹海峡的伊朗船只。（央视）",
           "url": "https://wallstreetcn.com/livenews/3092021",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时18分]"
+        },
+        {
+          "title": "美伊停火期限将至，伊朗展示导弹",
+          "url": "https://wallstreetcn.com/livenews/3092043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗处决一名摩萨德分支机构骨干成员",
+          "url": "https://wallstreetcn.com/livenews/3092042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国暂停与伊拉克安全合作及资助 施压巴格达疏远伊朗",
+          "url": "https://flash.jin10.com/detail/20260422024345337800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗：（美军）封锁伊朗港口是战争行径。",
+          "url": "https://wallstreetcn.com/livenews/3092040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "伊朗外交部发言人：美国对两艘伊朗船只的行动构成“海上盗窃和国家恐怖主义”，质疑美国在谈判中的严肃性。",
@@ -160,9 +253,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "【美国扩大对伊朗制裁名单，涉个人、企业及航空资产】据美国财政部文件显示，美国外国资产控制办公室更新特别指定国民清单，新增多名伊朗个人、企业及航空资产，涉及反恐及防扩散领域制裁。整体来看，此次制裁不仅针对伊朗境内主体，还覆盖其在中东及周边地区的跨国商业网络，显示美国持续强化对伊朗相关资金、物流及航空体系的限制力度。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3092039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "一艘载有液化气的伊朗船只正穿越美国军队的封锁",
@@ -171,9 +275,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗革命卫队航空航天部队指挥官警告海湾阿拉伯国家，不要利用“敌方设施”攻击伊朗，否则它们将不得不“告别石油生产”。",
+          "url": "https://flash.jin10.com/detail/20260422023622524800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "伊朗外交部：伊方是否参与巴基斯坦会谈尚未最终决定",
@@ -185,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国财政部围绕制裁伊朗发布声明。",
+          "url": "https://wallstreetcn.com/livenews/3092036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "伊朗外交部发言人：尚未决定是否参加会谈。",
@@ -215,7 +341,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -245,7 +371,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -255,30 +381,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
-          "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
-          "url": "https://wallstreetcn.com/livenews/3092025",
-          "source": "华尔街见闻-快讯",
+          "title": "委内瑞拉债权人与特朗普政府官员会面，讨论重建事宜。",
+          "url": "https://flash.jin10.com/detail/20260422025741834800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "03时18分"
         },
         {
           "title": "5月1日——特朗普“任性打仗”的关键时限",
           "url": "https://wallstreetcn.com/articles/3770498",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
@@ -288,8 +415,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -299,8 +426,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
+        },
+        {
+          "title": "伊朗司法机构否认特朗普提及的8名女性面临死刑",
+          "url": "https://wallstreetcn.com/livenews/3092025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时18分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -311,19 +450,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "一图看懂｜特朗普执政一年后，美国科学界面临什么困境",
           "url": "https://m.thepaper.cn/newsDetail_forward_33015762",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
+        },
+        {
+          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
+          "url": "https://wallstreetcn.com/articles/3770525",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时18分]"
         },
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，需要新的通胀框架",
@@ -337,15 +489,26 @@
           "time_info": "[00时56分 ~ 00时57分]"
         },
         {
-          "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
-          "url": "https://wallstreetcn.com/articles/3770525",
-          "source": "华尔街见闻",
+          "title": "白宫：美国总统特朗普提名克里斯托弗·菲伦（Christopher Phelan）担任经济顾问委员会主席。",
+          "url": "https://flash.jin10.com/detail/20260422025725126800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
+          "url": "https://wallstreetcn.com/articles/3770519",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "美联储主席提名人沃什：在美联储理事库克（Lisa Cook）被美国总统特朗普的政府起诉一事上，让我介入是不合适的。 如果提名资格获得确认，将遵循美国最高法院的意见。",
@@ -359,13 +522,24 @@
           "time_info": "00时57分"
         },
         {
+          "title": "特朗普“神助攻”？ 加拿大征兵创下三十年新高",
+          "url": "https://wallstreetcn.com/livenews/3092033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
           "title": "巴西总统开玩笑称应授予特朗普诺贝尔和平奖以结束战争",
           "url": "https://flash.jin10.com/detail/20260422010041262800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -376,7 +550,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -395,7 +569,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -405,8 +579,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -416,8 +590,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
@@ -427,8 +601,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
@@ -442,15 +616,27 @@
           "time_info": "00时57分"
         },
         {
+          "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
+          "url": "https://wallstreetcn.com/livenews/3092049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
           "url": "https://wallstreetcn.com/livenews/3092028",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时18分]"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -473,8 +659,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时18分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -484,8 +670,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时18分]"
         },
         {
           "title": "美联储主席提名人沃什：美联储应该更加深入地挖掘人工智能（AI）的生产力意义。 数据中心产能将把需求提高几个百分点。",
@@ -501,6 +687,56 @@
       ]
     },
     {
+      "keyword_group": "能源",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
+          "url": "https://www.zhihu.com/question/2029614261630935945",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 03时18分]"
+        },
+        {
+          "title": "据沙特国家通讯社：沙特内阁表示，沙特的能源安全和替代出口路线投资增强了其在地缘政治紧张局势造成的“最困难条件下”向世界供应能源的能力。",
+          "url": "https://flash.jin10.com/detail/20260422012143041800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "能源情报集团记者Amena Bakr：随时准备迎接冲击……谈判方面没有突破的迹象。",
+          "url": "https://flash.jin10.com/detail/20260422023914898800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国财政部长贝森特宣称：伊朗必须为能源勒索行为承担责任。",
+          "url": "https://wallstreetcn.com/livenews/3092038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -512,8 +748,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -523,8 +759,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         },
         {
           "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
@@ -534,8 +770,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         }
       ]
     },
@@ -548,11 +784,12 @@
           "url": "https://wallstreetcn.com/livenews/3092018",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时18分]"
         },
         {
           "title": "美元指数DXY短线走高逾10点，最新报98.52。非美货币走低，欧元兑美元和澳元兑美元日内跌超0.50%；美元兑瑞郎和美元兑日元日内涨超0.50%。",
@@ -561,7 +798,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
@@ -572,35 +809,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
-          "url": "https://www.zhihu.com/question/2029614261630935945",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时03分]"
-        },
-        {
-          "title": "据沙特国家通讯社：沙特内阁表示，沙特的能源安全和替代出口路线投资增强了其在地缘政治紧张局势造成的“最困难条件下”向世界供应能源的能力。",
-          "url": "https://flash.jin10.com/detail/20260422012143041800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
@@ -618,8 +827,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         }
       ]
     },
@@ -633,11 +842,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时18分]"
         }
       ]
     }
