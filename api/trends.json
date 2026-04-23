@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T17:24:11.225844+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-04-23T19:05:23.498061+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 63,
       "titles": [
         {
           "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
@@ -53,11 +53,12 @@
             16,
             19,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 19时05分]"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -68,11 +69,12 @@
             21,
             24,
             29,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 19时05分]"
         },
         {
           "title": "美官员披露：伊朗保留的军事能力远超美方此前声明",
@@ -121,8 +123,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时05分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2030418339395106223",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时43分 ~ 19时05分]"
         },
         {
           "title": "伊朗战争丨伊朗反击了，美却认为“不违反停火协议”",
@@ -180,16 +195,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2030418339395106223",
-          "source": "知乎",
+          "title": "印度表示在与伊朗的会谈中旨在确保船只通行安全。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时43分 ~ 17时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "伊朗议长称美公然违反停火协议 不可能重新开放霍尔木兹海峡",
@@ -288,6 +302,18 @@
           "time_info": "[01时58分 ~ 03时17分]"
         },
         {
+          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
+          "url": "https://www.zhihu.com/question/2030255513384870069",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时05分]"
+        },
+        {
           "title": "白宫顾问哈塞特宣称：在美国和以色列挑起伊朗战争之前，美方获得关于伊朗正（谋求）获取11枚核弹的威胁。",
           "url": "https://wallstreetcn.com/livenews/3092841",
           "source": "华尔街见闻-快讯",
@@ -300,16 +326,15 @@
           "time_info": "[04时56分 ~ 05时48分]"
         },
         {
-          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
-          "url": "https://www.zhihu.com/question/2030255513384870069",
-          "source": "知乎",
+          "title": "伊朗称已收到首笔霍尔木兹通行费",
+          "url": "https://www.toutiao.com/trending/7631866696617168422/",
+          "source": "今日头条",
           "ranks": [
-            14,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时27分 ~ 17时24分]"
+          "time_info": "[17时23分 ~ 19时05分]"
         },
         {
           "title": "美国务院要求美在伊朗公民立即离境",
@@ -324,15 +349,15 @@
           "time_info": "[13时27分 ~ 15时46分]"
         },
         {
-          "title": "伊朗称已收到首笔霍尔木兹通行费",
-          "url": "https://www.toutiao.com/trending/7631866696617168422/",
-          "source": "今日头条",
+          "title": "伊朗马汉航空：将恢复往返中国航线",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时05分]"
         },
         {
           "title": "伊朗：美袭击“德纳”号护卫舰为“史无前例的战争罪行”并誓言追责",
@@ -393,17 +418,6 @@
           "time_info": "[17时23分 ~ 17时24分]"
         },
         {
-          "title": "伊朗马汉航空：将恢复往返中国航线",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
           "title": "伊朗安全部队在边境开火",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%89%E5%85%A8%E9%83%A8%E9%98%9F%E5%9C%A8%E8%BE%B9%E5%A2%83%E5%BC%80%E7%81%AB",
           "source": "百度热搜",
@@ -443,9 +457,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "印度外交部发言人：印度正与伊朗进行谈判，以确保（印度）船只安全通行。",
+          "url": "https://flash.jin10.com/detail/20260423185556784800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判团队未曾在伊斯兰堡就核问题进行会谈。（此处指第一轮谈判）",
@@ -457,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
+          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "伊朗就美国利用中东五国领土领空提出抗议",
@@ -512,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "伊朗革命卫队扣押集装箱船画面曝光",
+          "url": "https://www.toutiao.com/trending/7631880274972003878/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "白宫：伊朗空军在实战与作战层面已基本丧失作用",
@@ -729,8 +776,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时17分 ~ 17时24分]"
+          "appearance_count": 15,
+          "time_info": "[03时17分 ~ 19时05分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -746,6 +793,42 @@
           "time_info": "[00时55分 ~ 06时44分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时05分]"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 19时05分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时05分]"
+        },
+        {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
           "source": "澎湃新闻",
@@ -759,31 +842,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时55分 ~ 15时46分]"
-        },
-        {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 17时24分]"
-        },
-        {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 17时24分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -806,17 +864,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时43分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时24分]"
         },
         {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
@@ -864,6 +911,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时58分]"
+        },
+        {
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 19时05分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -932,17 +990,6 @@
           "time_info": "05时48分"
         },
         {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 17时24分]"
-        },
-        {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://wallstreetcn.com/livenews/3092859",
           "source": "华尔街见闻-快讯",
@@ -952,6 +999,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时48分"
+        },
+        {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时05分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党领袖图恩和参议员格雷厄姆已迈出关键第一步，推动通过另一项“和解法案”，该法案旨在为我们的伟大边境巡逻队和移民及海关执法局人员提供资金。",
@@ -1015,18 +1075,6 @@
           "time_info": "[10时12分 ~ 15时46分]"
         },
         {
-          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时24分]"
-        },
-        {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
@@ -1037,6 +1085,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 03时17分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时05分]"
         },
         {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -1072,17 +1132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普：昨晚在弗吉尼亚州发生了一场被操纵的选举！一整天共和党人都处于领先，势头令人难以置信，直到最后关头，果不其然，出现了大规模的“邮寄选票投递”！",
@@ -1242,7 +1291,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -1277,11 +1326,12 @@
             11,
             14,
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 17时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 19时05分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -1301,11 +1351,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时05分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -1318,6 +1369,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 06时44分]"
+        },
+        {
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时46分 ~ 19时05分]"
         },
         {
           "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
@@ -1333,6 +1396,19 @@
           "time_info": "[10时12分 ~ 15时46分]"
         },
         {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 19时05分]"
+        },
+        {
           "title": "神仙肉 AI配角",
           "url": "https://s.weibo.com/weibo?q=%E7%A5%9E%E4%BB%99%E8%82%89%20AI%E9%85%8D%E8%A7%92&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1344,28 +1420,18 @@
           "time_info": "[17时23分 ~ 17时24分]"
         },
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
-          "source": "贴吧",
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 17时24分]"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10
+            18,
+            17,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时55分 ~ 06时44分]"
+          "time_info": "[13时27分 ~ 19时05分]"
         },
         {
           "title": "SK海力士：尽管第一季度通常是季节性淡季，但由于AI基础设施投资的扩大，需求依然强劲。",
@@ -1396,22 +1462,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        },
-        {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 17时24分]"
         },
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -1438,6 +1491,30 @@
           "time_info": "[00时55分 ~ 01时58分]"
         },
         {
+          "title": "AI再现黄海海战 福建舰北洋水师同框",
+          "url": "https://www.toutiao.com/trending/7630692654993227818/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时05分]"
+        },
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时05分]"
+        },
+        {
           "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
           "url": "https://wallstreetcn.com/livenews/3092882",
           "source": "华尔街见闻-快讯",
@@ -1448,17 +1525,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
@@ -1497,15 +1563,16 @@
           "time_info": "[10时12分 ~ 13时27分]"
         },
         {
-          "title": "AI再现黄海海战 福建舰北洋水师同框",
-          "url": "https://www.toutiao.com/trending/7630692654993227818/",
-          "source": "今日头条",
+          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
+          "url": "https://wallstreetcn.com/livenews/3093173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            29,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "time_info": "[17时24分 ~ 19时05分]"
         },
         {
           "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
@@ -1539,6 +1606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
+          "url": "https://www.zhihu.com/question/2027998176116777421",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
@@ -1596,6 +1674,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "特斯拉于2026年4月同意以最高20亿美元的价格收购一家未具名的AI硬件公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "阿里千问总裁吴嘉：“AI办事”对外开放，首家接入东航",
           "url": "https://wallstreetcn.com/livenews/3093038",
           "source": "华尔街见闻-快讯",
@@ -1638,17 +1727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力",
-          "url": "https://wallstreetcn.com/livenews/3093173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "软银寻求以OpenAI股票作抵押，申请100亿美元保证金贷款。（彭博）",
@@ -1742,11 +1820,12 @@
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%204100%E7%82%B9&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 19时05分]"
         },
         {
           "title": "A股电网设备板块冲高回落，友讯达跌超9%，顺钠股份、安科瑞、通光线缆、华盛昌等跟跌。",
@@ -1939,7 +2018,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -2134,6 +2213,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "超微电脑美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3093257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
           "url": "https://flash.jin10.com/detail/20260423060230487800",
           "source": "金十数据",
@@ -2151,9 +2241,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。 第一季度每股收益为6.44 美元，而去年同期为7.28 美元。 第一季度运营利润20.6亿美元，预估22.6亿美元。 洛克希德马丁仍预计全年每股收益29.35至30.25美元，市场预估29.82美元。 洛克希德马丁仍预计全年净销售额775亿至800亿美元，市场预估790.9亿美元。 洛克希德马丁仍预计全年自由现金流为65亿至68亿美元，市场预估66.7亿美元。 洛克希德马丁仍预计全年业务运营利润为84.3亿至86.8亿美元。 洛克希德马丁美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "美股收盘：标普500、纳指创收盘新高",
@@ -2203,7 +2304,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "【焦点复盘】创指、科创50双双涨超1.7%，资金持续热捧科技成长赛道，“易中天”总市值反超贵州茅台",
@@ -2238,6 +2339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "飞沃科技：第一季度净利润451万元，同比扭亏为盈",
+          "url": "https://wallstreetcn.com/livenews/3093265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（4月23日）",
@@ -2281,7 +2393,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -2410,7 +2522,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -2484,11 +2596,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时24分]"
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 19时05分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步大致收平。 热门中概股里，大全新能源初步收涨16.5%，晶科能源涨11.2%，阿特斯太阳能涨8.8%，亚朵涨5%，金山云跌2.1%，新东方跌3.1%，华住跌3.9%，再鼎医药跌6.5%。 ETF中，ASHS涨2.2%，ASHR涨1.7%，CQQQ涨1.6%，KWEB跌0.5%。",
