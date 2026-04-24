@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-24T07:42:03.142090+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-04-24T10:13:14.196380+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 98,
       "titles": [
+        {
+          "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
+          "url": "https://www.cls.cn/detail/2354007",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时13分]"
+        },
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
           "url": "https://wallstreetcn.com/articles/3770662",
@@ -20,16 +32,15 @@
           "time_info": "[01时16分 ~ 07时42分]"
         },
         {
-          "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
-          "url": "https://www.cls.cn/detail/2354007",
-          "source": "财联社热门",
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时42分]"
+          "appearance_count": 6,
+          "time_info": "[05时42分 ~ 10时13分]"
         },
         {
           "title": "伊朗领导层集体驳斥特朗普",
@@ -43,15 +54,29 @@
           "time_info": "[03时03分 ~ 07时42分]"
         },
         {
-          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
-          "url": "https://wallstreetcn.com/articles/3770720",
-          "source": "华尔街见闻",
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            14,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时13分]"
+        },
+        {
+          "title": "【早报】伊朗：谈判重心已转为彻底停战；特朗普称“不想仓促行事”",
+          "url": "https://www.cls.cn/detail/2354199",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时42分]"
+          "time_info": "[07时41分 ~ 10时13分]"
         },
         {
           "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
@@ -63,6 +88,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时16分 ~ 07时42分]"
+        },
+        {
+          "title": "“疯王”特朗普、“疯狂的战争”与“癫狂的市场”",
+          "url": "https://wallstreetcn.com/articles/3770672",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时48分 ~ 10时13分]"
         },
         {
           "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
@@ -89,16 +127,15 @@
           "time_info": "[01时16分 ~ 07时42分]"
         },
         {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
+          "title": "特朗普的嘴，开了挂了",
+          "url": "https://news.ifeng.com/c/8sZpiNBhf3l",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            15
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时42分]"
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、议长辞去谈判团队职务",
@@ -113,15 +150,15 @@
           "time_info": "[03时03分 ~ 04时48分]"
         },
         {
-          "title": "【早报】伊朗：谈判重心已转为彻底停战；特朗普称“不想仓促行事”",
-          "url": "https://www.cls.cn/detail/2354199",
-          "source": "财联社热门",
+          "title": "伊朗挂巨幅海报硬刚美国：特朗普说什么都没用",
+          "url": "https://news.ifeng.com/c/8sZrcU36s8G",
+          "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
@@ -146,13 +183,24 @@
           "time_info": "01时16分"
         },
         {
+          "title": "特朗普对市场的掌控，过去四十年没有一位总统做到过",
+          "url": "https://flash.jin10.com/detail/20260424095123133800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "特朗普：美国“无意影响”伊朗参加2026年美加墨世界杯",
           "url": "https://flash.jin10.com/detail/20260424073145437800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -166,19 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "“疯王”特朗普、“疯狂的战争”与“癫狂的市场”",
-          "url": "https://wallstreetcn.com/articles/3770672",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 07时42分]"
         },
         {
           "title": "特朗普称美完全掌控霍尔木兹",
@@ -204,6 +239,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 06时40分]"
+        },
+        {
+          "title": "特朗普下达击沉令 伊朗亮7条反击方案",
+          "url": "https://www.toutiao.com/trending/7632094520066182697/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 10时13分]"
         },
         {
           "title": "美媒：特朗普拟邀请普京参加在美举办的G20峰会",
@@ -278,6 +324,18 @@
           "time_info": "[04时48分 ~ 05时42分]"
         },
         {
+          "title": "特朗普称下令击沉霍尔木兹布雷船",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8B%E4%BB%A4%E5%87%BB%E6%B2%89%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B8%83%E9%9B%B7%E8%88%B9%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时41分 ~ 10时13分]"
+        },
+        {
           "title": "加拿大前总理特鲁多炮轰特朗普政府",
           "url": "https://www.toutiao.com/trending/7631877586545082410/",
           "source": "今日头条",
@@ -289,17 +347,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 06时40分]"
-        },
-        {
-          "title": "特朗普下达击沉令 伊朗亮7条反击方案",
-          "url": "https://www.toutiao.com/trending/7632094520066182697/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
         },
         {
           "title": "美国总统特朗普：我认为今年实现以色列和黎巴嫩和平的机会很大。",
@@ -336,6 +383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时40分]"
+        },
+        {
+          "title": "美国第三艘航母已抵达中东 特朗普称黎以停火将延长三周 | 环球市场",
+          "url": "https://www.cls.cn/detail/2354191",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "特朗普有意邀请普京出席美国迈阿密G-20峰会。（华盛顿邮报）",
@@ -482,17 +540,6 @@
           "time_info": "[06时40分 ~ 07时42分]"
         },
         {
-          "title": "特朗普称下令击沉霍尔木兹布雷船",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8B%E4%BB%A4%E5%87%BB%E6%B2%89%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%B8%83%E9%9B%B7%E8%88%B9%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
           "title": "特朗普的“真实社交”翻车了吗",
           "url": "https://www.toutiao.com/trending/7631948690998955526/",
           "source": "今日头条",
@@ -565,7 +612,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -642,7 +689,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -664,7 +711,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -686,7 +733,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -711,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普特使提议「以意大利队取代伊朗队踢世界杯」，对此你怎么看，如何评价这一操作？",
+          "url": "https://www.zhihu.com/question/2030686844841451758",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）不会使用核武器。",
@@ -807,7 +865,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -1068,8 +1126,21 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
+          "url": "https://wallstreetcn.com/articles/3770704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时13分]"
+        },
         {
           "title": "伊朗战争丨伊朗：启动防空系统旨在应对小型无人机",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -1082,17 +1153,16 @@
           "time_info": "[05时42分 ~ 07时42分]"
         },
         {
-          "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
-          "url": "https://wallstreetcn.com/articles/3770704",
-          "source": "华尔街见闻",
+          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
+          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            5
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时42分]"
+          "appearance_count": 8,
+          "time_info": "[03时03分 ~ 10时13分]"
         },
         {
           "title": "伊朗已制定针对美方及其盟友反击清单",
@@ -1132,6 +1202,29 @@
           "time_info": "[03时03分 ~ 04时48分]"
         },
         {
+          "title": "伊朗战争丨以色列连环轰炸杀害女记者，细节曝光",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "伊朗称已制定针对美方及其盟友的反击目标清单",
+          "url": "https://www.cls.cn/detail/2354004",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时48分 ~ 10时13分]"
+        },
+        {
           "title": "伊朗奥委会秘书长：伊朗队尚未确定参加美加墨世界杯",
           "url": "https://news.ifeng.com/c/8sZ2jwcQNW9",
           "source": "凤凰网",
@@ -1159,15 +1252,27 @@
           "time_info": "[01时16分 ~ 07时42分]"
         },
         {
-          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
-          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
-          "source": "凤凰网",
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
           "ranks": [
-            6
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时03分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 10时13分]"
+        },
+        {
+          "title": "伊朗最高领袖、总统、议长、外长同日发声",
+          "url": "https://news.ifeng.com/c/8sZhfL8xk4c",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
@@ -1205,17 +1310,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时42分]"
         },
         {
           "title": "伊朗总统：伊朗内部没有激进温和之分 正在团结御敌",
@@ -1273,17 +1367,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "伊朗称已制定针对美方及其盟友的反击目标清单",
-          "url": "https://www.cls.cn/detail/2354004",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 07时42分]"
-        },
-        {
           "title": "【伊朗媒体：启动防空系统旨在应对小型无人机】据伊朗法尔斯通讯社23日报道，针对国内多地出现小型无人机，伊朗当晚启动防空系统。 报道说，伊朗首都德黑兰及其他几座城市之所以传出防空系统启动的声响，是因为探测到小型无人机，包括以色列“轨道器”型侦察无人机。 伊朗媒体报道，当晚早些时候，德黑兰上空传出爆炸声，防空系统启动，朝“敌对目标”开火。多家以色列媒体随后援引各自消息源报道，以色列并未对伊朗发动空袭。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3093518",
           "source": "华尔街见闻-快讯",
@@ -1332,6 +1415,17 @@
           "time_info": "[04时48分 ~ 05时42分]"
         },
         {
+          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
+          "url": "https://wallstreetcn.com/articles/3770741",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
           "title": "伊朗外长：伊朗人民比以往任何时候更团结",
           "url": "https://wallstreetcn.com/livenews/3093532",
           "source": "华尔街见闻-快讯",
@@ -1353,6 +1447,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗：谈判重心已转为彻底停战",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E8%B0%88%E5%88%A4%E9%87%8D%E5%BF%83%E5%B7%B2%E8%BD%AC%E4%B8%BA%E5%BD%BB%E5%BA%95%E5%81%9C%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032640",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "伊朗：已制定针对美方的反击目标清单",
@@ -1411,6 +1527,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "伊朗驻俄大使说美国没有认真对待伊美谈判",
+          "url": "https://wallstreetcn.com/livenews/3093640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "瑞士央行副行长：自伊朗冲突开始以来，我们观察到瑞郎贬值。",
           "url": "https://flash.jin10.com/detail/20260424021735753800",
           "source": "金十数据",
@@ -1439,9 +1566,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 56 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2030759097247560606",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "伊朗最高领袖：民众团结已令敌方分裂",
@@ -1744,7 +1882,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -1754,8 +1892,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 10时13分]"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时13分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -1770,19 +1921,6 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时42分]"
-        },
-        {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
           "time_info": "[01时16分 ~ 07时42分]"
         },
         {
@@ -1803,11 +1941,49 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 10时13分]"
+        },
+        {
+          "title": "可灵AI原生4K直出功能上线，提升影视工业级视频制作效率",
+          "url": "https://wallstreetcn.com/livenews/3093658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.69%，深成指跌1.31%，AI应用、算力租赁、算力硬件等方向跌幅居前，沪深京三市下跌个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3093657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "对比实测3大AI生图模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            7,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 10时13分]"
         },
         {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
@@ -1820,20 +1996,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时40分]"
-        },
-        {
-          "title": "对比实测3大AI生图模型",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            7,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 05时42分]"
         },
         {
           "title": "英特尔：AI产品的“脊柱”是CPU。 代工业务（Intel Foundry）将是一个漫长的旅程。",
@@ -1860,6 +2022,17 @@
           "time_info": "[06时40分 ~ 07时42分]"
         },
         {
+          "title": "AI电力巨头捷报频传 西门子能源因“需求强劲”上调全年业绩指引",
+          "url": "https://www.cls.cn/detail/2354138",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
           "title": "美国总统特朗普：我正考虑收购航空公司Spirit Airlines。 有人希望经营Spirit Airlines。 如果经营得当，会是一笔不错的资产。",
           "url": "https://wallstreetcn.com/livenews/3093549",
           "source": "华尔街见闻-快讯",
@@ -1870,6 +2043,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时42分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.5",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT-5.5",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "有人用AI恶搞保安扇女子耳光视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%94%A8AI%E6%81%B6%E6%90%9E%E4%BF%9D%E5%AE%89%E6%89%87%E5%A5%B3%E5%AD%90%E8%80%B3%E5%85%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
+          "url": "https://www.zhihu.com/question/2030834616181970293",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
+          "url": "https://www.zhihu.com/question/2030615939436077697",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
@@ -1889,7 +2106,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -1985,7 +2202,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
@@ -1993,11 +2210,25 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 10时13分]"
+        },
+        {
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 10时13分]"
         },
         {
           "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
@@ -2022,17 +2253,15 @@
           "time_info": "[07时41分 ~ 07时42分]"
         },
         {
-          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2353918",
-          "source": "财联社热门",
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11,
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 07时42分]"
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 10时13分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
@@ -2075,7 +2304,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -2116,7 +2345,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
@@ -2140,7 +2369,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -2180,6 +2409,28 @@
           "time_info": "05时42分"
         },
         {
+          "title": "算力租赁概念震荡走低，鸿博股份跌停，奥瑞德、立昂技术、网宿科技、中贝通信、顺网科技跌逾6%。",
+          "url": "https://wallstreetcn.com/livenews/3093634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3093628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "ServiceNOW收跌17.75%，创十四年前美国IPO以来最差单日表现，全天持续地低位窄幅震荡。 IBM收跌8.25%，也大体上持续低位窄幅震荡。 北美科技软件股指数ETF收跌5.83%，报83.57美元，整体持续低位窄幅震荡。 纳斯达克网络安全ETF收跌3.37%，ETFMG网络安全ETF收跌3.60%。",
           "url": "https://wallstreetcn.com/livenews/3093526",
           "source": "华尔街见闻-快讯",
@@ -2189,6 +2440,144 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1%，恒生指数现跌0.86%。",
+          "url": "https://flash.jin10.com/detail/20260424093559295800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "恒指低开0.7%，报25733.61点；恒生科技指数跌0.8%。美的集团、金蝶国际跌超2%，阿里巴巴、蔚来、腾讯等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3093608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 港股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股煤炭板块震荡走高，华电能源2连板，甘肃能化、昊华能源、安泰集团、恒源煤电、云煤能源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260424094749346800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股上市券商一季度成绩单陆续出炉，头部机构配置价值更受青睐",
+          "url": "https://wallstreetcn.com/livenews/3093570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "A股钠电池概念震荡反弹，维科技术涨停，万顺新材、同兴科技、振华新材、翔丰华、传艺科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260424094629148800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "港股人工智能股调整，金蝶国际(00268.HK)跌5.39%，迈富时(02556.HK)跌3.92%，万国数据(09698.HK)跌2.86%。",
+          "url": "https://flash.jin10.com/detail/20260424094241043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股游戏概念震荡调整，完美世界触及跌停，盛天网络、冰川网络、游族网络、昆仑万维、恺英网络跟跌。",
+          "url": "https://flash.jin10.com/detail/20260424093809935800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股工业气体概念盘初走强，华特气体涨超14%续创历史新高，金宏气体、凯美特气、中船特气、杭氧股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260424093340510800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260424093151111800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股可燃冰概念股盘初走弱，潜能恒信跌超5%，石化机械跌超4%，神开股份、新锦动力、海默科技跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260424093117967800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股新股N联讯上市首日高开800%，报736.92元。",
+          "url": "https://flash.jin10.com/detail/20260424092746425800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
@@ -2217,7 +2606,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -2329,7 +2718,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -2360,23 +2749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 港股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股上市券商一季度成绩单陆续出炉，头部机构配置价值更受青睐",
-          "url": "https://wallstreetcn.com/livenews/3093570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
         }
       ]
     },
