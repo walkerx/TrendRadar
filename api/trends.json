@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T07:51:23.687415+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-04-28T10:34:34.820378+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -45,19 +45,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
           "url": "https://www.toutiao.com/trending/7633444247001189938/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "普京：已收到伊朗最高领袖传来的信息",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时19分 ~ 06时48分]"
+        },
+        {
+          "title": "伊朗外交部长：我们欢迎俄罗斯对外交的支持。",
+          "url": "https://flash.jin10.com/detail/20260428100859227800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "默茨：美国就伊朗战事缺乏战略性退出方案",
@@ -148,6 +160,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
@@ -237,6 +271,41 @@
           "time_info": "[04时58分 ~ 06时48分]"
         },
         {
+          "title": "伊朗战争丨美伊在核不扩散条约审议大会上交锋",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时34分]"
+        },
+        {
+          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
+          "url": "https://www.cls.cn/detail/2357269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时34分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时34分]"
+        },
+        {
           "title": "美国财长贝森特警告那些与伊朗航空公司合作的企业。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3095221",
           "source": "华尔街见闻-快讯",
@@ -285,26 +354,48 @@
           "time_info": "[04时58分 ~ 05时54分]"
         },
         {
-          "title": "伊朗战争丨美伊在核不扩散条约审议大会上交锋",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "伊朗储油空间最快12天填满，5月中旬前或再减产150万桶/日",
+          "url": "https://flash.jin10.com/detail/20260428100455395800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时34分"
         },
         {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
+          "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2357445",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时34分"
+        },
+        {
+          "title": "Kpler称伊朗储油能力最多再撑22天，出口收入冲击数月后才会显现",
+          "url": "https://wallstreetcn.com/livenews/3095361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "美媒：伊朗已开始使用废弃油罐储存石油",
+          "url": "https://flash.jin10.com/detail/20260428100204380800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "鲁比奥：伊朗对达成协议“非常认真”",
@@ -318,17 +409,6 @@
           "time_info": "01时19分"
         },
         {
-          "title": "经济学家警告：伊朗战争对美国经济的冲击或贯穿整个2026年",
-          "url": "https://www.cls.cn/detail/2357269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
           "title": "MSCI新兴市场股票指数收涨1.2%，突破美国与以色列发动伊朗战争之前出现的顶部，台积电、SK海力士等亚洲半导体概念股贡献突出。 MSCI新兴市场外汇指数涨0.3%，马来西亚林吉特、泰国泰铢、以色列谢克尔等货币涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3095250",
           "source": "华尔街见闻-快讯",
@@ -338,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国驻联合国代表：伊朗违反海洋法，在霍尔木兹海峡进行海盗行为。",
@@ -357,7 +448,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -395,15 +486,37 @@
           "time_info": "01时19分"
         },
         {
+          "title": "伊朗边见普京边提方案 美闭门研判",
+          "url": "https://www.toutiao.com/trending/7633580302010420745/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "据福克斯新闻：美国国务卿鲁比奥表示，伊朗正借用霍尔木兹海峡作为“经济上的核武器”对全世界施加压力。政权更迭必须由伊朗内部来实现。",
           "url": "https://flash.jin10.com/detail/20260428064422585800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：在地区处于重大动荡之际，很高兴能够与俄罗斯在最高层级开展接触。近期事态已表明我们战略伙伴关系的深度与强度。随着双边关系持续发展，我们对这种团结表示感谢，并欢迎俄罗斯对外交努力的支持。",
+          "url": "https://flash.jin10.com/detail/20260428095145631800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "伊朗议员：坚信伊朗谈判代表团将维护国家权益",
@@ -434,9 +547,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "美驱逐舰拦截一艘驶往伊朗港口油轮",
+          "url": "https://wallstreetcn.com/livenews/3095328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "俄防长会见伊朗副防长",
@@ -519,7 +643,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -549,11 +673,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -577,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
+          "url": "https://www.cls.cn/detail/2357460",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "特朗普舞厅诉讼案原告拒绝美国司法部在“刺杀企图”后撤诉的要求。",
@@ -694,13 +830,24 @@
           "time_info": "01时19分"
         },
         {
+          "title": "特朗普政府解散美国国家科学委员会 全体成员被撤职",
+          "url": "https://wallstreetcn.com/livenews/3095354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "特朗普与幕僚讨论伊朗提案：不直接拒绝，但心存疑虑",
           "url": "https://flash.jin10.com/detail/20260428070454858800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -711,9 +858,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "白宫记者协会枪手被指控试图刺杀美国总统特朗普。",
@@ -738,6 +896,39 @@
           "time_info": "03时14分"
         },
         {
+          "title": "特朗普：希望白宫记者协会晚宴在“约30天内”重启",
+          "url": "https://wallstreetcn.com/livenews/3095346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "特朗普第三度与“死神”擦肩",
+          "url": "https://www.toutiao.com/trending/7633592087165799955/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "主持人读枪手宣言让特朗普破防",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "迪士尼股价短线下挫，从涨约0.5%转而下跌约0.4%。 美国总统特朗普声称，ABC与迪士尼应当立即解雇Jimmy Kimmel，Kimmel一点都不风趣。",
           "url": "https://wallstreetcn.com/livenews/3095163",
           "source": "华尔街见闻-快讯",
@@ -758,6 +949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
+          "url": "https://wallstreetcn.com/livenews/3095326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "【为刺激更多石油和天然投资，特朗普政府将终止更多海上风电租赁】",
@@ -796,7 +998,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -804,11 +1006,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
@@ -816,11 +1019,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -828,11 +1032,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时34分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -946,6 +1151,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
           "url": "https://wallstreetcn.com/livenews/3095251",
           "source": "华尔街见闻-快讯",
@@ -974,7 +1190,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -1018,7 +1234,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -1032,6 +1248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "欧盟要求谷歌向AI竞争对手开放安卓系统",
@@ -1059,7 +1286,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
         {
           "title": "一季度业绩大爆发！7家A股上市公司净利同比增超10倍",
@@ -1130,11 +1357,34 @@
           "url": "https://www.cls.cn/detail/2357431",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时34分]"
+        },
+        {
+          "title": "港股黄金股连日走低，灵宝黄金(03330.HK)、紫金黄金国际(02259.HK)双双跌超4%，潼关黄金(00340.HK)、山东黄金(01787.HK)、招金矿业(01818.HK)、紫金矿业(02899.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260428100809844800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时34分"
+        },
+        {
+          "title": "港股苹果概念震荡走弱，丘钛科技(01478.HK)、舜宇光学科技(02382.HK)双双跌超4%，瑞声科技(02018.HK)、比亚迪电子(00285.HK)均跌超3%，蓝思科技(06613.HK)、高伟电子(01415.HK)等个股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260428100538949800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "上证报：“市退”首超“面退”，A股多元化出清格局加速成形",
@@ -1153,11 +1403,23 @@
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%B4%BB%E5%8C%96%E7%9F%B3%E2%80%9C000004%E2%80%9D%E9%94%81%E5%AE%9A%E9%80%80%E5%B8%82",
           "source": "百度热搜",
           "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时34分]"
+        },
+        {
+          "title": "港股中资券商股震荡走高，广发证券(01776.HK)涨超5%，中信证券(06030.HK)、中金公司(03908.HK)、国泰海通(02611.HK)、招商证券(06099.HK)、申万宏源(06806.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428100231713800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
+          "time_info": "10时34分"
         },
         {
           "title": "不穿“绿鞋”成潮流，A+H公司看重首日纳入港股通",
@@ -1166,9 +1428,64 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "A股船舶板块震荡走强，中国船舶冲击涨停，亚星锚链、天海防务、中船防务涨超5%，江龙船艇、松发股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3095350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股CPO概念震荡回升，铭普光磁涨停两连板，德科立涨超8%，汇绿生态，剑桥科技、光迅科技、红板科技等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428095701853800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "港股中远海能(01138.HK)绩后跌超5%，公司一季度归母净利润21.73亿元，同比增长206.74%。",
+          "url": "https://flash.jin10.com/detail/20260428095439912800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股半导体板块震荡回升，欧莱新材涨超9%，中晶科技涨超8%，富乐德、康希通信、普冉股份、中微公司、国科微等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428095237578800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股锂矿概念短线拉升，新迅达涨超7%，川能动力、德方纳米、西藏珠峰、奥联电子、国城矿业、海南矿业等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428094916840800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "年内逾200家港股公司回购，科技、消费类公司最积极",
@@ -1177,15 +1494,317 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "A股证券板块震荡走高，广发证券涨超5%，浙商证券、国联民生、中信证券、华泰证券等涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260428094743751800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股钠离子电池板块局部走高，维科技术涨停，振华新材涨超10%，传艺科技、美联新材、丰元股份、科翔股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260428094235842800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 06时48分]"
+        },
+        {
+          "title": "科技巨头财报周前夕，美股高位徘徊，英伟达续涨4%，油价攀升施压市场，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 06时48分]"
+        },
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "科技巨头财报周前夕，标普、纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（4月28日）",
+          "url": "https://flash.jin10.com/detail/20260428073342878800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时48分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数收跌，日用消费品板块跌1.18%，房地产板块跌0.84%，信息技术/科技板块则收涨0.46%，金融板块涨0.65%，电信板块涨0.94%。",
+          "url": "https://wallstreetcn.com/livenews/3095223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3095216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时54分]"
+        },
+        {
+          "title": "4月28日投资避雷针：联翔股份、湘邮科技等11股明起将被实施ST",
+          "url": "https://www.cls.cn/detail/2357477",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "半导体产业链盘初调整，聚辰股份、盛美上海跌超10%，唯捷创芯、至纯科技、芯源微、航宇微跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3095344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "恒指低开0.43%，恒生科技指数低开0.33%。曦智科技在香港上市首日飙升380%。",
+          "url": "https://wallstreetcn.com/livenews/3095332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "险资一季度优化权益配置，泛科技与新能源成核心主线",
+          "url": "https://wallstreetcn.com/livenews/3095262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "花旗：上调澜起科技A和H股目标价，季报超预期并料受益于人工智能需求",
+          "url": "https://wallstreetcn.com/livenews/3095325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "能源",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "我国能源安全韧性持续增强",
+          "url": "https://www.toutiao.com/trending/7633052676763058185/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时34分]"
+        },
+        {
+          "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060775",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时19分 ~ 10时34分]"
+        },
+        {
+          "title": "北京车展百万元内新能源速览",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 07时51分]"
+        },
+        {
+          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
+          "url": "https://wallstreetcn.com/livenews/3095230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时48分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)，Borderplex和Bloom Energy将利用更清洁、更节水的燃料电池技术为木星项目提供动力。甲骨文表示，木星计划将利用高达2.45GW的Bloom Energy的燃料电池容量，将承担木星项目的所有能源成本，该计划预计将创造4000个建筑职位和1500个长期职位。",
+          "url": "https://flash.jin10.com/detail/20260428040813948800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时48分]"
+        },
+        {
+          "title": "“中东油气受阻，中国清洁能源产品月度出口创历史新高”",
+          "url": "https://news.ifeng.com/c/8sfVke59zNW",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时34分]"
+        },
+        {
+          "title": "高盛：一场全球性化工危机正在爆发，冲击是2022年能源危机的两倍！",
+          "url": "https://wallstreetcn.com/articles/3770989",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "国家能源局：今夏若出现大范围极端高温，全国最大电力负荷可能超过16亿千瓦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063121",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗第一副总统：曾经拒绝向我们的飞机提供燃料的国家现在正与我们谈判以确保能源来源。",
+          "url": "https://flash.jin10.com/detail/20260428001951703800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "德银、摩根大通看好伊朗战争背景下的能源挂钩货币",
+          "url": "https://wallstreetcn.com/livenews/3095161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -1204,11 +1823,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 10时34分]"
+        },
+        {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美股三大指数集体低开 高通涨逾6%",
@@ -1289,146 +1920,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         }
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 8,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
       "titles": [
         {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时48分]"
-        },
-        {
-          "title": "科技巨头财报周前夕，美股高位徘徊，英伟达续涨4%，油价攀升施压市场，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
-        },
-        {
-          "title": "科技巨头财报周前夕，标普、纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（4月28日）",
-          "url": "https://flash.jin10.com/detail/20260428073342878800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
-          "url": "https://wallstreetcn.com/livenews/3095225",
-          "source": "华尔街见闻-快讯",
+          "title": "媒体：梁文锋这一次要掀桌",
+          "url": "https://www.toutiao.com/trending/7633338675333434907/",
+          "source": "今日头条",
           "ranks": [
             8,
-            17,
+            7,
+            19,
+            5,
+            29,
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时48分]"
-        },
-        {
-          "title": "标普500指数的11个板块多数收跌，日用消费品板块跌1.18%，房地产板块跌0.84%，信息技术/科技板块则收涨0.46%，金融板块涨0.65%，电信板块涨0.94%。",
-          "url": "https://wallstreetcn.com/livenews/3095223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时54分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.20%，报6868.78点。 热门中概股里，亚朵初步收跌5.4%，世纪互联跌4.2%，再鼎医药、华住、大全新能源至少跌3.5%，万国数据、B站、阿里跌超2%，蔚来涨0.6%，网易涨0.7%，新东方涨1.3%，文远知行涨2.4%。 ETF中，中概互联网指数ETF（KWEB）收跌1.63%，中国科技指数ETF（CQQQ）收涨0.36%。 德银嘉实沪深300指数ETF（ASHR）收跌0.49%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
-          "url": "https://wallstreetcn.com/livenews/3095216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时54分]"
-        },
-        {
-          "title": "险资一季度优化权益配置，泛科技与新能源成核心主线",
-          "url": "https://wallstreetcn.com/livenews/3095262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "能源",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "我国能源安全韧性持续增强",
-          "url": "https://www.toutiao.com/trending/7633052676763058185/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 07时51分]"
         },
         {
-          "title": "中东局势引发能源危机波及多国，我国情况如何？官方数据公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060775",
-          "source": "澎湃新闻",
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
           "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
-        },
-        {
-          "title": "北京车展百万元内新能源速览",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E7%99%BE%E4%B8%87%E5%85%83%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E9%80%9F%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            26,
-            15,
+            18,
+            7,
+            5,
+            6,
+            8,
             16
           ],
           "is_new": false,
@@ -1436,63 +1963,26 @@
           "time_info": "[01时19分 ~ 07时51分]"
         },
         {
-          "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
-          "url": "https://wallstreetcn.com/livenews/3095230",
+          "title": "中国石化完成DeepSeek-V4私有化部署",
+          "url": "https://www.toutiao.com/trending/7632654178616213547/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "DeepSeek注册资本提高50%",
+          "url": "https://wallstreetcn.com/livenews/3095322",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时48分]"
-        },
-        {
-          "title": "甲骨文(ORCL.N)，Borderplex和Bloom Energy将利用更清洁、更节水的燃料电池技术为木星项目提供动力。甲骨文表示，木星计划将利用高达2.45GW的Bloom Energy的燃料电池容量，将承担木星项目的所有能源成本，该计划预计将创造4000个建筑职位和1500个长期职位。",
-          "url": "https://flash.jin10.com/detail/20260428040813948800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时48分]"
-        },
-        {
-          "title": "“中东油气受阻，中国清洁能源产品月度出口创历史新高”",
-          "url": "https://news.ifeng.com/c/8sfVke59zNW",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "伊朗第一副总统：曾经拒绝向我们的飞机提供燃料的国家现在正与我们谈判以确保能源来源。",
-          "url": "https://flash.jin10.com/detail/20260428001951703800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "德银、摩根大通看好伊朗战争背景下的能源挂钩货币",
-          "url": "https://wallstreetcn.com/livenews/3095161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "10时34分"
         }
       ]
     },
@@ -1601,55 +2091,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "媒体：梁文锋这一次要掀桌",
-          "url": "https://www.toutiao.com/trending/7633338675333434907/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            19,
-            5,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
-        },
-        {
-          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
-          "url": "https://www.zhihu.com/question/2030445160417510538",
-          "source": "知乎",
-          "ranks": [
-            18,
-            7,
-            5,
-            6,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 07时51分]"
-        },
-        {
-          "title": "中国石化完成DeepSeek-V4私有化部署",
-          "url": "https://www.toutiao.com/trending/7632654178616213547/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "财经",
       "match_count": 2,
       "titles": [
@@ -1660,7 +2101,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -1671,7 +2112,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         }
