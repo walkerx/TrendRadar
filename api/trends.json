@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:15:49.266247+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-04-29T23:10:01.559558+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 59,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 07时53分]"
+        },
+        {
+          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
+          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 23时10分]"
         },
         {
           "title": "伊朗陆军：战争尚未结束，正严阵以待",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时06分 ~ 10时34分]"
-        },
-        {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时34分 ~ 20时15分]"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -144,6 +145,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "美国国防部长赫格塞思：必须坚决对抗伊朗这样的敌人。他们的核设施已被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260429224950008800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "伊朗德黑兰机场宣布增加航线和航班频次",
           "url": "https://wallstreetcn.com/livenews/3096338",
           "source": "华尔街见闻-快讯",
@@ -175,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "美国五角大楼审计长Hurst：美国迄今在伊朗战争中耗费了250亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "政府文件显示，因伊朗战争的影响，马来西亚财政部要求各部门审查并削减2026年预算。",
@@ -209,6 +232,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时12分 ~ 06时55分]"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时10分 ~ 23时10分]"
         },
         {
           "title": "8岁伊朗男孩回到中国学校 全班沸腾",
@@ -271,15 +306,15 @@
           "time_info": "[04时12分 ~ 05时54分]"
         },
         {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
+          "title": "伊朗：将以前所未有的军事行动回应美",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
+          "source": "百度热搜",
           "ranks": [
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 20时15分]"
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -313,6 +348,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时52分 ~ 20时15分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗专家亮出反封锁底牌",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "伊朗：将以前所未有军事行动回应美",
+          "url": "https://www.toutiao.com/trending/7633112393258172443/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "据半岛电视台：白宫表示，美国不会为了结束战争并开放霍尔木兹海峡而“仓促与伊朗达成糟糕的协议”。",
@@ -370,6 +427,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
+        },
+        {
+          "title": "美国国防部审计官赫斯特：美国迄今已在伊朗战争中花费了250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260429224758672800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "渣打：全球股市在（美国和以色列发动）伊朗战争期间走弱，这推高美元。",
+          "url": "https://wallstreetcn.com/livenews/3096786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美军：在对伊朗港口封锁行动中已要求39艘船只掉头",
@@ -436,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "伊朗官员：如美国继续海上封锁 伊将采取“前所未有的军事行动”",
+          "url": "https://wallstreetcn.com/livenews/3096778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美军称在对伊朗港口封锁行动中已要求39艘船只掉头",
@@ -515,6 +605,39 @@
           "time_info": "18时52分"
         },
         {
+          "title": "美国国防部长赫格塞思：我们在伊朗仅仅几周内取得了多种形式的军事成功。",
+          "url": "https://flash.jin10.com/detail/20260429223349442800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗不能拥有核弹。",
+          "url": "https://flash.jin10.com/detail/20260429223320159800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "德勒克公司（Delek）认为，汽油裂解价差有上行可能。伊朗战争对燃料和布伦特原油市场将持续产生影响。",
+          "url": "https://flash.jin10.com/detail/20260429223258855800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "海湾合作委员会秘书长贾西姆·布达维表示，在吉达举行的海湾合作委员会峰会谴责了伊朗的袭击，并补充说，这些袭击导致海湾国家与德黑兰之间的信任急剧下降。",
           "url": "https://flash.jin10.com/detail/20260429025050446800",
           "source": "金十数据",
@@ -562,8 +685,33 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 23时10分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时54分 ~ 23时10分]"
+        },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
@@ -575,17 +723,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时06分 ~ 07时53分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 20时15分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -626,19 +763,6 @@
           "time_info": "[02时15分 ~ 16时10分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时54分 ~ 20时15分]"
-        },
-        {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2358855",
           "source": "财联社热门",
@@ -675,6 +799,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 16时10分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 23时10分]"
         },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -750,17 +888,27 @@
           "time_info": "02时15分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时51分 ~ 20时15分]"
+          "time_info": "[18时52分 ~ 23时10分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -799,6 +947,17 @@
           "time_info": "[00时06分 ~ 00时07分]"
         },
         {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3771123",
           "source": "华尔街见闻",
@@ -808,17 +967,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 10时34分]"
-        },
-        {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时15分]"
         },
         {
           "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
@@ -867,6 +1015,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时55分 ~ 07时53分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 23时10分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月28日",
@@ -979,17 +1139,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
           "title": "国家数研院副院长：将算力与电网规划纳入统一空间体系，适度超前、动态适配AI发展",
           "url": "https://wallstreetcn.com/livenews/3096218",
           "source": "华尔街见闻-快讯",
@@ -1051,7 +1200,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         }
@@ -1059,7 +1208,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -1092,6 +1241,28 @@
           "time_info": "[00时06分 ~ 13时51分]"
         },
         {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 23时10分]"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
           "url": "https://www.cls.cn/detail/2359134",
           "source": "财联社热门",
@@ -1105,26 +1276,15 @@
           "time_info": "[13时51分 ~ 20时15分]"
         },
         {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
           "source": "凤凰网",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时15分]"
-        },
-        {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 20时15分]"
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
@@ -1327,6 +1487,17 @@
           "time_info": "[13时51分 ~ 16时10分]"
         },
         {
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
           "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1437,13 +1608,24 @@
           "time_info": "10时34分"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "查尔斯国王给特朗普送了口钟",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1790,7 +1972,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -1874,8 +2056,313 @@
       ]
     },
     {
+      "keyword_group": "能源",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "冯德莱恩：美以伊冲突已造成欧盟能源支出增加超270亿欧元",
+          "url": "https://wallstreetcn.com/livenews/3096548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "世界银行预测：受中东战争影响，今年全球能源价格将大涨24%",
+          "url": "https://www.cls.cn/detail/2358761",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 10时34分]"
+        },
+        {
+          "title": "高盛：一场全球性化工危机正在爆发，冲击是2022年能源危机的两倍！",
+          "url": "https://wallstreetcn.com/articles/3770989",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "释新闻｜阿联酋出走OPEC，能源市场、阿拉伯联盟与中东格局再洗牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33077085",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "世行预测今年全球能源价格将大涨24%",
+          "url": "https://www.toutiao.com/trending/7633461520567402506/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 05时54分]"
+        },
+        {
+          "title": "豪恩汽电：收到某头部新能源汽车品牌的视觉感知系统等产品定点信 预计总金额约7.73亿元",
+          "url": "https://flash.jin10.com/detail/20260429155345860800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "美国能源部：石油出口突破600万桶/日创历史新高，净进口出现负值",
+          "url": "https://wallstreetcn.com/livenews/3096784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "美国能源信息署（EIA）数据显示，墨西哥湾沿岸最新一周的馏分油库存下降，至2025年3月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260429224518808800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "ADNOC：公司CEO讨论阿联酋与卡塔尔能源部长讨论能源领域的合作范围。",
+          "url": "https://wallstreetcn.com/livenews/3095944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "阿联酋能源部长：退出欧佩克对市场影响有限",
+          "url": "https://flash.jin10.com/detail/20260429031302257800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：如果能源价格持续高位，可能需要提高政策利率。",
+          "url": "https://flash.jin10.com/detail/20260429224240972800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "三峡能源：第一季度营收69.5亿元，同比下降8.92%；净利润10.4亿元，同比下降57.9%。",
+          "url": "https://wallstreetcn.com/livenews/3096531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "OPEC基金启动15亿美元一揽子计划，帮助各国应对因能源、大宗商品和贸易中断而日益加剧的经济压力。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3096530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "4月28日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260429132417557800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "美国能源信息署（EIA）数据显示，美国最新一周从战略石油储备（SPR）中提取的原油量上升至自2022年10月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260429224200785800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "道达尔能源CEO：2027年液化天然气价格预计将保持良好水平。",
+          "url": "https://flash.jin10.com/detail/20260429193531459800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "美国能源信息署（EIA）数据显示，美国周度原油出口量升至创纪录的逾600万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260429223707877800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "欧盟出台临时措施，助力企业应对能源涨价冲击",
+          "url": "https://flash.jin10.com/detail/20260429182314462800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "美国能源部长Wright签署协议，从而扩大美国液化天然气（LNG）出口。",
+          "url": "https://wallstreetcn.com/livenews/3096032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC首席执行官与卡塔尔能源大臣探讨阿联酋与卡塔尔在能源领域的合作方向。",
+          "url": "https://flash.jin10.com/detail/20260429011514494800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        },
+        {
+          "title": "美国能源信息署（EIA）数据显示，美国最新一周原油净进口降至负值，创历史新低。",
+          "url": "https://flash.jin10.com/detail/20260429223536675800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "阿联酋能源部长：退出欧佩克对市场影响有限",
+          "url": "https://wallstreetcn.com/livenews/3095974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "欧佩克基金启动15亿美元援助计划，帮助各国应对因能源、大宗商品和贸易中断而日益加剧的经济压力。",
+          "url": "https://flash.jin10.com/detail/20260429181849370800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报，加拿大央行行长麦克勒姆召开货币政策新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3096769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "晶科能源：一季度净亏损13.5亿元，上年同期亏损13.9亿元。",
+          "url": "https://wallstreetcn.com/livenews/3096582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "欧盟委员会：已从其他国家援助计划中受益的能源密集型产业，其电费账单最多可获得70%的补偿。",
+          "url": "https://flash.jin10.com/detail/20260429181752500800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时52分"
+        },
+        {
+          "title": "道达尔能源CEO：预计将在年底前批准巴布亚新几内亚液化天然气项目，前景良好。",
+          "url": "https://flash.jin10.com/detail/20260429192546716800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "a股 港股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "韩国资金涌入 港股硬科技资产受青睐",
@@ -1910,6 +2397,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 16时10分]"
+        },
+        {
+          "title": "A股放量上涨 全市场超百股涨停",
+          "url": "https://www.toutiao.com/trending/7633785740467683354/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "A股稀土永磁板块震荡走高，西磁科技涨超16%，北方稀土涨停，中科磁业、九菱科技、中国稀土、中稀有色等个股跟涨。消息面上，自然资源部发布我国最新矿产资源家底，我国稀土、钨、锡、钼、锑、镓、锗、铟、萤石、石墨等14种矿产储量居世界第一；北方稀土日前公告，第一季度实现净利润9.18亿元，同比增长113.12%。",
@@ -2101,313 +2599,8 @@
       ]
     },
     {
-      "keyword_group": "能源",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "冯德莱恩：美以伊冲突已造成欧盟能源支出增加超270亿欧元",
-          "url": "https://wallstreetcn.com/livenews/3096548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "世界银行预测：受中东战争影响，今年全球能源价格将大涨24%",
-          "url": "https://www.cls.cn/detail/2358761",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时54分 ~ 10时34分]"
-        },
-        {
-          "title": "高盛：一场全球性化工危机正在爆发，冲击是2022年能源危机的两倍！",
-          "url": "https://wallstreetcn.com/articles/3770989",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
-        },
-        {
-          "title": "世行预测今年全球能源价格将大涨24%",
-          "url": "https://www.toutiao.com/trending/7633461520567402506/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 05时54分]"
-        },
-        {
-          "title": "豪恩汽电：收到某头部新能源汽车品牌的视觉感知系统等产品定点信 预计总金额约7.73亿元",
-          "url": "https://flash.jin10.com/detail/20260429155345860800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "ADNOC：公司CEO讨论阿联酋与卡塔尔能源部长讨论能源领域的合作范围。",
-          "url": "https://wallstreetcn.com/livenews/3095944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "阿联酋能源部长：退出欧佩克对市场影响有限",
-          "url": "https://flash.jin10.com/detail/20260429031302257800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "三峡能源：第一季度营收69.5亿元，同比下降8.92%；净利润10.4亿元，同比下降57.9%。",
-          "url": "https://wallstreetcn.com/livenews/3096531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "OPEC基金启动15亿美元一揽子计划，帮助各国应对因能源、大宗商品和贸易中断而日益加剧的经济压力。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3096530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "4月28日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260429132417557800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "道达尔能源CEO：2027年液化天然气价格预计将保持良好水平。",
-          "url": "https://flash.jin10.com/detail/20260429193531459800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "欧盟出台临时措施，助力企业应对能源涨价冲击",
-          "url": "https://flash.jin10.com/detail/20260429182314462800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "美国能源部长Wright签署协议，从而扩大美国液化天然气（LNG）出口。",
-          "url": "https://wallstreetcn.com/livenews/3096032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC首席执行官与卡塔尔能源大臣探讨阿联酋与卡塔尔在能源领域的合作方向。",
-          "url": "https://flash.jin10.com/detail/20260429011514494800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
-        },
-        {
-          "title": "阿联酋能源部长：退出欧佩克对市场影响有限",
-          "url": "https://wallstreetcn.com/livenews/3095974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "欧佩克基金启动15亿美元援助计划，帮助各国应对因能源、大宗商品和贸易中断而日益加剧的经济压力。",
-          "url": "https://flash.jin10.com/detail/20260429181849370800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "晶科能源：一季度净亏损13.5亿元，上年同期亏损13.9亿元。",
-          "url": "https://wallstreetcn.com/livenews/3096582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "欧盟委员会：已从其他国家援助计划中受益的能源密集型产业，其电费账单最多可获得70%的补偿。",
-          "url": "https://flash.jin10.com/detail/20260429181752500800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "道达尔能源CEO：预计将在年底前批准巴布亚新几内亚液化天然气项目，前景良好。",
-          "url": "https://flash.jin10.com/detail/20260429192546716800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 06时55分]"
-        },
-        {
-          "title": "从硅谷视角看DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            2,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 20时15分]"
-        },
-        {
-          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
-          "url": "https://www.cls.cn/detail/2359433",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时10分 ~ 20时15分]"
-        },
-        {
-          "title": "DeepSeek上线识图模式",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 降价的事？",
-          "url": "https://www.zhihu.com/question/2032100000558229357",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "DeepSeekV4Pro优惠延期",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "华为终端：华为小艺Claw上线自进化能力，同时接入DeepSeek V4实现逻辑推理跃迁。",
-          "url": "https://flash.jin10.com/detail/20260429192700676800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Silicon Motion Technology Corp.（SIMO）美股盘后涨14%，二季度销售指引超过分析师预期。",
@@ -2419,6 +2612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
@@ -2489,6 +2693,95 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 06时55分]"
+        },
+        {
+          "title": "从硅谷视角看DeepSeekV4",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            2,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 23时10分]"
+        },
+        {
+          "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
+          "url": "https://www.cls.cn/detail/2359433",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 20时15分]"
+        },
+        {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        },
+        {
+          "title": "如何评价 DeepSeek V4 降价的事？",
+          "url": "https://www.zhihu.com/question/2032100000558229357",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "DeepSeekV4Pro优惠延期",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "华为终端：华为小艺Claw上线自进化能力，同时接入DeepSeek V4实现逻辑推理跃迁。",
+          "url": "https://flash.jin10.com/detail/20260429192700676800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -2499,7 +2792,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
