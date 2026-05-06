@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T13:54:40.407459+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-05-06T16:21:12.613087+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 68,
+      "match_count": 73,
       "titles": [
         {
           "title": "伊朗外长阿拉格齐将访华",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 13时54分]"
+          "appearance_count": 11,
+          "time_info": "[01时28分 ~ 16时21分]"
         },
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -45,6 +45,51 @@
           "time_info": "[01时28分 ~ 06时04分]"
         },
         {
+          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
+          "url": "https://www.cls.cn/detail/2363208",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时21分]"
+        },
+        {
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时21分]"
+        },
+        {
+          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
+          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时21分]"
+        },
+        {
+          "title": "伊朗最大岛屿传出巨响",
+          "url": "https://news.ifeng.com/c/8su7EjBss9v",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
           "url": "https://www.cls.cn/detail/2362714",
           "source": "财联社热门",
@@ -55,17 +100,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 07时45分]"
-        },
-        {
-          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
-          "url": "https://www.cls.cn/detail/2363208",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时54分]"
         },
         {
           "title": "伊朗向美舰发射导弹视频曝光",
@@ -95,29 +129,6 @@
           "time_info": "[01时28分 ~ 07时45分]"
         },
         {
-          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
-          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时54分]"
-        },
-        {
-          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
-          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时54分]"
-        },
-        {
           "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035083404564285179",
           "source": "知乎",
@@ -141,15 +152,26 @@
           "time_info": "10时29分"
         },
         {
-          "title": "王毅同伊朗外长阿拉格齐会谈",
-          "url": "https://wallstreetcn.com/livenews/3099068",
+          "title": "据韩媒YTN：伊朗大使馆否认其与霍尔木兹海峡韩国船只受损有关。",
+          "url": "https://flash.jin10.com/detail/20260506160234530800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "伊朗外长与沙特阿拉伯外交大臣通话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3099233",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "16时21分"
         },
         {
           "title": "伊朗向美舰发射导弹画面曝光",
@@ -179,39 +201,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时28分 ~ 07时45分]"
-        },
-        {
-          "title": "伊朗外长抵京时身穿休闲装",
-          "url": "https://www.toutiao.com/trending/7636613941229063730/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "伊朗外长身穿休闲装抵达北京",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%BA%AB%E7%A9%BF%E4%BC%91%E9%97%B2%E8%A3%85%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "伊朗最大岛屿传出巨响",
-          "url": "https://news.ifeng.com/c/8su7EjBss9v",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "伊朗德黑兰省一商场发生火灾致8死36伤",
@@ -269,6 +258,30 @@
           "time_info": "10时29分"
         },
         {
+          "title": "伊朗外长抵京时身穿休闲装",
+          "url": "https://www.toutiao.com/trending/7636613941229063730/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "伊朗外长身穿休闲装抵达北京",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%BA%AB%E7%A9%BF%E4%BC%91%E9%97%B2%E8%A3%85%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
           "title": "伊朗军方否认近期袭击阿联酋",
           "url": "https://flash.jin10.com/detail/20260506023934996800",
           "source": "金十数据",
@@ -278,6 +291,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://wallstreetcn.com/livenews/3099068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 16时21分]"
         },
         {
           "title": "美国官员：搭载美军安全队员，美商船穿越霍尔木兹海峡时曾遭伊朗袭击",
@@ -290,6 +315,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时45分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035126415859742260",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时29分 ~ 16时21分]"
         },
         {
           "title": "美称对伊军事行动结束 伊朗否认",
@@ -327,16 +365,15 @@
           "time_info": "[07时44分 ~ 07时45分]"
         },
         {
-          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035126415859742260",
-          "source": "知乎",
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://news.ifeng.com/c/8suIT3dG9dH",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时54分]"
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "美称对伊朗军事行动已结束 伊朗否认",
@@ -361,6 +398,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时04分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐抵达北京",
+          "url": "https://www.douyin.com/hot/2489684",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -602,7 +650,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -728,6 +776,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "德国化工行业信心4月降至近三年低点，因伊朗战争扰乱供应",
+          "url": "https://flash.jin10.com/detail/20260506155129493800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "伊朗外交部批评马斯克的社交媒体平台取消伊方账号认证",
           "url": "https://wallstreetcn.com/livenews/3098877",
           "source": "华尔街见闻-快讯",
@@ -786,7 +845,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -829,6 +888,18 @@
           "time_info": "[01时28分 ~ 10时29分]"
         },
         {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
           "title": "从猫狗到水果 AI短剧还能火多久",
           "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E7%8C%AB%E7%8B%97%E5%88%B0%E6%B0%B4%E6%9E%9C+AI%E7%9F%AD%E5%89%A7%E8%BF%98%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85",
           "source": "百度热搜",
@@ -844,15 +915,15 @@
           "time_info": "[01时28分 ~ 07时45分]"
         },
         {
-          "title": "大学生用AI把家乡拖鞋卖到海外",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E6%8A%8A%E5%AE%B6%E4%B9%A1%E6%8B%96%E9%9E%8B%E5%8D%96%E5%88%B0%E6%B5%B7%E5%A4%96",
-          "source": "百度热搜",
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -885,9 +956,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "大学生用AI把家乡拖鞋卖到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E6%8A%8A%E5%AE%B6%E4%B9%A1%E6%8B%96%E9%9E%8B%E5%8D%96%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
         },
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -899,17 +982,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
@@ -948,6 +1020,18 @@
           "time_info": "[01时28分 ~ 03时14分]"
         },
         {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
           "title": "OpenAI或加速手机开发",
           "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -958,6 +1042,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 10时29分]"
+        },
+        {
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "郭明錤：OpenAI智能体手机冲击明年量产 目标两年出货3000万部",
+          "url": "https://www.cls.cn/detail/2363135",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "OpenAI推出GPT-5.5 Instant",
@@ -1092,17 +1199,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3098967",
           "source": "华尔街见闻-快讯",
@@ -1134,17 +1230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
@@ -1249,7 +1334,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "A股4月决断后是Sell in May？",
@@ -1259,11 +1344,12 @@
             9,
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时04分 ~ 13时54分]"
+          "appearance_count": 7,
+          "time_info": "[06时04分 ~ 16时21分]"
         },
         {
           "title": "A股源金属板块异动拉升，永杉锂业封板涨停，融捷股份、赣锋锂业、天齐锂业、盛新锂能、远航精密等跟涨。",
@@ -1294,7 +1380,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1305,20 +1391,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
         {
-          "title": "A股这波行情在涨什么",
-          "url": "https://www.toutiao.com/trending/7635506413829177382/",
-          "source": "今日头条",
+          "title": "港股收盘：恒生指数收涨1.22%，恒生科技指数收涨0.8%；华虹半导体涨超9%，中国海外发展涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3099228",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时21分"
         },
         {
           "title": "港股半导体股盘中持续上攻，澜起科技(06809.HK)涨超18%，兆易创新(03986.HK)涨超14%，中芯国际(00981.HK)、华虹半导体(01347.HK)均涨超10%，豪威集团(00501.HK)、晶门半导体(02878.HK)等跟涨。",
@@ -1343,13 +1429,59 @@
           "time_info": "07时45分"
         },
         {
+          "title": "A股这波行情在涨什么",
+          "url": "https://www.toutiao.com/trending/7635506413829177382/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，存储芯片集体爆发，恒科指涨1%，华虹大涨12%",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "A股收评：科创50指数放量反弹涨5.47%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E6%94%BE%E9%87%8F%E5%8F%8D%E5%BC%B9%E6%B6%A85.47%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
           "title": "港股午盘：百度集团涨超4%",
           "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%854%25",
           "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1360,7 +1492,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1371,7 +1503,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1393,7 +1525,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1437,7 +1569,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1459,7 +1591,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1519,17 +1651,6 @@
           "time_info": "10时29分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "A股光纤概念板块震荡走高，杭电股份封板涨停，仕佳光子、亨通光电、云南锗业、中贝通信、天孚通信、通光线缆跟涨。",
           "url": "https://flash.jin10.com/detail/20260506094924863800",
           "source": "金十数据",
@@ -1547,7 +1668,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1569,7 +1690,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1580,7 +1701,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -1588,7 +1709,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -1638,6 +1759,28 @@
           "time_info": "[01时28分 ~ 13时54分]"
         },
         {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
           "url": "https://wallstreetcn.com/articles/3771548",
           "source": "华尔街见闻",
@@ -1658,17 +1801,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "WTI原油6月期货合约下跌2.70美元，跌破100美元关口，此前特朗普宣布暂停“自由计划”行动。",
@@ -1718,17 +1850,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
-          "url": "https://news.ifeng.com/c/8su3Btl2lle",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
           "url": "https://www.zhihu.com/question/2034903072279721909",
           "source": "知乎",
@@ -1752,6 +1873,30 @@
           "time_info": "[01时28分 ~ 03时14分]"
         },
         {
+          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
+          "url": "https://www.cls.cn/detail/2363248",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普承认自己曾“不得不”常买中国货",
           "url": "https://www.cls.cn/detail/2363024",
           "source": "财联社热门",
@@ -1764,6 +1909,29 @@
           "time_info": "[10时29分 ~ 13时54分]"
         },
         {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时21分]"
+        },
+        {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://wallstreetcn.com/livenews/3098974",
           "source": "华尔街见闻-快讯",
@@ -1773,39 +1941,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        },
-        {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
-          "url": "https://www.cls.cn/detail/2363248",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "特朗普：与伊朗方面取得进展，“自由计划”将在短期内暂停",
@@ -1841,13 +1976,24 @@
           "time_info": "01时28分"
         },
         {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3099207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "伊朗媒体称特朗普暂停“自由计划”是为掩盖失败",
           "url": "https://wallstreetcn.com/livenews/3099125",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1883,6 +2029,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "民主党人要求特朗普政府披露以色列核武的“公开秘密”",
+          "url": "https://wallstreetcn.com/livenews/3099190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "日本怂恿特朗普访华途中访日",
@@ -1925,6 +2082,19 @@
           "time_info": "[01时28分 ~ 07时45分]"
         },
         {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 16时21分]"
+        },
+        {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3771589",
           "source": "华尔街见闻",
@@ -1950,18 +2120,6 @@
           "time_info": "[01时28分 ~ 07时45分]"
         },
         {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 13时54分]"
-        },
-        {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260506011214821800",
           "source": "金十数据",
@@ -1982,6 +2140,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
+          "url": "https://www.cls.cn/detail/2363413",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
@@ -2061,18 +2231,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
-          "url": "https://www.cls.cn/detail/2363413",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -2113,7 +2272,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "智慧春耕科技范儿十足",
@@ -2137,6 +2296,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 13时54分]"
+        },
+        {
+          "title": "国金牟一凌：科技主导下，能源是低估的资产",
+          "url": "https://wallstreetcn.com/articles/3771584",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时21分]"
         },
         {
           "title": "标普500指数的11个板块全线收涨，原材料板块涨1.67%，信息技术/科技板块涨1.63%，工业板块涨0.86%表现第三，能源、电信板块涨0.3%。",
@@ -2191,20 +2361,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
         {
-          "title": "国金牟一凌：科技主导下，能源是低估的资产",
-          "url": "https://wallstreetcn.com/articles/3771584",
-          "source": "华尔街见闻",
+          "title": "美股盘前，AMD大涨超16%，公司Q1营收超预期增长38%，二季度指引超预期；存储芯片概念股延续涨势，美光科技涨超5%，闪迪涨超6%。英特尔涨超5%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
+          "url": "https://wallstreetcn.com/livenews/3099222",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时21分"
         },
         {
           "title": "算力硬件股反复走强，博敏电子、宏和科技涨停，鸿仕达涨超10%，中材科技、广合科技、兴森科技、生益科技、联特科技、仕佳光子涨幅居前。",
@@ -2413,7 +2583,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -2438,6 +2608,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价跳水是机会还是坑",
+          "url": "https://www.toutiao.com/trending/7636354274716290614/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时04分]"
+        },
+        {
+          "title": "现货铂金价格上涨近3%，至2011.80 美元/盎司。 现货钯金价格上涨3%，至1530.33 美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "金价涨超0.7%，自4500美元附近反弹",
+          "url": "https://wallstreetcn.com/livenews/3098945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
@@ -2517,36 +2728,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价跳水是机会还是坑",
-          "url": "https://www.toutiao.com/trending/7636354274716290614/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 06时04分]"
-        },
-        {
-          "title": "金价涨超0.7%，自4500美元附近反弹",
-          "url": "https://wallstreetcn.com/livenews/3098945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -2590,8 +2771,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时28分 ~ 13时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 16时21分]"
         }
       ]
     }
