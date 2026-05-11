@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T02:56:00.316639+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-12T04:45:49.998481+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -61,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -84,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -110,6 +110,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "外交部介绍特朗普访华具体安排和中方期待",
+          "url": "https://wallstreetcn.com/articles/3771976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
+        },
+        {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
           "url": "https://wallstreetcn.com/livenews/3101781",
           "source": "华尔街见闻-快讯",
@@ -121,15 +132,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排和中方期待",
-          "url": "https://wallstreetcn.com/articles/3771976",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：我们需要更多关税。",
+          "url": "https://flash.jin10.com/detail/20260512042137003800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -137,11 +148,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -173,7 +185,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -250,7 +262,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -360,7 +372,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -382,7 +394,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -437,7 +449,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -448,7 +460,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -475,13 +487,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "芝加哥小麦期货涨约2.8%，特朗普口头打压牛肉价格",
+          "url": "https://wallstreetcn.com/livenews/3101822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
           "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
           "url": "https://flash.jin10.com/detail/20260512013750764800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         }
@@ -489,7 +512,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -499,8 +522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -510,8 +533,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
+        },
+        {
+          "title": "伊朗议长：除了接受伊朗14点提案外别无他法",
+          "url": "https://flash.jin10.com/detail/20260512043724901800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
+          "url": "https://wallstreetcn.com/livenews/3101850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，伊朗在其提案中为解冻被冻结资金设定了明确期限。美国在其提案中写道将解冻伊朗被冻结的资金，但伊朗强调这些资金必须在特定期限内解冻。",
@@ -531,7 +576,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -555,8 +600,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "美国白宫：我们正寻求达成一项能够长期保护我们的安全并消除伊朗核威胁的协议。",
@@ -565,9 +610,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美媒曝阿联酋四月初曾空袭伊朗炼油厂",
+          "url": "https://flash.jin10.com/detail/20260512042007758800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "美国白宫：在“史诗经济狂怒”行动的压力下，伊朗的经济已经完全瘫痪。",
@@ -576,7 +632,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -587,9 +643,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "据华尔街日报：阿联酋一直在秘密对伊朗进行攻击。阿联酋尚未公开承认对伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260512041302774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
+          "url": "https://flash.jin10.com/detail/20260512041239632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们为所有选项做好了准备，他们（美以）将大吃一惊。",
@@ -598,7 +676,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -609,7 +687,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -620,7 +698,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -631,9 +709,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "伊朗议长：伊武装部队已做好准备应对任何侵略行为",
+          "url": "https://wallstreetcn.com/livenews/3101828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://wallstreetcn.com/livenews/3101827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "据美联社：美国政府敦促银行标记可疑的伊朗洗钱活动。",
@@ -642,9 +742,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国财政部：伊朗相关制裁新目标包括革命卫队有关的个人和实体。",
+          "url": "https://flash.jin10.com/detail/20260512030711222800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "伊朗：核技术不在与美国会谈的议程之内。（IRIB）",
@@ -661,8 +772,21 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "把AI用到了最有意义的场合",
+          "url": "https://www.douyin.com/hot/2495756",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
+        },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2367918",
@@ -675,25 +799,13 @@
           "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "把AI用到了最有意义的场合",
-          "url": "https://www.douyin.com/hot/2495756",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
-        },
-        {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
           "url": "https://flash.jin10.com/detail/20260512024009408800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -714,11 +826,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -726,11 +839,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -738,11 +852,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时45分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -773,7 +888,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -784,9 +899,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3101831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         },
         {
           "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
@@ -795,7 +921,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
         },
@@ -813,6 +939,237 @@
       ]
     },
     {
+      "keyword_group": "能源",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "能源业ETF收涨超2.6%，与半导体ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3101849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美国能源部：企业界从战略石油储备（SPR）借走5333万桶/石油。",
+          "url": "https://wallstreetcn.com/livenews/3101848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "福特：正式推出福特能源业务。福特能源设定年度装机部署目标为20吉瓦时，首批客户交付计划于2027年末进行。",
+          "url": "https://flash.jin10.com/detail/20260512023240059800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "老头乐和新能源到底有什么区别?",
+          "url": "https://www.zhihu.com/question/653642389",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时45分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3101842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美国能源部：九家公司获批借用美国战略石油储备原油，包括埃克森美孚石油(XOM.N)、马拉松石油(MRO.N)及菲利普斯66(PSX.N)。",
+          "url": "https://flash.jin10.com/detail/20260512041115117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美国能源部：公司从战略石油储备中借出5333万桶原油，此次共提供9250万桶供借用。",
+          "url": "https://flash.jin10.com/detail/20260512040925659800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "泽连斯基与德国防长会晤，推进多项军事及能源合作",
+          "url": "https://wallstreetcn.com/livenews/3101762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
+        },
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
+          "url": "https://wallstreetcn.com/livenews/3101851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260512040533688800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "金十图示：2026年05月11日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260512040519288800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
+          "url": "https://flash.jin10.com/detail/20260512040122104800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
+          "url": "https://www.cls.cn/detail/2367989",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，能源板块收涨2.63%，原材料、工业、信息技术/科技板块至少涨1%，电信板块则收跌2.33%。",
+          "url": "https://wallstreetcn.com/livenews/3101846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "标普500指数初步收涨0.1%，能源板块涨2.6%，科技板块涨0.9%，电信板块跌2.2%。 纳斯达克100指数初步收涨0.2%，成分股中，高通初步收涨8.6%，西部数据涨7.3%，美光涨6.8%，希捷科技涨6.3%，Strategy涨4.4%，Diamondback Energy涨4.1%，Booking、罗斯百货跌4.9%，Workday跌5%，ISRG跌6.6%，Shopify跌7.2%。 费城半导体指数涨2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3101840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.37%，报26421点。 恒生科技指数主连夜盘收涨0.53%，报5144点。",
+          "url": "https://wallstreetcn.com/livenews/3101823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "美国联邦贸易委员会：今日已向十余家知名科技企业发函，要求其遵守《移除法案》，这些企业包括亚马逊、Alphabet、苹果等公司。",
+          "url": "https://flash.jin10.com/detail/20260512015032643800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "a股 港股",
       "match_count": 4,
       "titles": [
@@ -824,8 +1181,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
+        },
+        {
+          "title": "A股史诗级爆发原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 04时45分]"
         },
         {
           "title": "学者：A股涨说明经济真的在复苏",
@@ -834,18 +1204,6 @@
           "ranks": [
             6,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
-        },
-        {
-          "title": "A股史诗级爆发原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            20
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -865,100 +1223,41 @@
       ]
     },
     {
-      "keyword_group": "能源",
+      "keyword_group": "美元",
       "match_count": 3,
       "titles": [
         {
-          "title": "福特：正式推出福特能源业务。福特能源设定年度装机部署目标为20吉瓦时，首批客户交付计划于2027年末进行。",
-          "url": "https://flash.jin10.com/detail/20260512023240059800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "老头乐和新能源到底有什么区别?",
-          "url": "https://www.zhihu.com/question/653642389",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时56分]"
-        },
-        {
-          "title": "泽连斯基与德国防长会晤，推进多项军事及能源合作",
-          "url": "https://wallstreetcn.com/livenews/3101762",
+          "title": "周一（5月11日）纽约尾盘，ICE美元指数涨0.06%，报97.955点，日内交投区间为98.153-97.805点，亚太午盘刷新日高，之后逐步回撤，纽约早间转跌、北京时间22:43刷新日低。 彭博美元指数涨0.10%，报1189.10点，日内交投区间为1190.88-1187.80点。",
+          "url": "https://wallstreetcn.com/livenews/3101835",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
-          "url": "https://www.cls.cn/detail/2367989",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
-        },
-        {
-          "title": "美国联邦贸易委员会：今日已向十余家知名科技企业发函，要求其遵守《移除法案》，这些企业包括亚马逊、Alphabet、苹果等公司。",
-          "url": "https://flash.jin10.com/detail/20260512015032643800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "time_info": "04时45分"
         },
         {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260512032542198800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            4
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报3038.63点。 MarketVectorTM数字资产100中盘指数跌1.03%，报3295.16点。 MarketVector数字资产100指数涨0.11%，报16122.26点。 目前，Solana涨1.08%，狗狗币涨0.11%，XRP跌0.75%。 比特币涨0.22%，暂报81582.41美元；以太坊跌1.42%，暂报2329.94美元。",
+          "url": "https://wallstreetcn.com/livenews/3101792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时56分]"
+          "appearance_count": 1,
+          "time_info": "02时56分"
         }
       ]
     },
@@ -980,6 +1279,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3101843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -993,23 +1309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报3038.63点。 MarketVectorTM数字资产100中盘指数跌1.03%，报3295.16点。 MarketVector数字资产100指数涨0.11%，报16122.26点。 目前，Solana涨1.08%，狗狗币涨0.11%，XRP跌0.75%。 比特币涨0.22%，暂报81582.41美元；以太坊跌1.42%，暂报2329.94美元。",
-          "url": "https://wallstreetcn.com/livenews/3101792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时56分"
         }
       ]
     }
