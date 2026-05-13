@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-05-13T17:42:11.979412+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-05-13T20:13:37.485121+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 61,
       "titles": [
-        {
-          "title": "特朗普访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 17时42分]"
-        },
         {
           "title": "马斯克库克随特朗普访华",
           "url": "https://www.cls.cn/detail/2369414",
@@ -32,6 +19,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时08分 ~ 11时43分]"
+        },
+        {
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 20时13分]"
         },
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
@@ -71,6 +72,53 @@
           "time_info": "[01时08分 ~ 06时57分]"
         },
         {
+          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 20时13分]"
+        },
+        {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
+          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://www.cls.cn/detail/2369985",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2370077",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
           "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
           "url": "https://www.cls.cn/detail/2369623",
           "source": "财联社热门",
@@ -84,14 +132,15 @@
         },
         {
           "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.toutiao.com/trending/7638540672749125641/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2497697",
+          "source": "抖音",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
         },
         {
           "title": "特朗普启程访华",
@@ -110,61 +159,6 @@
           "source": "百度热搜",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://www.cls.cn/detail/2369985",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "外交部：欢迎特朗普访问中国",
-          "url": "https://www.douyin.com/hot/2497697",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
-          "url": "https://www.zhihu.com/question/2037099280243102645",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 17时42分]"
-        },
-        {
-          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2370077",
-          "source": "财联社热门",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -193,6 +187,61 @@
           "time_info": "[01时08分 ~ 07时59分]"
         },
         {
+          "title": "美国总统特朗普抵达北京开始访华",
+          "url": "https://www.toutiao.com/trending/7639334931310710323/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "特朗普抵达北京",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "特朗普抵京",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://www.douyin.com/hot/2497952",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
           "source": "澎湃新闻",
@@ -218,6 +267,18 @@
           "time_info": "[01时08分 ~ 07时59分]"
         },
         {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
           "title": "特朗普启程赴华",
           "url": "https://www.toutiao.com/trending/7638727600944287268/",
           "source": "今日头条",
@@ -240,6 +301,29 @@
           "time_info": "05时39分"
         },
         {
+          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
+          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
           "url": "https://wallstreetcn.com/articles/3772030",
           "source": "华尔街见闻",
@@ -251,6 +335,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时15分 ~ 07时59分]"
+        },
+        {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 20时13分]"
+        },
+        {
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 20时13分]"
         },
         {
           "title": "据AXIOS记者：美国众议院交通委员会主席萨姆·格雷夫斯在被问及特朗普提出的暂停征收燃油税方案时表示：“我认为这只是一个短期解决方案。”",
@@ -265,41 +374,6 @@
           "time_info": "[06时57分 ~ 07时59分]"
         },
         {
-          "title": "16位美国商界领袖随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 17时42分]"
-        },
-        {
-          "title": "特朗普访华随行人员名单",
-          "url": "https://www.douyin.com/hot/2496992",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 17时42分]"
-        },
-        {
-          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
-          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
           "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
           "url": "https://wallstreetcn.com/articles/3772146",
           "source": "华尔街见闻",
@@ -307,8 +381,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
         },
         {
           "title": "美国海军将建造史上最贵军舰：核动力“特朗普”级战列舰",
@@ -333,15 +419,16 @@
           "time_info": "[17时41分 ~ 17时42分]"
         },
         {
-          "title": "外交部：中方欢迎特朗普总统访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "媒体称黄仁勋半路加入特朗普的访华专机中，他为什么能「压哨登机」？",
+          "url": "https://www.zhihu.com/question/2037919154393408436",
+          "source": "知乎",
           "ranks": [
-            12
+            11,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "time_info": "[17时42分 ~ 20时13分]"
         },
         {
           "title": "特朗普期待与中方会晤",
@@ -428,7 +515,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -444,17 +531,6 @@
           "time_info": "07时59分"
         },
         {
-          "title": "媒体称黄仁勋半路加入特朗普的访华专机中，他为什么能「压哨登机」？",
-          "url": "https://www.zhihu.com/question/2037919154393408436",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
           "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
           "url": "https://wallstreetcn.com/livenews/3102420",
           "source": "华尔街见闻-快讯",
@@ -464,6 +540,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "美国总统特朗普抵达北京",
+          "url": "https://wallstreetcn.com/livenews/3103001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "特朗普访问中国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
@@ -477,6 +575,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "美国总统特朗普将抵达北京",
+          "url": "https://www.cls.cn/detail/2370400",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "美国总统特朗普：凯尔·迪阿曼塔斯将以代理身份接替马卡里担任美国食品药品监督管理局（FDA）局长。",
           "url": "https://flash.jin10.com/detail/20260513033011116800",
           "source": "金十数据",
@@ -486,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
@@ -508,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "白宫公布名单：美国16位商业巨头与特朗普一同访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33166126",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "美国加州州长纽森：特朗普刚刚自己说了，他不关心美国人民。",
@@ -552,12 +683,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美国总统特朗普将抵达北京",
+          "url": "https://wallstreetcn.com/livenews/3102977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "特朗普公布访华团高管名单",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         }
       ]
     },
     {
       "keyword_group": "ai",
-      "match_count": 25,
+      "match_count": 35,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -586,37 +739,16 @@
           "time_info": "[01时08分 ~ 11时43分]"
         },
         {
-          "title": "封神2特效 不如AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E2%E7%89%B9%E6%95%88%20%E4%B8%8D%E5%A6%82AI&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
           "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
           "url": "https://www.cls.cn/detail/2369967",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
-          "url": "https://www.cls.cn/detail/2369925",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -646,13 +778,37 @@
           "time_info": "[01时08分 ~ 11时43分]"
         },
         {
+          "title": "封神2特效 不如AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E2%E7%89%B9%E6%95%88%20%E4%B8%8D%E5%A6%82AI&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
           "title": "【阿里巴巴：AI相关产品收入连续十一个季度实现三位数增长】阿里巴巴表示，截至2026年3月31日止季度，云智能集团收入为人民币 416.26 亿元（60.35 亿美元），同比增长 38%，特别是外部商业化收入同比增长加速至 40%。这一增长势头主要由公共云业务收入增长所驱动，其中包括 AI 相关产品采用量的提升。本季度 AI 相关产品收入保持强劲势头，达 89.71 亿元人 民币，实现连续第十一个季度的三位数同比增长。",
           "url": "https://wallstreetcn.com/livenews/3102910",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -693,6 +849,30 @@
           "time_info": "[07时59分 ~ 11时43分]"
         },
         {
+          "title": "马化腾回应腾讯AI是否落后",
+          "url": "https://www.toutiao.com/trending/7639279967072518180/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 20时13分]"
+        },
+        {
           "title": "Create2026百度AI开发者大会",
           "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
           "source": "百度热搜",
@@ -727,26 +907,70 @@
           "time_info": "[04时16分 ~ 05时39分]"
         },
         {
-          "title": "马化腾回应腾讯AI是否落后",
-          "url": "https://www.toutiao.com/trending/7639279967072518180/",
-          "source": "今日头条",
+          "title": "阿里巴巴CEO：预计约一年后，AI相关收入将突破50%，成为推动云收入增长的主要引擎。 公司正在看到AI模型及应用服务收入实现“指数级增长”，这一增长由基础模型服务和AI原生软件共同驱动。 模型服务平台上的Token消耗量环比大幅增长。 代理工作负载激增，显著提升了围绕CPU存储和容器构建的传统云产品需求。 我们的技术投入正开始带来商业回报。 我们目前的（AI）供给能力无法完全满足不断增长的需求。",
+          "url": "https://wallstreetcn.com/livenews/3103007",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时42分"
+          "time_info": "20时13分"
+        },
+        {
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "吴泳铭：阿里AI跨越初期投入阶段，正式迈入商业化回报周期",
+          "url": "https://wallstreetcn.com/livenews/3103005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
+          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "脉脉：2026年1-4月AI岗位增长8.7倍",
+          "url": "https://wallstreetcn.com/livenews/3102999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
@@ -793,6 +1017,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "【吴泳铭：阿里AI模型与应用ARR二季度将破100亿元，年底超300亿元】5月13日，在2026财年Q4财报分析师电话会上，阿里巴巴表示，AI模型与应用服务收入呈指数级爆发，正在成为一项全新的收入引擎。 吴泳铭预计，6月份季度，包含百炼MaaS平台在内的AI模型与应用服务年化经常性收入（ARR）将突破100亿元，年底突破300亿元。“这部分收入的高利润率优势逐渐凸显，将是我们未来收入健康、高质量的增长支柱。”（硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3102993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
           "url": "https://flash.jin10.com/detail/20260513060313265800",
           "source": "金十数据",
@@ -813,6 +1048,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "联发科正式发布天玑AI智能体化引擎2.0",
+          "url": "https://wallstreetcn.com/livenews/3102990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "OpenAI合作传闻四起，联发科回应：在看大模型合作新机会",
+          "url": "https://wallstreetcn.com/livenews/3102983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "李彦宏：AI时代的度量衡是日活智能体数（DAA）",
@@ -851,7 +1119,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -876,6 +1144,17 @@
           "time_info": "[01时08分 ~ 11时43分]"
         },
         {
+          "title": "欧佩克：下调2026年全球石油需求增长预期至每日117万桶（此前预期为每日138万桶）。 预计2026年第二季度全球石油需求为每日1.0457亿桶（此前预期为每日1.0507亿桶）。 上调2027年全球石油需求增长预期至每日154万桶（此前预期为每日134万桶）。 2026年4月欧佩克+原油产量平均为每日3319万桶，较3月减少174万桶，因伊朗战争导致中东成员国减产。",
+          "url": "https://wallstreetcn.com/livenews/3103011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
           "url": "https://www.toutiao.com/trending/7638987373572984347/",
           "source": "今日头条",
@@ -897,6 +1176,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时08分 ~ 04时16分]"
+        },
+        {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 20时13分]"
         },
         {
           "title": "科威特指伊朗“武装渗透”布比延岛 伊朗说巡逻船“导航故障”",
@@ -956,17 +1247,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
           "title": "伊朗官员：波斯湾溢油事件可能由油轮排污引起",
           "url": "https://wallstreetcn.com/livenews/3102481",
           "source": "华尔街见闻-快讯",
@@ -987,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "欧佩克月报：欧佩克+4月原油日产量平均为3319万桶，比3月减少174万桶，因伊朗战争促使中东成员国减产。",
+          "url": "https://flash.jin10.com/detail/20260513200137316800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "伊朗外交部驳斥科威特有关德黑兰计划对其采取行动的说法。",
@@ -1061,7 +1352,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -1124,7 +1415,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -1202,6 +1493,18 @@
           "time_info": "[01时08分 ~ 06时57分]"
         },
         {
+          "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
+          "url": "https://www.cls.cn/detail/2370165",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 20时13分]"
+        },
+        {
           "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
           "url": "https://www.cls.cn/detail/2369554",
           "source": "财联社热门",
@@ -1211,17 +1514,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
-          "url": "https://www.cls.cn/detail/2370165",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
           "title": "国际资本持续加仓，多只海外中国科技ETF规模增长",
@@ -1302,6 +1594,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "众合科技：焜腾红外在磷化铟领域尚未形成销售收入，海纳股份暂没有直接应用于“光模块”相关产品",
+          "url": "https://wallstreetcn.com/livenews/3102989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "恒生科技指数日内跌1%，华虹半导体跌超6%，中芯国际跌近5%。",
           "url": "https://wallstreetcn.com/livenews/3102642",
           "source": "华尔街见闻-快讯",
@@ -1333,6 +1636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "智能驾驶芯片独角兽芯驰科技完成约1亿美元C轮融资",
+          "url": "https://wallstreetcn.com/livenews/3102979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "周二（5月12日），美股行业ETF涨跌各异，半导体ETF收跌2.61%，全球科技股指数ETF跌2.17%，科技行业ETF跌1.51%，能源业ETF涨0.70%，医疗业ETF涨1.96%。",
@@ -1403,7 +1717,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -1430,6 +1744,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时59分]"
+        },
+        {
+          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
+          "url": "https://www.zhihu.com/question/2037631560241739641",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 20时13分]"
         },
         {
           "title": "高盛预计美元或进一步走强 能源冲击料将收益率维持在高位",
@@ -1520,17 +1846,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
-          "url": "https://www.zhihu.com/question/2037631560241739641",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
           "title": "Venture Global与道达尔能源、维多集团签署新LNG供应协议",
           "url": "https://wallstreetcn.com/livenews/3102410",
           "source": "华尔街见闻-快讯",
@@ -1575,11 +1890,26 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 20时13分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时57分 ~ 20时13分]"
         },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -1604,20 +1934,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时57分 ~ 11时43分]"
-        },
-        {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时57分 ~ 17时42分]"
         },
         {
           "title": "金十图示：2026年05月12日（周二）美股热门股票行情一览（美股盘中）",
@@ -1767,7 +2083,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "CPO龙头强势晋级！A股首次5只千元股同框，这些板块涌现最多",
@@ -1893,6 +2209,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "申购倍数达11210倍！或成港股史上新的“超购王”",
+          "url": "https://wallstreetcn.com/livenews/3102971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "A股存储芯片全线爆发",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%85%A8%E7%BA%BF%E7%88%86%E5%8F%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         }
       ]
     },
@@ -1986,7 +2324,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         }
