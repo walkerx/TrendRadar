@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T10:35:05.420954+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-05-16T13:52:10.099662+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 54,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时52分]"
         },
         {
           "title": "高市早苗赶忙和特朗普通电话",
@@ -76,20 +76,6 @@
           "time_info": "[00时03分 ~ 07时53分]"
         },
         {
-          "title": "特朗普离开这一幕中国军人尽显英姿",
-          "url": "https://www.toutiao.com/trending/7639049468456992787/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 10时35分]"
-        },
-        {
           "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
           "url": "https://wallstreetcn.com/articles/3772311",
           "source": "华尔街见闻",
@@ -109,24 +95,12 @@
             9,
             8,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 10时35分]"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时52分]"
         },
         {
           "title": "特朗普结束访华离开北京",
@@ -136,8 +110,37 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 10时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普离开这一幕中国军人尽显英姿",
+          "url": "https://www.toutiao.com/trending/7639049468456992787/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            5,
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时52分]"
         },
         {
           "title": "特朗普：待惯了的话 可能都舍不得走",
@@ -162,8 +165,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时52分]"
         },
         {
           "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
@@ -198,11 +201,12 @@
           "ranks": [
             7,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时52分]"
         },
         {
           "title": "特朗普说能待得惯可能都不想走了",
@@ -255,6 +259,17 @@
           "time_info": "[05时56分 ~ 07时53分]"
         },
         {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 13时52分]"
+        },
+        {
           "title": "特朗普结束访华 乘专机离开北京",
           "url": "https://www.douyin.com/hot/2499944",
           "source": "抖音",
@@ -280,15 +295,26 @@
           "time_info": "[00时04分 ~ 10时35分]"
         },
         {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
-          "source": "bilibili 热搜",
+          "title": "特朗普与高市早苗通电话，讨论访华细节",
+          "url": "https://news.ifeng.com/c/8tALgMrD7Pg",
+          "source": "凤凰网",
           "ranks": [
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 10时35分]"
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普松口：可接受伊朗暂停核计划20年",
+          "url": "https://news.ifeng.com/c/8tAOMUPRq30",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "美国加州州长纽森：去年，特朗普和共和党人选择提高数百万美国人在《平价医疗法案》（ACA）医保市场上的医疗保险保费。我提出的预算方案将继续为加州低收入居民保留每月0美元保费医保计划，以帮助收拾特朗普制造的财政混乱。",
@@ -297,7 +323,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -362,6 +388,30 @@
           "time_info": "[04时14分 ~ 07时53分]"
         },
         {
+          "title": "特朗普抵达美国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普说随访美国商人是自己想来的",
+          "url": "https://www.toutiao.com/trending/7639597869411500086/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时52分]"
+        },
+        {
           "title": "外交部发言人就美国总统特朗普访华情况答记者问",
           "url": "https://m.thepaper.cn/newsDetail_forward_33181420",
           "source": "澎湃新闻",
@@ -372,6 +422,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 10时35分]"
+        },
+        {
+          "title": "特朗普：“伊斯兰国”二号头目被消灭",
+          "url": "https://news.ifeng.com/c/8tAeDSwSvgI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 13时52分]"
         },
         {
           "title": "美国总统特朗普：伊朗没有底牌。",
@@ -410,15 +482,26 @@
           "time_info": "[06时53分 ~ 07时53分]"
         },
         {
-          "title": "特朗普说随访美国商人是自己想来的",
-          "url": "https://www.toutiao.com/trending/7639597869411500086/",
-          "source": "今日头条",
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普儿媳妇发布打卡长城照",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%84%BF%E5%AA%B3%E5%A6%87%E5%8F%91%E5%B8%83%E6%89%93%E5%8D%A1%E9%95%BF%E5%9F%8E%E7%85%A7",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -432,15 +515,26 @@
           "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "特朗普抵达美国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD",
+          "title": "特朗普称随访美国商人是自己想来的",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9A%8F%E8%AE%BF%E7%BE%8E%E5%9B%BD%E5%95%86%E4%BA%BA%E6%98%AF%E8%87%AA%E5%B7%B1%E6%83%B3%E6%9D%A5%E7%9A%84",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%EF%BC%9A%E5%B7%A8%E5%A4%A7%E6%88%90%E5%8A%9F+%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9",
           "source": "百度热搜",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "特朗普离京 王毅机场送行",
@@ -454,15 +548,26 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
-          "url": "https://www.zhihu.com/question/2038603109828486376",
-          "source": "知乎",
+          "title": "特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年",
+          "url": "https://wallstreetcn.com/livenews/3104726",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "13时52分"
+        },
+        {
+          "title": "美国总统特朗普说极端组织“伊斯兰国”二号头目被“清除”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3104725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "中方回应特朗普社媒言论",
@@ -476,6 +581,17 @@
           "time_info": "06时53分"
         },
         {
+          "title": "特朗普说“伊斯兰国”二号头目被“清除”",
+          "url": "https://flash.jin10.com/detail/20260516115016762800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
           "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
           "url": "https://flash.jin10.com/detail/20260516010528421800",
           "source": "金十数据",
@@ -485,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国总统特朗普：“伊斯兰国”极端组织全球二号人物阿布·比拉勒·明努基（Abu-Bilal al-Minuki）已被消灭。美国军队与尼日利亚武装部队联合执行了消灭阿布·比拉勒·明努基的行动。",
+          "url": "https://flash.jin10.com/detail/20260516113420199800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
@@ -523,7 +650,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -535,8 +662,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时53分 ~ 10时35分]"
+          "appearance_count": 7,
+          "time_info": "[06时53分 ~ 13时52分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 13时52分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -550,18 +690,6 @@
             4,
             7,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 10时35分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -634,6 +762,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时14分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -710,7 +849,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -721,7 +860,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -751,7 +890,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -765,6 +904,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 07时53分]"
+        },
+        {
+          "title": "伊朗外长：欢迎中国发挥作用",
+          "url": "https://news.ifeng.com/c/8tAOoYSElQ3",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时52分]"
+        },
+        {
+          "title": "伊朗外长称伊美同意推进浓缩铀问题谈判",
+          "url": "https://news.ifeng.com/c/8tAN0RWSj16",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -799,17 +961,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时04分 ~ 06时53分]"
-        },
-        {
-          "title": "伊朗外长：欢迎中国发挥作用",
-          "url": "https://news.ifeng.com/c/8tAOoYSElQ3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -862,7 +1013,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -895,7 +1046,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -924,6 +1075,166 @@
       ]
     },
     {
+      "keyword_group": "能源",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美国能源部长赖特：美国能“轻松”将天然气出口量翻一番",
+          "url": "https://flash.jin10.com/detail/20260515233957316800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "5月15日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260516133442397800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "如何评价上海交通大学智慧能源创新学院某学生试图使用豆包伪造证据，私吞奖金？",
+          "url": "https://www.zhihu.com/question/2038608367330014135",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
+        },
+        {
+          "title": "惠誉：（关于巴哈马选举）尽管能源冲击可能带来增长和财政压力，我们仍然预测预算盈余将逐步实现。",
+          "url": "https://flash.jin10.com/detail/20260516020605392800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "美国能源部长赖特：美国每月从委内瑞拉的石油出口中收取约20-30亿美元，并将这些收入转用于委内瑞拉政府的支出。",
+          "url": "https://flash.jin10.com/detail/20260515231528507800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国能源企业NextEra Energy正在与美国电力和天然气供应商Dominion Energy洽谈合并事宜。（金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3104695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国能源部长Wright：美方每个月从委内瑞拉石油出口销售捞取大约20亿-30亿美元收入，将收入用于委内瑞拉政府开支。",
+          "url": "https://wallstreetcn.com/livenews/3104538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国能源部长：将以1.2桶对1桶回补战略石油储备",
+          "url": "https://flash.jin10.com/detail/20260515230336973800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "据港交所文件：广东华成电力能源股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260515225312637800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "土耳其提议建设12亿美元燃料管道 以满足北约的东欧盟国能源需求",
+          "url": "https://flash.jin10.com/detail/20260515224432816800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国法官辩论是否因能源紧急状态维持煤电厂运营",
+          "url": "https://wallstreetcn.com/livenews/3104586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "惠誉：新能源冲击打断了德国脆弱的复苏。",
+          "url": "https://flash.jin10.com/detail/20260516085052198800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "美国能源部长赖特：新英格兰地区的州长们对修建一条向本州输送天然气的管道感兴趣。",
+          "url": "https://flash.jin10.com/detail/20260515223425944800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国能源部长赖特：美国将从战略石油储备中释放的每一桶石油都将得到补充。",
+          "url": "https://flash.jin10.com/detail/20260515223347970800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
@@ -935,8 +1246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时53分 ~ 10时35分]"
+          "appearance_count": 7,
+          "time_info": "[06时53分 ~ 13时52分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -1086,146 +1397,8 @@
       ]
     },
     {
-      "keyword_group": "能源",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美国能源部长赖特：美国能“轻松”将天然气出口量翻一番",
-          "url": "https://flash.jin10.com/detail/20260515233957316800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "惠誉：（关于巴哈马选举）尽管能源冲击可能带来增长和财政压力，我们仍然预测预算盈余将逐步实现。",
-          "url": "https://flash.jin10.com/detail/20260516020605392800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "美国能源部长赖特：美国每月从委内瑞拉的石油出口中收取约20-30亿美元，并将这些收入转用于委内瑞拉政府的支出。",
-          "url": "https://flash.jin10.com/detail/20260515231528507800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国能源企业NextEra Energy正在与美国电力和天然气供应商Dominion Energy洽谈合并事宜。（金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3104695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "美国能源部长Wright：美方每个月从委内瑞拉石油出口销售捞取大约20亿-30亿美元收入，将收入用于委内瑞拉政府开支。",
-          "url": "https://wallstreetcn.com/livenews/3104538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国能源部长：将以1.2桶对1桶回补战略石油储备",
-          "url": "https://flash.jin10.com/detail/20260515230336973800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "据港交所文件：广东华成电力能源股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260515225312637800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "土耳其提议建设12亿美元燃料管道 以满足北约的东欧盟国能源需求",
-          "url": "https://flash.jin10.com/detail/20260515224432816800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国法官辩论是否因能源紧急状态维持煤电厂运营",
-          "url": "https://wallstreetcn.com/livenews/3104586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "惠誉：新能源冲击打断了德国脆弱的复苏。",
-          "url": "https://flash.jin10.com/detail/20260516085052198800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "美国能源部长赖特：新英格兰地区的州长们对修建一条向本州输送天然气的管道感兴趣。",
-          "url": "https://flash.jin10.com/detail/20260515223425944800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国能源部长赖特：美国将从战略石油储备中释放的每一桶石油都将得到补充。",
-          "url": "https://flash.jin10.com/detail/20260515223347970800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -1233,11 +1406,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 10时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 13时52分]"
         },
         {
           "title": "周五（5月15日），美股信息科技指数跌2.40%，报384.92点，本周累跌0.91%。",
@@ -1304,9 +1478,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "日久光电：公司调光导电膜下游主要客户包含了光羿科技",
+          "url": "https://flash.jin10.com/detail/20260516130803317800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时52分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
@@ -1366,11 +1551,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 13时52分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -1404,8 +1590,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 13时52分]"
         },
         {
           "title": "美债价格连跌五周",
@@ -1433,7 +1619,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -1445,6 +1631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "对冲基金潘兴广场创始人兼经理比尔·阿克曼：我们卖出谷歌，买入微软。",
@@ -1478,6 +1675,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价大跌",
+          "url": "https://www.toutiao.com/trending/7639541437336109099/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "金价银价大跌",
+          "url": "https://www.douyin.com/hot/2500833",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
+          "title": "金价跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 13时52分]"
+        },
+        {
+          "title": "金价银价大跌 油价显著上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%B2%B9%E4%BB%B7%E6%98%BE%E8%91%97%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         }
       ]
     },
@@ -1517,7 +1765,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         }
@@ -1540,24 +1788,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时19分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价跌麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 10时35分]"
         }
       ]
     },
