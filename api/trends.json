@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T06:50:25.116173+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-05-18T07:55:57.080389+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
@@ -57,11 +57,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -71,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -288,7 +289,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -335,12 +336,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3104921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -351,8 +363,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -383,6 +395,17 @@
           "time_info": "[00时54分 ~ 06时50分]"
         },
         {
+          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
+          "url": "https://flash.jin10.com/detail/20260518074442462800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
           "url": "https://flash.jin10.com/detail/20260518011814397800",
           "source": "金十数据",
@@ -394,27 +417,17 @@
           "time_info": "01时56分"
         },
         {
-          "title": "特朗普称仍相信伊朗有意达成协议",
-          "url": "https://wallstreetcn.com/livenews/3104917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
           "url": "https://wallstreetcn.com/livenews/3104904",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时55分]"
         },
         {
           "title": "特朗普的格陵兰岛特使抵达当地首府努克",
@@ -459,11 +472,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://wallstreetcn.com/livenews/3104917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时55分]"
         },
         {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
@@ -472,11 +498,12 @@
           "ranks": [
             20,
             19,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时50分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时55分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
@@ -531,7 +558,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
@@ -567,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
+          "url": "https://flash.jin10.com/detail/20260518064310354800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "以媒：内塔尼亚胡与特朗普通话 讨论重启对伊战事可能性",
@@ -605,7 +643,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -615,19 +653,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "如何看待长鑫科技 2026 年 Q1 净利润狂飙至 330 亿，营收暴增 719%？",
           "url": "https://www.zhihu.com/question/2039409528396048206",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -637,11 +676,12 @@
             5,
             6,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "长鑫科技预计上半年净利超500亿元",
@@ -651,11 +691,12 @@
             22,
             17,
             16,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -667,6 +708,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 06时50分]"
+        },
+        {
+          "title": "为破解净值困局 部分“消费”基金转投科技",
+          "url": "https://wallstreetcn.com/livenews/3104941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -742,7 +794,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -752,19 +804,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
           "url": "https://www.cls.cn/detail/2373131",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -781,15 +845,15 @@
           "time_info": "[00时54分 ~ 06时50分]"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
           "ranks": [
-            7
+            25
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -800,17 +864,6 @@
             12,
             20,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时50分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -841,6 +894,28 @@
           "time_info": "[03时03分 ~ 03时04分]"
         },
         {
+          "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
+          "url": "https://wallstreetcn.com/livenews/3104924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "AI预测世界杯西班牙夺冠",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
           "url": "https://flash.jin10.com/detail/20260517231013473800",
           "source": "金十数据",
@@ -855,7 +930,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -863,11 +938,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时55分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -876,20 +964,78 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
         },
         {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时50分"
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2373180",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
+        },
+        {
+          "title": "A股科创板整体暴涨",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E5%88%9B%E6%9D%BF%E6%95%B4%E4%BD%93%E6%9A%B4%E6%B6%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "今日重点关注的财经数据与事件：2026年5月18日 周一",
+          "url": "https://flash.jin10.com/detail/20260518000000000800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时55分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年5月18日",
+          "url": "https://flash.jin10.com/detail/20260518071501968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
@@ -907,8 +1053,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时03分 ~ 06时50分]"
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 07时55分]"
         },
         {
           "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
@@ -936,8 +1082,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "抛美债、买日债--华尔街准备应对“日资回流”",
@@ -946,44 +1092,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 港股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2373180",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财经",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "今日重点关注的财经数据与事件：2026年5月18日 周一",
-          "url": "https://flash.jin10.com/detail/20260518000000000800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
         }
       ]
     },
@@ -999,8 +1110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时55分]"
         }
       ]
     }
