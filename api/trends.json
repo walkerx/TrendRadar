@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:57:14.853379+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-25T11:36:54.602350+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时36分]"
         },
         {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
@@ -63,6 +63,17 @@
           "time_info": "[00时07分 ~ 06时55分]"
         },
         {
+          "title": "美国国务卿鲁比奥谈伊朗问题：将尽一切努力通过外交途径取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3108657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "美国官员：今天不会签订伊朗协议",
           "url": "https://wallstreetcn.com/livenews/3108522",
           "source": "华尔街见闻-快讯",
@@ -77,6 +88,17 @@
           "time_info": "[00时07分 ~ 06时55分]"
         },
         {
+          "title": "美国国务卿鲁比奥：随着谈判的继续，与伊朗的潜在协议最早仍可能于周一签署。",
+          "url": "https://flash.jin10.com/detail/20260525112743345800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
           "url": "https://wallstreetcn.com/livenews/3108549",
           "source": "华尔街见闻-快讯",
@@ -88,6 +110,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 07时57分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：仍有希望与伊朗达成协议。在任何与伊朗达成的协议中，以色列都有权进行自卫。",
+          "url": "https://flash.jin10.com/detail/20260525112518583800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
@@ -436,7 +469,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -540,6 +573,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "美国和伊朗制定旨在延长停火60天的谅解备忘录框架。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3108601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "阿曼与伊朗就霍尔木兹海峡航运等议题举行磋商",
           "url": "https://flash.jin10.com/detail/20260525000136867800",
           "source": "金十数据",
@@ -565,7 +609,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -777,6 +821,28 @@
           "time_info": "[07时56分 ~ 07时57分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
           "url": "https://flash.jin10.com/detail/20260525014506415800",
           "source": "金十数据",
@@ -835,7 +901,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "四家沪市ST公司同日“谢幕”，A股退市常态化持续深化",
@@ -870,7 +936,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -881,9 +947,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2380086",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时53分 ~ 11时36分]"
         },
         {
           "title": "A股市场波动有所放大，科技主线韧性仍存，机构：建议聚焦盈利兑现和高景气方向",
@@ -898,16 +977,70 @@
           "time_info": "[06时55分 ~ 07时57分]"
         },
         {
-          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2380086",
-          "source": "财联社热门",
+          "title": "中芯国际A股涨超10%，成交额近170亿元。",
+          "url": "https://flash.jin10.com/detail/20260525112158353800",
+          "source": "金十数据",
           "ranks": [
-            12,
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "同是科技，A股、港股不同命？",
+          "url": "https://wallstreetcn.com/articles/3773003",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时53分 ~ 07时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "A股PCB概念股反复活跃，鹏鼎控股2连板，股价续创历史新高，正业科技涨超10%，博敏电子、满坤科技、生益科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3108613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "A股煤炭板块开盘领涨，郑州煤电接近涨停，平煤股份、陕西黑猫、淮北矿业、兖矿能源、辽宁能源、潞安环能涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3108608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "A股CPO概念股短线拉升，新易盛、天孚通信涨超5%，中际旭创、仕佳光子纷纷跟涨。",
+          "url": "https://flash.jin10.com/detail/20260525105244432800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "港股、美股周一休市 金银油交易将提前结束",
@@ -924,7 +1057,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -932,11 +1065,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时36分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -960,11 +1094,12 @@
             28,
             27,
             22,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 11时36分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -1000,12 +1135,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 01时57分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "AI 中转站是什么，便宜 Token 背后暗藏什么玄机？",
+          "url": "https://www.zhihu.com/question/2040496731704528936",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     },
     {
       "keyword_group": "能源",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "白宫顾问哈塞特：当能源价格下跌时，可以看见“负通胀”。",
@@ -1052,6 +1220,116 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 01时57分]"
+        },
+        {
+          "title": "增发8万个，明日北京将配置15.4万个家庭及个人新能源车指标",
+          "url": "https://flash.jin10.com/detail/20260525111949470800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "能源化工期货跌幅持续扩大，燃料油重挫领跌期市",
+          "url": "https://flash.jin10.com/detail/20260525111431567800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "华为与航天能源签署合作MOU/备忘录协议",
+          "url": "https://wallstreetcn.com/livenews/3108628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3772885",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 07时57分]"
+        },
+        {
+          "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
+          "url": "https://www.zhihu.com/question/2039273480357684027",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            5,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时57分 ~ 11时36分]"
+        },
+        {
+          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3772885",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "金十图示：2026年05月25日（周一）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260525105842163800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "深证成指盘中涨超1%，半导体、电力、元件板块涨幅居前；成分股中，鹏鼎控股、九安医疗、华天科技等多股涨停。",
+          "url": "https://flash.jin10.com/detail/20260525105134081800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "金十图示：2026年05月25日（周一）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260525105040065800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     },
@@ -1068,8 +1346,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时36分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -1089,22 +1367,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 11时36分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 11时36分]"
         }
       ]
     },
@@ -1131,41 +1411,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3772885",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
-          "url": "https://www.zhihu.com/question/2039273480357684027",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 07时57分]"
         }
       ]
     },
@@ -1210,7 +1458,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
