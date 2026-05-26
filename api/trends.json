@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T08:05:16.729838+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-05-26T13:02:02.996682+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时40分 ~ 08时05分]"
+        },
+        {
+          "title": "伊朗最高领袖就医情况曝光",
+          "url": "https://news.ifeng.com/c/8tQQymaYbMG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "伊朗称中国推动美伊停火谈判进程",
@@ -34,13 +45,57 @@
           "time_info": "[01时40分 ~ 08时05分]"
         },
         {
+          "title": "美军：在伊朗南部实施自卫打击",
+          "url": "https://www.cls.cn/detail/2381184",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "伊朗官员：武装力量处于最高戒备，若敌人犯错必将回应",
           "url": "https://wallstreetcn.com/livenews/3109064",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -186,6 +241,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 05时02分]"
+        },
+        {
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "伊朗国家媒体：伊朗总统已下令恢复网络服务。",
@@ -371,7 +437,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -382,7 +448,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -396,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 88 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2042404325343893398",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "伊朗阿巴斯港传出爆炸声 媒体说无需担心",
@@ -481,7 +558,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -492,7 +569,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -503,7 +580,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -547,7 +624,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -591,7 +668,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
@@ -599,7 +676,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -622,6 +699,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
+          "url": "https://news.ifeng.com/c/8tQf0euzx96",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普的“大棋局”：伊朗协议挨骂？那就把沙特、卡塔尔、巴基斯坦全拉进来",
+          "url": "https://flash.jin10.com/detail/20260526121651325800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
@@ -674,6 +773,29 @@
           "time_info": "[01时40分 ~ 05时02分]"
         },
         {
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260526011223011800",
           "source": "金十数据",
@@ -696,17 +818,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 05时02分]"
-        },
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
         },
         {
           "title": "【特朗普称伊朗浓缩铀可运到其他地点销毁】美国总统特朗普25日在社交媒体发文称，伊朗的浓缩铀可以“现场销毁”或者在“另一个可以接受的地点”销毁。（新华社）",
@@ -773,7 +884,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -802,8 +913,142 @@
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益",
+          "url": "https://www.cls.cn/detail/2380881",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 08时05分]"
+        },
+        {
+          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
+          "url": "https://www.cls.cn/detail/2381183",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "追觅科技官宣C罗出任全球代言人",
+          "url": "https://www.cls.cn/detail/2380908",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 08时05分]"
+        },
+        {
+          "title": "宇树科技科创板IPO将于6月1日上会",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E5%B0%86%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8A%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 08时05分]"
+        },
+        {
+          "title": "剂泰科技：公司未收到中国证监会任何要求补充资料的通知",
+          "url": "https://wallstreetcn.com/livenews/3109198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "宇树科技IPO将于6月1日上会",
+          "url": "https://www.douyin.com/hot/2512228",
+          "source": "抖音",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
+        {
+          "title": "人形机器人第一股大考在即，谁是宇树科技IPO背后的超级赢家？",
+          "url": "https://www.cls.cn/detail/2381451",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "百亿级私募仓位指数升至82%以上，“科技+能源”均衡布局",
+          "url": "https://wallstreetcn.com/livenews/3109043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 08时05分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（2026-05-26）",
+          "url": "https://flash.jin10.com/detail/20260526073511826800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "深圳“十五五”规划纲要：前瞻布局6G、量子科技、脑机接口等未来产业",
+          "url": "https://wallstreetcn.com/livenews/3109187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "深圳“十五五”规划纲要：提升具身智能机器人发展能级，打造全球具身智能科技创新和产业发展高地",
+          "url": "https://wallstreetcn.com/livenews/3109185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -822,11 +1067,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 08时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时40分 ~ 13时02分]"
+        },
+        {
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 13时02分]"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -856,17 +1114,6 @@
           "time_info": "[01时40分 ~ 08时05分]"
         },
         {
-          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
-          "url": "https://wallstreetcn.com/articles/3773034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 06时57分]"
-        },
-        {
           "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
           "url": "https://www.cls.cn/detail/2380627",
           "source": "财联社热门",
@@ -876,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时02分]"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
@@ -888,100 +1146,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 05时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "长鑫科技这笔IPO，承销保荐费能赚几个亿？跟投更带来隐形收益",
-          "url": "https://www.cls.cn/detail/2380881",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 08时05分]"
         },
         {
-          "title": "追觅科技官宣C罗出任全球代言人",
-          "url": "https://www.cls.cn/detail/2380908",
-          "source": "财联社热门",
+          "title": "京东AI静音口罩工位k歌神器",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9CAI%E9%9D%99%E9%9F%B3%E5%8F%A3%E7%BD%A9%E5%B7%A5%E4%BD%8Dk%E6%AD%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 08时05分]"
-        },
-        {
-          "title": "宇树科技科创板IPO将于6月1日上会",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E5%B0%86%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8A%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 08时05分]"
-        },
-        {
-          "title": "【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会",
-          "url": "https://www.cls.cn/detail/2381183",
-          "source": "财联社热门",
-          "ranks": [
-            4
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "百亿级私募仓位指数升至82%以上，“科技+能源”均衡布局",
-          "url": "https://wallstreetcn.com/livenews/3109043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时05分]"
-        },
-        {
-          "title": "宇树科技IPO将于6月1日上会",
-          "url": "https://www.douyin.com/hot/2512228",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（2026-05-26）",
-          "url": "https://flash.jin10.com/detail/20260526073511826800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "[13时01分 ~ 13时02分]"
         }
       ]
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
@@ -991,11 +1172,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时40分 ~ 08时05分]"
+          "appearance_count": 9,
+          "time_info": "[01时40分 ~ 13时02分]"
         },
         {
           "title": "A股出现三大异象",
@@ -1036,6 +1218,39 @@
           "time_info": "[08时04分 ~ 08时05分]"
         },
         {
+          "title": "A股行情分化 散户直言赚钱好难",
+          "url": "https://www.toutiao.com/trending/7643434140397961279/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "高盛维持禾赛港股目标价273港元 重申“买入”",
+          "url": "https://flash.jin10.com/detail/20260526121210663800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "港股午评：科指半日涨2.3% 联想集团再涨18%",
+          "url": "https://flash.jin10.com/detail/20260526120320522800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "A股有110只个股至少连跌5天",
           "url": "https://www.toutiao.com/trending/7643432895135416329/",
           "source": "今日头条",
@@ -1045,6 +1260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "高盛上调网易港股目标价4% 重申“买入”",
+          "url": "https://flash.jin10.com/detail/20260526114545033800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -1105,7 +1331,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
@@ -1113,7 +1339,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "意大利爱迪生公司：卡塔尔能源公司将不可抗力延至8月中旬",
@@ -1137,6 +1363,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 08时05分]"
+        },
+        {
+          "title": "「长辈的油车开了 10 多年，我的 4 年就得换」，新能源车迭代速度过快造成「多输」，能否降速？",
+          "url": "https://www.zhihu.com/question/2042011385488487939",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "欧洲央行管委维勒鲁瓦：欧洲央行尚未观察到能源成本的大幅上涨的外溢效应",
@@ -1216,9 +1453,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
