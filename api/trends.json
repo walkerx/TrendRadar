@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-06-07T08:02:09.188699+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-06-07T12:51:29.366269+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "伊朗与巴基斯坦两国内政部长会面，讨论地区局势等问题",
-          "url": "https://wallstreetcn.com/livenews/3115498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 08时02分]"
-        },
         {
           "title": "巴基斯坦内政部长Naqvi抵达伊朗。（Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3115487",
@@ -27,11 +15,25 @@
             1,
             6,
             12,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 12时51分]"
+        },
+        {
+          "title": "伊朗与巴基斯坦两国内政部长会面，讨论地区局势等问题",
+          "url": "https://wallstreetcn.com/livenews/3115498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 12时51分]"
         },
         {
           "title": "国际航空运输协会（IATA）中东区副总裁：令人担忧的是，在伊朗袭击中受损的科威特航站楼将至少瘫痪（停止运作）一年。 对此感到忧虑，因为此前所有非科威特的航空公司都使用该航站楼，因此目前该国仅剩科威特本土的航空公司仍在维持运营。 预计当前的成本形势不会对中东地区航空公司的飞机订单造成影响。 各航空公司在当前节点推迟飞机交付并非明智之举，因为这一决定可能会付出高昂的代价。",
@@ -41,11 +43,26 @@
             4,
             9,
             15,
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 12时51分]"
+        },
+        {
+          "title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3115493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "time_info": "[03时16分 ~ 12时51分]"
         },
         {
           "title": "美国授意一个团队评估海湾盟友们遭受的损失情况。 美方将向它们开放伊朗资产。（路透）",
@@ -59,17 +76,18 @@
           "time_info": "05时01分"
         },
         {
-          "title": "伊朗媒体：哈尔克岛附近居民听到爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3115493",
+          "title": "巴基斯坦内政部长Naqvi将向伊朗最高领袖递送信息。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3115490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            8
+            4,
+            10,
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 08时02分]"
+          "appearance_count": 5,
+          "time_info": "[03时16分 ~ 12时51分]"
         },
         {
           "title": "美国授意一个团队评估海湾盟友们遭受的损失情况。 美方将向它们开放伊朗资产。 伊朗资产将被用于修复伊朗在未来造成的损失。（路透）",
@@ -81,30 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
-        },
-        {
-          "title": "报道：美或用伊朗被冻资产赔偿海湾盟友",
-          "url": "https://wallstreetcn.com/livenews/3115503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "巴基斯坦内政部长Naqvi将向伊朗最高领袖递送信息。（ISNA）",
-          "url": "https://wallstreetcn.com/livenews/3115490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时16分 ~ 08时02分]"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -186,6 +180,31 @@
           "time_info": "[01时08分 ~ 03时16分]"
         },
         {
+          "title": "报道：美或用伊朗被冻资产赔偿海湾盟友",
+          "url": "https://wallstreetcn.com/livenews/3115503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 12时51分]"
+        },
+        {
+          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
+          "url": "https://wallstreetcn.com/livenews/3115496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 12时51分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗内政部长收到巴基斯坦陆军参谋长阿西姆·穆尼尔致伊朗最高领袖的信函。",
           "url": "https://flash.jin10.com/detail/20260607024410592800",
           "source": "金十数据",
@@ -208,18 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 03时16分]"
-        },
-        {
-          "title": "伊朗哈尔克岛附近爆炸声系排爆作业所致",
-          "url": "https://wallstreetcn.com/livenews/3115496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 08时02分]"
         },
         {
           "title": "伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
@@ -307,6 +314,28 @@
           "time_info": "[06时09分 ~ 08时02分]"
         },
         {
+          "title": "美军中央司令部6日在社交媒体上发文说，当天早些时候，美军击落了两架伊朗单向攻击无人机。（新华国际）",
+          "url": "https://wallstreetcn.com/livenews/3115510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：黎巴嫩真主党谴责以色列对黎巴嫩军车的致命袭击。",
           "url": "https://flash.jin10.com/detail/20260607000022677800",
           "source": "金十数据",
@@ -365,18 +394,19 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时51分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -389,6 +419,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时07分 ~ 08时02分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时51分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -405,27 +448,19 @@
           "time_info": "[01时07分 ~ 08时02分]"
         },
         {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时02分]"
-        },
-        {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
+          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
+          "url": "https://wallstreetcn.com/livenews/3115486",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2,
+            7,
+            13,
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 12时51分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -441,18 +476,50 @@
           "time_info": "[01时07分 ~ 05时01分]"
         },
         {
-          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
-          "url": "https://wallstreetcn.com/livenews/3115486",
+          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
+          "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            7,
-            13,
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 12时51分]"
+        },
+        {
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[06时09分 ~ 12时51分]"
+        },
+        {
+          "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
+          "url": "https://flash.jin10.com/detail/20260607120910109800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -469,26 +536,38 @@
           "time_info": "[01时08分 ~ 08时02分]"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "AI炒完“传、存、算”，下一张牌桌在哪里？",
+          "url": "https://flash.jin10.com/detail/20260607120615529800",
+          "source": "金十数据",
           "ranks": [
-            25
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
           "url": "https://www.cls.cn/detail/2392589",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时51分]"
+        },
+        {
+          "title": "据英国金融时报：OpenAI正在准备对ChatGPT进行其推出以来规模最大的一次改版。该公司计划将ChatGPT转型为结合编码工具和人工智能体的“超级应用”，并添加高管们认为能够创造更多收入的产品。",
+          "url": "https://flash.jin10.com/detail/20260607120518642800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "北大UP主手搓AI猫娘",
@@ -497,15 +576,70 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "北京高考作文考教老人用AI",
+          "url": "https://flash.jin10.com/detail/20260607113905644800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
+          "url": "https://www.zhihu.com/question/2025012000539846038",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "AI写的高考作文你打几分",
+          "url": "https://www.toutiao.com/trending/7647893809128279615/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -513,11 +647,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时51分]"
         },
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -543,6 +678,18 @@
           "time_info": "[01时08分 ~ 03时16分]"
         },
         {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时51分]"
+        },
+        {
           "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
           "url": "https://flash.jin10.com/detail/20260607031222169800",
           "source": "金十数据",
@@ -556,15 +703,15 @@
           "time_info": "[05时01分 ~ 08时02分]"
         },
         {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
+          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "美国总统特朗普转发了白宫关于就业数据的社交媒体帖子，内容为：“就业、就业、就业。数据不会骗人。”",
@@ -576,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
@@ -588,11 +746,12 @@
           "url": "https://www.cls.cn/detail/2392638",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时51分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -640,11 +799,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时51分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -652,6 +812,34 @@
           "source": "金十数据",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "能源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多款新能源车涨价了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "欧盟计划降低清洁能源税收，以期削减电费账单",
+          "url": "https://wallstreetcn.com/livenews/3115454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -669,11 +857,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时00分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[05时00分 ~ 12时51分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -681,11 +870,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时00分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[05时00分 ~ 12时51分]"
         }
       ]
     },
@@ -703,25 +893,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟计划降低清洁能源税收，以期削减电费账单",
-          "url": "https://wallstreetcn.com/livenews/3115454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 12时51分]"
         }
       ]
     },
