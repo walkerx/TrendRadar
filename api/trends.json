@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T04:09:52.681410+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-09T06:24:14.942812+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2393646",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
@@ -31,72 +53,38 @@
           "time_info": "[01时50分 ~ 04时09分]"
         },
         {
-          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
-          "url": "https://wallstreetcn.com/articles/3774087",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
-        },
-        {
-          "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2393646",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
-        },
-        {
           "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
           "url": "https://flash.jin10.com/detail/20260609034950828800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "Siri AI",
           "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "当我把今年高考语文作文题喂给AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            14
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
-        },
-        {
-          "title": "日韩股市突然暴跌 AI泡沫要破了吗",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C+AI%E6%B3%A1%E6%B2%AB%E8%A6%81%E7%A0%B4%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时24分]"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
@@ -107,19 +95,34 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
-          "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
-          "url": "https://www.zhihu.com/question/2043797160312010091",
-          "source": "知乎",
+          "title": "当我把今年高考语文作文题喂给AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
+          "source": "百度热搜",
           "ranks": [
-            19
+            8,
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "日韩股市突然暴跌 AI泡沫要破了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C+AI%E6%B3%A1%E6%B2%AB%E8%A6%81%E7%A0%B4%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
@@ -128,9 +131,98 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
+          "url": "https://www.zhihu.com/question/2043797160312010091",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "OpenAI秘密提交美国IPO文件，加入竞争对手竞相上市的行列",
+          "url": "https://wallstreetcn.com/livenews/3116359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "06时24分"
+        },
+        {
+          "title": "OpenAI自曝已秘密提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609052258365800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
+          "url": "https://flash.jin10.com/detail/20260609051732279800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "OpenAI：尚未决定首次公开募股的时间。",
+          "url": "https://flash.jin10.com/detail/20260609051515095800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
+          "url": "https://wallstreetcn.com/livenews/3116349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "OpenAI已提交IPO申请",
+          "url": "https://flash.jin10.com/detail/20260609051454671800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "OpenAI首席科学家：OpenAI致力追求的各项核心目标，均围绕着这一使命：确保通用人工智能造福全人类。人工智能应当增强人类的主体性，而非削弱人类在塑造未来中的作用与意义。",
+          "url": "https://flash.jin10.com/detail/20260609051127110800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
@@ -139,7 +231,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -150,7 +242,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -161,7 +253,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -183,7 +275,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -191,7 +283,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -201,19 +293,64 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
           "url": "https://www.zhihu.com/question/2047287128892224880",
           "source": "知乎",
           "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
+          "url": "https://flash.jin10.com/detail/20260609054903462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "美国总统特朗普：石油价格将在伊朗问题结束后下跌。",
+          "url": "https://wallstreetcn.com/livenews/3116365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经摧毁了伊朗的军事力量和领导层。 我们（与伊朗）正在谈判。 你们真的将在两周内获胜。 我们将在两周内宣布“全面”胜利。 胜利将发生得“非常迅速”。",
+          "url": "https://wallstreetcn.com/livenews/3116364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：我们正在进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260609054818793800",
+          "source": "金十数据",
+          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "06时24分"
         },
         {
           "title": "路透社/益普索调查显示，仅有22%的人认可特朗普对生活成本问题的处理，70%的人表示不认可。",
@@ -222,18 +359,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "特朗普提名托德·布兰奇出任美司法部长",
-          "url": "https://wallstreetcn.com/livenews/3116329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -245,8 +371,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
@@ -256,8 +382,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
@@ -268,8 +394,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
@@ -279,8 +405,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普提名托德·布兰奇出任美司法部长",
+          "url": "https://wallstreetcn.com/livenews/3116329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "time_info": "[04时09分 ~ 06时24分]"
         },
         {
           "title": "路透社/益普索调查显示，特朗普的支持率为35%，与5月中旬持平，仅略高于其本届任期内34%的最低水平。",
@@ -289,7 +427,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -311,7 +449,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -322,7 +460,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -333,7 +471,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -344,7 +482,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -362,8 +500,174 @@
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
+          "url": "https://www.cls.cn/detail/2393791",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时09分]"
+        },
+        {
+          "title": "任泽平：科技牛的下一个光",
+          "url": "https://www.toutiao.com/trending/7648967385814142491/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
+          "url": "https://www.cls.cn/detail/2394108",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "胜宏科技回应董事长电梯视频传闻",
+          "url": "https://www.toutiao.com/trending/7648099336853323782/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "胜宏科技“电梯门”风波影响几何",
+          "url": "https://www.toutiao.com/trending/7649016282037095978/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时09分]"
+        },
+        {
+          "title": "胜宏科技董事长“电梯门”事件",
+          "url": "https://www.douyin.com/hot/2527170",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时24分]"
+        },
+        {
+          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
+          "url": "https://flash.jin10.com/detail/20260609011707678800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.04%，报24555点。 恒生科技指数主连夜盘收跌0.06%，报4748点。",
+          "url": "https://wallstreetcn.com/livenews/3116321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "周一（6月8日），彭博电动汽车价格回报指数跌2.02%，报3706.35点。 全天处于下跌状态，亚太时段持续走低，北京时间09:31以来持续交投于3700点附近、15:00刷新日低至3672.92点。 成分股阿内卡矿业股份收跌8%，淡水河谷印尼公司跌7.22%，日本电产株式会社跌6.06%，Panasonic株式会社跌4.79%，小鹏集团H股跌4.62%，浙江零跑科技跌4.22%跌幅第六大，意法半导体法国巴黎股价则收涨4.01%，特斯拉涨4.59%，安霸股份涨8.19%。",
+          "url": "https://wallstreetcn.com/livenews/3116344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收跌，公用事业板块跌1.92%，房地产板块跌1.63%，原材料板块跌1.28%，电信板块跌1.07%，能源板块则收涨1.14%，信息技术/科技板块涨1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3116341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "周一（6月8日），美股行业ETF涨跌各异，半导体ETF收涨5%，全球科技股指数ETF、科技行业ETF至少涨2.15%，网络股指数ETF则收跌0.43%，全球航空业ETF跌0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3116340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "纳指科技指数收涨超1.8%，半导体指数反弹5.6%",
+          "url": "https://wallstreetcn.com/livenews/3116336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "机构：私募股权科技交易行业连续第二年陷入“土拨鼠日”般的循环",
+          "url": "https://wallstreetcn.com/livenews/3116265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗圣城旅指挥官：霍尔木兹海峡到曼德海峡正形成“新的安全带”",
@@ -372,9 +676,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "据伊朗媒体：霍尔木兹甘省南部发生5级地震。",
+          "url": "https://flash.jin10.com/detail/20260609054358318800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "伊朗宣布停止对以色列的军事行动",
@@ -384,8 +699,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "伊朗和以色列先后宣布停止袭击对方",
@@ -393,22 +708,58 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "伊朗宣布停止对以色列的军事行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列",
+          "url": "https://www.douyin.com/hot/2526750",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "伊朗打击以色列两处军事基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "time_info": "[06时23分 ~ 06时24分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：（援引伊朗驻联合国代表）我们正通过巴基斯坦与美国交换意见，以达成最终文本。",
+          "url": "https://flash.jin10.com/detail/20260609053213808800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "惠誉：因伊朗战争的影响，将全球主权信用评级领域的展望调整为“恶化”。",
@@ -428,7 +779,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -455,17 +806,6 @@
           "time_info": "01时50分"
         },
         {
-          "title": "伊朗时隔两个月再袭以色列",
-          "url": "https://www.douyin.com/hot/2526750",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
           "title": "以色列回绝伊朗关于不要攻击黎巴嫩的警告",
           "url": "https://wallstreetcn.com/livenews/3116262",
           "source": "华尔街见闻-快讯",
@@ -479,11 +819,11 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 9,
+      "keyword_group": "美股",
+      "match_count": 8,
       "titles": [
         {
-          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
@@ -491,95 +831,82 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "time_info": "[06时23分 ~ 06时24分]"
         },
         {
-          "title": "全球科技股急跌，黄仁勋喊话：能折价买股票 你应该感到高兴",
-          "url": "https://www.cls.cn/detail/2393791",
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
           "source": "财联社热门",
           "ranks": [
-            2
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
-          "title": "任泽平：科技牛的下一个光",
-          "url": "https://www.toutiao.com/trending/7648967385814142491/",
-          "source": "今日头条",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            10
+            23,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
-          "title": "“国产GPU四小龙”或凑齐最后一位资本市场“牌友” 燧原科技将于6月15日上会",
-          "url": "https://www.cls.cn/detail/2394108",
+          "title": "美股“黑色星期五”引爆恐慌？高盛：正是难得的买入良机！",
+          "url": "https://www.cls.cn/detail/2393754",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "time_info": "[06时23分 ~ 06时24分]"
         },
         {
-          "title": "胜宏科技“电梯门”风波影响几何",
-          "url": "https://www.toutiao.com/trending/7649016282037095978/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
-        },
-        {
-          "title": "胜宏科技回应董事长电梯视频传闻",
-          "url": "https://www.toutiao.com/trending/7648099336853323782/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
-        },
-        {
-          "title": "美国科技记者古尔曼：到目前为止，苹果(AAPL.O)正在逐一阐述多年来众多用户期待已久的性能提升内容。",
-          "url": "https://flash.jin10.com/detail/20260609011707678800",
+          "title": "高通(QCOM.O)美股盘后上涨近8%。",
+          "url": "https://flash.jin10.com/detail/20260609050509753800",
           "source": "金十数据",
           "ranks": [
-            9
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3116342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260609003906930800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
         },
         {
-          "title": "恒生指数主连夜盘收跌0.04%，报24555点。 恒生科技指数主连夜盘收跌0.06%，报4748点。",
-          "url": "https://wallstreetcn.com/livenews/3116321",
+          "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "机构：私募股权科技交易行业连续第二年陷入“土拨鼠日”般的循环",
-          "url": "https://wallstreetcn.com/livenews/3116265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -599,8 +926,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         },
         {
           "title": "惠誉：能源价格上涨正在削弱发达市场的增长与通胀前景，并给公共财政带来压力。",
@@ -638,70 +965,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2393996",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "金十图示：2026年06月08日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260609003906930800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3116263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
           "url": "https://wallstreetcn.com/livenews/3116327",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
+          "url": "https://flash.jin10.com/detail/20260609051727017800",
+          "source": "金十数据",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时09分"
+          "time_info": "06时24分"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果最大的模型“AFM Cloud Pro”将运行在谷歌云基础设施上。",
@@ -710,7 +998,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -721,7 +1009,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         }
@@ -736,11 +1024,12 @@
           "url": "https://wallstreetcn.com/livenews/3116330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
         },
         {
           "title": "美元指数8日下跌",
@@ -749,7 +1038,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
         },
@@ -760,9 +1049,37 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价下跌后郑州金店被挤爆",
+          "url": "https://www.toutiao.com/trending/7648415475306889252/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
+        },
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     },
@@ -779,25 +1096,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价下跌后郑州金店被挤爆",
-          "url": "https://www.toutiao.com/trending/7648415475306889252/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 04时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 06时24分]"
         }
       ]
     },
@@ -810,11 +1110,12 @@
           "url": "https://wallstreetcn.com/livenews/3116333",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时09分 ~ 06时24分]"
         }
       ]
     }
