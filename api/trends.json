@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T11:32:23.047908+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-06-12T16:21:53.613993+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴的社交媒体账号12日发文称，穆杰塔巴将于当晚在库姆为一名宗教人士举行葬礼。（新华社） ​​​",
+          "url": "https://flash.jin10.com/detail/20260612155043517800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "据伊朗法尔斯通讯社：鉴于美国已经接受了伊朗提出的文本，该文本获得伊朗方面批准的可能性很高。",
@@ -92,9 +103,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社，与美国签署的谅解备忘录包含美方三项承诺，即解除对伊朗制裁、从伊朗周边撤军以及取消海上封锁。",
+          "url": "https://wallstreetcn.com/livenews/3118720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
@@ -159,13 +181,24 @@
           "time_info": "[03时33分 ~ 07时27分]"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 16时21分]"
+        },
+        {
           "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
           "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -190,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
         },
         {
           "title": "伊朗外交部：尚未就伊美协议达成最终结论",
@@ -245,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "伊朗最高领袖将为一名宗教人士举行葬礼",
+          "url": "https://wallstreetcn.com/livenews/3118717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "伊朗外交部：海峡目前仍然关闭",
@@ -374,7 +407,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -456,6 +489,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "伊朗大使馆发图讽刺世界杯是战争杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%9B%BE%E8%AE%BD%E5%88%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗部队阻止一艘未经协调的“违规油轮”进入霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260612060451925800",
           "source": "金十数据",
@@ -506,7 +550,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -547,7 +591,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -559,8 +603,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 11时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 16时21分]"
         },
         {
           "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
@@ -586,6 +630,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时27分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 16时21分]"
         },
         {
           "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
@@ -616,7 +673,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -660,7 +717,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -671,7 +728,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -688,16 +745,16 @@
           "time_info": "[07时27分 ~ 11时32分]"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            3
+            7,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时27分 ~ 11时32分]"
+          "time_info": "[11时32分 ~ 16时21分]"
         },
         {
           "title": "特朗普称取消打击伊朗行动",
@@ -712,6 +769,18 @@
           "time_info": "[05时59分 ~ 07时27分]"
         },
         {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普先打再谈",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E6%89%93%E5%86%8D%E8%B0%88%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -723,15 +792,15 @@
           "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
-          "url": "https://www.cls.cn/detail/2397803",
-          "source": "财联社热门",
+          "title": "林肯纪念堂倒影池翻新：成本飙升，承包给特朗普的熟人",
+          "url": "https://news.ifeng.com/c/8ttODxEJJNz",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "16时21分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
@@ -762,9 +831,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "特朗普第38次声称和平协议即将达成？好消息是：华尔街又信了……",
+          "url": "https://www.cls.cn/detail/2397839",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
@@ -784,18 +864,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
-          "url": "https://www.cls.cn/detail/2397778",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -828,7 +897,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -850,7 +919,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1034,7 +1103,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -1062,6 +1131,21 @@
           "time_info": "[00时50分 ~ 11时32分]"
         },
         {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            7,
+            19,
+            18,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 16时21分]"
+        },
+        {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
           "url": "https://www.cls.cn/detail/2397230",
           "source": "财联社热门",
@@ -1073,20 +1157,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 07时27分]"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            7,
-            19,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 11时32分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -1110,6 +1180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
@@ -1198,13 +1279,24 @@
           "time_info": "00时51分"
         },
         {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2048342346048213458",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1215,9 +1307,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
+          "url": "https://www.cls.cn/detail/2398028",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
@@ -1226,9 +1340,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "如何看待 Spacex 新发布的 AI 卫星？",
+          "url": "https://www.zhihu.com/question/2047773618428437482",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "UP主做了个AI预测世界杯赛果",
@@ -1237,7 +1362,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -1245,7 +1370,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
@@ -1276,9 +1401,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "生物科技指数未纳入期货限价放宽名单，港交所回应",
+          "url": "https://flash.jin10.com/detail/20260612154939715800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走低，美光科技跌超2%。美股太空概念股普涨，Rocket Lab涨超8%，ASTS涨超5%，回声星通信涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3118723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2397810",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 16时21分]"
         },
         {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
@@ -1298,7 +1457,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1309,18 +1468,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
-          "url": "https://www.cls.cn/detail/2397810",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1334,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "生物科技指数未纳入期货限价放宽名单，港交所回应",
+          "url": "https://wallstreetcn.com/livenews/3118716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "从“被投者”到“投资者”，硬科技企业密集设立产业基金",
@@ -1353,7 +1512,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1367,6 +1526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "字节跳动成立科技公司，注册资本16亿元",
+          "url": "https://flash.jin10.com/detail/20260612153415954800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "标普500指数的11个板块多数收涨，原材料板块涨3.26%，工业板块涨3.25%，信息技术/科技板块涨2.94%，能源板块跌2.06%。",
@@ -1397,7 +1567,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1419,7 +1589,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -1427,7 +1597,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
@@ -1447,7 +1617,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1469,7 +1639,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1480,7 +1650,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1491,7 +1661,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1502,7 +1672,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1513,9 +1683,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "A股三大指数集体上涨 沪指涨1.12%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8+%E6%B2%AA%E6%8C%87%E6%B6%A81.12%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "A股焦炭板块低开高走，云煤能源涨超4%，山西焦化、宝泰隆、山煤国际、美锦能源、甘肃能化等个股跟涨。消息面上，焦炭第七轮提涨将于今日开启。",
@@ -1524,7 +1716,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1535,7 +1727,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1546,7 +1738,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1557,7 +1749,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1568,7 +1760,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1579,7 +1771,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1590,7 +1782,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -1601,6 +1793,18 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -1610,18 +1814,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 03时33分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 11时32分]"
         },
         {
           "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
@@ -1717,7 +1909,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "各地加快推进新型能源体系建设",
@@ -1726,9 +1918,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "振江股份在互动平台表示，公司燃气轮机业务主要客户是西门子能源，目前已经排产到明年，有些远期订单将在2028年交付。",
+          "url": "https://flash.jin10.com/detail/20260612154859326800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "独家|能源巨头战略延伸？宁德时代首次投资核聚变企业 为何“花落”贝塔聚变",
@@ -1743,13 +1946,24 @@
           "time_info": "[00时50分 ~ 05时59分]"
         },
         {
+          "title": "波兰能源部长MOTYKA：波兰并未与韩国合作伙伴就第二座核电站进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260612154355680800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "乘联分会崔东树：5月新能源乘用车均价16.9万元 同比上涨0.7万元",
           "url": "https://flash.jin10.com/detail/20260612104740472800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         },
@@ -1763,6 +1977,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十数据全球财经早餐 | 2026年6月12日",
+          "url": "https://flash.jin10.com/detail/20260612065952078800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "今日重点关注的财经数据与事件：2026年6月12日 周五",
+          "url": "https://flash.jin10.com/detail/20260612000000000800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 07时27分]"
+        },
+        {
+          "title": "银行理财经理被指代客理财9年亏损数千万，法院一审判决银行方承担30%损失",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33358818",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -1845,31 +2099,30 @@
       ]
     },
     {
-      "keyword_group": "财经",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "金十数据全球财经早餐 | 2026年6月12日",
-          "url": "https://flash.jin10.com/detail/20260612065952078800",
-          "source": "金十数据",
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
           "ranks": [
-            5
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "16时21分"
         },
         {
-          "title": "今日重点关注的财经数据与事件：2026年6月12日 周五",
-          "url": "https://flash.jin10.com/detail/20260612000000000800",
-          "source": "金十数据",
+          "title": "金价连跌投资金柜台排长队 批发商集中补货",
+          "url": "https://wallstreetcn.com/livenews/3118694",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            8
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 07时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -1898,6 +2151,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     }
