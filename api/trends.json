@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T05:58:24.492737+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-06-18T07:25:33.577972+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "美国总统特朗普感谢巴基斯坦和卡塔尔在达成协议方面的协助。",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3121274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "美国总统特朗普：将讨论弹道导弹和恐怖主义代理人问题。",
@@ -74,6 +63,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
+          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
           "title": "美国总统特朗普：与海湾国家讨论非核问题。",
           "url": "https://flash.jin10.com/detail/20260618002341090800",
           "source": "金十数据",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -118,28 +129,6 @@
           "time_info": "00时37分"
         },
         {
-          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
-          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
-        },
-        {
-          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
-          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
-        },
-        {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
           "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
           "source": "凤凰网",
@@ -147,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "“特朗普这么干，又给中国打广告”",
@@ -158,8 +147,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -170,8 +159,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
@@ -182,8 +171,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
+          "title": "美官员称特朗普亲自提前签署美伊谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3121274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时25分]"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
@@ -226,7 +227,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -270,7 +271,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -339,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
+          "url": "https://flash.jin10.com/detail/20260618061907048800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美国总统特朗普重申与伊朗的协议将让霍尔木兹海峡重新开放。",
@@ -435,7 +447,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -501,7 +513,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -509,7 +521,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 39,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -519,8 +531,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "伊朗外交部发言人：波斯文文件与英文文件相似，并已由另一方签署。",
@@ -529,7 +541,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -540,7 +552,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -551,7 +563,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -562,20 +574,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
         {
-          "title": "伊朗国家电视台确认伊美总统已线上签署MoU，已经生效",
-          "url": "https://wallstreetcn.com/livenews/3121269",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人：目前尚未确认伊朗与美国将于周五在瑞士举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260618064052879800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "据伊朗SNN通讯社：伊朗外交部发言人表示，美国已承诺根据即将进行的谈判取消对伊朗的所有类型制裁。",
@@ -595,21 +619,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
         {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
+          "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
+          "url": "https://flash.jin10.com/detail/20260618063743531800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "勒令伊朗队离境 美方辩称本应如此",
@@ -621,8 +644,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
+          "title": "伊朗国家电视台确认伊美总统已线上签署MoU，已经生效",
+          "url": "https://wallstreetcn.com/livenews/3121269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时25分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -630,11 +665,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
@@ -642,11 +678,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "两度扳平!伊朗2-2新西兰",
@@ -654,11 +691,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "伊朗外交部发言人：我们的导弹不喜欢被人讨论（指导弹问题不容谈判）。",
@@ -667,9 +705,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗必须能够顺利出售其石油，运输和保险均无障碍，并且必须获得石油出售所得收入。",
+          "url": "https://flash.jin10.com/detail/20260618063726757800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗外交部发言人：谅解备忘录于上周日已敲定，但出于标准的外交程序以及需与各方协调的重要性，所以延迟至周三才公布。",
+          "url": "https://flash.jin10.com/detail/20260618063654798800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗外交部发言人：谈判团队仍将出席在瑞士的会议，协议已以电子形式签署，在瑞士不会举行签署仪式。",
+          "url": "https://flash.jin10.com/detail/20260618063224396800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
+          "url": "https://wallstreetcn.com/livenews/3121288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "伊朗外交部发言人：谈判代表团仍将按计划出席在瑞士日内瓦的会议。",
@@ -678,9 +760,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗称谅解备忘录以两种语言签署 具有同等效力",
+          "url": "https://flash.jin10.com/detail/20260618061444962800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "伊朗外交部发言人：美伊已签署谅解备忘录",
@@ -689,9 +782,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：根据协议内容，60天的期限从今天开始。",
+          "url": "https://flash.jin10.com/detail/20260618061417675800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "国家电视台：伊朗议长卡利巴夫称没有禁止美国在伊朗投资。",
@@ -700,7 +804,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -711,9 +815,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗称谅解备忘录以两种语言签署，具有同等效力",
+          "url": "https://wallstreetcn.com/livenews/3121277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "伊朗外交部发言人：我们认为协议文本应以电子形式存在，并由双方两国总统签署。",
@@ -722,9 +837,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：如果以色列继续对黎巴嫩的攻击，将被视为违反承诺。",
+          "url": "https://flash.jin10.com/detail/20260618060811711800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "WTI原油期货低开1.7%，交投于75美元附近，投资者关注伊朗协议生效。",
+          "url": "https://wallstreetcn.com/livenews/3121276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "据AXIOS：两名美国官员表示，美国和伊朗已于周三签署了结束战争的谅解备忘录，现已生效。",
@@ -733,9 +870,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：霍尔木兹海峡的问题由伊朗和阿曼负责。",
+          "url": "https://flash.jin10.com/detail/20260618060622357800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗：（美西方）今天必须就开始撤销石油制裁。 伊朗应该毫无阻力地出售石油。 必须能够在我们选择的任何时候动用被冻结的资产。 必须能够用资金进行任何采购。 美国60天内不得增兵或加码制裁。 美国有责任强迫以色列遵守协议。",
+          "url": "https://wallstreetcn.com/livenews/3121275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "伊朗方面称美伊双方已签署备忘录",
@@ -744,9 +903,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：将立即开始谈判，以建立执行该协议的机制。",
+          "url": "https://flash.jin10.com/detail/20260618060604762800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国承诺在伊朗获取其冻结资金方面消除一切障碍。",
+          "url": "https://flash.jin10.com/detail/20260618060534616800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "伊朗外交部称伊方前往瑞士会谈的计划未变",
@@ -766,7 +947,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -785,18 +966,19 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -804,11 +986,24 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -823,16 +1018,16 @@
           "time_info": "[00时37分 ~ 03时24分]"
         },
         {
-          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
-          "url": "https://www.zhihu.com/question/2050515273640423854",
-          "source": "知乎",
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
           "ranks": [
-            17,
-            16
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时25分]"
         },
         {
           "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
@@ -882,6 +1077,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
+          "url": "https://wallstreetcn.com/livenews/3121289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "美联储主席沃什：任命五个货币政策领域的特别工作组。 包括沟通、资产负债表、数据源、生产力、就业。 生产力工作组将审查人工智能（AI）的影响。 通胀工作组将检查通胀的驱动因素。 资产负债表工作组将评估合适的储备职责。 预期沟通工作组将围绕经济预期概要（SEP）的调整提供建议，未来数周将开始工作。 预计所有工作组都将在年底之前完成，或大部分完成。",
           "url": "https://wallstreetcn.com/livenews/3121202",
           "source": "华尔街见闻-快讯",
@@ -891,17 +1097,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
         },
         {
           "title": "新加坡冬海集团悄然进军美国市场，测试AI聊天机器人Migoo",
@@ -943,7 +1138,93 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 03时24分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
+          "url": "https://wallstreetcn.com/livenews/3121260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时25分]"
+        },
+        {
+          "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
+          "url": "https://wallstreetcn.com/livenews/3121251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美股股指期货小幅上涨，纳指期货涨近0.5%，此前美伊签署电子备忘录。",
+          "url": "https://flash.jin10.com/detail/20260618060137337800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "苹果(AAPL.O)美股盘后小幅拉升，现涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20260618050254137800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -959,11 +1240,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
@@ -971,11 +1253,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
@@ -984,7 +1267,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -995,7 +1278,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -1006,7 +1289,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -1017,69 +1300,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 03时24分]"
-        },
-        {
-          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
-          "url": "https://wallstreetcn.com/livenews/3121260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
-          "url": "https://wallstreetcn.com/livenews/3121251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "苹果(AAPL.O)美股盘后小幅拉升，现涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20260618050254137800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -1096,11 +1317,12 @@
           "ranks": [
             7,
             9,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡的海上交通显著增加。海峡的能源流动将在未来几天恢复。",
@@ -1120,7 +1342,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -1179,9 +1401,43 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财经",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今日重点关注的财经数据与事件：2026年6月18日 周五",
+          "url": "https://flash.jin10.com/detail/20260618065000000800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "minimax 智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科创板第五套标准扩围至大模型企业，智谱、MiniMax“回A”有望提速",
+          "url": "https://wallstreetcn.com/livenews/3121281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -1195,11 +1451,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 07时25分]"
         }
       ]
     },
@@ -1212,11 +1469,12 @@
           "url": "https://wallstreetcn.com/livenews/3121268",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时25分]"
         }
       ]
     }
