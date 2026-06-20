@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-20T16:49:17.687188+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-06-20T19:14:16.394847+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 19时14分]"
+        },
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时14分]"
+        },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
           "url": "https://flash.jin10.com/detail/20260620040803014800",
@@ -89,18 +113,6 @@
           "time_info": "[01时16分 ~ 13时09分]"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时49分]"
-        },
-        {
           "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
           "url": "https://flash.jin10.com/detail/20260620030703523800",
           "source": "金十数据",
@@ -174,15 +186,15 @@
           "time_info": "[03时44分 ~ 08时06分]"
         },
         {
-          "title": "特朗普：今年将再次访问中国",
-          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
-          "source": "凤凰网",
+          "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
+          "url": "https://flash.jin10.com/detail/20260620190142057800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "19时14分"
         },
         {
           "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
@@ -211,15 +223,15 @@
           "time_info": "[06时52分 ~ 13时09分]"
         },
         {
-          "title": "意外长取消访美：特朗普冒犯了意大利",
-          "url": "https://www.toutiao.com/trending/7653072490532556324/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-20）",
+          "url": "https://flash.jin10.com/detail/20260620184815728800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "19时14分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -234,6 +246,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时44分 ~ 08时06分]"
+        },
+        {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时14分]"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -364,6 +388,19 @@
           "time_info": "[05时07分 ~ 08时06分]"
         },
         {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
           "url": "https://flash.jin10.com/detail/20260620034905170800",
           "source": "金十数据",
@@ -421,6 +458,28 @@
           "time_info": "[05时07分 ~ 08时06分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3122151",
           "source": "华尔街见闻-快讯",
@@ -445,16 +504,15 @@
           "time_info": "[03时44分 ~ 05时07分]"
         },
         {
-          "title": "因特朗普言论 意大利副总理取消访美",
-          "url": "https://wallstreetcn.com/livenews/3122210",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普在摇摆州支持率大跌",
+          "url": "https://www.toutiao.com/trending/7652819170371420203/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时49分]"
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "特朗普言论“冒犯了整个意大利”，意外长取消访美",
@@ -463,7 +521,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -507,7 +565,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -581,7 +639,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -593,8 +651,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 19时14分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -607,8 +665,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 19时14分]"
         },
         {
           "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
@@ -639,11 +697,23 @@
           "ranks": [
             7,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 16时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 19时14分]"
+        },
+        {
+          "title": "美伊谈判能否顺利举行？伊朗有何先决条件？凤凰记者解读",
+          "url": "https://news.ifeng.com/c/8u6rTy30ATU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "伊朗革命卫队发表致最高领袖公开信",
@@ -657,17 +727,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时06分 ~ 16时49分]"
-        },
-        {
-          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
-          "url": "https://flash.jin10.com/detail/20260620161710499800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
         },
         {
           "title": "美媒：伊朗外长将赴瑞士，美总统特使正在途中",
@@ -733,6 +792,18 @@
           "time_info": "[05时07分 ~ 08时06分]"
         },
         {
+          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
+          "url": "https://flash.jin10.com/detail/20260620161710499800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 19时14分]"
+        },
+        {
           "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3122184",
           "source": "华尔街见闻-快讯",
@@ -762,11 +833,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 19时14分]"
+        },
+        {
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时09分 ~ 19时14分]"
+        },
+        {
+          "title": "伊朗队进球功臣还在穿2014年的球鞋",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%BF%9B%E7%90%83%E5%8A%9F%E8%87%A3%E8%BF%98%E5%9C%A8%E7%A9%BF2014%E5%B9%B4%E7%9A%84%E7%90%83%E9%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时14分]"
         },
         {
           "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
@@ -781,18 +878,6 @@
           "time_info": "[01时16分 ~ 03时44分]"
         },
         {
-          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
-          "url": "https://wallstreetcn.com/livenews/3122209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时49分]"
-        },
-        {
           "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
           "url": "https://wallstreetcn.com/livenews/3122203",
           "source": "华尔街见闻-快讯",
@@ -803,6 +888,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 16时49分]"
+        },
+        {
+          "title": "伊方威胁若以色列持续攻击黎巴嫩 伊朗将退出谈判",
+          "url": "https://flash.jin10.com/detail/20260620174109237800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "伊朗最高领袖：对伊美谅解备忘录原则上有不同意见，但基于伊总统所作承诺并明确承担相关责任，予以许可",
@@ -822,7 +918,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -833,7 +929,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -855,7 +951,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -866,7 +962,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -981,17 +1077,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "伊朗队进球功臣还在穿2014年的球鞋",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%BF%9B%E7%90%83%E5%8A%9F%E8%87%A3%E8%BF%98%E5%9C%A8%E7%A9%BF2014%E5%B9%B4%E7%9A%84%E7%90%83%E9%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
-        },
-        {
           "title": "伊朗外交部否认霍尔木兹海峡关闭",
           "url": "https://wallstreetcn.com/livenews/3122130",
           "source": "华尔街见闻-快讯",
@@ -1006,7 +1091,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -1021,27 +1106,16 @@
           "time_info": "[01时16分 ~ 08时06分]"
         },
         {
-          "title": "第一次见心眼这么多的AI",
-          "url": "https://www.douyin.com/hot/2541043",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时49分]"
-        },
-        {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
           "url": "https://wallstreetcn.com/articles/3775106",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时14分]"
         },
         {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
@@ -1053,8 +1127,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时07分 ~ 16时49分]"
+          "appearance_count": 7,
+          "time_info": "[05时07分 ~ 19时14分]"
+        },
+        {
+          "title": "第一次见心眼这么多的AI",
+          "url": "https://www.douyin.com/hot/2541043",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 16时49分]"
         },
         {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
@@ -1070,6 +1156,18 @@
           "time_info": "[06时52分 ~ 13时09分]"
         },
         {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时14分]"
+        },
+        {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
           "url": "https://wallstreetcn.com/articles/3775063",
           "source": "华尔街见闻",
@@ -1080,6 +1178,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 08时06分]"
+        },
+        {
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
+          "title": "1年500元你会把脸卖给AI短剧吗",
+          "url": "https://s.weibo.com/weibo?q=%231%E5%B9%B4500%E5%85%83%E4%BD%A0%E4%BC%9A%E6%8A%8A%E8%84%B8%E5%8D%96%E7%BB%99AI%E7%9F%AD%E5%89%A7%E5%90%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3122234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
+          "url": "https://wallstreetcn.com/livenews/3122233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -1093,15 +1235,26 @@
           "time_info": "03时44分"
         },
         {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
-          "source": "华尔街见闻",
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://flash.jin10.com/detail/20260620165448483800",
+          "source": "金十数据",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "19时14分"
+        },
+        {
+          "title": "腾讯客服：微信正在灰度测试 AI助手“小微”",
+          "url": "https://flash.jin10.com/detail/20260620164622907800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "导演於水直言 AI 是无所不能的大模型，每个人是不完美的小模型，不完美才能产生艺术，你认可这种说法吗？",
@@ -1121,7 +1274,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1132,7 +1285,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1173,7 +1326,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价下跌买30克镯子差价有一万多",
@@ -1182,7 +1335,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -1213,6 +1366,18 @@
           "time_info": "[03时44分 ~ 13时09分]"
         },
         {
+          "title": "金价下跌买30克镯子差价有一万多",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时14分]"
+        },
+        {
           "title": "金价陷入低迷",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1225,15 +1390,15 @@
           "time_info": "[01时16分 ~ 08时06分]"
         },
         {
-          "title": "金价下跌买30克镯子差价有一万多",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B9%B030%E5%85%8B%E9%95%AF%E5%AD%90%E5%B7%AE%E4%BB%B7%E6%9C%89%E4%B8%80%E4%B8%87%E5%A4%9A",
-          "source": "百度热搜",
+          "title": "金价这轮下跌何时到底",
+          "url": "https://www.toutiao.com/trending/7653410213311024681/",
+          "source": "今日头条",
           "ranks": [
-            17
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "金价银价双双下跌",
@@ -1263,8 +1428,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 19时14分]"
         },
         {
           "title": "吴清表示「严查严处借科技之名蹭热点、炒概念甚至操纵市场，内幕交易等违法违规行为」，释放了什么监管信号？",
@@ -1290,19 +1455,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 16时49分]"
+          "appearance_count": 4,
+          "time_info": "[13时09分 ~ 19时14分]"
         },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 19时14分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：索马里兰拥有丰富的自然资源，包括前景可观的稀土矿产、石油和天然气资源，以及一个尚未开发的采掘行业。以色列在创新和科技领域的领先地位，与索马里兰尚未开发的潜力和战略地理位置堪称天然伙伴。",
@@ -1311,7 +1477,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         }
@@ -1383,8 +1549,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 19时14分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -1396,8 +1562,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时16分 ~ 19时14分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
