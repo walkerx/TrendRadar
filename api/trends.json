@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T10:49:29.181041+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-06-23T14:47:57.864968+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 10时49分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 14时47分]"
         },
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -79,6 +79,28 @@
           "time_info": "[07时25分 ~ 10时49分]"
         },
         {
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "顽强战平比利时队，伊朗议长、外长发图致敬球队",
+          "url": "https://news.ifeng.com/c/8uBnCRJdvtz",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判代表团团长在阿曼外长的欢迎下抵达马斯喀特。",
           "url": "https://flash.jin10.com/detail/20260623024208511800",
           "source": "金十数据",
@@ -88,6 +110,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 14时47分]"
         },
         {
           "title": "伊朗队在洛杉矶更衣室留下感谢信",
@@ -101,6 +137,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时22分 ~ 07时25分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 14时47分]"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -124,33 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时25分]"
-        },
-        {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
-          "ranks": [
-            20,
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 10时49分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 10时49分]"
         },
         {
           "title": "伊朗向中方通报伊美谈判最新情况",
@@ -193,7 +216,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -259,9 +282,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "伊朗使馆：伊朗总统将访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3123221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
@@ -292,7 +337,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -358,7 +403,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -383,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "豁免60天、6800万桶待售：伊朗火速游说亚洲，大买家却按兵不动",
+          "url": "https://flash.jin10.com/detail/20260623140536952800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "美国豁免制裁前一周，伊朗出口了3000万桶原油",
@@ -435,7 +491,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -468,7 +524,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -479,15 +535,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社，伊朗称关于落实谅解备忘录的技术性会谈已经结束。",
+          "url": "https://wallstreetcn.com/livenews/3123194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -536,13 +603,24 @@
           "time_info": "03时23分"
         },
         {
+          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
+          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
           "url": "https://www.cls.cn/detail/2406197",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -553,7 +631,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -589,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
@@ -737,8 +826,20 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 14时47分]"
+        },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
@@ -750,18 +851,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时22分 ~ 07时25分]"
-        },
-        {
-          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
-          "url": "https://wallstreetcn.com/articles/3775200",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 10时49分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -777,6 +866,53 @@
           "time_info": "[06时01分 ~ 10时49分]"
         },
         {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时47分]"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时47分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时47分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
           "url": "https://wallstreetcn.com/livenews/3123036",
           "source": "华尔街见闻-快讯",
@@ -786,28 +922,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
         },
         {
           "title": "报道：高通接近收购AI芯片初创公司Modular",
@@ -821,15 +935,26 @@
           "time_info": "06时01分"
         },
         {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
+          "title": "消息人士：日产汽车在去年年初已停止开发其电动版Qashqai SUV。即使重启项目，该车型也要到下个十年才能上市。",
+          "url": "https://flash.jin10.com/detail/20260623141237233800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时47分"
+        },
+        {
+          "title": "武亮说峰学要拥抱AI带来的变化",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E4%BA%AE%E8%AF%B4%E5%B3%B0%E5%AD%A6%E8%A6%81%E6%8B%A5%E6%8A%B1AI%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "物理AI第一股上市首日高开302%",
@@ -860,7 +985,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -915,7 +1040,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -933,124 +1058,8 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "小金属锆供需关系生变，A股相关个股受资金追捧",
-          "url": "https://wallstreetcn.com/livenews/3123070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "A股房地产板块震荡走高，津投城开2连板，中洲控股涨停，光大嘉宝、中天服务、南山控股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260623103317062800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "港股芯片股部分反弹，芯智控股(02166.HK)涨超20%，国民技术(02701.HK)涨超17%，天数智芯(09903.HK)、中芯国际(00981.HK)涨近5%。",
-          "url": "https://flash.jin10.com/detail/20260623103300750800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股光纤概念股反复活跃，长飞光纤涨停续刷历史新高，三孚股份、特发信息此前封板，大族激光涨超9%，长江通信、烽火通信跟涨。",
-          "url": "https://flash.jin10.com/detail/20260623103010505800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股上市银行2025年年度分红已派现超1460亿元",
-          "url": "https://wallstreetcn.com/livenews/3123067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "A股影视传媒板块短线走强，中科金财、中国电影涨超5%，湖北广电、金逸影视、欢瑞世纪等多股涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260623102850184800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股动漫概念部分走高，涟升科技涨超6%，光线传媒涨超4%，天舟文化、慈文传媒、苏宁环球等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260623102650503800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3123126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股面板概念股活跃，凯盛科技盘中续创新高，彩虹股份涨停，八亿时空涨超10%，华塑控股、深华发A、同兴达跟涨。",
-          "url": "https://flash.jin10.com/detail/20260623101534260800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股CRO概念持续冲高，亨迪药业、睿智医药20CM涨停，诺唯赞涨超16%，富祥股份涨超11%，德展健康涨超9%。",
-          "url": "https://flash.jin10.com/detail/20260623101255422800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
@@ -1071,8 +1080,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 10时49分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 14时47分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -1088,6 +1097,28 @@
           "time_info": "[03时22分 ~ 10时49分]"
         },
         {
+          "title": "科创50指数尾盘跌超3%，澜起科技跌超8%领跌成分股。",
+          "url": "https://flash.jin10.com/detail/20260623143039194800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "科创50指数尾盘跌超3%，澜起科技跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3123231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.29%，报23830点。 恒生科技指数主连夜盘收涨0.26%，报4565点。",
           "url": "https://wallstreetcn.com/livenews/3122993",
           "source": "华尔街见闻-快讯",
@@ -1099,15 +1130,59 @@
           "time_info": "03时23分"
         },
         {
+          "title": "韩国和日本股市因科技股大幅抛售而下跌",
+          "url": "https://flash.jin10.com/detail/20260623142319115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "科技热潮降温 ，亚洲股市全线下跌，韩股暴跌8%触发熔断，黄金回吐隔夜涨幅",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "机器人概念股异动拉升，巨轮智能直线涨停，方正电机、联诚精密此前封板，国民技术、万通液压、华是科技、拓斯达、金道科技跟涨。",
           "url": "https://wallstreetcn.com/livenews/3123128",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至3%，恒生指数跌1.7%。MINIMAX跌超18%，智谱跌近12%。",
+          "url": "https://wallstreetcn.com/livenews/3123215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "深成指跌超3%，成份股中，德福科技跌超14%，铜冠铜箔跌超11%。",
+          "url": "https://flash.jin10.com/detail/20260623140725174800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
@@ -1138,7 +1213,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1149,7 +1224,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1167,8 +1242,168 @@
       ]
     },
     {
+      "keyword_group": "a股 港股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "小金属锆供需关系生变，A股相关个股受资金追捧",
+          "url": "https://wallstreetcn.com/livenews/3123070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "A股房地产板块震荡走高，津投城开2连板，中洲控股涨停，光大嘉宝、中天服务、南山控股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260623103317062800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "港股芯片股部分反弹，芯智控股(02166.HK)涨超20%，国民技术(02701.HK)涨超17%，天数智芯(09903.HK)、中芯国际(00981.HK)涨近5%。",
+          "url": "https://flash.jin10.com/detail/20260623103300750800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股光纤概念股反复活跃，长飞光纤涨停续刷历史新高，三孚股份、特发信息此前封板，大族激光涨超9%，长江通信、烽火通信跟涨。",
+          "url": "https://flash.jin10.com/detail/20260623103010505800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股上市银行2025年年度分红已派现超1460亿元",
+          "url": "https://wallstreetcn.com/livenews/3123067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "A股影视传媒板块短线走强，中科金财、中国电影涨超5%，湖北广电、金逸影视、欢瑞世纪等多股涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260623102850184800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股动漫概念部分走高，涟升科技涨超6%，光线传媒涨超4%，天舟文化、慈文传媒、苏宁环球等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260623102650503800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3123126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股面板概念股活跃，凯盛科技盘中续创新高，彩虹股份涨停，八亿时空涨超10%，华塑控股、深华发A、同兴达跟涨。",
+          "url": "https://flash.jin10.com/detail/20260623101534260800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股CRO概念持续冲高，亨迪药业、睿智医药20CM涨停，诺唯赞涨超16%，富祥股份涨超11%，德展健康涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260623101255422800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "港股午后扩大跌幅，恒生科技指数跌超3%，恒生指数跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260623135940054800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "A股银行板块逆势拉升，中国银行、西安银行、邮储银行、渝农商行、重庆银行等多股涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3123199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "港股存储芯片板块震荡走低，南方两倍做多海力士跌超20%，澜起科技跌超9%，兆易创新跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3123196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -1186,11 +1421,12 @@
           "url": "https://www.cls.cn/detail/2406186",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 10时49分]"
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 14时47分]"
         },
         {
           "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
@@ -1199,9 +1435,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时47分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌2%，标普500指数期货跌1.1%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3123229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "14时47分"
         },
         {
           "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
@@ -1226,6 +1473,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "欧美股指期货跌幅扩大，标普500指数期货下跌0.9%，纳斯达克期货指数下跌1.6%；欧洲斯托克50指数期货下跌0.9%，德国DAX指数期货下跌1.0%，英国富时指数期货下跌1.0%。",
+          "url": "https://wallstreetcn.com/livenews/3123210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "IBM美股盘后涨2.4%。",
           "url": "https://wallstreetcn.com/livenews/3123019",
           "source": "华尔街见闻-快讯",
@@ -1243,7 +1501,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -1251,7 +1509,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
@@ -1260,9 +1518,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时49分 ~ 14时47分]"
         },
         {
           "title": "金十图示：2026年06月23日（周二）上海金早盘价为906.19元/克，较国际金价(906.18元/克)，高0.01元/克",
@@ -1271,9 +1529,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "金价又又又崩了",
+          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "金价暴跌黄金该买还是该卖",
@@ -1282,9 +1551,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "国际金价“高台跳水” 金饰价格降了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -1299,7 +1579,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -1329,8 +1609,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 10时49分]"
+          "appearance_count": 7,
+          "time_info": "[03时22分 ~ 14时47分]"
         },
         {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
