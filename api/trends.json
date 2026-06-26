@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:22:08.103379+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-06-26T21:08:40.764621+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
@@ -28,11 +28,12 @@
             9,
             11,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 21时08分]"
         },
         {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
@@ -93,6 +94,19 @@
           "time_info": "01时09分"
         },
         {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时08分]"
+        },
+        {
           "title": "你对AI脸产生生理性厌恶了吗",
           "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
           "source": "百度热搜",
@@ -129,18 +143,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 10时55分]"
-        },
-        {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时22分]"
         },
         {
           "title": "美国防部更新目标定位指南 放宽AI参与作战决策限制",
@@ -228,6 +230,42 @@
           "time_info": "[01时09分 ~ 05时28分]"
         },
         {
+          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2410276",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时08分]"
+        },
+        {
+          "title": "AI时代如何选专业",
+          "url": "https://www.douyin.com/hot/2548080",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时08分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 21时08分]"
+        },
+        {
           "title": "UP主手搓AI实时生成游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -261,17 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
@@ -320,17 +347,6 @@
           "time_info": "[05时28分 ~ 07时14分]"
         },
         {
-          "title": "AI时代如何选专业",
-          "url": "https://www.douyin.com/hot/2548080",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
           "title": "于正这部AI剧夯爆了",
           "url": "https://www.douyin.com/hot/2547720",
           "source": "抖音",
@@ -353,15 +369,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "21时08分"
         },
         {
           "title": "主流AI Coding开发鹅腿识别",
@@ -375,13 +391,24 @@
           "time_info": "07时14分"
         },
         {
+          "title": "曝 OpenAI GPT-5.6 系列即将登场，可能带来哪些技术突破和影响？",
+          "url": "https://www.zhihu.com/question/2051692980243894309",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "我国科研团队发布海洋关键材料AI科研助手",
           "url": "https://wallstreetcn.com/livenews/3125194",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -425,7 +452,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -513,7 +540,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -554,7 +581,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -598,9 +625,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
@@ -745,7 +783,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -767,7 +805,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -783,6 +821,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "深交所：本周对近期股价异常波动的“兴业科技”进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3125283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "半导体产业链延续强势，新莱应材20cm涨停，股价创历史新高，上海合晶、中科飞测、正帆科技涨超10%，彤程新材、南大光电、圣晖集成涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3124944",
           "source": "华尔街见闻-快讯",
@@ -796,8 +845,213 @@
       ]
     },
     {
+      "keyword_group": "能源",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "国家发改委、国家能源局印发《新型能源体系建设“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2409201",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时14分]"
+        },
+        {
+          "title": "清洁低碳安全高效的能源新图景",
+          "url": "https://www.toutiao.com/trending/7655633363038453770/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "国家能源局：“十五五”时期全国电网固定资产投资将达5万亿元以上",
+          "url": "https://flash.jin10.com/detail/20260626105046201800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "新型能源体系建设“十五五”规划",
+          "url": "https://www.douyin.com/hot/2548849",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "国家能源局：将提升统一电力市场治理水平 坚决破除地方保护和市场壁垒",
+          "url": "https://flash.jin10.com/detail/20260626104922098800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "“十五五”能源重点项目和新业态投资将超20万亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33457809",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时08分]"
+        },
+        {
+          "title": "什么信号？SpaceX“垂直整合”拓展至能源领域，下个月开建天然气管道！",
+          "url": "https://www.cls.cn/detail/2409896",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
+          "title": "新能源车私改电池生意爆火，花 1.5 万可增加 160 公里续航，私改有哪些风险？灰色市场为何难遏制？",
+          "url": "https://www.zhihu.com/question/2053114654025408783",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "国家能源局：“十五五”时期预计全国年均用电增量将达6000亿度左右",
+          "url": "https://flash.jin10.com/detail/20260626104634097800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "国家能源局局长王宏志：预计“十五五”能源重点项目和新业态投资总规模超20万亿元",
+          "url": "https://wallstreetcn.com/livenews/3124984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "模型显示：美国气温升高将带动能源需求上升，空调制冷需求恐创历史第二高",
+          "url": "https://wallstreetcn.com/livenews/3124770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "国家能源局局长王宏志：预计2030年我国电力装机规模将达54亿千瓦",
+          "url": "https://wallstreetcn.com/livenews/3124978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "蒙罗能源：采取一切必要措施扑灭火灾。",
+          "url": "https://flash.jin10.com/detail/20260626003907336800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "法国总统马克龙：美国已结束对乌克兰的中立立场，其支持基辅的领土完整、军事援助、能源支持以及对俄罗斯的制裁。",
+          "url": "https://flash.jin10.com/detail/20260626031925149800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "蒙罗能源：现场消防应急小组已立即启动，部署多项应急响应资源。",
+          "url": "https://flash.jin10.com/detail/20260626003859021800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "蒙罗能源：位于宾夕法尼亚州特雷纳的蒙罗能源炼油厂的一个工艺单元泵房发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260626003842861800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "国家能源局：“十五五”时期将做好化石能源“开发”和“储备” 显著提升非化石能源供给",
+          "url": "https://flash.jin10.com/detail/20260626103539494800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "国家能源局：为支撑新能源快速发展和保障用能需要，“十五五”时期将继续发挥煤电作用",
+          "url": "https://flash.jin10.com/detail/20260626103320808800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "a股 港股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "港股保险股集体下跌，新华保险(01336.HK)跌近5%，中国人寿(02628.HK)跌超4%，中国太平(00966.HK)跌超3%，中国平安(02318.HK)跌超2%。",
@@ -944,6 +1198,17 @@
           "time_info": "14时53分"
         },
         {
+          "title": "天海防务：拟向特定对象发行A股股票募资不超10亿元用于高端绿色船舶扩产等项目",
+          "url": "https://wallstreetcn.com/livenews/3125303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "A股CPO概念震荡走低，太辰光跌超10%，新易盛、中际旭创跌超5%，长盈通、汇绿生态、仕佳光子、光迅科技、亨通光电、永鼎股份纷纷下挫。",
           "url": "https://wallstreetcn.com/livenews/3124958",
           "source": "华尔街见闻-快讯",
@@ -979,191 +1244,207 @@
       ]
     },
     {
-      "keyword_group": "能源",
-      "match_count": 16,
+      "keyword_group": "伊朗",
+      "match_count": 17,
       "titles": [
         {
-          "title": "国家发改委、国家能源局印发《新型能源体系建设“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2409201",
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
           "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 07时14分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 18时22分]"
         },
         {
-          "title": "国家能源局：“十五五”时期全国电网固定资产投资将达5万亿元以上",
-          "url": "https://flash.jin10.com/detail/20260626105046201800",
+          "title": "据伊朗Press TV：美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级。",
+          "url": "https://flash.jin10.com/detail/20260626205040361800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
+          "url": "https://flash.jin10.com/detail/20260626010507176800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "01时09分"
         },
         {
-          "title": "国家能源局：将提升统一电力市场治理水平 坚决破除地方保护和市场壁垒",
-          "url": "https://flash.jin10.com/detail/20260626104922098800",
-          "source": "金十数据",
+          "title": "伊朗和美国开设沟通渠道，就霍尔木兹海峡进行协调。美伊霍尔木兹沟通渠道将防止军事升级。（伊朗Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3125327",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "21时08分"
         },
         {
-          "title": "“十五五”能源重点项目和新业态投资将超20万亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33457809",
-          "source": "澎湃新闻",
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时08分]"
         },
         {
-          "title": "什么信号？SpaceX“垂直整合”拓展至能源领域，下个月开建天然气管道！",
-          "url": "https://www.cls.cn/detail/2409896",
-          "source": "财联社热门",
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
           "ranks": [
+            5,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时08分]"
         },
         {
-          "title": "新能源车私改电池生意爆火，花 1.5 万可增加 160 公里续航，私改有哪些风险？灰色市场为何难遏制？",
-          "url": "https://www.zhihu.com/question/2053114654025408783",
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
           "source": "知乎",
           "ranks": [
-            7
+            17,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时14分]"
         },
         {
-          "title": "国家能源局：“十五五”时期预计全国年均用电增量将达6000亿度左右",
-          "url": "https://flash.jin10.com/detail/20260626104634097800",
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 21时08分]"
+        },
+        {
+          "title": "美军施压伊朗“免费通行” 阿曼左右逢源态度摇摆",
+          "url": "https://flash.jin10.com/detail/20260626144456768800",
           "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "14时53分"
         },
         {
-          "title": "国家能源局局长王宏志：预计“十五五”能源重点项目和新业态投资总规模超20万亿元",
-          "url": "https://wallstreetcn.com/livenews/3124984",
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://wallstreetcn.com/livenews/3125318",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "21时08分"
         },
         {
-          "title": "模型显示：美国气温升高将带动能源需求上升，空调制冷需求恐创历史第二高",
-          "url": "https://wallstreetcn.com/livenews/3124770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "国家能源局局长王宏志：预计2030年我国电力装机规模将达54亿千瓦",
-          "url": "https://wallstreetcn.com/livenews/3124978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "蒙罗能源：采取一切必要措施扑灭火灾。",
-          "url": "https://flash.jin10.com/detail/20260626003907336800",
+          "title": "以色列国防部长：如果伊朗攻击以色列，将“犯下最大的错误”。",
+          "url": "https://flash.jin10.com/detail/20260626203708830800",
           "source": "金十数据",
           "ranks": [
-            18
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "21时08分"
         },
         {
-          "title": "法国总统马克龙：美国已结束对乌克兰的中立立场，其支持基辅的领土完整、军事援助、能源支持以及对俄罗斯的制裁。",
-          "url": "https://flash.jin10.com/detail/20260626031925149800",
-          "source": "金十数据",
+          "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
+          "url": "https://wallstreetcn.com/livenews/3124821",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
         {
-          "title": "蒙罗能源：现场消防应急小组已立即启动，部署多项应急响应资源。",
-          "url": "https://flash.jin10.com/detail/20260626003859021800",
+          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
+          "url": "https://flash.jin10.com/detail/20260626004406200800",
           "source": "金十数据",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
         {
-          "title": "蒙罗能源：位于宾夕法尼亚州特雷纳的蒙罗能源炼油厂的一个工艺单元泵房发生火灾。",
-          "url": "https://flash.jin10.com/detail/20260626003842861800",
-          "source": "金十数据",
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3124766",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
         },
         {
-          "title": "国家能源局：“十五五”时期将做好化石能源“开发”和“储备” 显著提升非化石能源供给",
-          "url": "https://flash.jin10.com/detail/20260626103539494800",
+          "title": "伊朗警告船舶勿使用未经授权的海峡航线",
+          "url": "https://flash.jin10.com/detail/20260626030730178800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "03时53分"
         },
         {
-          "title": "国家能源局：为支撑新能源快速发展和保障用能需要，“十五五”时期将继续发挥煤电作用",
-          "url": "https://flash.jin10.com/detail/20260626103320808800",
-          "source": "金十数据",
+          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3124808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "03时53分"
+        },
+        {
+          "title": "伊副外长：通过霍尔木兹海峡必须与伊朗协调",
+          "url": "https://flash.jin10.com/detail/20260626175424285800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -1175,6 +1456,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 07时14分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
@@ -1256,7 +1548,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1329,162 +1621,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 18时22分]"
-        },
-        {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "意大利总理梅洛尼：我们从未参与伊朗冲突。",
-          "url": "https://flash.jin10.com/detail/20260626010507176800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "在伊华商：战争改变伊朗民众对中国的看法",
-          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时22分]"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 07时14分]"
-        },
-        {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "美军施压伊朗“免费通行” 阿曼左右逢源态度摇摆",
-          "url": "https://flash.jin10.com/detail/20260626144456768800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
-          "url": "https://wallstreetcn.com/livenews/3124821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
-          "url": "https://flash.jin10.com/detail/20260626004406200800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
-          "url": "https://wallstreetcn.com/livenews/3124766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "伊朗警告船舶勿使用未经授权的海峡航线",
-          "url": "https://flash.jin10.com/detail/20260626030730178800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3124808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "伊副外长：通过霍尔木兹海峡必须与伊朗协调",
-          "url": "https://flash.jin10.com/detail/20260626175424285800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -1496,6 +1634,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时54分 ~ 14时53分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3125328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "美股",
@@ -1545,6 +1694,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 07时14分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-26）",
+          "url": "https://flash.jin10.com/detail/20260626204735007800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
@@ -1655,9 +1815,86 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 18时22分]"
+        },
+        {
+          "title": "金价大跌但金店没有迎来“好日子”",
+          "url": "https://www.toutiao.com/trending/7655659578599673407/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 21时08分]"
+        },
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时54分 ~ 14时53分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 18时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 21时08分]"
+        },
         {
           "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
           "url": "https://www.cls.cn/detail/2409672",
@@ -1668,18 +1905,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时54分 ~ 14时53分]"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 18时22分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -1702,58 +1927,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 10时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价跌回3字头半年回撤30%",
-          "url": "https://www.toutiao.com/trending/7655352007544278564/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 18时22分]"
-        },
-        {
-          "title": "金价跌回3字头 半年回撤30%",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 14时53分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时22分]"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时22分]"
         }
       ]
     },
