@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T11:02:47.209713+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-07-01T15:17:12.626033+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -25,9 +25,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 15时17分]"
+        },
+        {
+          "title": "德国提出在欧洲生产美国武器的计划 以争取特朗普的继续支持",
+          "url": "https://flash.jin10.com/detail/20260701144532076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "15时17分"
         },
         {
           "title": "美国总统特朗普：国会应立即着手推动终止出生公民权。",
@@ -50,6 +61,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 15时17分]"
         },
         {
           "title": "美国总统特朗普：我们完全可以通过国会立法解决这一问题，我也会予以支持。",
@@ -169,7 +192,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -205,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
@@ -286,8 +298,279 @@
       ]
     },
     {
+      "keyword_group": "ai",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 15时17分]"
+        },
+        {
+          "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
+          "url": "https://flash.jin10.com/detail/20260701070002377800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
+          "url": "https://flash.jin10.com/detail/20260701070002368800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3127010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时08分]"
+        },
+        {
+          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
+          "url": "https://flash.jin10.com/detail/20260701065200498800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103204339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时25分]"
+        },
+        {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "AI预测2026英雄联盟MSI谁能夺冠",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 15时17分]"
+        },
+        {
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
+          "url": "https://www.cls.cn/detail/2413162",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "AI裁员 硅谷叶文洁出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "终于明白AI免费和订阅的区别了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "为什么有人愿意花百万买一个AI恋人",
+          "url": "https://www.toutiao.com/trending/7657146718630461482/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
+          "url": "https://wallstreetcn.com/livenews/3127006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
+          "url": "https://wallstreetcn.com/livenews/3127224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
+          "url": "https://flash.jin10.com/detail/20260701063003352800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
+          "url": "https://www.zhihu.com/question/2053591589927262082",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
+          "url": "https://wallstreetcn.com/livenews/3126913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
+          "url": "https://wallstreetcn.com/livenews/3126902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "景林资产“内部信”曝光：核心配置聚焦半导体与AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3127199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -467,6 +750,28 @@
           "time_info": "03时49分"
         },
         {
+          "title": "伊朗国防部长：在与国会经济委员会成员们的会议中，我强调，伊朗伊斯兰共和国的防御、导弹和无人机能力是国家安全的红线，这些能力不可谈判，永远不会被谈判。这些能力将依靠国内力量进行发展。",
+          "url": "https://flash.jin10.com/detail/20260701142410501800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "伊朗官员：美国干涉地区事务的时代已结束",
+          "url": "https://wallstreetcn.com/livenews/3127209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "据知情人士透露，伊朗革命卫队已告知调解方，如果在多哈会谈中无法获得伊朗对霍尔木兹海峡拥有唯一控制权的保证，将再次关闭这条航道。 革命卫队还要求美国及其他国家放弃让船只经由靠近阿曼一侧海峡南部水域航行的计划。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3126906",
           "source": "华尔街见闻-快讯",
@@ -524,201 +829,8 @@
       ]
     },
     {
-      "keyword_group": "ai",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
-          "url": "https://flash.jin10.com/detail/20260701070002377800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
-          "url": "https://flash.jin10.com/detail/20260701070002368800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3127010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时08分]"
-        },
-        {
-          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
-          "url": "https://flash.jin10.com/detail/20260701065200498800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701103204339800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时25分]"
-        },
-        {
-          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
-          "url": "https://www.cls.cn/detail/2413162",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "终于明白AI免费和订阅的区别了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "为什么有人愿意花百万买一个AI恋人",
-          "url": "https://www.toutiao.com/trending/7657146718630461482/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
-          "url": "https://wallstreetcn.com/livenews/3127006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
-          "url": "https://flash.jin10.com/detail/20260701063003352800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
-          "url": "https://wallstreetcn.com/livenews/3126902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "AI预测2026英雄联盟MSI谁能夺冠",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "a股 港股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
@@ -728,8 +840,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 15时17分]"
         },
         {
           "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
@@ -737,11 +849,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 15时17分]"
         },
         {
           "title": "半年收官，A股IPO受理“冲刺潮”，单日44家、单月144家创峰值",
@@ -751,8 +864,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 15时17分]"
         },
         {
           "title": "A股保险板块持续拉升，新华保险涨超6%，中国人寿涨超5%，中国人保、中国太保、中国平安跟涨。",
@@ -761,7 +874,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -772,9 +885,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股兆易创新成交额超400亿元，现跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260701144400543800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "A股上半年股王涨超770%",
@@ -791,6 +915,17 @@
           "time_info": "[01时03分 ~ 07时08分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
           "title": "京东方成交额超400亿元位居A股第一",
           "url": "https://www.toutiao.com/trending/7657188154868239913/",
           "source": "今日头条",
@@ -800,6 +935,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "A股先进封装板块午后持续走低，快克智能跌停，三佳科技、芯原股份、兴森科技、寒武纪、蓝箭电子、联瑞新材等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260701143804883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "港股上半年IPO火热，券商加码在港业务",
@@ -819,7 +965,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -830,7 +976,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -841,7 +987,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -852,7 +998,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -863,9 +1009,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股半导体设备板块午后持续走低，恒运昌跌超13%，芯源微、盛美上海、富创精密、晶升股份等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260701141744774800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "提醒：香港股市今日因假期休市。",
@@ -874,7 +1031,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -885,9 +1042,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股半导体设备板块走低，恒运昌跌超13%，芯源微、盛美上海、富创精密、晶升股份等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3127201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "A股CRO概念持续走弱，药明康德跌超6%，美迪西跌超5%，恒瑞医药、成都先导、凯莱英等跟跌。",
@@ -896,7 +1064,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -936,9 +1104,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 15时17分]"
         },
         {
           "title": "90岁院士钟掘践行科技报国初心",
@@ -961,17 +1141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "科技繁荣助力，新兴市场股市有望创2009年以来最佳季度表现",
@@ -1035,6 +1204,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时08分 ~ 15时17分]"
+        },
+        {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
@@ -1057,18 +1239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 11时02分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -1153,8 +1323,19 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "“十五五”能源强国新图景",
+          "url": "https://www.toutiao.com/trending/7656677786681606180/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
         {
           "title": "美国能源信息署（EIA）：美国4月馏分油需求为388.7万桶/日，同比增加0.1%（即4,000桶/日）（3月为增长0.3%）。",
           "url": "https://flash.jin10.com/detail/20260701001512771800",
