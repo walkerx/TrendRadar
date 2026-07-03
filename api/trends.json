@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T03:14:03.135016+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-04T05:01:22.065934+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -36,9 +36,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
+          "url": "https://flash.jin10.com/detail/20260704021129048800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 05时01分]"
         },
         {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
@@ -65,17 +77,6 @@
           "time_info": "[01时21分 ~ 03时14分]"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
-          "url": "https://flash.jin10.com/detail/20260704021129048800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
           "url": "https://flash.jin10.com/detail/20260704004754888800",
           "source": "金十数据",
@@ -98,6 +99,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
           "url": "https://flash.jin10.com/detail/20260703235631921800",
           "source": "金十数据",
@@ -118,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "伊朗总统与俄罗斯就扩大合作进行了会谈",
+          "url": "https://wallstreetcn.com/livenews/3128816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -145,7 +168,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -155,8 +178,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -166,8 +189,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -177,20 +200,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
-          "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/3128806",
+          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
+          "url": "https://wallstreetcn.com/livenews/3128834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            12
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -200,30 +222,43 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
           "url": "https://wallstreetcn.com/articles/3776098",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
+        },
+        {
+          "title": "欧洲顶级银行家和监管机构警告：AI发展速度已超越现行规则",
+          "url": "https://wallstreetcn.com/livenews/3128832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -233,8 +268,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
+        },
+        {
+          "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3128806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -247,12 +295,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时14分]"
+        },
+        {
+          "title": "特朗普前AI顾问：美国不会设立类FDA的AI监管机构",
+          "url": "https://wallstreetcn.com/livenews/3128826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "能源",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -262,8 +321,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -271,11 +330,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
@@ -286,8 +346,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时01分]"
+        },
+        {
+          "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
+          "url": "https://flash.jin10.com/detail/20260704031424117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在紧急程序网站上发布消息，宣布启动EEA2（二级能源紧急警报）行动，原因是已无法满足预期的能源需求。 该公司表示，正在实施一项运营计划，要求公用事业公司在其服务区域内削减电力需求。该区域覆盖中大西洋地区、南部地区以及华盛顿特区，服务人口达6700万。",
+          "url": "https://wallstreetcn.com/livenews/3128822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "欧洲央行管委内格尔：近期能源价格回落令人意外，形势仍然不稳定。",
@@ -315,7 +397,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -325,8 +407,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -336,8 +418,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 05时01分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -350,6 +443,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 03时14分]"
+        },
+        {
+          "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
+          "url": "https://flash.jin10.com/detail/20260704032701636800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -373,22 +477,24 @@
           "url": "https://wallstreetcn.com/livenews/3128818",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 05时01分]"
         },
         {
           "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
           "url": "https://wallstreetcn.com/livenews/3128809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 05时01分]"
         },
         {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
@@ -397,7 +503,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         }
@@ -405,7 +511,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -416,8 +522,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[01时21分 ~ 05时01分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
+          "url": "https://wallstreetcn.com/livenews/3128820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -430,11 +547,12 @@
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 05时01分]"
         }
       ]
     },
