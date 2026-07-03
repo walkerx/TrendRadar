@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:55:17.271965+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-07-03T23:08:06.402407+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -61,11 +61,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 20时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 23时08分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
@@ -119,6 +120,33 @@
           "time_info": "[01时42分 ~ 05时02分]"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 23时08分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 23时08分]"
+        },
+        {
           "title": "AI演员已经能演出情绪变化了",
           "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
           "source": "百度热搜",
@@ -145,13 +173,26 @@
           "time_info": "[15时59分 ~ 20时55分]"
         },
         {
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 23时08分]"
+        },
+        {
           "title": "粤港湾智算：2026年上半年，集团累计新增AI算力云服务意向订单超150亿元",
           "url": "https://flash.jin10.com/detail/20260703202910034800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -179,18 +220,6 @@
           "time_info": "[03时19分 ~ 05时02分]"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 20时55分]"
-        },
-        {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
           "url": "https://wallstreetcn.com/livenews/3128190",
           "source": "华尔街见闻-快讯",
@@ -203,20 +232,6 @@
           "time_info": "[03时19分 ~ 05时02分]"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            10,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 20时55分]"
-        },
-        {
           "title": "美国AI三大巨头争抢哲学家",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
           "source": "百度热搜",
@@ -226,6 +241,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 03时19分]"
+        },
+        {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 23时08分]"
         },
         {
           "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
@@ -252,18 +279,6 @@
           "time_info": "[01时43分 ~ 07时01分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 20时55分]"
-        },
-        {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
           "url": "https://wallstreetcn.com/livenews/3128187",
           "source": "华尔街见闻-快讯",
@@ -288,6 +303,17 @@
           "time_info": "[07时01分 ~ 08时16分]"
         },
         {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
           "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
           "url": "https://www.cls.cn/detail/2415850",
           "source": "财联社热门",
@@ -297,6 +323,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 15时59分]"
+        },
+        {
+          "title": "4名大学生出题 AI考了0分",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
+          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
@@ -374,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "微软高管：微软可以帮助企业改进AI使用方式",
@@ -503,7 +540,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -547,7 +584,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -577,7 +614,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -590,6 +627,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时42分 ~ 12时39分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时59分 ~ 23时08分]"
         },
         {
           "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
@@ -617,6 +668,18 @@
           "time_info": "[07时01分 ~ 08时16分]"
         },
         {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 23时08分]"
+        },
+        {
           "title": "特朗普参加活动后直接拿走剪刀",
           "url": "https://www.toutiao.com/trending/7656820359463518259/",
           "source": "今日头条",
@@ -628,28 +691,15 @@
           "time_info": "[01时42分 ~ 05时02分]"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 20时55分]"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时59分 ~ 20时55分]"
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "拜登之子讽刺特朗普乃“史上最会停战总统”",
@@ -960,6 +1010,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美国总统特朗普：我认为人工智能比互联网更重要。",
           "url": "https://flash.jin10.com/detail/20260703053823269800",
           "source": "金十数据",
@@ -985,7 +1046,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
@@ -1151,6 +1212,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "激智科技联合小米、3M中国计划共建新型显示联合实验室",
+          "url": "https://flash.jin10.com/detail/20260703223230138800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
           "url": "https://wallstreetcn.com/livenews/3128212",
           "source": "华尔街见闻-快讯",
@@ -1239,6 +1311,17 @@
           "time_info": "08时16分"
         },
         {
+          "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
+          "url": "https://www.zhihu.com/question/2056380849625325900",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "周四（7月2日），美股存储芯片与硬件供应链指数重挫10.32%，报218.59点，本周累计下跌11.21%。 周四当天，成分股全线溃败，闪迪收跌超14.1%，泰瑞达跌超13.6%，希捷科技、拉姆研究、西部数据跌约10%，Rambus、应用材料、美光科技也跌8.81%-5.49%。",
           "url": "https://wallstreetcn.com/livenews/3128250",
           "source": "华尔街见闻-快讯",
@@ -1267,7 +1350,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1341,18 +1424,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 23时08分]"
         },
         {
           "title": "美媒曝猛料！美国曾秘密提醒伊朗：以色列要暗杀你们的谈判代表",
@@ -1372,9 +1456,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        },
+        {
+          "title": "市场消息：由沙特副外交大臣率领的沙特代表团也出席了伊朗前最高领袖哈梅内伊的葬礼。",
+          "url": "https://flash.jin10.com/detail/20260703223802779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "哈梅内伊遗体告别仪式在伊朗举行",
@@ -1394,7 +1489,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1461,7 +1556,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1488,6 +1583,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "哈梅内伊葬礼横跨伊朗和伊拉克五城，穆杰塔巴是否现身成最大悬念",
           "url": "https://flash.jin10.com/detail/20260703180505928800",
           "source": "金十数据",
@@ -1505,7 +1611,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -1545,11 +1651,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 20时55分]"
+          "appearance_count": 5,
+          "time_info": "[15时59分 ~ 23时08分]"
         },
         {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
@@ -1658,6 +1765,20 @@
           "time_info": "[08时16分 ~ 15时59分]"
         },
         {
+          "title": "A股机器人概念全线大涨",
+          "url": "https://www.toutiao.com/trending/7657736239235727401/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            14,
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时59分 ~ 23时08分]"
+        },
+        {
           "title": "港股机器人概念股持续走高，来福谐波涨超50%，埃斯顿涨超30%，优必选、兆威机电等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3128523",
           "source": "华尔街见闻-快讯",
@@ -1667,19 +1788,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
-        },
-        {
-          "title": "A股机器人概念全线大涨",
-          "url": "https://www.toutiao.com/trending/7657736239235727401/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 20时55分]"
         },
         {
           "title": "二季度以来险资加仓港股提速：“平安系”超百亿港元增持国寿H股 中国通号、青岛啤酒股份等获长线布局",
@@ -1743,7 +1851,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -1751,11 +1859,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 23时08分]"
         },
         {
           "title": "美国油服贝克休斯：美国能源企业钻井机连增三周。",
@@ -1775,11 +1884,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 23时08分]"
         },
         {
           "title": "新能源汽车车船税优惠政策调整",
@@ -1792,6 +1902,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时41分 ~ 20时55分]"
+        },
+        {
+          "title": "新能源汽车车船税优惠政策调整",
+          "url": "https://www.douyin.com/hot/2557214",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
+          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056425679093339668",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉在石油方面表现“前所未有地好”，我的政策帮助恢复了该国的能源产出。",
@@ -1822,7 +1954,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -1883,7 +2015,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
