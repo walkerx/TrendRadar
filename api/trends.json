@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T12:32:15.668746+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-04T15:42:08.285728+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 12时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 15时42分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时42分]"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -51,6 +51,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260704144842898800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗官员警告他国勿在霍尔木兹海峡采取军事行动",
+          "url": "https://wallstreetcn.com/livenews/3128909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -74,6 +96,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "伊朗议长在哈梅内伊告别仪式哭到颤抖",
+          "url": "https://www.toutiao.com/trending/7657921167663497262/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
@@ -123,6 +156,28 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
+          "title": "伊朗为哈梅内伊葬礼烤5000万块面包",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%91%AC%E7%A4%BC%E7%83%A45000%E4%B8%87%E5%9D%97%E9%9D%A2%E5%8C%85%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "伊朗警告英法勿干涉霍尔木兹海峡（事务）。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3128908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
           "url": "https://flash.jin10.com/detail/20260704004754888800",
           "source": "金十数据",
@@ -140,7 +195,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -162,9 +217,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "以色列检方称一美国公民为伊朗从事间谍活动",
+          "url": "https://wallstreetcn.com/livenews/3128899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
@@ -214,7 +280,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -250,6 +316,17 @@
           "time_info": "[01时21分 ~ 05时01分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时42分]"
+        },
+        {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
           "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
           "source": "澎湃新闻",
@@ -260,17 +337,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 12时32分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
         },
         {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
@@ -402,13 +468,24 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
           "url": "https://flash.jin10.com/detail/20260704095032353800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -416,7 +493,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -445,11 +522,12 @@
           "url": "https://flash.jin10.com/detail/20260704113342386800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时42分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -462,6 +540,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时00分 ~ 06时11分]"
+        },
+        {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -487,15 +577,15 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
-          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
-          "url": "https://wallstreetcn.com/livenews/3128882",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
+          "url": "https://flash.jin10.com/detail/20260704124044168800",
+          "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "15时42分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -515,7 +605,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -526,7 +616,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -534,7 +624,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -576,6 +666,18 @@
           "time_info": "[01时21分 ~ 06时11分]"
         },
         {
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时42分]"
+        },
+        {
           "title": "美国最大的电网运营商PJM：已无法满足预期的能源需求，因此将实施计划，削减服务区域内的用电量；该区域覆盖大西洋中部地区、南部地区及华盛顿特区，服务用户达6700万。",
           "url": "https://flash.jin10.com/detail/20260704031424117800",
           "source": "金十数据",
@@ -599,15 +701,15 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
-          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
-          "source": "澎湃新闻",
+          "title": "海南平稳推进2030年禁售燃油车 新能源车占比将达45%",
+          "url": "https://wallstreetcn.com/livenews/3128906",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "欧洲央行管委内格尔：近期能源价格回落令人意外，形势仍然不稳定。",
@@ -638,6 +740,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时42分]"
+        },
+        {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
           "url": "https://www.zhihu.com/question/2056380849625325900",
           "source": "知乎",
@@ -651,15 +765,16 @@
           "time_info": "[01时21分 ~ 06时11分]"
         },
         {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
+          "title": "宇树科技陈立：关节电机核心技术全部自研 上游仅依赖铜线、磁铁等原材料",
+          "url": "https://flash.jin10.com/detail/20260704111304915800",
+          "source": "金十数据",
           "ranks": [
-            5
+            8,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "time_info": "[12时32分 ~ 15时42分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
@@ -674,24 +789,13 @@
           "time_info": "[05时01分 ~ 06时11分]"
         },
         {
-          "title": "宇树科技陈立：关节电机核心技术全部自研 上游仅依赖铜线、磁铁等原材料",
-          "url": "https://flash.jin10.com/detail/20260704111304915800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（7月4日）",
           "url": "https://flash.jin10.com/detail/20260704091403808800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -751,59 +855,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时42分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
           "url": "https://www.cls.cn/detail/2417055",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
+            13,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时42分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "minimax 智谱",
+      "match_count": 2,
       "titles": [
         {
-          "title": "宇树高管谈具身智能ChatGPT时刻",
-          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "title": "高盛：维持MiniMax买入，目标价860港元",
+          "url": "https://flash.jin10.com/detail/20260704130927051800",
           "source": "金十数据",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时32分"
+          "time_info": "15时42分"
+        },
+        {
+          "title": "高盛：维持MiniMax买入，目标价860港元",
+          "url": "https://wallstreetcn.com/livenews/3128892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -817,6 +916,53 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 12时32分]"
+        },
+        {
+          "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
+          "url": "https://wallstreetcn.com/articles/3776162",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 15时42分]"
         }
       ]
     },
