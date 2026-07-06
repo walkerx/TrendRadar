@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-06T07:02:26.620182+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-07-06T10:45:32.792647+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
           "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 10时45分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -67,6 +68,17 @@
           "time_info": "[04时55分 ~ 07时02分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
           "url": "https://flash.jin10.com/detail/20260705232818933800",
           "source": "金十数据",
@@ -76,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
+          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
@@ -263,6 +286,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
           "url": "https://flash.jin10.com/detail/20260706001649875800",
           "source": "金十数据",
@@ -276,8 +310,216 @@
       ]
     },
     {
+      "keyword_group": "a股 港股",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 10时45分]"
+        },
+        {
+          "title": "多家A股公司，业绩大增",
+          "url": "https://www.cls.cn/detail/2417346",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 10时45分]"
+        },
+        {
+          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
+          "url": "https://www.cls.cn/detail/2417150",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时02分]"
+        },
+        {
+          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2417129",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时02分]"
+        },
+        {
+          "title": "【早报】A股交易新规，今起正式施行；多家A股公司，业绩大幅预增；哈兰德双响，挪威2-1巴西",
+          "url": "https://www.cls.cn/detail/2417464",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "A股创新药板块逆势走强，首药控股20CM涨停，华海药业、ST万邦、甘李药业等多股涨停，三元基因、新赣江、热景生物、舒泰神逾十股涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260706103432758800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "A股交易新规今起施行，券商配套更新风险揭示书",
+          "url": "https://wallstreetcn.com/livenews/3129031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "A股交易新规今起施行 投资者需注意三大变化",
+          "url": "https://flash.jin10.com/detail/20260706023348767800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时58分]"
+        },
+        {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 00时04分]"
+        },
+        {
+          "title": "下周A股解禁市值超千亿 屹唐占近2/3",
+          "url": "https://www.toutiao.com/trending/7658213750706192390/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 00时04分]"
+        },
+        {
+          "title": "A股贵金属板块再度走强，白银有色、中金岭南、湖南白银触及涨停，山金国际、赤峰黄金、西部黄金、中金黄金涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3129093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "A股三大股指持续走低，深证成指跌1%，创业板指跌1.76%，沪指跌0.41%，全市场超3100只个股下跌。",
+          "url": "https://flash.jin10.com/detail/20260706102937519800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "A股锂电池板块震荡拉升，蔚蓝锂芯、永杉锂业双双涨停，盛新锂能、华友钴业、赣锋锂业、天齐锂业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3129089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "A股军工板块表现活跃，铖昌科技2连板，国瑞科技涨超10%，振华股份、神力股份、中国动力、震有科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3129085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "A股存储芯片板块集体高开，江波龙涨超10%，中电港、华大九天、深圳华强、佰维存储、朗科科技等纷纷高开，消息上，江波龙预计上半年净利润92亿元-110亿元，同比增长62204%-74394%。",
+          "url": "https://wallstreetcn.com/livenews/3129078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "港股PCB概念走低，建滔积层板(01888.HK)跌超10%，建滔集团(00148.HK)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260706101558990800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "港股高开高走，恒指涨1%，恒生科技指数涨1.43%，创新药板块走强，中国生物制药(01177.HK)涨超10%，荣昌生物(09995.HK)涨超7%，三生制药(01530.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260706101344176800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "港股科网股拉升，哔哩哔哩(09626.HK)、腾讯控股(00700.HK)涨超3%，美团(03690.HK)涨2.4%，阿里巴巴(09988.HK)涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260706100850559800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -366,13 +608,24 @@
           "time_info": "[00时03分 ~ 00时04分]"
         },
         {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
           "url": "https://wallstreetcn.com/livenews/3129023",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -424,31 +677,62 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
-        },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 10时45分]"
+        },
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 10时45分]"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 10时45分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 10时45分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -461,33 +745,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2417353",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 07时02分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -516,6 +773,17 @@
           "time_info": "[05时58分 ~ 07时02分]"
         },
         {
+          "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
+          "url": "https://www.cls.cn/detail/2417331",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
           "url": "https://flash.jin10.com/detail/20260705225805600800",
           "source": "金十数据",
@@ -525,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "韩国总统李在明要求加速推动大型芯片项目，抢占AI行业先机",
+          "url": "https://flash.jin10.com/detail/20260706102834560800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
           "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
@@ -540,106 +819,127 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 8,
+      "keyword_group": "科技",
+      "match_count": 9,
       "titles": [
         {
-          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2417296",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
-        },
-        {
-          "title": "多家A股公司，业绩大增",
-          "url": "https://www.cls.cn/detail/2417346",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
-        },
-        {
-          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
-          "url": "https://www.cls.cn/detail/2417150",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
-        },
-        {
-          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2417129",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
-        },
-        {
-          "title": "A股交易新规今起施行，券商配套更新风险揭示书",
-          "url": "https://wallstreetcn.com/livenews/3129031",
+          "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
+          "url": "https://wallstreetcn.com/livenews/3129017",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1,
+            14
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时02分]"
+        },
+        {
+          "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3129005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时02分]"
+        },
+        {
+          "title": "上周逾百亿资金回流股票ETF，硬科技板块热度居高不下",
+          "url": "https://wallstreetcn.com/livenews/3129030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
         {
-          "title": "A股交易新规今起施行 投资者需注意三大变化",
-          "url": "https://flash.jin10.com/detail/20260706023348767800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时24分 ~ 05时58分]"
-        },
-        {
-          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
-          "url": "https://www.cls.cn/detail/2417055",
+          "title": "科技股调整怎么看？无差别抱团正分化",
+          "url": "https://www.cls.cn/detail/2417336",
           "source": "财联社热门",
           "ranks": [
-            13
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
-          "title": "下周A股解禁市值超千亿 屹唐占近2/3",
-          "url": "https://www.toutiao.com/trending/7658213750706192390/",
-          "source": "今日头条",
+          "title": "恒生科技指数上涨1%。零跑汽车涨超6%，快手、小鹏集团、京东健康涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3129103",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "7月6日投资避雷针：日盈电子、长盛轴承、福赛科技等机器人概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2417504",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "科大讯飞成立智能科技新公司，含机器人业务",
+          "url": "https://flash.jin10.com/detail/20260706101626860800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "恒指高开0.23%，报23404.61点；恒生科技指数涨0.55%。中芯国际涨2.9%，华虹宏力涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3129072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "恒生科技指数涨1%，恒指涨0.8%，汽车股走强，零跑汽车(09863.HK)涨近7%。",
+          "url": "https://flash.jin10.com/detail/20260706100804526800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
     {
       "keyword_group": "能源",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
+          "url": "https://www.cls.cn/detail/2417498",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
         {
           "title": "科威特石油部长强调石油生产国之间协调与磋商的重要性，以应对能源市场的变化。（沙科威特国家新闻社）",
           "url": "https://flash.jin10.com/detail/20260705224725658800",
@@ -698,43 +998,30 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 3,
+      "keyword_group": "minimax 智谱",
+      "match_count": 2,
       "titles": [
         {
-          "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
-          "url": "https://wallstreetcn.com/livenews/3129017",
-          "source": "华尔街见闻-快讯",
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            14
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
-          "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3129005",
-          "source": "华尔街见闻-快讯",
+          "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "上周逾百亿资金回流股票ETF，硬科技板块热度居高不下",
-          "url": "https://wallstreetcn.com/livenews/3129030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "10时45分"
         }
       ]
     },
@@ -756,19 +1043,19 @@
       ]
     },
     {
-      "keyword_group": "minimax 智谱",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年07月06日（周一）上海金早盘价为912.74元/克，较国际金价(912.78元/克)，低0.04元/克",
+          "url": "https://flash.jin10.com/detail/20260706101753380800",
+          "source": "金十数据",
           "ranks": [
-            5
+            20
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     },
