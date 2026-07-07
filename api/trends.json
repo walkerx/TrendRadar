@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T16:19:56.140494+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-07T19:44:37.489354+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时10分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[08时10分 ~ 19时44分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -125,6 +125,18 @@
           "time_info": "[02时08分 ~ 06时11分]"
         },
         {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 19时44分]"
+        },
+        {
           "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
           "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
           "source": "凤凰网",
@@ -133,8 +145,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 19时44分]"
         },
         {
           "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
@@ -149,15 +161,27 @@
           "time_info": "[12时47分 ~ 16时19分]"
         },
         {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 19时44分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划在周三与美国总统特朗普讨论空中防御问题。",
+          "url": "https://flash.jin10.com/detail/20260707193628336800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "19时44分"
         },
         {
           "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
@@ -191,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
@@ -237,15 +272,15 @@
           "time_info": "08时10分"
         },
         {
-          "title": "特朗普称不知道红牌还要禁赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "19时44分"
         },
         {
           "title": "美国总统特朗普：沃尔玛将把一磅碎牛肉价格下调近15%，并降低包括其他多种商品在内的售价。",
@@ -358,6 +393,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "市场消息：土耳其总统埃尔多安在安卡拉机场迎接美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260707191743674800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "美国总统特朗普赞赏股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3129485",
           "source": "华尔街见闻-快讯",
@@ -411,6 +457,19 @@
           "time_info": "12时47分"
         },
         {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 19时44分]"
+        },
+        {
           "title": "xAI将旗下X账号更名为SpaceXAI。",
           "url": "https://flash.jin10.com/detail/20260707042933753800",
           "source": "金十数据",
@@ -430,20 +489,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 19时44分]"
         },
         {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时47分 ~ 16时19分]"
+          "time_info": "[16时19分 ~ 19时44分]"
         },
         {
           "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
@@ -525,17 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
-        },
-        {
-          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
-          "url": "https://www.cls.cn/detail/2418905",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -621,7 +669,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -640,7 +688,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -660,7 +708,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -707,7 +755,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -751,7 +799,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -762,7 +810,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -784,9 +832,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "华菱线缆：子公司三竹科技正在研发液冷电机连接器 产品将间接配套英伟达产业链",
+          "url": "https://flash.jin10.com/detail/20260707192325539800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "联动科技：预计上半年净利润2,100万元-2,900万元，同比增长73.39%-139.44%；报告期内，公司在手订单充裕，经营业绩实现稳健增长。",
+          "url": "https://wallstreetcn.com/livenews/3129920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
@@ -811,159 +881,54 @@
           "time_info": "04时50分"
         },
         {
+          "title": "五洲医疗：正在筹划发行股份及支付现金购买旋智电子科技（上海）有限公司控股权，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3129915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "ST海龙：收到公司第一大股东温州康南科技有限公司的通知，公司实际控制人胡兴荣先生已被有权机关采取强制措施。",
+          "url": "https://wallstreetcn.com/livenews/3129914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "新思科技停产部分传统EDA软件",
           "url": "https://wallstreetcn.com/livenews/3129787",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 港股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "A股风格切换真要来了吗",
-          "url": "https://www.toutiao.com/trending/7659365090797293065/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时08分 ~ 02时09分]"
-        },
-        {
-          "title": "港股量化派尾盘一度涨近70%，现涨幅回落至55%。",
-          "url": "https://wallstreetcn.com/livenews/3129818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "智谱：媒体称撤回A股辅导备案报道失实",
-          "url": "https://wallstreetcn.com/livenews/3129739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "16时19分"
         },
         {
-          "title": "港股收评：恒指收跌0.5% 快手跌超12%",
-          "url": "https://flash.jin10.com/detail/20260707161411342800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "A股收盘：沪指失守4000点",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%A4%B1%E5%AE%884000%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "港股午评：科指冲高回落半日跌0.28% 快手跌9.5%",
-          "url": "https://flash.jin10.com/detail/20260707120404858800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "A股收盘：沪指跌1.26%失守4000点，全市场下跌个股近4800只",
-          "url": "https://wallstreetcn.com/livenews/3129803",
+          "title": "广合科技：预计上半年净利润9.1亿元-9.6亿元，同比增长85.12%-95.29%",
+          "url": "https://wallstreetcn.com/livenews/3129911",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "A股上半年：随机买股持有半年或亏15%",
-          "url": "https://www.toutiao.com/trending/7659239638603186214/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "港股收盘，恒指收跌0.51%，科指收跌0.75%；遭腾讯减持，快手(01024.HK)跌超12%；存储概念下跌，兆易创新(03986.HK)跌超12%，澜起科技(06809.HK)跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260707160931308800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "A股四大行盘中逆势拉升，中国银行涨超3%，建设银行、工商银行、农业银行均涨超1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3129793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "智谱：媒体称撤回A股辅导备案报导失实",
-          "url": "https://flash.jin10.com/detail/20260707114807815800",
-          "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "19时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
@@ -1014,13 +979,24 @@
           "time_info": "[04时50分 ~ 06时11分]"
         },
         {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "罕见！特朗普在白宫为纽交所和纳斯达克敲钟，称美股将涨破天际",
           "url": "https://news.ifeng.com/c/8uZ9ehIphCl",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1058,6 +1034,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "英伟达美股盘前短线下跌，现跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3129939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "沃尔玛美股盘后跌超0.3%，（美国中期选举之前，）总统特朗普要求该公司大幅降价。",
           "url": "https://wallstreetcn.com/livenews/3129566",
           "source": "华尔街见闻-快讯",
@@ -1091,21 +1078,170 @@
           "time_info": "04时50分"
         },
         {
+          "title": "李大霄：做多美股需要警惕了",
+          "url": "https://www.toutiao.com/trending/7659718093526011433/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "SpaceX(SPCX.O)美股盘前跌1.2%，此前该公司股票被纳入纳斯达克100指数，多家券商开始覆盖该股。",
           "url": "https://flash.jin10.com/detail/20260707160217170800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
       ]
     },
     {
+      "keyword_group": "a股 港股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "A股风格切换真要来了吗",
+          "url": "https://www.toutiao.com/trending/7659365090797293065/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "港股量化派尾盘一度涨近70%，现涨幅回落至55%。",
+          "url": "https://wallstreetcn.com/livenews/3129818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "智谱：媒体称撤回A股辅导备案报道失实",
+          "url": "https://wallstreetcn.com/livenews/3129739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "港股收评：恒指收跌0.5% 快手跌超12%",
+          "url": "https://flash.jin10.com/detail/20260707161411342800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "A股收盘：沪指失守4000点",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%A4%B1%E5%AE%884000%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "港股午评：科指冲高回落半日跌0.28% 快手跌9.5%",
+          "url": "https://flash.jin10.com/detail/20260707120404858800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "A股收盘：沪指跌1.26%失守4000点，全市场下跌个股近4800只",
+          "url": "https://wallstreetcn.com/livenews/3129803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "A股上半年：随机买股持有半年或亏15%",
+          "url": "https://www.toutiao.com/trending/7659239638603186214/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "港股收盘，恒指收跌0.51%，科指收跌0.75%；遭腾讯减持，快手(01024.HK)跌超12%；存储概念下跌，兆易创新(03986.HK)跌超12%，澜起科技(06809.HK)跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260707160931308800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "A股四大行盘中逆势拉升，中国银行涨超3%，建设银行、工商银行、农业银行均涨超1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3129793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "智谱：媒体称撤回A股辅导备案报导失实",
+          "url": "https://flash.jin10.com/detail/20260707114807815800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "能源",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
@@ -1125,7 +1261,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1136,9 +1272,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "网传新能源车智驾芯片新规系谣言",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E6%96%B0%E8%A7%84%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "LG新能源第二季度营业利润1133亿韩元，市场预期为2106.6亿韩元； 第二季度销售额7.56万亿韩元，市场预期为7.22万亿韩元。",
@@ -1191,7 +1338,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -1199,7 +1346,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
@@ -1221,7 +1368,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1235,6 +1382,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时08分 ~ 02时09分]"
+        },
+        {
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "穆迪评级：伊朗冲突进一步凸显了澳大利亚作为关键液化天然气供应国的地位，尽管其面临的政策风险正在上升。",
@@ -1273,7 +1431,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -1281,11 +1439,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 19时44分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -1311,13 +1470,35 @@
           "time_info": "12时47分"
         },
         {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "DeepSeek面试",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
@@ -1365,7 +1546,7 @@
     },
     {
       "keyword_group": "minimax 智谱",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -1378,6 +1559,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时08分 ~ 08时10分]"
+        },
+        {
+          "title": "智谱基石解禁日获近七成基石投资者表态长期持有",
+          "url": "https://wallstreetcn.com/livenews/3129927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
