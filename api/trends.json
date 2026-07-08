@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T10:25:22.443274+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-07-08T13:47:51.316860+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 70,
+      "match_count": 85,
       "titles": [
         {
           "title": "美军：开始对伊朗发动系列打击",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 10时25分]"
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 13时47分]"
         },
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
@@ -42,6 +43,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时56分 ~ 10时25分]"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 13时47分]"
+        },
+        {
+          "title": "美军称对伊朗新一轮打击，击中超80个目标",
+          "url": "https://news.ifeng.com/c/8uaXWjPtAEu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。",
@@ -88,17 +111,6 @@
           "time_info": "06时57分"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
           "title": "伊朗：美国恢复制裁措施违反谅解备忘录",
           "url": "https://news.ifeng.com/c/8ua6IyNihBa",
           "source": "凤凰网",
@@ -116,9 +128,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "以色列总理内塔尼亚胡：现在谈论伊朗局势会如何发展还为时过早。",
@@ -171,9 +194,34 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "伊朗武装部队：将坚决回应美方袭击",
+          "url": "https://news.ifeng.com/c/8uaXY5AgvoG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
+          "url": "https://www.cls.cn/detail/2419758",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 13时47分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -199,6 +247,18 @@
           "time_info": "[03时50分 ~ 05时20分]"
         },
         {
+          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
+          "url": "https://www.cls.cn/detail/2419839",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 13时47分]"
+        },
+        {
           "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
           "url": "https://wallstreetcn.com/livenews/3130141",
           "source": "华尔街见闻-快讯",
@@ -209,19 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 05时20分]"
-        },
-        {
-          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
-          "url": "https://www.cls.cn/detail/2419758",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 10时25分]"
         },
         {
           "title": "美军称开始对伊朗发动一系列有力打击",
@@ -272,6 +319,18 @@
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 13时47分]"
+        },
+        {
           "title": "载有伊朗已故最高领袖哈梅内伊遗体的飞机抵达伊拉克",
           "url": "https://wallstreetcn.com/livenews/3130195",
           "source": "华尔街见闻-快讯",
@@ -312,9 +371,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "北约秘书长吕特：美国对盟友在伊朗问题上的失望仅限于“个别案例”。",
+          "url": "https://flash.jin10.com/detail/20260708131440778800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "伊朗外交部发言人：卡塔尔指责伊朗袭击一艘与该国有关联船只的说法令人质疑，违背睦邻友好原则，不可接受。",
@@ -339,6 +409,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "北约秘书长吕特：对伊朗的新一轮攻击是绝对必要的。",
+          "url": "https://flash.jin10.com/detail/20260708131414367800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "据伊朗国家电视台报道：参加葬礼的伊朗总统从伊拉克启程回国，此前美国袭击伊朗南部多地。",
           "url": "https://wallstreetcn.com/livenews/3130218",
           "source": "华尔街见闻-快讯",
@@ -356,18 +437,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
-          "url": "https://www.cls.cn/detail/2419839",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -381,6 +451,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊悼念活动在伊拉克南部举行",
+          "url": "https://wallstreetcn.com/livenews/3130381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "据伊朗新闻电视台：一名官员称，美国任何“挑衅性行动”都将遭到伊朗立即且坚决的回应。",
@@ -405,6 +497,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "据伊朗国家媒体：伊朗军方表示已针对美国在巴林的基地进行打击，并承诺如果美国再次对伊朗发动攻击，将进行更多袭击。",
+          "url": "https://flash.jin10.com/detail/20260708131308772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "伊朗最高领袖顾问称，美国将把与伊朗的谈判引向失败",
           "url": "https://wallstreetcn.com/livenews/3130164",
           "source": "华尔街见闻-快讯",
@@ -422,9 +525,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "伊朗称击落一架美军“死神”无人机",
+          "url": "https://www.toutiao.com/trending/7659992996650614826/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "据伊朗新闻电视台：一名官员称，霍尔木兹海峡的航运通行正按照伊朗的安排进行。",
@@ -460,13 +574,24 @@
           "time_info": "06时57分"
         },
         {
+          "title": "北约秘书长吕特：我期待盟友今天重申，伊朗应完全重新开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260708131154436800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "美军称完成对伊朗新一轮打击",
           "url": "https://wallstreetcn.com/livenews/3130295",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -513,17 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
-        },
-        {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
         },
         {
           "title": "美国海军作战部长：伊朗的目标是迫使商业船只在霍尔木兹海峡航行时贴近伊朗海岸。",
@@ -614,6 +728,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "伊朗总统启程回国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%90%AF%E7%A8%8B%E5%9B%9E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "据伊朗国家电视台：阿巴斯港市和格什姆的局势已恢复正常，锡里克地区仍有爆炸声。",
           "url": "https://flash.jin10.com/detail/20260708071103414800",
           "source": "金十数据",
@@ -634,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "6300万桶伊朗原油滞留海上！美国突然撤销豁免令，德黑兰出口命脉再受冲击",
+          "url": "https://flash.jin10.com/detail/20260708130143107800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "美国终止对伊朗石油制裁豁免",
@@ -713,6 +849,28 @@
           "time_info": "06时57分"
         },
         {
+          "title": "伊朗媒体称伊朗击落一架美军无人机",
+          "url": "https://wallstreetcn.com/livenews/3130365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "美军对伊朗发动强力打击",
+          "url": "https://www.toutiao.com/trending/7658946132311867455/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：当地消息人士称，伊朗格什姆岛和锡里克附近再次传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260708054613465800",
           "source": "金十数据",
@@ -788,12 +946,299 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "伊朗革命卫队：打击了巴林和科威特的85个美军设施，以“回应美国违反停火协议”的行为。",
+          "url": "https://wallstreetcn.com/livenews/3130361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
+          "url": "https://wallstreetcn.com/articles/3776368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 13时47分]"
+        },
+        {
+          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
+          "url": "https://www.cls.cn/detail/2419748",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 13时47分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时47分]"
+        },
+        {
+          "title": "SpaceXAI与Cursor最快将于周三发布模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3130175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
+          "url": "https://flash.jin10.com/detail/20260708045337952800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "Papi酱AI单曲《生气了》爆火",
+          "url": "https://www.toutiao.com/trending/7658713514379345961/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 10时25分]"
+        },
+        {
+          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
+          "url": "https://wallstreetcn.com/livenews/3130197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时57分]"
+        },
+        {
+          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
+          "url": "https://flash.jin10.com/detail/20260708003008011800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3130202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "中信建投：AI PCB需求放量 高阶升级趋势明确",
+          "url": "https://flash.jin10.com/detail/20260708073246828800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
+          "url": "https://flash.jin10.com/detail/20260708002232140800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3130102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
+          "url": "https://wallstreetcn.com/livenews/3130132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "智谱(02513.HK)涨超10%，成交额超60亿港元，报道称智谱考虑自研AI芯片，以应对GLM模型需求快速增长。",
+          "url": "https://flash.jin10.com/detail/20260708100531718800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3130284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "告别“无差别上涨”，AI行情进入下半场",
+          "url": "https://wallstreetcn.com/livenews/3130209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "再挖OpenAI！腾讯宣布OpenAI前研究员田永龙入职，参与VLM研发",
+          "url": "https://wallstreetcn.com/livenews/3130374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
+          "url": "https://wallstreetcn.com/livenews/3130368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "澳洲养老基金UniSuper无视AI泡沫担忧，计划逢低买入科技股",
+          "url": "https://flash.jin10.com/detail/20260708130125726800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。 往往根据10-20年为周期进行投资。 量子计算、AI、医疗保健将适合这样的策略。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3130202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "报道：SpaceXAI与Cursor计划最快于周三推出新模型",
+          "url": "https://wallstreetcn.com/livenews/3130175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -912,6 +1357,29 @@
           "time_info": "01时10分"
         },
         {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 13时47分]"
+        },
+        {
+          "title": "北约秘书长吕特：特朗普对北约做出了完全的承诺。",
+          "url": "https://flash.jin10.com/detail/20260708131730691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
           "url": "https://flash.jin10.com/detail/20260708044045752800",
           "source": "金十数据",
@@ -923,17 +1391,6 @@
           "time_info": "05时20分"
         },
         {
-          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
-          "url": "https://www.cls.cn/detail/2419821",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
           "url": "https://wallstreetcn.com/livenews/3130112",
           "source": "华尔街见闻-快讯",
@@ -943,6 +1400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "特朗普承认与意女总理关系“变糟”：她人不错，但犯了个错误",
+          "url": "https://news.ifeng.com/c/8uaXOKn0Dxl",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
@@ -995,7 +1463,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -1022,6 +1490,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "特朗普发布“美军打击伊朗”视频",
+          "url": "https://wallstreetcn.com/livenews/3130364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "特朗普：对北约在美对伊军事行动中表现感到“失望”",
           "url": "https://wallstreetcn.com/livenews/3130086",
           "source": "华尔街见闻-快讯",
@@ -1035,233 +1514,175 @@
       ]
     },
     {
-      "keyword_group": "ai",
-      "match_count": 20,
+      "keyword_group": "a股 港股",
+      "match_count": 15,
       "titles": [
         {
-          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
-          "url": "https://wallstreetcn.com/articles/3776368",
-          "source": "华尔街见闻",
+          "title": "A股华为算力概念持续走强，广电运通午后涨停，荣联科技、恒为科技此前封板，并行科技、神州数码、拓维信息、先进数通、常山北明跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3130398",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
-          "title": "SpaceXAI与Cursor最快将于周三发布模型。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3130175",
+          "title": "A股算力租赁板块局部活跃，网宿科技20CM涨停，飞利信涨超10%，云天励飞、深信服、优刻得跟涨。",
+          "url": "https://flash.jin10.com/detail/20260708100824028800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股信息安全概念异动拉升，绿盟科技20cm涨停，众诚科技、熙菱信息、浩瀚深度、奇安信、亚信安全、天融信等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3130394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "13时47分"
         },
         {
-          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
-          "url": "https://www.cls.cn/detail/2419748",
-          "source": "财联社热门",
+          "title": "港股科网股午后持续走高，阿里巴巴股价涨幅扩大至10%，为2025年9月以来最大。快手涨近7%，小米集团涨超6%，百度集团涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3130391",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "13时47分"
         },
         {
-          "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
-          "url": "https://flash.jin10.com/detail/20260708045337952800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时25分]"
-        },
-        {
-          "title": "Papi酱AI单曲《生气了》爆火",
-          "url": "https://www.toutiao.com/trending/7658713514379345961/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时25分]"
-        },
-        {
-          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
-          "url": "https://wallstreetcn.com/livenews/3130197",
+          "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
+          "url": "https://wallstreetcn.com/livenews/3130207",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            28
+            1,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时57分]"
         },
         {
-          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
-          "url": "https://flash.jin10.com/detail/20260708003008011800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3130202",
+          "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
+          "url": "https://wallstreetcn.com/livenews/3130206",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时57分]"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "中信建投：AI PCB需求放量 高阶升级趋势明确",
-          "url": "https://flash.jin10.com/detail/20260708073246828800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
-          "url": "https://flash.jin10.com/detail/20260708002232140800",
+          "title": "A股软件开发板块震荡走高，绿盟科技20CM涨停，南天信息、大恒科技此前封板，达梦数据、拓维信息、亚信安全跟涨。",
+          "url": "https://flash.jin10.com/detail/20260708131412791800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "13时47分"
         },
         {
-          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3130102",
+          "title": "今年以来近350家A股公司披露股权激励计划",
+          "url": "https://wallstreetcn.com/livenews/3130214",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "多重积极因素共振，港股市场迎阶段性修复窗口",
+          "url": "https://wallstreetcn.com/livenews/3130212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "A股失守4000点关口 后市如何演绎",
+          "url": "https://www.toutiao.com/trending/7659771141031988799/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "01时10分"
         },
         {
-          "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
-          "url": "https://wallstreetcn.com/livenews/3130132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "智谱(02513.HK)涨超10%，成交额超60亿港元，报道称智谱考虑自研AI芯片，以应对GLM模型需求快速增长。",
-          "url": "https://flash.jin10.com/detail/20260708100531718800",
+          "title": "港股石油股走强，中国海洋石油(00883.HK)涨超5%，延长石油国际(00346.HK)涨3.85%，中国石油股份(00857.HK)涨3.6%，中国石油化工股份(00386.HK)涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260708100457875800",
           "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3130284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "告别“无差别上涨”，AI行情进入下半场",
-          "url": "https://wallstreetcn.com/livenews/3130209",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "10时25分"
         },
         {
-          "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。 往往根据10-20年为周期进行投资。 量子计算、AI、医疗保健将适合这样的策略。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3130202",
+          "title": "A股旅游板块开盘领涨，岭南控股竞价涨停，西藏旅游、天府文旅、西域旅游、陕西旅游、曲江文旅纷纷高开，消息上，国务院原则同意《旅游强国建设“十五五”规划》，培育旅游发展新动能，丰富旅游供给，释放消费潜力，加快建设旅游强国。",
+          "url": "https://wallstreetcn.com/livenews/3130279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "10时25分"
         },
         {
-          "title": "报道：SpaceXAI与Cursor计划最快于周三推出新模型",
-          "url": "https://wallstreetcn.com/livenews/3130175",
-          "source": "华尔街见闻-快讯",
+          "title": "A股开盘：沪指涨0.16% 油气板块走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.16%25+%E6%B2%B9%E6%B0%94%E6%9D%BF%E5%9D%97%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
           "ranks": [
-            29
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时57分"
+          "time_info": "10时25分"
+        },
+        {
+          "title": "A股煤炭概念拉升，晋控煤业涨停，潞安环能、山煤国际、陕西煤业等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260708100407137800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "港股走高，恒指涨2%，恒生科技指数现涨2.1%，科网股回暖。",
+          "url": "https://flash.jin10.com/detail/20260708100246771800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -1298,7 +1719,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -1415,137 +1836,8 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "A股算力租赁板块局部活跃，网宿科技20CM涨停，飞利信涨超10%，云天励飞、深信服、优刻得跟涨。",
-          "url": "https://flash.jin10.com/detail/20260708100824028800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
-          "url": "https://wallstreetcn.com/livenews/3130207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 07时57分]"
-        },
-        {
-          "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3130206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 07时57分]"
-        },
-        {
-          "title": "今年以来近350家A股公司披露股权激励计划",
-          "url": "https://wallstreetcn.com/livenews/3130214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "多重积极因素共振，港股市场迎阶段性修复窗口",
-          "url": "https://wallstreetcn.com/livenews/3130212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "A股失守4000点关口 后市如何演绎",
-          "url": "https://www.toutiao.com/trending/7659771141031988799/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "港股石油股走强，中国海洋石油(00883.HK)涨超5%，延长石油国际(00346.HK)涨3.85%，中国石油股份(00857.HK)涨3.6%，中国石油化工股份(00386.HK)涨1.5%。",
-          "url": "https://flash.jin10.com/detail/20260708100457875800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "A股旅游板块开盘领涨，岭南控股竞价涨停，西藏旅游、天府文旅、西域旅游、陕西旅游、曲江文旅纷纷高开，消息上，国务院原则同意《旅游强国建设“十五五”规划》，培育旅游发展新动能，丰富旅游供给，释放消费潜力，加快建设旅游强国。",
-          "url": "https://wallstreetcn.com/livenews/3130279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "A股开盘：沪指涨0.16% 油气板块走强",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.16%25+%E6%B2%B9%E6%B0%94%E6%9D%BF%E5%9D%97%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "A股煤炭概念拉升，晋控煤业涨停，潞安环能、山煤国际、陕西煤业等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260708100407137800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "港股走高，恒指涨2%，恒生科技指数现涨2.1%，科网股回暖。",
-          "url": "https://flash.jin10.com/detail/20260708100246771800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
@@ -1556,8 +1848,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时25分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时47分]"
+        },
+        {
+          "title": "加快高水平科技自立自强",
+          "url": "https://www.toutiao.com/trending/7659232108666388543/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "贵金属板块逆势拉升，招金黄金涨停，晓程科技、西部黄金、赤峰黄金、四川黄金跟涨，消息上，我国央行连续第20个月增持黄金储备，黄金储备达7544万盎司，环比增加48万盎司。",
@@ -1566,7 +1869,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -1610,7 +1913,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -1632,7 +1935,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         },
@@ -1646,6 +1949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "国家科技进步一等奖！同济大学为纳米制造铸就“精准标尺”",
+          "url": "https://wallstreetcn.com/livenews/3130359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
@@ -1665,8 +1979,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 13时47分]"
         },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -1772,11 +2086,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 13时47分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
