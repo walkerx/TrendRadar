@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T08:02:08.980337+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-07-10T12:07:04.852202+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -17,6 +17,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时18分]"
+        },
+        {
+          "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
+          "url": "https://news.ifeng.com/c/8udgruF8e0q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 12时07分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -49,7 +83,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -60,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -102,15 +136,15 @@
           "time_info": "[00时25分 ~ 04时44分]"
         },
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
+          "title": "伊朗发射导弹打击美军4处军事基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
@@ -152,9 +186,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美军连续两天打击伊朗，霍尔木兹海峡流量几近停滞",
+          "url": "https://flash.jin10.com/detail/20260710112819512800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "据伊朗媒体：哈马斯发言人哈齐姆·卡西姆在以色列的一次暗杀企图中幸免于难。",
@@ -251,7 +296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -295,7 +340,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -347,7 +392,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -356,11 +401,12 @@
           "ranks": [
             5,
             6,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 12时07分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -376,6 +422,19 @@
           "time_info": "[00时25分 ~ 08时02分]"
         },
         {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时44分 ~ 12时07分]"
+        },
+        {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
           "url": "https://wallstreetcn.com/articles/3776500",
           "source": "华尔街见闻",
@@ -387,17 +446,16 @@
           "time_info": "[00时25分 ~ 04时44分]"
         },
         {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7,
-            3
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时44分 ~ 08时02分]"
+          "time_info": "[08时01分 ~ 12时07分]"
         },
         {
           "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
@@ -471,15 +529,26 @@
           "time_info": "[06时18分 ~ 08时02分]"
         },
         {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -488,7 +557,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -499,7 +568,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -510,7 +579,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -620,7 +689,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -650,7 +719,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -663,6 +732,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时18分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 12时07分]"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -681,18 +774,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 08时02分]"
-        },
-        {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -745,6 +826,17 @@
           "time_info": "[04时44分 ~ 06时18分]"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
           "url": "https://flash.jin10.com/detail/20260710054645407800",
           "source": "金十数据",
@@ -755,6 +847,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 08时02分]"
+        },
+        {
+          "title": "特朗普松口了，美媒：泽连斯基但不能高兴太早",
+          "url": "https://news.ifeng.com/c/8uda049HcXP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -840,7 +943,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -854,12 +957,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "直击北约峰会48小时：特朗普的“情绪过山车”震动全球",
+          "url": "https://flash.jin10.com/detail/20260710110039922800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -887,6 +1001,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 08时02分]"
+        },
+        {
+          "title": "长鑫科技IPO豪华承销团抢眼！6家券商同框不常见，真正看点不止承销保荐费",
+          "url": "https://www.cls.cn/detail/2422351",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "科技强国建设进入加速冲刺阶段",
+          "url": "https://www.toutiao.com/trending/7660428355804676139/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "广西洪水致大批学生被困，「救援航母」开入校园，这是种什么装备？救灾中还有哪些硬核科技派上了用场？",
+          "url": "https://www.zhihu.com/question/2058504856239970003",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨1.65%，可选消费板块涨1.46%，金融板块涨1.02%，电信板块涨0.52%，能源板块跌1.58%，日用消费品板块跌1.75%。",
@@ -925,6 +1072,17 @@
           "time_info": "[04时44分 ~ 08时02分]"
         },
         {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
           "title": "长鑫科技最高估值超4万亿",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E8%B6%854%E4%B8%87%E4%BA%BF",
           "source": "百度热搜",
@@ -942,7 +1100,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -975,7 +1133,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -994,7 +1152,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -1009,6 +1167,18 @@
           "time_info": "[00时25分 ~ 06时18分]"
         },
         {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 12时07分]"
+        },
+        {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -1021,15 +1191,15 @@
           "time_info": "[06时18分 ~ 08时02分]"
         },
         {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -1041,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 08时02分]"
+        },
+        {
+          "title": "SK海力士据称每股定价149美元 或刷新美股最大外企上市纪录",
+          "url": "https://www.cls.cn/detail/2422169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
         },
         {
           "title": "美股收盘：纳指涨超1% 存储光通信领涨",
@@ -1112,8 +1293,52 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "国家能源局：大力发展新型储能，不断提升新能源发电量占比",
+          "url": "https://wallstreetcn.com/livenews/3131741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "国家能源局：稳妥有序关停一批具备条件的30万千瓦级及以下煤电机组 推动实施一批60万千瓦级煤电机组超（超）临界跨代升级改造",
+          "url": "https://wallstreetcn.com/livenews/3131739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "国家能源局：到2028年，非化石能源消费比重年均提升约1个百分点",
+          "url": "https://wallstreetcn.com/livenews/3131738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "我国公路运力持续扩容 新能源货车渗透率超四成",
+          "url": "https://flash.jin10.com/detail/20260710112621646800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
         {
           "title": "玻利维亚能源部长：下周将成立工作组研究巴西石油公司重新进入玻利维亚的事宜。",
           "url": "https://flash.jin10.com/detail/20260709233833331800",
@@ -1132,7 +1357,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -1143,7 +1368,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -1154,9 +1379,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "新能源车政策红利还有多久",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%94%BF%E7%AD%96%E7%BA%A2%E5%88%A9%E8%BF%98%E6%9C%89%E5%A4%9A%E4%B9%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加610亿立方英尺，分析师预期增加562.5亿立方英尺，周环比增幅2.09%（之前一周增长3.07%），至2.98万亿立方英尺。",
@@ -1168,6 +1404,112 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 港股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
+          "url": "https://www.cls.cn/detail/2421885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 08时02分]"
+        },
+        {
+          "title": "华泰证券：A股有色超跌或存修复空间",
+          "url": "https://flash.jin10.com/detail/20260710072734865800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "A股午评：沪指涨0.76% 创新药概念走强",
+          "url": "https://flash.jin10.com/detail/20260710113441924800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
+          "url": "https://www.cls.cn/detail/2422336",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "A股变局要来了吗",
+          "url": "https://www.toutiao.com/trending/7660655777928973875/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "港股中兴通讯(00763.HK)涨超10%，成交额超10亿港元。",
+          "url": "https://flash.jin10.com/detail/20260710112430964800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "港股MiniMax盘中下跌近10%，迈向上市以来的新低，连两日跌幅一度超过26%。公司此前宣布折价配售股份。此外，本周四为公司大规模限售股解禁日。",
+          "url": "https://wallstreetcn.com/livenews/3131701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，日盈电子、美格智能、晋拓股份等多股涨停，步科股份、三瑞智能涨超10%，飞龙股份、长盈精密、捷昌驱动跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "港股MINIMAX-W(00100.HK)跌超10%，MINIMAX-W完成新一轮160亿港币融资。",
+          "url": "https://flash.jin10.com/detail/20260710105736930800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -1211,35 +1553,6 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
-          "url": "https://www.cls.cn/detail/2421885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 08时02分]"
-        },
-        {
-          "title": "华泰证券：A股有色超跌或存修复空间",
-          "url": "https://flash.jin10.com/detail/20260710072734865800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "财经",
       "match_count": 2,
       "titles": [
@@ -1262,9 +1575,37 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "minimax 智谱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克“抄了”智谱",
+          "url": "https://wallstreetcn.com/articles/3776533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "智谱(02513.HK)跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260710111701610800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -1297,19 +1638,30 @@
       ]
     },
     {
-      "keyword_group": "minimax 智谱",
-      "match_count": 1,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "马斯克“抄了”智谱",
-          "url": "https://wallstreetcn.com/articles/3776533",
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[12时06分 ~ 12时07分]"
+        },
+        {
+          "title": "Codex并入ChatGPT桌面端",
+          "url": "https://search.bilibili.com/all?keyword=Codex%E5%B9%B6%E5%85%A5ChatGPT%E6%A1%8C%E9%9D%A2%E7%AB%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
