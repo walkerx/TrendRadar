@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T22:49:43.109192+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-07-11T23:52:26.115545+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 23时52分]"
         },
         {
           "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
@@ -76,6 +76,17 @@
           "time_info": "[07时17分 ~ 08时03分]"
         },
         {
+          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
+          "url": "https://wallstreetcn.com/livenews/3132361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗洛雷斯坦省工业园区公司安全负责人表示，埃克辛波尔多赫塔尔小型炼油厂发生的火灾已被控制。此次火灾仅波及装有废机油的油桶，并未蔓延至炼油厂设施和储油罐。",
           "url": "https://flash.jin10.com/detail/20260711035149430800",
           "source": "金十数据",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
-        },
-        {
-          "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
-          "url": "https://flash.jin10.com/detail/20260711222557487800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "对话伊朗问题专家：伊朗在十字路口，决定未来的已不再是战争",
@@ -132,17 +132,6 @@
           "time_info": "02时21分"
         },
         {
-          "title": "伊朗学者称美方从未真正履行备忘录",
-          "url": "https://flash.jin10.com/detail/20260711222306519800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
           "url": "https://flash.jin10.com/detail/20260711004559228800",
           "source": "金十数据",
@@ -163,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260711224608958800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
         },
         {
           "title": "卫星图像曝光：伊朗或在重建多处核设施",
@@ -198,28 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
-        },
-        {
-          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
-          "url": "https://flash.jin10.com/detail/20260711221401757800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
-          "url": "https://wallstreetcn.com/livenews/3132361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "伊朗外交部说伊方已拒绝与美国谈判的请求",
@@ -273,6 +251,30 @@
           "time_info": "[17时24分 ~ 21时27分]"
         },
         {
+          "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
+          "url": "https://flash.jin10.com/detail/20260711222557487800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗学者称美方从未真正履行备忘录",
+          "url": "https://flash.jin10.com/detail/20260711222306519800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴在书面声明中表示，为其遇刺身亡的前任最高领袖及父亲复仇，是国家和民族的要求，且“必定”会实现。",
           "url": "https://flash.jin10.com/detail/20260711183650245800",
           "source": "金十数据",
@@ -319,6 +321,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 19时59分]"
+        },
+        {
+          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
+          "url": "https://flash.jin10.com/detail/20260711221401757800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
         },
         {
           "title": "伊朗西部一座炼油厂发生大火",
@@ -369,6 +383,45 @@
           "time_info": "[12时10分 ~ 15时10分]"
         },
         {
+          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
+          "url": "https://wallstreetcn.com/livenews/3132344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
+          "url": "https://wallstreetcn.com/livenews/3132342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时52分]"
+        },
+        {
+          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
+          "url": "https://wallstreetcn.com/livenews/3132340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时52分]"
+        },
+        {
           "title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260711052235362800",
           "source": "金十数据",
@@ -405,19 +458,6 @@
           "time_info": "[05时58分 ~ 08时03分]"
         },
         {
-          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
-          "url": "https://wallstreetcn.com/livenews/3132344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时49分]"
-        },
-        {
           "title": "伊朗德黑兰东部传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3132316",
           "source": "华尔街见闻-快讯",
@@ -442,19 +482,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时10分 ~ 19时02分]"
-        },
-        {
-          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
-          "url": "https://wallstreetcn.com/livenews/3132342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时49分]"
         },
         {
           "title": "美国高级官员：伊朗表示，近期船只遇袭事件是其内部系统出现偏差所致。",
@@ -491,19 +518,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 08时03分]"
-        },
-        {
-          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
-          "url": "https://wallstreetcn.com/livenews/3132340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时49分]"
         },
         {
           "title": "美国高级官员：美国拥有确保伊朗核设施无法运行的军事手段。",
@@ -624,6 +638,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 04时19分]"
+        },
+        {
+          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
+          "url": "https://flash.jin10.com/detail/20260711213701077800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环",
+          "url": "https://flash.jin10.com/detail/20260711212852417800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
         },
         {
           "title": "美方称1000枚导弹已瞄准伊朗",
@@ -791,17 +829,6 @@
           "time_info": "02时21分"
         },
         {
-          "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
-          "url": "https://flash.jin10.com/detail/20260711213701077800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。",
           "url": "https://flash.jin10.com/detail/20260711025239161800",
           "source": "金十数据",
@@ -844,17 +871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
-        },
-        {
-          "title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环",
-          "url": "https://flash.jin10.com/detail/20260711212852417800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：冲突不会以伊朗屈服结束。",
@@ -951,8 +967,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时16分 ~ 22时49分]"
+          "appearance_count": 13,
+          "time_info": "[07时16分 ~ 23时52分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -972,6 +988,19 @@
           "time_info": "[00时52分 ~ 17时24分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 23时52分]"
+        },
+        {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
@@ -988,19 +1017,6 @@
           "time_info": "[00时52分 ~ 15时10分]"
         },
         {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 22时49分]"
-        },
-        {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
           "url": "https://www.cls.cn/detail/2422921",
           "source": "财联社热门",
@@ -1012,6 +1028,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 08时03分]"
+        },
+        {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 23时52分]"
         },
         {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
@@ -1048,20 +1079,6 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 22时49分]"
-        },
-        {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
           "url": "https://wallstreetcn.com/livenews/3132268",
           "source": "华尔街见闻-快讯",
@@ -1080,8 +1097,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 23时52分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -1143,6 +1160,17 @@
           "time_info": "[05时58分 ~ 08时03分]"
         },
         {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
+        },
+        {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
           "url": "https://wallstreetcn.com/livenews/3132205",
           "source": "华尔街见闻-快讯",
@@ -1153,6 +1181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 04时19分]"
+        },
+        {
+          "title": "全球主权财富基金加大对AI投资",
+          "url": "https://flash.jin10.com/detail/20260711213544573800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时52分]"
         },
         {
           "title": "给哈兰德做了一支AI大片",
@@ -1188,17 +1228,6 @@
           "time_info": "17时24分"
         },
         {
-          "title": "重回AI一线？Meta单周大涨15%",
-          "url": "https://wallstreetcn.com/articles/3776692",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E4%B8%8A%E6%98%A0+AI%E9%A2%84%E6%B5%8B%E6%80%BB%E7%A5%A8%E6%88%BF%E8%B6%8510%E4%BA%BF",
           "source": "百度热搜",
@@ -1232,17 +1261,6 @@
           "time_info": "12时10分"
         },
         {
-          "title": "全球主权财富基金加大对AI投资",
-          "url": "https://flash.jin10.com/detail/20260711213544573800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "OpenAI安全系统负责人Heidecke将离职。（WIRED）",
           "url": "https://wallstreetcn.com/livenews/3132277",
           "source": "华尔街见闻-快讯",
@@ -1260,6 +1278,31 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时09分 ~ 23时52分]"
+        },
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时09分 ~ 23时52分]"
+        },
+        {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
           "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
@@ -1270,30 +1313,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 12时10分]"
-        },
-        {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时09分 ~ 22时49分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时09分 ~ 22时49分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -1549,6 +1568,20 @@
           "time_info": "[00时52分 ~ 08时03分]"
         },
         {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时09分 ~ 23时52分]"
+        },
+        {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
           "url": "https://www.cls.cn/detail/2423160",
           "source": "财联社热门",
@@ -1575,22 +1608,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 22时49分]"
-        },
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时09分 ~ 22时49分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 23时52分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -1616,8 +1635,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时52分 ~ 22时49分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 23时52分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -1702,8 +1721,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 22时49分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 23时52分]"
         },
         {
           "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
@@ -1728,8 +1747,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 22时49分]"
+          "appearance_count": 6,
+          "time_info": "[19时01分 ~ 23时52分]"
         },
         {
           "title": "看广西洪灾中的救援硬核科技",
@@ -1861,8 +1880,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时52分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -1871,11 +1890,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时52分]"
         },
         {
           "title": "A股商业航天板块午后“满屏涨停”",
@@ -2006,8 +2026,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时52分]"
         }
       ]
     },
