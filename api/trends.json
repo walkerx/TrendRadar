@@ -1,11 +1,566 @@
 {
-  "generated_at": "2026-07-22T13:45:50.832657+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-07-22T16:21:17.703947+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "ai",
+      "match_count": 48,
+      "titles": [
+        {
+          "title": "英媒爆料：中美正计划9月举行AI会谈",
+          "url": "https://news.ifeng.com/c/8uwidXo8t4N",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时53分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 10时11分]"
+        },
+        {
+          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "source": "知乎",
+          "ranks": [
+            12,
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时15分 ~ 10时11分]"
+        },
+        {
+          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
+          "url": "https://www.zhihu.com/question/2062587249968129781",
+          "source": "知乎",
+          "ranks": [
+            13,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 16时21分]"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 13时45分]"
+        },
+        {
+          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
+          "url": "https://wallstreetcn.com/articles/3777546",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时03分 ~ 16时21分]"
+        },
+        {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时53分]"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时21分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时21分]"
+        },
+        {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "恒生科技指数跌超3%，PCB、AI应用、明星科网等概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260722132845931800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "创业板指跌超2%，游戏、人形机器人、刀片电池、AI应用等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260722132800834800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "王祖贤AI人脸授权代言游戏IP",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83%E4%BB%A3%E8%A8%80%E6%B8%B8%E6%88%8FIP",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260722064209185800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "“看到AI脸产生生理性厌恶”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E5%88%B0AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时21分]"
+        },
+        {
+          "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
+          "url": "https://wallstreetcn.com/livenews/3137778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时53分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时03分]"
+        },
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时21分]"
+        },
+        {
+          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
+          "url": "https://wallstreetcn.com/livenews/3137752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 06时52分]"
+        },
+        {
+          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3137751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 06时52分]"
+        },
+        {
+          "title": "首部AI长剧要来了",
+          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 01时15分]"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)的AI孵化器正在开发OpenRouter的竞品，旨在降低编码成本。",
+          "url": "https://flash.jin10.com/detail/20260722064010298800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
+          "url": "https://wallstreetcn.com/livenews/3137753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "AI交易热情午后回落，韩股涨幅收窄至2%，日股转跌，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
+          "url": "https://www.cls.cn/detail/2433429",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "AI 的「最后一公里」，应该怎么走？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
+          "url": "https://flash.jin10.com/detail/20260722043419801800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "白宫拟将数千亿美元科研资金向AI和个人科学家倾斜",
+          "url": "https://flash.jin10.com/detail/20260722062234546800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "韩国总统将于7月24日起访问旧金山，将会见大型科技公司CEO，并出席AI峰会。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
+          "url": "https://wallstreetcn.com/livenews/3137685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "《这一秒过火》更换原AI片头",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E6%9B%B4%E6%8D%A2%E5%8E%9FAI%E7%89%87%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
+          "url": "https://www.cls.cn/detail/2433181",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "王祖贤脸的AI使用权授权游戏公司",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%84%B8%E7%9A%84AI%E4%BD%BF%E7%94%A8%E6%9D%83%E6%8E%88%E6%9D%83%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
+          "url": "https://wallstreetcn.com/livenews/3137680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "据华尔街日报：CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。",
+          "url": "https://flash.jin10.com/detail/20260722015437812800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3137679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
+          "url": "https://wallstreetcn.com/livenews/3137702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3137675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3137736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "大众与地平线深化AI合作，加速L3/L4智驾本土化落地",
+          "url": "https://wallstreetcn.com/livenews/3138060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "OpenAI称其AI模型导致了Hugging Face遭遇网络攻击",
+          "url": "https://wallstreetcn.com/livenews/3137753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "AI算力产业链成为上海出口重要增长动能",
+          "url": "https://wallstreetcn.com/livenews/3138049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "美联储曾就Anthropic的Mythos AI模型拉响警报，却被迫在没有该模型的情况下度过了数月",
+          "url": "https://wallstreetcn.com/livenews/3137967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -19,18 +574,6 @@
           "time_info": "[07时53分 ~ 10时11分]"
         },
         {
-          "title": "胡塞武装封锁红海？特朗普回应",
-          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 13时45分]"
-        },
-        {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
           "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
           "source": "凤凰网",
@@ -40,6 +583,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 07时53分]"
+        },
+        {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时21分]"
         },
         {
           "title": "特朗普解除美国直飞黎巴嫩航班40余年禁令",
@@ -124,6 +680,18 @@
           "time_info": "[01时14分 ~ 03时14分]"
         },
         {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时21分]"
+        },
+        {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
           "url": "https://news.ifeng.com/c/8uxX85JoJZj",
           "source": "凤凰网",
@@ -195,17 +763,6 @@
           "time_info": "[07时53分 ~ 10时11分]"
         },
         {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "特朗普会见黎巴嫩总统奥恩",
           "url": "https://flash.jin10.com/detail/20260722003143324800",
           "source": "金十数据",
@@ -215,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E7%BE%8E%E6%96%B9%E5%B9%B2%E9%A2%84%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
@@ -234,7 +802,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -245,9 +813,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务，并称“中国今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普：如果也门胡塞武装封锁红海，美国将采取行动",
+          "url": "https://www.cls.cn/detail/2433325",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
@@ -289,7 +879,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -483,450 +1073,8 @@
       ]
     },
     {
-      "keyword_group": "ai",
-      "match_count": 38,
-      "titles": [
-        {
-          "title": "英媒爆料：中美正计划9月举行AI会谈",
-          "url": "https://news.ifeng.com/c/8uwidXo8t4N",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 07时53分]"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时14分 ~ 10时11分]"
-        },
-        {
-          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
-          "url": "https://www.zhihu.com/question/2061915732447687216",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 10时11分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 13时45分]"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 07时53分]"
-        },
-        {
-          "title": "情侣用 AI 判断菌子毒性采了 10 余斤，被本地小孩哥筛选只剩 2 斤，AI 和小孩哥谁的判断更准？为啥会有不同？",
-          "url": "https://www.zhihu.com/question/2062587249968129781",
-          "source": "知乎",
-          "ranks": [
-            13,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时45分]"
-        },
-        {
-          "title": "“看到AI脸产生生理性厌恶”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%9C%8B%E5%88%B0AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "恒生科技指数跌超3%，PCB、AI应用、明星科网等概念跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260722132845931800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "创业板指跌超2%，游戏、人形机器人、刀片电池、AI应用等板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260722132800834800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "AI“斯普特尼克时刻”！Kimi K3震动硅谷，Stability AI联合创始人：推理成本还有10至50倍下降空间",
-          "url": "https://wallstreetcn.com/articles/3777546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时03分 ~ 13时45分]"
-        },
-        {
-          "title": "王祖贤AI人脸授权代言游戏IP",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83%E4%BB%A3%E8%A8%80%E6%B8%B8%E6%88%8FIP",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
-          "url": "https://flash.jin10.com/detail/20260722064209185800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
-          "url": "https://wallstreetcn.com/livenews/3137778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时53分]"
-        },
-        {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 13时45分]"
-        },
-        {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 13时45分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时03分]"
-        },
-        {
-          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
-          "url": "https://wallstreetcn.com/livenews/3137752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时52分]"
-        },
-        {
-          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3137751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时52分]"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 13时45分]"
-        },
-        {
-          "title": "首部AI长剧要来了",
-          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "据The Information：Meta Platforms(META.O)的AI孵化器正在开发OpenRouter的竞品，旨在降低编码成本。",
-          "url": "https://flash.jin10.com/detail/20260722064010298800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
-          "url": "https://wallstreetcn.com/livenews/3137753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3137710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
-          "url": "https://flash.jin10.com/detail/20260722043419801800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "白宫拟将数千亿美元科研资金向AI和个人科学家倾斜",
-          "url": "https://flash.jin10.com/detail/20260722062234546800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
-          "url": "https://wallstreetcn.com/livenews/3137685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "《这一秒过火》更换原AI片头",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB%E3%80%8B%E6%9B%B4%E6%8D%A2%E5%8E%9FAI%E7%89%87%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
-          "url": "https://www.cls.cn/detail/2433181",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "王祖贤脸的AI使用权授权游戏公司",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%84%B8%E7%9A%84AI%E4%BD%BF%E7%94%A8%E6%9D%83%E6%8E%88%E6%9D%83%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
-          "url": "https://wallstreetcn.com/livenews/3137680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "据华尔街日报：CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。",
-          "url": "https://flash.jin10.com/detail/20260722015437812800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3137679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
-          "url": "https://wallstreetcn.com/livenews/3137702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3137675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3137736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "OpenAI称其AI模型导致了Hugging Face遭遇网络攻击",
-          "url": "https://wallstreetcn.com/livenews/3137753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3137732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "美联储曾就Anthropic的Mythos AI模型拉响警报，却被迫在没有该模型的情况下度过了数月",
-          "url": "https://wallstreetcn.com/livenews/3137967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -987,6 +1135,17 @@
           "time_info": "[03时14分 ~ 06时52分]"
         },
         {
+          "title": "如果美国踏上伊朗的陆地，伊朗将全力反击。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3138079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "伊朗称已部署新防空系统。（伊朗媒体IRNA）",
           "url": "https://wallstreetcn.com/livenews/3137713",
           "source": "华尔街见闻-快讯",
@@ -1040,6 +1199,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "据伊朗国家电视台：如果美国在伊朗土地上采取行动，伊朗将全力以赴进行反击。",
+          "url": "https://flash.jin10.com/detail/20260722160100035800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "伊朗称目前没有与美国进行任何磋商。伊朗称与美国“信息交流”是可能的。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3138074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "卡塔尔外交部强烈谴责伊朗再次袭击约旦、巴林和科威特，并指责伊朗在科威特油轮通过霍尔木兹海峡期间对其发动袭击。",
@@ -1180,7 +1361,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1227,6 +1408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "伊朗周三凌晨袭击了驻约旦和巴林的美军。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3138059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "伊朗总统强调团结对当前局势至关重要",
@@ -1284,6 +1476,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "伊朗军官视察霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3138052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "伊朗打击科威特境内Ali Al Salem基地和Bubiyan岛。（IRIB）",
           "url": "https://wallstreetcn.com/livenews/3137727",
           "source": "华尔街见闻-快讯",
@@ -1309,7 +1512,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国科技这3组数字真提气",
@@ -1361,20 +1564,6 @@
           "time_info": "[01时14分 ~ 06时52分]"
         },
         {
-          "title": "如何看待科技股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 10时11分]"
-        },
-        {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -1382,8 +1571,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 16时21分]"
+        },
+        {
+          "title": "如何看待科技股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            12,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 16时21分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -1396,6 +1600,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 05时03分]"
+        },
+        {
+          "title": "长鑫科技网上投资者659万股弃购原因找到了",
+          "url": "https://www.cls.cn/detail/2433486",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时21分]"
         },
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
@@ -1431,17 +1647,6 @@
           "time_info": "10时11分"
         },
         {
-          "title": "长鑫科技网上投资者659万股弃购原因找到了",
-          "url": "https://www.cls.cn/detail/2433486",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "如何看待甘肃 656 分考生顶级 985 分数被福耀科技大学录取，以及网传的祝贺喜讯？",
           "url": "https://www.zhihu.com/question/2062883128381633703",
           "source": "知乎",
@@ -1451,6 +1656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普跌，闪迪跌约2%，SK海力士跌约5%，美光科技跌约2%，西部数据跌约3%，希捷科技跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3138080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，刷新日高，成分股Nebius涨16.1%，闪迪涨13.2%泰瑞达涨13.1%，美光涨13%，西部数据涨12.8%，希捷科技涨11.5%，Lumentum涨9.3%，CoreWeave涨9.3%。 标普500指数涨幅扩大至将近1%，道指涨526点涨幅超过1%，纳指涨353点涨幅1.4%，半导体指数涨5.4%，银行指数涨1%。",
@@ -1475,6 +1691,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时53分]"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时21分]"
         },
         {
           "title": "长鑫科技：网上弃购658.62万股",
@@ -1534,17 +1762,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 01时15分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
         },
         {
           "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
@@ -1613,6 +1830,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
+          "url": "https://www.zhihu.com/question/2063197377310233514",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "长鑫科技打新弃购658万股",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%89%93%E6%96%B0%E5%BC%83%E8%B4%AD658%E4%B8%87%E8%82%A1%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1627,7 +1855,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -1660,7 +1888,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1716,7 +1944,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1817,9 +2045,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "A股收盘：创业板指低开低走跌超3%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "港股大模型股走弱，MINIMAX-W(00100.HK)跌超10%，智谱(02513.HK)跌超5%。",
@@ -1828,7 +2067,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1891,7 +2130,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -1943,6 +2182,17 @@
           "time_info": "[05时03分 ~ 06时52分]"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌1%，标普500指数期货跌0.4%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3138075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
           "url": "https://wallstreetcn.com/livenews/3137744",
           "source": "华尔街见闻-快讯",
@@ -1989,6 +2239,100 @@
       ]
     },
     {
+      "keyword_group": "能源",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
+          "url": "https://flash.jin10.com/detail/20260722044021391800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "国家能源局：截至6月底，全国累计发电装机容量40.4亿千瓦，同比增长10.8%",
+          "url": "https://flash.jin10.com/detail/20260722160538151800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "霍尔木兹之后曼德海峡再告急，两大全球能源命脉遭遇连环锁",
+          "url": "https://www.cls.cn/detail/2433538",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "荷兰国际：能源价格上涨或持续打压日元和瑞郎",
+          "url": "https://flash.jin10.com/detail/20260722160324335800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "7月21日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260722132413171800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "新能源6月销量TOP10放榜：纯电“百花齐放”、比亚迪插混市占率超三成 小米新车或搅局增程市场",
+          "url": "https://www.cls.cn/detail/2433756",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "淡马锡：人工智能技术突破有望大幅降低能源需求",
+          "url": "https://flash.jin10.com/detail/20260722094308970800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "据华尔街日报：白宫称，NextEra Energy、杜克能源（Duke Energy）和南方公司（Southern Co.）等近200家机构签署了该承诺。",
+          "url": "https://flash.jin10.com/detail/20260722071814594800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
@@ -2023,8 +2367,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时21分]"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
@@ -2074,56 +2418,6 @@
       ]
     },
     {
-      "keyword_group": "能源",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
-          "url": "https://flash.jin10.com/detail/20260722044021391800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "7月21日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260722132413171800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "淡马锡：人工智能技术突破有望大幅降低能源需求",
-          "url": "https://flash.jin10.com/detail/20260722094308970800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "据华尔街日报：白宫称，NextEra Energy、杜克能源（Duke Energy）和南方公司（Southern Co.）等近200家机构签署了该承诺。",
-          "url": "https://flash.jin10.com/detail/20260722071814594800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -2147,7 +2441,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -2158,7 +2452,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         }
@@ -2203,11 +2497,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 16时21分]"
         }
       ]
     },
