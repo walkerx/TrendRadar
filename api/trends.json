@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T20:24:21.313330+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-07-24T22:52:00.685649+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时06分 ~ 20时24分]"
+          "appearance_count": 11,
+          "time_info": "[06时06分 ~ 22时52分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -56,6 +56,20 @@
           "time_info": "[01时17分 ~ 04时58分]"
         },
         {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 22时52分]"
+        },
+        {
           "title": "AI每赚1块钱，谷歌花出去2块",
           "url": "https://wallstreetcn.com/articles/3777748",
           "source": "华尔街见闻",
@@ -81,6 +95,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时17分 ~ 10时27分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 22时52分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -111,33 +138,6 @@
           "time_info": "[01时17分 ~ 07时57分]"
         },
         {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 20时24分]"
-        },
-        {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 20时24分]"
-        },
-        {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
           "url": "https://news.ifeng.com/c/8uzEep2s55A",
           "source": "凤凰网",
@@ -158,6 +158,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时19分 ~ 22时52分]"
         },
         {
           "title": "中国AI大反超 美国还能挡多久",
@@ -229,6 +241,19 @@
           "time_info": "[10时27分 ~ 20时24分]"
         },
         {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时00分 ~ 22时52分]"
+        },
+        {
           "title": "又两家PCB大厂公告！百亿投资能买回一张AI“船票”吗",
           "url": "https://www.cls.cn/detail/2435740",
           "source": "财联社热门",
@@ -267,28 +292,15 @@
           "time_info": "[13时47分 ~ 16时19分]"
         },
         {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 20时24分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时00分 ~ 20时24分]"
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "中国AI大反超，美国还能挡多久？",
@@ -301,6 +313,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时27分 ~ 13时47分]"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -334,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "25家科技巨头联名签署公开信：力挺开放权重AI模型（全文翻译）",
+          "url": "https://flash.jin10.com/detail/20260724222659975800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
@@ -391,6 +425,17 @@
           "time_info": "10时27分"
         },
         {
+          "title": "7月24日，微软联合IBM、Meta、等20余家美国科技公司发表名为《开放权重与美国人工智能领导力》的公开信，呼吁开放权重AI模型。 公开信认为，1. 开放权重扩大了对 AI 经济的参与途径。 开放权重强化了市场竞争。 开放权重赋予客户更大的控制权。 开放与 AI 安全及保障。",
+          "url": "https://wallstreetcn.com/livenews/3139514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
           "url": "https://flash.jin10.com/detail/20260724003316532800",
           "source": "金十数据",
@@ -430,7 +475,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -581,7 +626,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -592,8 +637,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 20时24分]"
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 22时52分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -606,6 +651,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 10时27分]"
+        },
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "伊朗袭击约旦和巴林境内美军基地",
@@ -647,9 +703,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "美国财政部宣布对伊朗实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3139521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
@@ -770,7 +837,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -836,9 +903,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "科威特国防部：科威特防空系统目前正在拦截从伊朗发射的敌对目标。",
+          "url": "https://flash.jin10.com/detail/20260724222436037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
@@ -891,9 +969,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗已经表明不会屈服于美国的霸凌，我们不会对威胁、压力或恐吓做出回应。",
+          "url": "https://flash.jin10.com/detail/20260724222340369800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
@@ -929,6 +1018,28 @@
           "time_info": "10时27分"
         },
         {
+          "title": "伊朗外长阿拉格齐：已与作为调解方的巴基斯坦讨论了其倡议和提案。问题不在于美国与我们之间缺乏调解人，而在于美国人的问题处理方式。",
+          "url": "https://flash.jin10.com/detail/20260724222325080800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://wallstreetcn.com/livenews/3139511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
           "url": "https://flash.jin10.com/detail/20260724023243593800",
           "source": "金十数据",
@@ -938,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美官员否认伊朗拒绝停火提议",
+          "url": "https://flash.jin10.com/detail/20260724222048676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
@@ -1096,9 +1218,434 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 31,
+      "keyword_group": "科技",
+      "match_count": 35,
       "titles": [
+        {
+          "title": "长鑫科技下周一上市，发行价为8.66元/股",
+          "url": "https://www.cls.cn/detail/2435368",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时17分 ~ 10时27分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 22时52分]"
+        },
+        {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            11,
+            9,
+            5,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时17分 ~ 19时01分]"
+        },
+        {
+          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+          "url": "https://www.cls.cn/detail/2435567",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时17分 ~ 13时47分]"
+        },
+        {
+          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
+          "url": "https://www.cls.cn/detail/2436009",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 20时24分]"
+        },
+        {
+          "title": "长鑫科技：将于7月27日在科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时57分]"
+        },
+        {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.toutiao.com/trending/7665950655214784041/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 16时19分]"
+        },
+        {
+          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
+          "url": "https://www.cls.cn/detail/2436602",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
+          "url": "https://www.cls.cn/detail/2435803",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 16时19分]"
+        },
+        {
+          "title": "网传券商内部发文防范长鑫科技上市炒作，多家券商分支机构人士称未收到类似通知",
+          "url": "https://wallstreetcn.com/livenews/3139241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "恒生指数收盘跌0.98%，恒生科技指数跌1.47%",
+          "url": "https://wallstreetcn.com/livenews/3139336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.toutiao.com/trending/7665999382545698310/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "军工板块异动拉升，长城军工2连板，中光防雷20cm涨停，北方长龙、北自科技、江龙船艇、建设工业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3139168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "浙江：到2027年科技型中小企业达16万家",
+          "url": "https://wallstreetcn.com/livenews/3139440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 20时24分]"
+        },
+        {
+          "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3139066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时07分]"
+        },
+        {
+          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
+          "url": "https://www.zhihu.com/question/2063730050579396490",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 22时52分]"
+        },
+        {
+          "title": "长鑫科技会成为下一个“中石油”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时52分]"
+        },
+        {
+          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时07分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3139055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 06时07分]"
+        },
+        {
+          "title": "长鑫科技一签能赚多少",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "长鑫科技迎来定价大考",
+          "url": "https://www.toutiao.com/trending/7666052865487539748/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "香港恒生指数开盘跌1.1%，恒生科技指数跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3139156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "欣天科技：石伟平先生正在筹划涉及所持有公司股份转让的相关事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3139433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "香港恒生指数7月24日（周五）收盘下跌247.58点，跌幅0.98%，报24963.23点；<br/>香港恒生科技指数7月24日（周五）收盘下跌68.97点，跌幅1.47%，报4629.51点；<br/>国企指数7月24日（周五）收盘下跌81.61点，跌幅0.98%，报8271.06点；<br/>红筹指数7月24日（周五）收盘下跌73.91点，跌幅1.76%，报4119.21点。",
+          "url": "https://flash.jin10.com/detail/20260724161455636800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "欣天科技：筹划公司控制权变更事项 股票7月27日开市起停牌不超过2个交易日",
+          "url": "https://flash.jin10.com/detail/20260724183434765800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "淳中科技：拟回购5000万元至1亿元股份",
+          "url": "https://wallstreetcn.com/livenews/3139463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "微软联合20多家美国科技公司发布公开信之后，英伟达CEO黄仁勋迅速在X（原名推特）发布了公开社交动态，专门为此公开信背书，并指出：“世界既需要顶尖的封闭模型，也需要顶尖的开放模型。”",
+          "url": "https://wallstreetcn.com/livenews/3139515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "标普500指数初步收跌1.2%，电信板块重挫5%可选消费板块跌4.9%，科技板块跌1.3%，能源板块涨0.4%，工业板块涨1.5%。 纳斯达克100指数初步收跌1.9%，道指跌1%，半导体指数跌1.1%，银行指数跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3139053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        },
+        {
+          "title": "蓝思科技：与Intel签署合作备忘录",
+          "url": "https://wallstreetcn.com/livenews/3139423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "长鑫科技 IPO 助力合肥城投化债，其他省市城投平台能否效仿？",
+          "url": "https://www.zhihu.com/question/2062839135568491650",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约1.8%，报88.69美元，有望脱离6月26日以来最低位87.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3139505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "纳指科技指数收跌2%，半导体指数在美股临近结束交易时显著地收复失地",
+          "url": "https://wallstreetcn.com/livenews/3139053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌1.29%，报24885点。 恒生科技指数主连夜盘收跌1.70%，报4620点。",
+          "url": "https://wallstreetcn.com/livenews/3139036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 22时52分]"
+        },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
@@ -1127,17 +1674,6 @@
           "time_info": "[01时17分 ~ 06时07分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 20时24分]"
-        },
-        {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
           "source": "澎湃新闻",
@@ -1159,11 +1695,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 20时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时47分 ~ 22时52分]"
         },
         {
           "title": "盟友集体反击“强迫劳动”指控！特朗普关税战为何连最高法院也挡不住？",
@@ -1197,6 +1734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "以总理办公室：内塔尼亚胡将访美 与特朗普会晤",
+          "url": "https://flash.jin10.com/detail/20260724223621938800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "美国总统特朗普：如果我们不对伊朗采取行动，就没有人会采取行动。",
@@ -1289,6 +1837,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
           "url": "https://flash.jin10.com/detail/20260724025035550800",
           "source": "金十数据",
@@ -1361,7 +1920,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1399,6 +1958,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周二在白宫会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260724221517947800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
           "url": "https://wallstreetcn.com/livenews/3138978",
           "source": "华尔街见闻-快讯",
@@ -1419,6 +1989,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周一应美国总统特朗普邀请访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260724221512312800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
@@ -1456,344 +2037,8 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "长鑫科技下周一上市，发行价为8.66元/股",
-          "url": "https://www.cls.cn/detail/2435368",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 10时27分]"
-        },
-        {
-          "title": "长鑫科技7月27日科创板上市",
-          "url": "https://www.douyin.com/hot/2582708",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            11,
-            9,
-            5,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时17分 ~ 19时01分]"
-        },
-        {
-          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
-          "url": "https://www.cls.cn/detail/2435567",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 13时47分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 20时24分]"
-        },
-        {
-          "title": "东山精密、澜起科技、江波龙、佰维存储等，多家科技龙头公司加入“增持回购潮”",
-          "url": "https://www.cls.cn/detail/2436009",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 20时24分]"
-        },
-        {
-          "title": "长鑫科技：将于7月27日在科创板上市",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 07时57分]"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 16时19分]"
-        },
-        {
-          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
-          "url": "https://www.cls.cn/detail/2435803",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 16时19分]"
-        },
-        {
-          "title": "网传券商内部发文防范长鑫科技上市炒作，多家券商分支机构人士称未收到类似通知",
-          "url": "https://wallstreetcn.com/livenews/3139241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "恒生指数收盘跌0.98%，恒生科技指数跌1.47%",
-          "url": "https://wallstreetcn.com/livenews/3139336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "长鑫科技会成为下一个“中石油”吗",
-          "url": "https://www.toutiao.com/trending/7665999382545698310/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "军工板块异动拉升，长城军工2连板，中光防雷20cm涨停，北方长龙、北自科技、江龙船艇、建设工业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3139168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "浙江：到2027年科技型中小企业达16万家",
-          "url": "https://wallstreetcn.com/livenews/3139440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 20时24分]"
-        },
-        {
-          "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
-          "url": "https://wallstreetcn.com/livenews/3139066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时07分]"
-        },
-        {
-          "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
-          "url": "https://www.zhihu.com/question/2063730050579396490",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 20时24分]"
-        },
-        {
-          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3139060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时07分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
-          "url": "https://wallstreetcn.com/livenews/3139055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时07分]"
-        },
-        {
-          "title": "香港恒生指数开盘跌1.1%，恒生科技指数跌1.86%。",
-          "url": "https://wallstreetcn.com/livenews/3139156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "欣天科技：石伟平先生正在筹划涉及所持有公司股份转让的相关事宜，该事项可能导致公司控股股东、实际控制人发生变更，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3139433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "香港恒生指数7月24日（周五）收盘下跌247.58点，跌幅0.98%，报24963.23点；<br/>香港恒生科技指数7月24日（周五）收盘下跌68.97点，跌幅1.47%，报4629.51点；<br/>国企指数7月24日（周五）收盘下跌81.61点，跌幅0.98%，报8271.06点；<br/>红筹指数7月24日（周五）收盘下跌73.91点，跌幅1.76%，报4119.21点。",
-          "url": "https://flash.jin10.com/detail/20260724161455636800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "欣天科技：筹划公司控制权变更事项 股票7月27日开市起停牌不超过2个交易日",
-          "url": "https://flash.jin10.com/detail/20260724183434765800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "淳中科技：拟回购5000万元至1亿元股份",
-          "url": "https://wallstreetcn.com/livenews/3139463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "标普500指数初步收跌1.2%，电信板块重挫5%可选消费板块跌4.9%，科技板块跌1.3%，能源板块涨0.4%，工业板块涨1.5%。 纳斯达克100指数初步收跌1.9%，道指跌1%，半导体指数跌1.1%，银行指数跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3139053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
-          "title": "蓝思科技：与Intel签署合作备忘录",
-          "url": "https://wallstreetcn.com/livenews/3139423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "美股科技七巨头市值蒸发近8千亿美元",
-          "url": "https://www.toutiao.com/trending/7665870757104193078/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "长鑫科技会成为下一个“中石油”吗",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E4%B8%AD%E7%9F%B3%E6%B2%B9%E2%80%9D%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "纳指科技指数收跌2%，半导体指数在美股临近结束交易时显著地收复失地",
-          "url": "https://wallstreetcn.com/livenews/3139053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌1.29%，报24885点。 恒生科技指数主连夜盘收跌1.70%，报4620点。",
-          "url": "https://wallstreetcn.com/livenews/3139036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "a股 港股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "A股",
@@ -1822,6 +2067,17 @@
           "time_info": "[01时17分 ~ 10时27分]"
         },
         {
+          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
+          "url": "https://www.cls.cn/detail/2436662",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
           "title": "港股收评：恒指收跌0.98%，芯片股冲高回落",
           "url": "https://flash.jin10.com/detail/20260724161547456800",
           "source": "金十数据",
@@ -1845,6 +2101,28 @@
           "time_info": "[19时00分 ~ 20时24分]"
         },
         {
+          "title": "A股史上最大股票回购方案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
+          "title": "A股最大股票回购",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
           "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。",
           "url": "https://wallstreetcn.com/livenews/3139235",
           "source": "华尔街见闻-快讯",
@@ -1862,7 +2140,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1895,7 +2173,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1972,7 +2250,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -2016,7 +2294,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         }
@@ -2024,7 +2302,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股",
@@ -2095,6 +2373,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时57分 ~ 10时27分]"
+        },
+        {
+          "title": "美股纳指低开0.1% 英特尔小幅高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%800.1%25+%E8%8B%B1%E7%89%B9%E5%B0%94%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -2191,7 +2480,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -2202,7 +2491,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -2213,9 +2502,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超1%，网络股指数ETF涨近1%，半导体ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3139499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美股盘初：道指涨0.2%，存储芯片股普跌，英特尔跌约1%，Amkor涨约6%",
+          "url": "https://wallstreetcn.com/livenews/3139496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
@@ -2254,7 +2565,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -2320,7 +2631,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
