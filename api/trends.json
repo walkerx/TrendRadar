@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T14:13:36.889909+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-07-25T16:58:31.836419+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -21,6 +21,30 @@
           "time_info": "[00时34分 ~ 08时01分]"
         },
         {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://wallstreetcn.com/livenews/3139705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 16时58分]"
+        },
+        {
           "title": "特朗普称美国与伊朗仍在对话",
           "url": "https://wallstreetcn.com/livenews/3139662",
           "source": "华尔街见闻-快讯",
@@ -33,28 +57,17 @@
           "time_info": "[06时02分 ~ 08时01分]"
         },
         {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://wallstreetcn.com/livenews/3139705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 14时13分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
           "url": "https://wallstreetcn.com/livenews/3139702",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 16时58分]"
         },
         {
           "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
@@ -133,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "特朗普为何又打关税牌又邀中方访美",
+          "url": "https://www.toutiao.com/trending/7666318383008189971/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "【特朗普称美方正与伊朗谈判，不排除加大军事打击】7月24日，美国总统特朗普在白宫谈及对伊朗战争的“退出战略”时表示，美国有两种选择：一是继续当前军事行动，并可能加大打击力度，逐步摧毁伊朗的军事能力；二是通过谈判达成协议。 特朗普称，伊朗方面希望达成协议，但目前“还没有准备好”。他表示，美国可以继续按现有方式行动，也可以更迅速地加强打击。 特朗普同时表示，美方目前仍在与伊朗进行谈判，“就在我们说话的时候，双方正在交谈”。（央视）",
@@ -251,7 +275,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -350,7 +374,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -427,7 +451,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -449,9 +473,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "怎么看特朗普301关税",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE301%E5%85%B3%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "特朗普宣布新一轮加征关税",
@@ -460,15 +495,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "特朗普被问犯下战争罪行后气急败坏",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E9%97%AE%E7%8A%AF%E4%B8%8B%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C%E5%90%8E%E6%B0%94%E6%80%A5%E8%B4%A5%E5%9D%8F%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
     {
       "keyword_group": "ai",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -543,8 +589,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 16时58分]"
         },
         {
           "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -558,6 +604,19 @@
           "time_info": "02时16分"
         },
         {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 16时58分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
           "url": "https://flash.jin10.com/detail/20260725000422924800",
           "source": "金十数据",
@@ -567,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3139724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
         },
         {
           "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
@@ -613,26 +661,16 @@
           "time_info": "00时34分"
         },
         {
-          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3139723",
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
-          "url": "https://wallstreetcn.com/livenews/3139722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 16时58分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -647,6 +685,30 @@
           "time_info": "[00时34分 ~ 02时16分]"
         },
         {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 16时58分]"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 16时58分]"
+        },
+        {
           "title": "大厂挤爆AI宠物赛道",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
           "source": "百度热搜",
@@ -658,18 +720,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 06时02分]"
-        },
-        {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 14时13分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -706,6 +756,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 14时13分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 16时58分]"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
@@ -758,7 +820,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -769,7 +831,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -780,7 +842,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -791,18 +853,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -827,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "AI血检提前15年预警心脏病",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A1%80%E6%A3%80%E6%8F%90%E5%89%8D15%E5%B9%B4%E9%A2%84%E8%AD%A6%E5%BF%83%E8%84%8F%E7%97%85&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "Anthropic推出更具成本效益的日常任务AI模型",
@@ -857,7 +919,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -871,12 +933,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -884,11 +957,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 14时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 16时58分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -910,8 +984,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 16时58分]"
+        },
+        {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 16时58分]"
         },
         {
           "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
@@ -923,19 +1011,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时13分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
@@ -1000,6 +1075,18 @@
           "time_info": "[11时14分 ~ 14时13分]"
         },
         {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 16时58分]"
+        },
+        {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
           "url": "https://wallstreetcn.com/livenews/3139646",
           "source": "华尔街见闻-快讯",
@@ -1040,9 +1127,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
+          "url": "https://flash.jin10.com/detail/20260725151742483800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "据伊朗Press TV：在沙特对也门发动袭击之际，沙特港口城市延布发生剧烈爆炸。",
@@ -1065,17 +1163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
-        },
-        {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
         },
         {
           "title": "王毅会见伊朗外长阿拉格齐",
@@ -1224,7 +1311,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -1232,11 +1319,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 14时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 16时58分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -1249,8 +1337,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 14时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 16时58分]"
         },
         {
           "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
@@ -1264,8 +1352,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时16分 ~ 14时13分]"
+          "appearance_count": 10,
+          "time_info": "[02时16分 ~ 16时58分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -1284,11 +1372,12 @@
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 16时58分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -1330,6 +1419,18 @@
           "time_info": "[00时34分 ~ 06时02分]"
         },
         {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 16时58分]"
+        },
+        {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
           "url": "https://wallstreetcn.com/livenews/3139640",
           "source": "华尔街见闻-快讯",
@@ -1354,15 +1455,16 @@
           "time_info": "[04时18分 ~ 06时02分]"
         },
         {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            10,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 16时58分]"
         },
         {
           "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
@@ -1376,15 +1478,15 @@
           "time_info": "04时18分"
         },
         {
-          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
-          "url": "https://wallstreetcn.com/livenews/3139717",
-          "source": "华尔街见闻-快讯",
+          "title": "科技七巨头单日抹去近9000亿美元！华尔街老将喊话：市场过度反应，地缘危机即买点",
+          "url": "https://wallstreetcn.com/articles/3777880",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时13分"
+          "time_info": "16时58分"
         },
         {
           "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
@@ -1470,7 +1572,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -1525,6 +1627,20 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 16时58分]"
+        },
+        {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
           "url": "https://wallstreetcn.com/livenews/3139564",
           "source": "华尔街见闻-快讯",
@@ -1534,19 +1650,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时13分]"
         },
         {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
@@ -1656,7 +1759,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -1667,8 +1770,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 14时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 16时58分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1679,8 +1782,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时00分 ~ 14时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时00分 ~ 16时58分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -1696,6 +1799,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 08时01分]"
+        },
+        {
+          "title": "A股一周跌幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7666327652068835364/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "宁德时代回应发起A股史上最大单次回购",
@@ -1723,7 +1837,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中方呼吁国际社会合力推动全球能源转型",
@@ -1737,13 +1851,24 @@
           "time_info": "11时14分"
         },
         {
+          "title": "《2026能源产业生态报告》发布 风电光伏装机超越火电",
+          "url": "https://flash.jin10.com/detail/20260725163235257800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "7月24日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
           "url": "https://flash.jin10.com/detail/20260725132418241800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
