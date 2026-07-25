@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T11:14:11.529799+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-07-25T14:13:36.889909+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -21,17 +21,6 @@
           "time_info": "[00时34分 ~ 08时01分]"
         },
         {
-          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
-          "url": "https://wallstreetcn.com/livenews/3139705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
           "title": "特朗普称美国与伊朗仍在对话",
           "url": "https://wallstreetcn.com/livenews/3139662",
           "source": "华尔街见闻-快讯",
@@ -42,6 +31,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 08时01分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://wallstreetcn.com/livenews/3139705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 14时13分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3139702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 14时13分]"
         },
         {
           "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
@@ -73,18 +86,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
-          "url": "https://wallstreetcn.com/livenews/3139702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -117,7 +119,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -183,7 +185,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -205,7 +207,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -216,7 +218,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -243,13 +245,24 @@
           "time_info": "04时18分"
         },
         {
+          "title": "特朗普称詹姆斯是种族主义者",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "美国总统特朗普：将出席明年的白宫新闻晚宴。",
           "url": "https://flash.jin10.com/detail/20260725100539518800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -282,7 +295,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -315,7 +328,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -329,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "特朗普拒答是否犯下战争罪行",
+          "url": "https://www.toutiao.com/trending/7666230332928507958/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "美国麻疹感染人数创最近35年新高，原CDC主管担心特朗普的卫生部长会让这成为新常态",
@@ -359,7 +383,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -381,7 +405,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -392,9 +416,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "特朗普称詹姆斯是种族主义者",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "特朗普称欧盟“掠夺”美国企业 威胁启动301调查并征收大规模关税",
@@ -406,12 +441,442 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "特朗普调侃白宫记者：等我卸任了，你们都得破产",
+          "url": "https://flash.jin10.com/detail/20260725122832263800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "特朗普宣布新一轮加征关税",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "ai",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 11时14分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 11时14分]"
+        },
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时02分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 11时14分]"
+        },
+        {
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 06时02分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 14时13分]"
+        },
+        {
+          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://wallstreetcn.com/livenews/3139604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
+          "url": "https://flash.jin10.com/detail/20260725000422924800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://flash.jin10.com/detail/20260725020808879800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
+          "url": "https://flash.jin10.com/detail/20260725103555536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
+          "url": "https://wallstreetcn.com/livenews/3139562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时16分]"
+        },
+        {
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时16分 ~ 06时02分]"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 14时13分]"
+        },
+        {
+          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777819",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 04时18分]"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 04时18分]"
+        },
+        {
+          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
+          "url": "https://wallstreetcn.com/livenews/3139701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 14时13分]"
+        },
+        {
+          "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
+          "url": "https://wallstreetcn.com/livenews/3139600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
+          "url": "https://flash.jin10.com/detail/20260725020122183800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "Meta加码AI助手 接入Gmail和日历拓展能力",
+          "url": "https://flash.jin10.com/detail/20260725014737999800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "SK海力士：与英伟达建立长期AI存储器合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260725131703808800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "现代汽车集团会长郑义宣在旧金山AI峰会上发布“物理AI”愿景。",
+          "url": "https://flash.jin10.com/detail/20260725131131676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "SK集团与英伟达深化战略合作伙伴关系，涵盖AI工厂与下一代存储技术。",
+          "url": "https://flash.jin10.com/detail/20260725131053313800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "韩国科学部：SK集团将与Anthropic就韩国境内的吉瓦（GW）级AI数据中心项目开展投资合作。",
+          "url": "https://flash.jin10.com/detail/20260725131035027800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
+          "url": "https://flash.jin10.com/detail/20260724234329207800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "朋友圈开始用AI照片代替旅游照",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BC%80%E5%A7%8B%E7%94%A8AI%E7%85%A7%E7%89%87%E4%BB%A3%E6%9B%BF%E6%97%85%E6%B8%B8%E7%85%A7&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "Anthropic推出更具成本效益的日常任务AI模型",
+          "url": "https://wallstreetcn.com/livenews/3139584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
+          "url": "https://wallstreetcn.com/livenews/3139690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260725123126272800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "谷歌公司签署《欧盟人工智能法案》透明度行为准则。 谷歌说：该欧盟准则涉及人工智能（AI）生成内容的透明度。",
+          "url": "https://wallstreetcn.com/livenews/3139536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -422,8 +887,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 11时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 14时13分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -445,8 +910,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 14时13分]"
         },
         {
           "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
@@ -458,6 +923,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时00分 ~ 14时13分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
@@ -485,18 +963,6 @@
           "time_info": "[06时02分 ~ 08时01分]"
         },
         {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 11时14分]"
-        },
-        {
           "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
           "url": "https://flash.jin10.com/detail/20260725040656654800",
           "source": "金十数据",
@@ -520,6 +986,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 08时01分]"
+        },
+        {
+          "title": "伊朗军方称将对美军实施对等报复",
+          "url": "https://wallstreetcn.com/livenews/3139696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 14时13分]"
         },
         {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
@@ -551,20 +1029,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
         {
-          "title": "伊朗军方称将对美军实施对等报复",
-          "url": "https://wallstreetcn.com/livenews/3139696",
-          "source": "华尔街见闻-快讯",
+          "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
+          "url": "https://flash.jin10.com/detail/20260725132754175800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时14分"
+          "time_info": "14时13分"
         },
         {
           "title": "据伊朗Press TV：在沙特对也门发动袭击之际，沙特港口城市延布发生剧烈爆炸。",
@@ -573,7 +1051,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -584,9 +1062,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "王毅会见伊朗外长阿拉格齐",
@@ -628,7 +1117,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -734,314 +1223,8 @@
       ]
     },
     {
-      "keyword_group": "ai",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 11时14分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 11时14分]"
-        },
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 06时02分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 11时14分]"
-        },
-        {
-          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 06时02分]"
-        },
-        {
-          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
-          "url": "https://wallstreetcn.com/livenews/3139604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
-          "url": "https://flash.jin10.com/detail/20260725000422924800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
-          "url": "https://flash.jin10.com/detail/20260725020808879800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "韩国总统李在明：我先后会见了Anthropic首席执行官Dario Amodei、OpenAI首席执行官Sam Altman、英伟达首席执行官黄仁勋以及博通首席执行官陈福阳，共同探讨了AI时代的合作与未来发展。",
-          "url": "https://flash.jin10.com/detail/20260725103555536800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
-          "url": "https://wallstreetcn.com/livenews/3139562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 02时16分]"
-        },
-        {
-          "title": "大厂挤爆AI宠物赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 06时02分]"
-        },
-        {
-          "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777819",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "AI重现狼牙山五壮士英雄壮举",
-          "url": "https://www.toutiao.com/trending/7666058970050183209/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 04时18分]"
-        },
-        {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时14分]"
-        },
-        {
-          "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
-          "url": "https://wallstreetcn.com/livenews/3139600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
-          "url": "https://flash.jin10.com/detail/20260725020122183800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Meta加码AI助手 接入Gmail和日历拓展能力",
-          "url": "https://flash.jin10.com/detail/20260725014737999800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
-          "url": "https://wallstreetcn.com/livenews/3139701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
-          "url": "https://wallstreetcn.com/livenews/3139592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA和LUNA现已在亚马逊Bedrock上正式上线。",
-          "url": "https://flash.jin10.com/detail/20260724234329207800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "朋友圈开始用AI照片代替旅游照",
-          "url": "https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BC%80%E5%A7%8B%E7%94%A8AI%E7%85%A7%E7%89%87%E4%BB%A3%E6%9B%BF%E6%97%85%E6%B8%B8%E7%85%A7&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "Anthropic推出更具成本效益的日常任务AI模型",
-          "url": "https://wallstreetcn.com/livenews/3139584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
-          "url": "https://wallstreetcn.com/livenews/3139690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "谷歌公司签署《欧盟人工智能法案》透明度行为准则。 谷歌说：该欧盟准则涉及人工智能（AI）生成内容的透明度。",
-          "url": "https://wallstreetcn.com/livenews/3139536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -1052,8 +1235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 11时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 14时13分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -1066,8 +1249,23 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 14时13分]"
+        },
+        {
+          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时34分 ~ 11时14分]"
+          "time_info": "[02时16分 ~ 14时13分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -1082,20 +1280,6 @@
           "time_info": "[00时34分 ~ 08时01分]"
         },
         {
-          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 11时14分]"
-        },
-        {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -1103,8 +1287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 11时14分]"
+          "appearance_count": 5,
+          "time_info": "[08时00分 ~ 14时13分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -1170,6 +1354,17 @@
           "time_info": "[04时18分 ~ 06时02分]"
         },
         {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
           "url": "https://wallstreetcn.com/livenews/3139633",
           "source": "华尔街见闻-快讯",
@@ -1179,6 +1374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
@@ -1258,6 +1464,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "韩国与全球科技巨头达成9500亿美元的合作项目",
+          "url": "https://flash.jin10.com/detail/20260725123504500800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "英特尔与蓝思科技将合作开发基于玻璃的半导体封装技术",
           "url": "https://wallstreetcn.com/livenews/3139577",
           "source": "华尔街见闻-快讯",
@@ -1319,6 +1536,19 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时00分 ~ 14时13分]"
+        },
+        {
           "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
           "url": "https://wallstreetcn.com/livenews/3139661",
           "source": "华尔街见闻-快讯",
@@ -1352,18 +1582,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 08时01分]"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 11时14分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
@@ -1445,11 +1663,24 @@
           "url": "https://www.cls.cn/detail/2436662",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 11时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 14时13分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时00分 ~ 14时13分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -1465,18 +1696,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 08时01分]"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时00分 ~ 11时14分]"
         },
         {
           "title": "宁德时代回应发起A股史上最大单次回购",
@@ -1499,6 +1718,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "能源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中方呼吁国际社会合力推动全球能源转型",
+          "url": "https://flash.jin10.com/detail/20260725104039255800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "7月24日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260725132418241800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "美国总统特朗普：在签署沙特核协议之前，没有与美国能源部长赖特进行过交谈。",
+          "url": "https://flash.jin10.com/detail/20260725035315410800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
@@ -1539,34 +1797,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中方呼吁国际社会合力推动全球能源转型",
-          "url": "https://flash.jin10.com/detail/20260725104039255800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "美国总统特朗普：在签署沙特核协议之前，没有与美国能源部长赖特进行过交谈。",
-          "url": "https://flash.jin10.com/detail/20260725035315410800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         }
       ]
     },
