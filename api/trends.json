@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-26T07:57:33.551128+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-26T10:31:36.633553+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
+        },
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
           "url": "https://news.ifeng.com/c/8v324dBINEL",
@@ -19,28 +30,18 @@
           "time_info": "[00时07分 ~ 07时57分]"
         },
         {
-          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
-          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
           "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
           "url": "https://wallstreetcn.com/livenews/3139779",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -54,8 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
@@ -76,11 +77,12 @@
           "ranks": [
             20,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "美国中央司令部：于7月24日在阿曼湾对悬挂莫桑比克国旗的“Lavine”号油轮实施使其中止航行的措施，此前该船船员多次试图违反封锁，并无视反复警告。该船已不再驶往伊朗。",
@@ -94,6 +96,17 @@
           "time_info": "[06时51分 ~ 07时57分]"
         },
         {
+          "title": "伊朗就商船遭袭召见乌克兰临时代办",
+          "url": "https://wallstreetcn.com/livenews/3139799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊拉克消息人士称，伊拉克基尔库克省詹布尔油田发生数次剧烈爆炸并引发大范围火灾。",
           "url": "https://flash.jin10.com/detail/20260726052806994800",
           "source": "金十数据",
@@ -104,6 +117,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时57分]"
+        },
+        {
+          "title": "伊朗称该国商船在里海遭乌克兰袭击致1死1伤",
+          "url": "https://wallstreetcn.com/livenews/3139796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "伊朗：新一轮冲突是因美国违反协议而导致",
@@ -336,12 +360,317 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 04时14分]"
+        },
+        {
+          "title": "海湾合作委员会面临危机，成员国难就伊朗问题达成一致",
+          "url": "https://flash.jin10.com/detail/20260726094333888800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
+        },
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时31分]"
+        },
+        {
+          "title": "以总理计划向特朗普递交伊朗情报",
+          "url": "https://wallstreetcn.com/livenews/3139791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 10时31分]"
+        },
+        {
+          "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3139790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 10时31分]"
+        },
+        {
+          "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
+          "url": "https://news.ifeng.com/c/8v48kLIyX9u",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "澳大利亚总理：将就新关税问题向特朗普提出交涉",
+          "url": "https://flash.jin10.com/detail/20260726095815377800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 05时52分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3139792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 10时31分]"
+        },
+        {
+          "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260726010043722800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 04时14分]"
+        },
+        {
+          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260726031504146800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时14分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普：若不能100%得到想要的 将考虑恢复全面战争",
+          "url": "https://flash.jin10.com/detail/20260726031254710800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时14分 ~ 07时57分]"
+        },
+        {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 01时56分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://flash.jin10.com/detail/20260726013259150800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 04时14分]"
+        },
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "白宫记协晚宴重办，争议比特朗普的段子还大",
+          "url": "https://news.ifeng.com/c/8v3M9RFFAJ3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/articles/3777934",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
+          "url": "https://wallstreetcn.com/articles/3777933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普下令暂停打击伊朗",
+          "url": "https://www.toutiao.com/trending/7666608065243778606/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普调侃白宫记者",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普称暂停空袭伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
     {
       "keyword_group": "ai",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -350,11 +679,26 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "time_info": "[01时56分 ~ 10时31分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -382,6 +726,18 @@
           "time_info": "[00时07分 ~ 07时57分]"
         },
         {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时31分]"
+        },
+        {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
           "url": "https://www.zhihu.com/question/2064272326489628784",
           "source": "知乎",
@@ -390,30 +746,6 @@
             12,
             20,
             19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
-          "url": "https://wallstreetcn.com/articles/3777925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时56分 ~ 07时57分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
             13
           ],
           "is_new": false,
@@ -496,6 +828,19 @@
           "time_info": "[05时52分 ~ 07时57分]"
         },
         {
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 10时31分]"
+        },
+        {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
           "url": "https://wallstreetcn.com/articles/3777898",
           "source": "华尔街见闻",
@@ -508,27 +853,71 @@
           "time_info": "[00时07分 ~ 04时14分]"
         },
         {
-          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
-          "url": "https://wallstreetcn.com/articles/3777919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时57分]"
-        },
-        {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时51分 ~ 05时52分]"
+          "appearance_count": 3,
+          "time_info": "[05时51分 ~ 10时31分]"
+        },
+        {
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "AI算命 个人数据意识",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%AE%97%E5%91%BD%20%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E6%84%8F%E8%AF%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://flash.jin10.com/detail/20260726091430894800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
@@ -537,7 +926,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -548,174 +937,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
-          "url": "https://wallstreetcn.com/articles/3777927",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://news.ifeng.com/c/8v378W8XMdI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
-          "url": "https://wallstreetcn.com/livenews/3139778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
-        },
-        {
-          "title": "以总理计划向特朗普递交伊朗情报",
-          "url": "https://wallstreetcn.com/livenews/3139791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时57分]"
-        },
-        {
-          "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3139790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/livenews/3139792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "专家：特朗普一刀切关税得罪全部盟友",
-          "url": "https://www.toutiao.com/trending/7666410407686311467/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            23,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 05时52分]"
-        },
-        {
-          "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260726010043722800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 04时14分]"
-        },
-        {
-          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260726031504146800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时14分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普：若不能100%得到想要的 将考虑恢复全面战争",
-          "url": "https://flash.jin10.com/detail/20260726031254710800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时14分 ~ 07时57分]"
-        },
-        {
-          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
-          "url": "https://flash.jin10.com/detail/20260725222304302800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时56分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://flash.jin10.com/detail/20260726013259150800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普调侃白宫记者",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
@@ -723,7 +945,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -744,11 +966,12 @@
             9,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -758,8 +981,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -770,8 +993,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -792,11 +1015,34 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时57分]"
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 10时31分]"
+        },
+        {
+          "title": "韩国科技巨头高管造访英伟达总部",
+          "url": "https://flash.jin10.com/detail/20260726095452153800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "长鑫科技明日上市 中一签能赚多少钱",
+          "url": "https://www.toutiao.com/trending/7665941475108195883/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "科技股大跌是因为量化砸盘吗",
@@ -805,9 +1051,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "李在明力邀美资布局韩国科技",
+          "url": "https://flash.jin10.com/detail/20260726084636423800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -824,8 +1081,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -837,8 +1094,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -849,8 +1106,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "A股下周会迎来更猛烈的震荡吗",
@@ -873,11 +1130,12 @@
           "ranks": [
             19,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "A股一周跌幅榜出炉",
@@ -902,11 +1160,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 10时31分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -934,11 +1193,12 @@
           "ranks": [
             18,
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 07时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 10时31分]"
         }
       ]
     }
