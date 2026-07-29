@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T13:48:04.932663+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-07-29T16:33:43.471357+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -133,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 16时33分]"
         },
         {
           "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
@@ -142,11 +142,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 16时33分]"
+        },
+        {
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时48分]"
+          "time_info": "[13时47分 ~ 16时33分]"
         },
         {
           "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
@@ -158,17 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "美国中央司令部：美国东部时间今日下午5:45（北京时间29日清晨5:45），伊朗伊斯兰革命卫队的部队从伊朗发射了多枚弹道导弹，试图对驻中东的美军进行突袭。所有伊朗导弹均已成功拦截。美军保持警惕，处于高度戒备状态。",
@@ -496,7 +497,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -537,7 +538,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -547,11 +548,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 13时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 16时33分]"
         },
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -589,8 +591,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 13时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 16时33分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -644,15 +646,16 @@
           "time_info": "[02时11分 ~ 13时48分]"
         },
         {
-          "title": "会计被AI取代的概率",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "appearance_count": 6,
+          "time_info": "[07时05分 ~ 16时33分]"
         },
         {
           "title": "AI公司 原版书籍销毁",
@@ -691,16 +694,16 @@
           "time_info": "07时06分"
         },
         {
-          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
-          "url": "https://wallstreetcn.com/articles/3778137",
-          "source": "华尔街见闻",
+          "title": "会计被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时05分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时33分]"
         },
         {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
@@ -737,6 +740,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 16时33分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -788,6 +803,17 @@
           "time_info": "[10时09分 ~ 13时48分]"
         },
         {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时33分]"
+        },
+        {
           "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
           "url": "https://www.cls.cn/detail/2438854",
           "source": "财联社热门",
@@ -797,17 +823,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "当我指挥AI工作时",
@@ -843,6 +858,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "A股创业板指、深证成指双双跌超1%，上证指数跌0.4%，乳业、教育、AI应用板块涨幅居前，光刻机、存储芯片、CPO概念等板块跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260729094953632800",
           "source": "金十数据",
@@ -854,17 +880,6 @@
           "time_info": "10时09分"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
           "title": "OpenAI与Anthropic员工联名致信 呼吁美政府建立机制监控AI发展",
           "url": "https://flash.jin10.com/detail/20260729012330560800",
           "source": "金十数据",
@@ -874,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "券商晨会精华：AI驱动半导体产业资本开支上行，半导体设备开启新一轮成长周期",
+          "url": "https://www.cls.cn/detail/2439569",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "工科博士谈AI时代专业选择",
@@ -896,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "明星为什么愿意把脸“卖”给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E6%98%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%BF%E6%84%8F%E6%8A%8A%E8%84%B8%E2%80%9C%E5%8D%96%E2%80%9D%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "AI重现被困师生救援事件",
@@ -929,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "闲鱼：AI订单半年成交近千万，同比增157%",
+          "url": "https://wallstreetcn.com/livenews/3141553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "AI热潮推动数据存储需求，希捷科技第四财季利润飙升",
@@ -986,6 +1034,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "闲鱼：AI订单半年成交近千万，同比增157%",
+          "url": "https://flash.jin10.com/detail/20260729154718441800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "华尔街大行被视为“AI周边板块”，分析师：股价料因多重利好而跑赢大盘",
           "url": "https://wallstreetcn.com/livenews/3141097",
           "source": "华尔街见闻-快讯",
@@ -1022,7 +1081,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
@@ -1053,7 +1112,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1064,7 +1123,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1086,9 +1145,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.96%，恒生科技指数收涨2.84%。理想汽车涨近10%，小米集团涨近9%，MINIMAX涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3141566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "长鑫科技登顶A股意味着什么",
@@ -1142,7 +1212,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1164,7 +1234,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1175,7 +1245,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1186,7 +1256,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1219,7 +1289,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1241,7 +1311,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1285,7 +1355,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1318,7 +1388,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1340,7 +1410,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1362,7 +1432,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -1373,27 +1443,295 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 21,
+      "keyword_group": "科技",
+      "match_count": 24,
       "titles": [
         {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
-          "url": "https://www.toutiao.com/trending/7667418781938679858/",
-          "source": "今日头条",
+          "title": "长鑫科技将被纳入MSCI指数",
+          "url": "https://www.douyin.com/hot/2588584",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 13时48分]"
+        },
+        {
+          "title": "【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数",
+          "url": "https://www.cls.cn/detail/2439549",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 13时48分]"
+        },
+        {
+          "title": "二季度追高科技的那些基金，都怎么样了？",
+          "url": "https://www.cls.cn/detail/2439781",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时33分]"
+        },
+        {
+          "title": "存储好消息来了！希捷科技最新财报全面好于预期",
+          "url": "https://www.cls.cn/detail/2439520",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 13时48分]"
+        },
+        {
+          "title": "长鑫科技最大国有投资方表态",
+          "url": "https://www.cls.cn/detail/2438933",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
+          "time_info": "[00时03分 ~ 00时04分]"
         },
+        {
+          "title": "希捷科技盘前涨近5%，公司上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲。",
+          "url": "https://wallstreetcn.com/livenews/3141574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "雷军打新长鑫科技浮盈7亿？小米高管回应：公司投资行为，跟个人财富无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33671530",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时11分 ~ 10时09分]"
+        },
+        {
+          "title": "美股盘前半导体股延续近期跌势，SK海力士(SKHY.O)跌1.9%，美光科技(MU.O)跌1.6%，闪迪(SNDK.O)跌2.3%，英伟达(NVDA.O)跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260729160130853800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "长鑫科技“一战封神”绝非爽文",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E2%80%9C%E4%B8%80%E6%88%98%E5%B0%81%E7%A5%9E%E2%80%9D%E7%BB%9D%E9%9D%9E%E7%88%BD%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时11分 ~ 07时06分]"
+        },
+        {
+          "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
+          "url": "https://www.cls.cn/detail/2439091",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 06时01分]"
+        },
+        {
+          "title": "长鑫科技将被纳入MSCI中国全股票指数",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B0%86%E8%A2%AB%E7%BA%B3%E5%85%A5MSCI%E4%B8%AD%E5%9B%BD%E5%85%A8%E8%82%A1%E7%A5%A8%E6%8C%87%E6%95%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 06时01分]"
+        },
+        {
+          "title": "SK海力士：与大约10家客户敲定长期协议。 从多家大型科技公司获得额外的供应要求。 预计存储需求的动能将持续存在。",
+          "url": "https://wallstreetcn.com/livenews/3141229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美股盘前，存储概念股延续跌势，美光科技、SK海力士均跌超1%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3141563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3141194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
+          "url": "https://wallstreetcn.com/livenews/3141193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "比亚迪李云飞：王传福个人没有直接投资长鑫科技",
+          "url": "https://wallstreetcn.com/livenews/3141453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "长鑫科技万亿IPO的财富分配",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%87%E4%BA%BFIPO%E7%9A%84%E8%B4%A2%E5%AF%8C%E5%88%86%E9%85%8D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "长鑫科技将被纳入MSCI中国全股票指数，8月10日生效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33675168",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "长鑫科技大涨12.66%",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E6%B6%A812.66%25",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
+          "url": "https://wallstreetcn.com/livenews/3141180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "恒指高开0.7%，报25487.16点；恒生科技指数涨1.02%。理想汽车、MINIMAX涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3141310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "纳指科技指数收跌约1.2%，半导体指数较收盘历史最高位回撤将近55%",
+          "url": "https://wallstreetcn.com/livenews/3141178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "长鑫科技继续涨 另一存储龙头却跌停",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%BB%A7%E7%BB%AD%E6%B6%A8+%E5%8F%A6%E4%B8%80%E5%AD%98%E5%82%A8%E9%BE%99%E5%A4%B4%E5%8D%B4%E8%B7%8C%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "长鑫科技上市冲击海力士",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E5%86%B2%E5%87%BB%E6%B5%B7%E5%8A%9B%E5%A3%AB&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 23,
+      "titles": [
         {
           "title": "据以色列第12频道：一名以色列高级官员称，内塔尼亚胡已向特朗普确认，对于那些已经重新修复的伊朗核设施，“追加打击是不可避免的”。",
           "url": "https://flash.jin10.com/detail/20260729014415526800",
@@ -1426,6 +1764,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
+          "url": "https://www.toutiao.com/trending/7667418781938679858/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时33分]"
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -1528,6 +1878,28 @@
           "time_info": "10时09分"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
+          "url": "https://www.cls.cn/detail/2439731",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "乌克兰总统泽连斯基发布的照片显示，美国国务卿鲁比奥出席了与美国总统特朗普的会议，但未见美国副总统万斯的身影。",
           "url": "https://flash.jin10.com/detail/20260728232922798800",
           "source": "金十数据",
@@ -1618,229 +1990,6 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "长鑫科技将被纳入MSCI指数",
-          "url": "https://www.douyin.com/hot/2588584",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 13时48分]"
-        },
-        {
-          "title": "【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数",
-          "url": "https://www.cls.cn/detail/2439549",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时48分]"
-        },
-        {
-          "title": "存储好消息来了！希捷科技最新财报全面好于预期",
-          "url": "https://www.cls.cn/detail/2439520",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时48分]"
-        },
-        {
-          "title": "长鑫科技最大国有投资方表态",
-          "url": "https://www.cls.cn/detail/2438933",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "二季度追高科技的那些基金，都怎么样了？",
-          "url": "https://www.cls.cn/detail/2439781",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
-        },
-        {
-          "title": "雷军打新长鑫科技浮盈7亿？小米高管回应：公司投资行为，跟个人财富无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33671530",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时11分 ~ 10时09分]"
-        },
-        {
-          "title": "长鑫科技“一战封神”绝非爽文",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E2%80%9C%E4%B8%80%E6%88%98%E5%B0%81%E7%A5%9E%E2%80%9D%E7%BB%9D%E9%9D%9E%E7%88%BD%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时11分 ~ 07时06分]"
-        },
-        {
-          "title": "【数据看盘】超20亿元资金涌入算力硬件龙头，北一环路席位1.79亿元买入岩山科技",
-          "url": "https://www.cls.cn/detail/2439091",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 06时01分]"
-        },
-        {
-          "title": "长鑫科技将被纳入MSCI中国全股票指数",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B0%86%E8%A2%AB%E7%BA%B3%E5%85%A5MSCI%E4%B8%AD%E5%9B%BD%E5%85%A8%E8%82%A1%E7%A5%A8%E6%8C%87%E6%95%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 06时01分]"
-        },
-        {
-          "title": "SK海力士：与大约10家客户敲定长期协议。 从多家大型科技公司获得额外的供应要求。 预计存储需求的动能将持续存在。",
-          "url": "https://wallstreetcn.com/livenews/3141229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3141194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
-          "url": "https://wallstreetcn.com/livenews/3141193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "比亚迪李云飞：王传福个人没有直接投资长鑫科技",
-          "url": "https://wallstreetcn.com/livenews/3141453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "长鑫科技万亿IPO的财富分配",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%87%E4%BA%BFIPO%E7%9A%84%E8%B4%A2%E5%AF%8C%E5%88%86%E9%85%8D",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "长鑫科技将被纳入MSCI中国全股票指数，8月10日生效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33675168",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.08%，报6325.46点。 热门中概股里，理想初步收涨4.9%，亚朵涨4.5%，网易涨3%，小米涨2.3%，新东方涨1.7%，拼多多、腾讯涨1%，阿里涨0.3%，百度跌0.3%，日月光半导体跌7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.15%，中国科技指数ETF（CQQQ）收跌2.41%。 德银嘉实沪深300指数ETF（ASHR）收跌2.39%，MSCI新兴市场ex中国ETF（EMXC）收跌2.46%，XtrackersHarvest中证50（ASHS）收跌2.62%。",
-          "url": "https://wallstreetcn.com/livenews/3141180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "恒指高开0.7%，报25487.16点；恒生科技指数涨1.02%。理想汽车、MINIMAX涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3141310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "纳指科技指数收跌约1.2%，半导体指数较收盘历史最高位回撤将近55%",
-          "url": "https://wallstreetcn.com/livenews/3141178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "长鑫科技上市冲击海力士",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E5%86%B2%E5%87%BB%E6%B5%B7%E5%8A%9B%E5%A3%AB&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
@@ -1852,11 +2001,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 13时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 16时33分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -1875,11 +2025,12 @@
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 16时33分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -1912,11 +2063,12 @@
           "ranks": [
             11,
             14,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 13时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 16时33分]"
         },
         {
           "title": "美股芯片存储大跌",
@@ -1969,7 +2121,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
@@ -2036,7 +2188,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
@@ -2081,7 +2233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
