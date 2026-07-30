@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T21:49:40.089175+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-07-30T23:49:32.223490+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时01分 ~ 21时49分]"
+          "appearance_count": 10,
+          "time_info": "[08时01分 ~ 23时49分]"
         },
         {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时54分 ~ 21时49分]"
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 23时49分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -55,11 +55,12 @@
           "ranks": [
             2,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 23时49分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -72,6 +73,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 08时02分]"
+        },
+        {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 23时49分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -149,18 +162,6 @@
           "time_info": "[01时11分 ~ 08时02分]"
         },
         {
-          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 21时49分]"
-        },
-        {
           "title": "美联储主席沃什：高科技（企业的）资本开支激增的现象非常突出。 资本开支为未来的（美国经济）增长做铺垫。 资本开支对供给侧影响的时间点是难以预料的。 资本开支繁荣正推高AI基础设施的价格。",
           "url": "https://wallstreetcn.com/livenews/3141843",
           "source": "华尔街见闻-快讯",
@@ -181,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "Citadel（城堡）从基金公司Situational Awareness投资组合中接盘一部分AI股票。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -218,6 +230,18 @@
           "time_info": "[17时27分 ~ 21时49分]"
         },
         {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 23时49分]"
+        },
+        {
           "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
           "url": "https://www.cls.cn/detail/2441092",
           "source": "财联社热门",
@@ -243,18 +267,6 @@
           "time_info": "[01时11分 ~ 08时02分]"
         },
         {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时49分]"
-        },
-        {
           "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
           "url": "https://wallstreetcn.com/articles/3778220",
           "source": "华尔街见闻",
@@ -276,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时49分 ~ 21时49分]"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时49分]"
         },
         {
           "title": "AI 焚书",
@@ -323,6 +347,17 @@
           "time_info": "[14时23分 ~ 14时24分]"
         },
         {
+          "title": "谷歌Deepmind推出Gemini Robotics 2机器人AI模型",
+          "url": "https://flash.jin10.com/detail/20260730230757965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
           "url": "https://wallstreetcn.com/livenews/3141802",
           "source": "华尔街见闻-快讯",
@@ -340,7 +375,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -384,9 +419,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
+          "url": "https://wallstreetcn.com/livenews/3142550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
@@ -406,7 +452,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -417,7 +463,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -444,15 +490,15 @@
           "time_info": "08时02分"
         },
         {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
+          "title": "AI概念股受科技巨头业绩及资本支出计划提振而大涨",
+          "url": "https://wallstreetcn.com/livenews/3142542",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "23时49分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
@@ -472,7 +518,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -494,7 +540,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -505,7 +551,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -568,7 +614,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -579,8 +625,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时58分 ~ 21时49分]"
+          "appearance_count": 11,
+          "time_info": "[06时58分 ~ 23时49分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -670,6 +716,21 @@
           "time_info": "[01时11分 ~ 08时02分]"
         },
         {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时23分 ~ 23时49分]"
+        },
+        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
           "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
           "source": "凤凰网",
@@ -690,20 +751,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时07分 ~ 11时54分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 21时49分]"
         },
         {
           "title": "最新民调出炉！特朗普在共和党内部也遇挫",
@@ -795,6 +842,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "马斯克“钞能力”重启！重金布局中期选举，特朗普的超级援军来了",
           "url": "https://flash.jin10.com/detail/20260730111552578800",
           "source": "金十数据",
@@ -834,7 +892,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -941,7 +999,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
@@ -951,8 +1009,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 21时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时49分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -963,8 +1021,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 21时49分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时49分]"
         },
         {
           "title": "历史性一刻，伊朗先发制人袭击美军基地",
@@ -977,6 +1035,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时54分 ~ 19时49分]"
+        },
+        {
+          "title": "【美军称没有美国飞机在伊朗最近的袭击中被摧毁】美军中央司令部30日在社交媒体上发文称，在伊朗最近的袭击中，没有美国飞机被摧毁或损坏。“所有导弹和无人机均被拦截或未能到达目标区域。” 伊朗伊斯兰革命卫队此前发表声明称，为回应美国的袭击，革命卫队袭击了约旦阿兹拉克美军基地，摧毁3架F-35战斗机，并严重损坏另外3架战机。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3142562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时49分]"
         },
         {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
@@ -1001,17 +1083,17 @@
           "time_info": "[01时11分 ~ 04时51分]"
         },
         {
-          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
-          "source": "澎湃新闻",
+          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            15,
-            13
+            6,
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 23时49分]"
         },
         {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
@@ -1036,16 +1118,15 @@
           "time_info": "[06时58分 ~ 08时02分]"
         },
         {
-          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
-          "url": "https://www.toutiao.com/trending/7668276655902690879/",
-          "source": "今日头条",
+          "title": "伊朗称打击约旦美军基地并摧毁3架F-35战机",
+          "url": "https://news.ifeng.com/c/8vBe6gl56CN",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时49分]"
+          "time_info": "[21时49分 ~ 23时49分]"
         },
         {
           "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
@@ -1060,15 +1141,15 @@
           "time_info": "[11时54分 ~ 14时24分]"
         },
         {
-          "title": "伊朗称打击约旦美军基地并摧毁3架F-35战机",
-          "url": "https://news.ifeng.com/c/8vBe6gl56CN",
-          "source": "凤凰网",
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时49分"
+          "time_info": "23时49分"
         },
         {
           "title": "美军正在伊朗境内进行空袭。（AXIOS）",
@@ -1104,6 +1185,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：也门萨那传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260730230116479800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "沙特刚与美国打击亲伊武装后急闯白宫，推动伊朗局势降温",
           "url": "https://flash.jin10.com/detail/20260730112815022800",
           "source": "金十数据",
@@ -1126,6 +1218,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "伊朗称袭击科威特的美空军基地",
+          "url": "https://www.toutiao.com/trending/7668304219085999652/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
           "url": "https://wallstreetcn.com/livenews/3141795",
           "source": "华尔街见闻-快讯",
@@ -1143,7 +1246,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1165,7 +1268,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1209,7 +1312,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1231,9 +1334,560 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "科技股调整到哪一步？多家卖方研判",
+          "url": "https://www.cls.cn/detail/2440404",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 08时02分]"
+        },
+        {
+          "title": "美股大跌 美光科技跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "美联储主席沃什：高科技资本支出的激增令人瞩目。",
+          "url": "https://flash.jin10.com/detail/20260730023927611800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
+          "url": "https://wallstreetcn.com/livenews/3142509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
+          "url": "https://www.cls.cn/detail/2440581",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 14时24分]"
+        },
+        {
+          "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
+          "url": "https://www.cls.cn/detail/2441464",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 23时49分]"
+        },
+        {
+          "title": "耐心资本密集落子，央企系基金加速布局硬科技",
+          "url": "https://wallstreetcn.com/livenews/3141940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时02分]"
+        },
+        {
+          "title": "剑桥科技：生产经营活动正常，不存在影响公司股票交易价格异常波动的重大事宜",
+          "url": "https://flash.jin10.com/detail/20260730170506154800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "百亿基金经理调仓路径出炉：金梓才增持三环集团，陈韫中建仓安孚科技",
+          "url": "https://wallstreetcn.com/livenews/3142431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "宇树科技：8月10日打新",
+          "url": "https://www.toutiao.com/trending/7667763686765019190/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（7月30日）",
+          "url": "https://flash.jin10.com/detail/20260730071945303800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "昀冢科技：公司MLCC业务尚处于亏损状态",
+          "url": "https://flash.jin10.com/detail/20260730170457157800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "逢低买盘推动美股高开，科技股反弹，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "宇树科技：初步询价日为8月5日 网下申购日为8月10日",
+          "url": "https://flash.jin10.com/detail/20260730211736834800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "宇树科技：初步询价日为8月5日 网下申购日为8月10日",
+          "url": "https://wallstreetcn.com/livenews/3142501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "宇树科技：8月10日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33687840",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "宇树科技IPO时间定了 8月10日申购",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "重庆宇隆光电科技股份有限公司将于8月6日上会",
+          "url": "https://flash.jin10.com/detail/20260730191412745800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时49分"
+        },
+        {
+          "title": "拿森智能科技拟在香港IPO募资至多6.44亿港元",
+          "url": "https://wallstreetcn.com/livenews/3141955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "宇树科技员工资管计划拟参与IPO战略配售，王兴兴认购1500万",
+          "url": "https://wallstreetcn.com/livenews/3142540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "龚正会见美国霍尼韦尔科技董事长兼首席执行官柯伟茂",
+          "url": "https://wallstreetcn.com/livenews/3142487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "兆易创新跌倒 长鑫科技吃饱",
+          "url": "https://www.toutiao.com/trending/7668081725993389631/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "科技股“三度探底”",
+          "url": "https://www.toutiao.com/trending/7667841095518601257/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美股存储芯片指数涨超17%，SK海力士ADR涨15.85%，美光科技股价上涨15%，闪迪上涨21.15%，西部数据上涨16.87%，希捷科技上涨15.84%。",
+          "url": "https://wallstreetcn.com/livenews/3142532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "宇树科技员工资管计划拟参与IPO战略配售，王兴兴认购1500万",
+          "url": "https://flash.jin10.com/detail/20260730224032674800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3141779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时58分 ~ 14时24分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时51分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 11时54分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "Carvana美股盘后跌15%，这家汽车零售商的2026年业绩指引逊色于华尔街预期。",
+          "url": "https://wallstreetcn.com/livenews/3141905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "星巴克美股盘后涨11%，该公司上调全年调整后每股收益（EPS）指引。",
+          "url": "https://wallstreetcn.com/livenews/3141903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 06时58分]"
+        },
+        {
+          "title": "拉姆研究美股盘后涨6%，该公司给出了强劲的第一财季调整后每股收益（EPS）指引。",
+          "url": "https://wallstreetcn.com/livenews/3141900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 14时24分]"
+        },
+        {
+          "title": "美股尾盘大跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260730003937235800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260730003902426800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
+          "url": "https://flash.jin10.com/detail/20260730060759487800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
+          "url": "https://wallstreetcn.com/livenews/3141889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3142496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
+          "url": "https://wallstreetcn.com/livenews/3141937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260729235733108800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260730040558653800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260730040555975800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "Meta美股盘后跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3141919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         }
       ]
     },
@@ -1264,6 +1918,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时23分 ~ 21时49分]"
+        },
+        {
+          "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
+          "url": "https://www.cls.cn/detail/2441712",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时49分]"
         },
         {
           "title": "大港股份：全资子公司拟挂牌转让苏州科阳16%股权 挂牌底价为2亿元",
@@ -1298,17 +1964,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 14时24分]"
-        },
-        {
-          "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
-          "url": "https://www.cls.cn/detail/2441712",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
         },
         {
           "title": "A股科技股拥挤度",
@@ -1429,7 +2084,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1480,459 +2135,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时58分 ~ 14时24分]"
-        },
-        {
-          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时51分]"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 11时54分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "Carvana美股盘后跌15%，这家汽车零售商的2026年业绩指引逊色于华尔街预期。",
-          "url": "https://wallstreetcn.com/livenews/3141905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "星巴克美股盘后涨11%，该公司上调全年调整后每股收益（EPS）指引。",
-          "url": "https://wallstreetcn.com/livenews/3141903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 06时58分]"
-        },
-        {
-          "title": "拉姆研究美股盘后涨6%，该公司给出了强劲的第一财季调整后每股收益（EPS）指引。",
-          "url": "https://wallstreetcn.com/livenews/3141900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
-          "url": "https://www.cls.cn/detail/2440809",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 14时24分]"
-        },
-        {
-          "title": "美股尾盘大跳水原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260730003937235800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260730003902426800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
-          "url": "https://flash.jin10.com/detail/20260730060759487800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2590070",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
-          "url": "https://wallstreetcn.com/livenews/3141889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3142496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
-          "url": "https://wallstreetcn.com/livenews/3141937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        },
-        {
-          "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
-          "url": "https://flash.jin10.com/detail/20260729235733108800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260730040558653800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260730040555975800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "Meta美股盘后跌幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3141919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "科技股调整到哪一步？多家卖方研判",
-          "url": "https://www.cls.cn/detail/2440404",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 08时02分]"
-        },
-        {
-          "title": "美股大跌 美光科技跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "美联储主席沃什：高科技资本支出的激增令人瞩目。",
-          "url": "https://flash.jin10.com/detail/20260730023927611800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
-          "url": "https://wallstreetcn.com/livenews/3142509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "“反科技”标签大放异彩 这国股市在芯片动荡中创新高",
-          "url": "https://www.cls.cn/detail/2440581",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 14时24分]"
-        },
-        {
-          "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
-          "url": "https://www.cls.cn/detail/2441464",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 21时49分]"
-        },
-        {
-          "title": "耐心资本密集落子，央企系基金加速布局硬科技",
-          "url": "https://wallstreetcn.com/livenews/3141940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时02分]"
-        },
-        {
-          "title": "剑桥科技：生产经营活动正常，不存在影响公司股票交易价格异常波动的重大事宜",
-          "url": "https://flash.jin10.com/detail/20260730170506154800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "百亿基金经理调仓路径出炉：金梓才增持三环集团，陈韫中建仓安孚科技",
-          "url": "https://wallstreetcn.com/livenews/3142431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（7月30日）",
-          "url": "https://flash.jin10.com/detail/20260730071945303800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "昀冢科技：公司MLCC业务尚处于亏损状态",
-          "url": "https://flash.jin10.com/detail/20260730170457157800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "逢低买盘推动美股高开，科技股反弹，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "宇树科技：初步询价日为8月5日 网下申购日为8月10日",
-          "url": "https://flash.jin10.com/detail/20260730211736834800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "宇树科技：初步询价日为8月5日 网下申购日为8月10日",
-          "url": "https://wallstreetcn.com/livenews/3142501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "重庆宇隆光电科技股份有限公司将于8月6日上会",
-          "url": "https://flash.jin10.com/detail/20260730191412745800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "拿森智能科技拟在香港IPO募资至多6.44亿港元",
-          "url": "https://wallstreetcn.com/livenews/3141955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "龚正会见美国霍尼韦尔科技董事长兼首席执行官柯伟茂",
-          "url": "https://wallstreetcn.com/livenews/3142487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3141779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "能源",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "新能源汽车智驾小蓝灯将禁用",
@@ -1968,9 +2172,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时49分]"
         },
         {
           "title": "一组数据读懂我国能源转型新趋势",
@@ -1979,9 +2183,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时49分 ~ 23时49分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：预计能源管道将远离霍尔木兹。",
@@ -2017,6 +2221,17 @@
           "time_info": "11时54分"
         },
         {
+          "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加280亿立方英尺，彭博用户预计增加340亿立方英尺、分析师预期增加360亿立方英尺，周环比增幅0.92%（之前一周增长1.06%），至3.08万亿立方英尺。",
+          "url": "https://wallstreetcn.com/livenews/3142534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "英国央行：基于市场对能源价格和利率的预期做出的中央预测显示，第四季度将加息25个基点，2027年将再次加息25个基点。",
           "url": "https://flash.jin10.com/detail/20260730191000684800",
           "source": "金十数据",
@@ -2026,6 +2241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3142526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
@@ -2044,8 +2270,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时58分 ~ 21时49分]"
+          "appearance_count": 11,
+          "time_info": "[06时58分 ~ 23时49分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
@@ -2160,7 +2386,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -2182,7 +2408,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         }
