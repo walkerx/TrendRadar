@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:37:47.084099+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-08-04T06:05:03.505194+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
@@ -313,7 +313,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -368,7 +368,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -390,7 +390,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -412,7 +412,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -442,7 +442,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -452,8 +452,54 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "伊朗总统佩泽希基扬表示，伊朗无意加剧西亚紧张局势，但在捍卫领土完整问题上绝不妥协。",
+          "url": "https://wallstreetcn.com/livenews/3144367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "伊朗议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹：你们被驱逐的日子不远了，届时你们不仅会被赶出这一地区，还将被所有设有你们军事基地的国家驱逐。 你们将不得不把维持海外基地的资源转而用于保卫本国。",
+          "url": "https://wallstreetcn.com/livenews/3144365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "伊朗放话让美军回到石器时代",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E8%AF%9D%E8%AE%A9%E7%BE%8E%E5%86%9B%E5%9B%9E%E5%88%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
+          "url": "https://flash.jin10.com/detail/20260804034848736800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
         },
         {
           "title": "伊朗革命卫队称具备全面情报掌控力",
@@ -478,24 +524,13 @@
           "time_info": "02时48分"
         },
         {
-          "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
-          "url": "https://flash.jin10.com/detail/20260804034848736800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
           "title": "乌袭击伊朗船只 战争扩大化风险增加",
           "url": "https://www.toutiao.com/trending/7669807189430636086/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -517,7 +552,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -539,7 +574,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -550,7 +585,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -561,7 +596,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -583,7 +618,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -594,7 +629,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -605,18 +640,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "伊朗放话让美军回到石器时代",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E8%AF%9D%E8%AE%A9%E7%BE%8E%E5%86%9B%E5%9B%9E%E5%88%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -627,145 +651,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
-        },
-        {
-          "title": "Snap(SNAP.N)美股盘后涨超9%。",
-          "url": "https://flash.jin10.com/detail/20260804041150987800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
-          "url": "https://wallstreetcn.com/livenews/3144355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
-          "url": "https://wallstreetcn.com/livenews/3144353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "Palantir(PLTR.N)美股盘后拉升7%。",
-          "url": "https://flash.jin10.com/detail/20260804040640366800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2444462",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260804040540550800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "Palantir二季度调整后每股收益（EPS）为0.41美元，分析师预期0.35美元。 二季度营收19.4亿美元，分析师预期18.1亿美元。 预计全年营收81.5亿-81.6亿美元，公司原本预计76.5亿-76.6亿美元。 预计全年调整后运营利润48.9亿-49亿美元，分析师预期45.1亿美元。 Palantir美股盘后涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3144349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260804040524441800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.douyin.com/hot/2596417",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        },
-        {
-          "title": "美股收盘：道指创收盘新高 纳指涨超2%",
-          "url": "https://flash.jin10.com/detail/20260804040116965800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "城堡证券：推动美股创新高的力量依然稳固",
-          "url": "https://flash.jin10.com/detail/20260804034718869800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时37分"
         }
@@ -773,7 +659,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -784,8 +670,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
+          "url": "https://flash.jin10.com/detail/20260804051558715800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "亚马逊云计算部门AWS的CEO Matt Garman：人工智能（AI）业务从训练转向推理。 AI实验室、初创公司、企业推动AWS销售增长。 AI业务的潜在规模“极其庞大”。（彭博电视）",
@@ -799,15 +708,15 @@
           "time_info": "00时20分"
         },
         {
-          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2444244",
-          "source": "财联社热门",
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -818,19 +727,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
-        },
-        {
-          "title": "中金：AI之外还有什么值得买",
-          "url": "https://wallstreetcn.com/articles/3778538",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "UP主自制AI短片 洪流之上",
@@ -839,22 +737,24 @@
           "ranks": [
             13,
             17,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 06时05分]"
         },
         {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
@@ -866,6 +766,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时48分 ~ 04时37分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
+          "url": "https://wallstreetcn.com/livenews/3144359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
@@ -903,20 +814,166 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 6,
+      "keyword_group": "美股",
+      "match_count": 13,
       "titles": [
         {
-          "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
-          "url": "https://wallstreetcn.com/livenews/3144352",
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 04时37分]"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "Snap(SNAP.N)美股盘后涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260804041150987800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
+          "url": "https://wallstreetcn.com/livenews/3144355",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3144353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "Palantir(PLTR.N)美股盘后拉升7%。",
+          "url": "https://flash.jin10.com/detail/20260804040640366800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040540550800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "Palantir二季度调整后每股收益（EPS）为0.41美元，分析师预期0.35美元。 二季度营收19.4亿美元，分析师预期18.1亿美元。 预计全年营收81.5亿-81.6亿美元，公司原本预计76.5亿-76.6亿美元。 预计全年调整后运营利润48.9亿-49亿美元，分析师预期45.1亿美元。 Palantir美股盘后涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3144349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040524441800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "美股收盘：道指创收盘新高 纳指涨超2%",
+          "url": "https://flash.jin10.com/detail/20260804040116965800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
+        },
+        {
+          "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3144358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "06时05分"
         },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.douyin.com/hot/2596417",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "城堡证券：推动美股创新高的力量依然稳固",
+          "url": "https://flash.jin10.com/detail/20260804034718869800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 7,
+      "titles": [
         {
           "title": "数学家丘成桐《求是》撰文：科技为人文立实，人文为科技立心",
           "url": "https://m.thepaper.cn/newsDetail_forward_33709962",
@@ -926,30 +983,55 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "Palantir在二季度与（某家）科技公司签署3.7亿美元合同。",
+          "url": "https://wallstreetcn.com/livenews/3144362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3144352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
         },
         {
           "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
           "url": "https://wallstreetcn.com/livenews/3144351",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
         },
         {
           "title": "美国科技股七巨头指数涨3.6%，创3月31日以来最大单日涨幅。",
           "url": "https://wallstreetcn.com/livenews/3144344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.75%，报6647.91点。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，中概互联网指数ETF（KWEB）收涨0.88%，中国科技指数ETF（CQQQ）收跌0.22%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.49%，德银嘉实沪深300指数ETF（ASHR）收跌0.82%，trackersHarvest中证50（ASHS）收跌1.09%。",
@@ -958,7 +1040,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -969,7 +1051,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         }
@@ -979,6 +1061,31 @@
       "keyword_group": "能源",
       "match_count": 6,
       "titles": [
+        {
+          "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708330",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "赛力斯7月新能源汽车销量同比降45%",
+          "url": "https://www.toutiao.com/trending/7669619798967484459/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
         {
           "title": "伊拉克石油市场输出组织（SOMO）负责人：经土耳其运输原油的关税为每桶1.62美元。 关税涵盖土耳其国有能源公司博塔斯（BOTAS）对输油管道的运营与维护。",
           "url": "https://wallstreetcn.com/livenews/3144265",
@@ -991,30 +1098,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708330",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
-        },
-        {
-          "title": "赛力斯7月新能源汽车销量同比降45%",
-          "url": "https://www.toutiao.com/trending/7669619798967484459/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
-        },
-        {
           "title": "为什么好多人不想买新能源汽车？",
           "url": "https://www.zhihu.com/question/2067315373137990163",
           "source": "知乎",
@@ -1022,8 +1105,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "伊拉克国家石油营销组织SOMO负责人：该费率包括土耳其国家能源公司BOTAS对管道的运营和维护费用。",
@@ -1061,8 +1144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -1072,8 +1155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -1081,11 +1164,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 04时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 06时05分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -1094,11 +1178,12 @@
           "ranks": [
             26,
             14,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "DeepSeek登顶全球第一",
@@ -1106,11 +1191,12 @@
           "source": "微博",
           "ranks": [
             8,
-            30
+            30,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 06时05分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -1118,11 +1204,51 @@
           "source": "今日头条",
           "ranks": [
             20,
-            24
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 06时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 港股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
+          "url": "https://www.cls.cn/detail/2444433",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "A股4000只股票上涨为何科技股暴跌",
+          "url": "https://www.toutiao.com/trending/7669788116869189162/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时48分 ~ 04时37分]"
+          "time_info": "[00时20分 ~ 02时48分]"
+        },
+        {
+          "title": "长鑫科技为何能问鼎A股市值第一",
+          "url": "https://www.toutiao.com/trending/7669800779284221476/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 06时05分]"
         }
       ]
     },
@@ -1137,11 +1263,24 @@
           "ranks": [
             11,
             18,
-            30
+            30,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "MiniMax H3满血版开源",
+          "url": "https://search.bilibili.com/all?keyword=MiniMax%20H3%E6%BB%A1%E8%A1%80%E7%89%88%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "Minimax H3测评",
@@ -1154,45 +1293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 04时37分]"
-        },
-        {
-          "title": "MiniMax H3满血版开源",
-          "url": "https://search.bilibili.com/all?keyword=MiniMax%20H3%E6%BB%A1%E8%A1%80%E7%89%88%E5%BC%80%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 港股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
-          "url": "https://www.cls.cn/detail/2444433",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 04时37分]"
-        },
-        {
-          "title": "A股4000只股票上涨为何科技股暴跌",
-          "url": "https://www.toutiao.com/trending/7669788116869189162/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
         }
       ]
     },
@@ -1205,22 +1305,24 @@
           "url": "https://flash.jin10.com/detail/20260804040408443800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
         },
         {
           "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
           "url": "https://wallstreetcn.com/livenews/3144332",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 06时05分]"
         }
       ]
     },
