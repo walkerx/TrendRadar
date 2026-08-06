@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T10:11:29.305597+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-08-06T13:45:12.017796+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -96,6 +96,40 @@
           "time_info": "03时24分"
         },
         {
+          "title": "伊朗副外长：霍尔木兹海峡协议接近收尾，伊美尚未谈判",
+          "url": "https://wallstreetcn.com/livenews/3145818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://wallstreetcn.com/livenews/3145817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 13时45分]"
+        },
+        {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
           "url": "https://wallstreetcn.com/livenews/3145607",
           "source": "华尔街见闻-快讯",
@@ -132,16 +166,16 @@
           "time_info": "[01时50分 ~ 03时24分]"
         },
         {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
-          "source": "凤凰网",
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时11分]"
+          "time_info": "[10时11分 ~ 13时45分]"
         },
         {
           "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
@@ -191,17 +225,6 @@
           "time_info": "03时24分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "伊朗副外长：我们与阿曼讨论了在霍尔木兹海峡建立联合航行管理中心。",
           "url": "https://flash.jin10.com/detail/20260806011433363800",
           "source": "金十数据",
@@ -230,7 +253,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -417,7 +440,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -600,8 +623,374 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 13时45分]"
+        },
+        {
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            6,
+            16,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时56分]"
+        },
+        {
+          "title": "特朗普称不想让孩子像拜登那样摔下台",
+          "url": "https://www.toutiao.com/trending/7670741330352734262/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普频繁致电沃什：美联储主席成总统“经济顾问”，独立性警报再起",
+          "url": "https://flash.jin10.com/detail/20260806094536776800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
+          "url": "https://flash.jin10.com/detail/20260806012850217800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
+          "url": "https://flash.jin10.com/detail/20260806075402361800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
+          "url": "https://wallstreetcn.com/livenews/3145625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时57分]"
+        },
+        {
+          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
+          "url": "https://wallstreetcn.com/livenews/3145624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "专家：涉台问题特朗普教训还没吃够",
+          "url": "https://www.toutiao.com/trending/7670027623545110570/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
+          "url": "https://flash.jin10.com/detail/20260806055819902800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国总统特朗普：我们很欣赏马斯克。",
+          "url": "https://flash.jin10.com/detail/20260806055113870800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普直升机一度与客机距离过近",
+          "url": "https://wallstreetcn.com/livenews/3145542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260806054735118800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
+          "url": "https://wallstreetcn.com/livenews/3145541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260806054724205800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3145620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260806054719148800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普：美国有大量军火，大量军火正运往美国。",
+          "url": "https://wallstreetcn.com/livenews/3145805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "特朗普：美国拥有大量“弹药”",
+          "url": "https://flash.jin10.com/detail/20260806123756235800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
+          "url": "https://wallstreetcn.com/livenews/3145617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国总统特朗普：关税让我们变得富有。",
+          "url": "https://flash.jin10.com/detail/20260806053019525800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普是我们最好的朋友，但我已明确表示，以色列的存在不容谈判。",
+          "url": "https://flash.jin10.com/detail/20260805230618737800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
+          "url": "https://flash.jin10.com/detail/20260806052258964800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普被曝频繁致电沃什 “美联储传声筒”：没错，打好几次",
+          "url": "https://flash.jin10.com/detail/20260806121551898800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "卡尼不点名调侃特朗普",
+          "url": "https://wallstreetcn.com/livenews/3145797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "特朗普回应多次遇“暗杀企图”",
+          "url": "https://www.toutiao.com/trending/7670150786047295497/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普推进移民执法 美国驱逐令签发量6月升至历史新高",
+          "url": "https://wallstreetcn.com/livenews/3145469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "ai",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -717,6 +1106,40 @@
           "time_info": "[06时56分 ~ 07时57分]"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时45分]"
+        },
+        {
+          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
+          "url": "https://www.cls.cn/detail/2446788",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时45分]"
+        },
+        {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
           "url": "https://wallstreetcn.com/livenews/3145522",
           "source": "华尔街见闻-快讯",
@@ -727,6 +1150,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 03时24分]"
+        },
+        {
+          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "马云投了家美国AI公司",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%E6%8A%95%E4%BA%86%E5%AE%B6%E7%BE%8E%E5%9B%BDAI%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "小伙靠AI减肥 45天瘦40斤进了ICU",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E9%9D%A0AI%E5%87%8F%E8%82%A5+45%E5%A4%A9%E7%98%A640%E6%96%A4%E8%BF%9B%E4%BA%86ICU",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "博主：美国封锁逼出中国最强AI路线",
+          "url": "https://www.toutiao.com/trending/7670749299331829267/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
           "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
@@ -762,17 +1229,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
           "url": "https://wallstreetcn.com/livenews/3145543",
           "source": "华尔街见闻-快讯",
@@ -784,24 +1240,13 @@
           "time_info": "03时24分"
         },
         {
-          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
-          "url": "https://www.cls.cn/detail/2446788",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "男子靠AI减肥45天瘦40斤险丧命",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0AI%E5%87%8F%E8%82%A545%E5%A4%A9%E7%98%A640%E6%96%A4%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -823,7 +1268,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -889,293 +1334,199 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 24,
+      "keyword_group": "a股 港股",
+      "match_count": 16,
       "titles": [
         {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
+          "title": "一图看懂｜多家A股公司，跨界算力签大单",
+          "url": "https://www.cls.cn/detail/2446404",
           "source": "财联社热门",
           "ranks": [
-            10,
-            11,
-            12
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时57分]"
         },
         {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时45分]"
+        },
+        {
+          "title": "A股煤炭开采加工板块短线拉升，昊华能源涨停，兖矿能源、平煤股份、淮北矿业、新集能源、大有能源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260806094647946800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时11分]"
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时11分]"
-        },
-        {
-          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
-          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时11分]"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            6,
-            16,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普频繁致电沃什：美联储主席成总统“经济顾问”，独立性警报再起",
-          "url": "https://flash.jin10.com/detail/20260806094536776800",
+          "title": "港股汽车股多数下跌，赛力斯(09927.HK)跌近5%，零跑汽车(09863.HK)、北京汽车(01958.HK)、蔚来-SW(09866.HK)。比亚迪股份(01211.HK)均跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260806132154806800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时45分"
         },
         {
-          "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
-          "url": "https://flash.jin10.com/detail/20260806012850217800",
-          "source": "金十数据",
+          "title": "A股电池板块短线走低，圣阳股份、宁德时代、领湃科技、金银河、容百科技等走低。",
+          "url": "https://wallstreetcn.com/livenews/3145822",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "13时45分"
         },
         {
-          "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
-          "url": "https://flash.jin10.com/detail/20260806075402361800",
+          "title": "A股抽水蓄能板块震荡走低，长缆科技跌超6%，汉缆股份、顺钠股份、百利电气跌超5%，九洲集团、保变电气跟跌。",
+          "url": "https://flash.jin10.com/detail/20260806131725104800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "13时45分"
         },
         {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时57分]"
-        },
-        {
-          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
-          "url": "https://wallstreetcn.com/livenews/3145624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时57分]"
-        },
-        {
-          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
-          "url": "https://flash.jin10.com/detail/20260806055819902800",
+          "title": "A股中船系板块震荡走高，中船汉光涨近13%，久之洋、昆船智能、中国动力、中船特气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260806094353234800",
           "source": "金十数据",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "10时11分"
         },
         {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
+          "title": "A股短剧游戏板块午后走低，传智教育跌超7%，粤传媒跌近6%，中文在线、方直科技、吉视传媒、遥望科技跟跌。",
+          "url": "https://flash.jin10.com/detail/20260806131623472800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "A股农业板块异动拉升，秋乐种业涨超10%，金健米业涨停，神农种业、京粮控股、新赛股份、敦煌种业等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3145814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "A股软件开发板块短线拉升，泛微网络涨停，亚信安全、天融信、任子行、四方精创、永信至诚跟涨。",
+          "url": "https://flash.jin10.com/detail/20260806094003018800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "10时11分"
         },
         {
-          "title": "特朗普直升机一度与客机距离过近",
-          "url": "https://wallstreetcn.com/livenews/3145542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260806054735118800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
-          "url": "https://wallstreetcn.com/livenews/3145541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260806054724205800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3145620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260806054719148800",
+          "title": "A股游戏板块短线拉升，凯撒文化涨停，盛天网络、浙数文化、冰川网络、世纪华通、完美世界等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260806093457887800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "10时11分"
         },
         {
-          "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3145617",
-          "source": "华尔街见闻-快讯",
+          "title": "A股创业板指低开1.78%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%801.78%25",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "10时11分"
         },
         {
-          "title": "美国总统特朗普：关税让我们变得富有。",
-          "url": "https://flash.jin10.com/detail/20260806053019525800",
-          "source": "金十数据",
+          "title": "港股公司逾330份半年度业绩预告，预喜和扭亏数量占比超五成",
+          "url": "https://wallstreetcn.com/livenews/3145637",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "07时57分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：美国总统特朗普是我们最好的朋友，但我已明确表示，以色列的存在不容谈判。",
-          "url": "https://flash.jin10.com/detail/20260805230618737800",
-          "source": "金十数据",
+          "title": "A股贵金属板块逆势大涨，金一文化2连板，盛达资源接近涨停，晓程科技涨近10%，四川黄金、招金黄金、赤峰黄金、山金国际、中金黄金等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3145713",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "10时11分"
         },
         {
-          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
-          "url": "https://flash.jin10.com/detail/20260806052258964800",
+          "title": "A股CPO板块今日调整，联讯仪器跌超5%，锐捷网络、中际旭创、国瓷材料跌超4%，光库科技、立讯精密跟跌。",
+          "url": "https://flash.jin10.com/detail/20260806093059065800",
           "source": "金十数据",
           "ranks": [
-            19
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "10时11分"
         },
         {
-          "title": "特朗普回应多次遇“暗杀企图”",
-          "url": "https://www.toutiao.com/trending/7670150786047295497/",
-          "source": "今日头条",
+          "title": "港股午评：恒生指数跌1.75%，恒生科技指数跌1.87%",
+          "url": "https://flash.jin10.com/detail/20260806120322622800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "特朗普推进移民执法 美国驱逐令签发量6月升至历史新高",
-          "url": "https://wallstreetcn.com/livenews/3145469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "13时45分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -1185,8 +1536,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时55分 ~ 10时11分]"
+          "appearance_count": 7,
+          "time_info": "[06时55分 ~ 13时45分]"
         },
         {
           "title": "香港恒生指数日内跌幅扩大至2%，恒生科技指数跌1.8%。友邦保险跌9%，新鸿基地产跌5%。",
@@ -1195,7 +1546,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1242,7 +1593,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1291,13 +1642,24 @@
           "time_info": "07时57分"
         },
         {
+          "title": "扬电科技在互动平台表示，公司已正常开展相关算力业务，目前业务规模在陆续提升。",
+          "url": "https://flash.jin10.com/detail/20260806120349632800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
           "title": "恒指低开0.96%，报25667.14点；恒生科技指数跌0.99%。华虹宏力跌超3%，智谱跌近3%，中芯国际、联想集团、蔚来、百度等跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3145702",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1322,6 +1684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至2.1%。中芯国际跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3145788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     },
@@ -1350,11 +1723,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时55分 ~ 10时11分]"
+          "appearance_count": 7,
+          "time_info": "[06时55分 ~ 13时45分]"
         },
         {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
@@ -1440,7 +1814,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1462,126 +1836,92 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 10,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
       "titles": [
         {
-          "title": "一图看懂｜多家A股公司，跨界算力签大单",
-          "url": "https://www.cls.cn/detail/2446404",
-          "source": "财联社热门",
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时57分]"
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时11分]"
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
-          "title": "A股煤炭开采加工板块短线拉升，昊华能源涨停，兖矿能源、平煤股份、淮北矿业、新集能源、大有能源跟涨。",
-          "url": "https://flash.jin10.com/detail/20260806094647946800",
-          "source": "金十数据",
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "13时45分"
         },
         {
-          "title": "A股中船系板块震荡走高，中船汉光涨近13%，久之洋、昆船智能、中国动力、中船特气跟涨。",
-          "url": "https://flash.jin10.com/detail/20260806094353234800",
-          "source": "金十数据",
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
+          "url": "https://wallstreetcn.com/livenews/3145744",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
         {
-          "title": "A股软件开发板块短线拉升，泛微网络涨停，亚信安全、天融信、任子行、四方精创、永信至诚跟涨。",
-          "url": "https://flash.jin10.com/detail/20260806094003018800",
-          "source": "金十数据",
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
         },
         {
-          "title": "A股游戏板块短线拉升，凯撒文化涨停，盛天网络、浙数文化、冰川网络、世纪华通、完美世界等纷纷走高。",
-          "url": "https://flash.jin10.com/detail/20260806093457887800",
-          "source": "金十数据",
+          "title": "DeepSeek把Claude拉进“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7670490376733462057/",
+          "source": "今日头条",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "A股创业板指低开1.78%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%801.78%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "港股公司逾330份半年度业绩预告，预喜和扭亏数量占比超五成",
-          "url": "https://wallstreetcn.com/livenews/3145637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "A股贵金属板块逆势大涨，金一文化2连板，盛达资源接近涨停，晓程科技涨近10%，四川黄金、招金黄金、赤峰黄金、山金国际、中金黄金等纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/3145713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "A股CPO板块今日调整，联讯仪器跌超5%，锐捷网络、中际旭创、国瓷材料跌超4%，光库科技、立讯精密跟跌。",
-          "url": "https://flash.jin10.com/detail/20260806093059065800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "01时50分"
         }
       ]
     },
@@ -1619,7 +1959,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -1638,18 +1978,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
           "url": "https://www.cls.cn/detail/2446838",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时45分]"
         },
         {
           "title": "国际金价涨超4%，重返4200美元上方",
@@ -1669,9 +2010,59 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "多重利好同时发力，金价一口气创下半年最强表现！",
+          "url": "https://flash.jin10.com/detail/20260806115414724800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "能源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家能源局：民营企业参股投资核电项目持续推进",
+          "url": "https://wallstreetcn.com/livenews/3145810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "国家能源局：2025年我国核电发电量4852亿千瓦时 同比增长7.6%",
+          "url": "https://flash.jin10.com/detail/20260806123805692800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：沙特、埃及、土耳其和巴基斯坦的外长在安曼会晤，重申了共同努力确保霍尔木兹海峡和曼德海峡水道安全的重要性。外长们还强调了确保水道安全对维护供应链和能源市场稳定的重要性。",
+          "url": "https://flash.jin10.com/detail/20260806021220426800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -1704,34 +2095,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
-          "url": "https://wallstreetcn.com/livenews/3145744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "DeepSeek把Claude拉进“斩杀线”",
-          "url": "https://www.toutiao.com/trending/7670490376733462057/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1757,23 +2120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 03时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "能源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：沙特、埃及、土耳其和巴基斯坦的外长在安曼会晤，重申了共同努力确保霍尔木兹海峡和曼德海峡水道安全的重要性。外长们还强调了确保水道安全对维护供应链和能源市场稳定的重要性。",
-          "url": "https://flash.jin10.com/detail/20260806021220426800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         }
       ]
     }
