@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T08:40:11.070981+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-08-07T11:48:14.673908+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
         },
@@ -63,6 +63,40 @@
           "time_info": "00时19分"
         },
         {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "内娱第一人 戚薇开放形象AI授权",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
+          "url": "https://wallstreetcn.com/articles/3778828",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
           "title": "存储巨头财报未达高预期 AI概念股遭遇新一轮抛售 | 今夜看点",
           "url": "https://www.cls.cn/detail/2447710",
           "source": "财联社热门",
@@ -98,37 +132,15 @@
           "time_info": "[00时19分 ~ 08时40分]"
         },
         {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "source": "华尔街见闻",
+          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
-          "url": "https://wallstreetcn.com/articles/3778828",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "内娱第一人 戚薇开放形象AI授权",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "AI复原文人笔下的立秋",
@@ -162,6 +174,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "AI终结印度三十年“外包神话”",
+          "url": "https://www.baidu.com/s?wd=AI%E7%BB%88%E7%BB%93%E5%8D%B0%E5%BA%A6%E4%B8%89%E5%8D%81%E5%B9%B4%E2%80%9C%E5%A4%96%E5%8C%85%E7%A5%9E%E8%AF%9D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "美国科学家首次用AI设计出病毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "曝OpenAI最快下周推出Astra AI",
@@ -266,8 +300,70 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "宇树科技8月10日开启网上申购",
+          "url": "https://www.douyin.com/hot/2600095",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 11时48分]"
+        },
+        {
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "打破国外垄断！中国重磅科技集中上新",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%9B%BD%E5%A4%96%E5%9E%84%E6%96%AD%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%A3%85%E7%A7%91%E6%8A%80%E9%9B%86%E4%B8%AD%E4%B8%8A%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 11时48分]"
+        },
+        {
+          "title": "宇树科技发行价150.8元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728179",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 11时48分]"
+        },
         {
           "title": "宇树科技下周打新，发行价150.8元/股",
           "url": "https://www.cls.cn/detail/2447640",
@@ -281,47 +377,13 @@
           "time_info": "[00时19分 ~ 08时40分]"
         },
         {
-          "title": "宇树科技8月10日开启网上申购",
-          "url": "https://www.douyin.com/hot/2600095",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 08时40分]"
-        },
-        {
-          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
-          "url": "https://www.cls.cn/detail/2447939",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "打破国外垄断！中国重磅科技集中上新",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4%E5%9B%BD%E5%A4%96%E5%9E%84%E6%96%AD%EF%BC%81%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%A3%85%E7%A7%91%E6%8A%80%E9%9B%86%E4%B8%AD%E4%B8%8A%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
           "title": "宇树科技发行价 150.80 元 / 股，发行市盈率高达 219.23 倍，这个定价贵不贵？",
           "url": "https://www.zhihu.com/question/2068776757054760833",
           "source": "知乎",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
         },
@@ -371,30 +433,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 08时40分]"
-        },
-        {
-          "title": "宇树科技发行价150.8元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728179",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 08时40分]"
-        },
-        {
           "title": "美国金融科技公司Marqeta扩大与谷歌合作，推出Wallet for Kids新服务。",
           "url": "https://flash.jin10.com/detail/20260807000603337800",
           "source": "金十数据",
@@ -406,24 +444,25 @@
           "time_info": "00时19分"
         },
         {
+          "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 11时48分]"
+        },
+        {
           "title": "宇树科技发行价格150.80元/股",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC150.80%E5%85%83%2F%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
             9,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 08时40分]"
-        },
-        {
-          "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33729497",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -440,6 +479,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 08时40分]"
+        },
+        {
+          "title": "宇树科技IPO能让多少人财富自由",
+          "url": "https://www.toutiao.com/trending/7670945660593507894/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "发行市值610亿 谁是宇树科技背后赢家",
+          "url": "https://www.toutiao.com/trending/7671113266424368678/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         },
         {
           "title": "宇树科技中签率",
@@ -459,9 +520,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）港A科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260807105117936800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "宇树科技王兴兴身家有望超200亿元",
@@ -475,6 +547,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "存储芯片板块震荡上扬，国科微、骄成超声涨超10%，正帆科技、万润科技、兆易创新、精测电子涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3146385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
           "title": "灭蚊“黑科技”解锁市民游园自由",
           "url": "https://www.toutiao.com/trending/7670175691024138283/",
           "source": "今日头条",
@@ -484,6 +567,189 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "特朗普签署行政令，宣布加征关税",
+          "url": "https://news.ifeng.com/c/8vNvJb617ek",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
+          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "特朗普对多晶硅加征关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "从批评鲍威尔到频繁致电沃什 特朗普对美联储影响力再受关注",
+          "url": "https://www.cls.cn/detail/2447865",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "特朗普签署针对出生公民权的行政令",
+          "url": "https://www.toutiao.com/trending/7671022114153529394/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普谈霍尔木兹海峡：进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3146315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "美伊战争弹药消耗真相藏不住了？特朗普紧急追查泄密",
+          "url": "https://flash.jin10.com/detail/20260807105403364800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "加拿大总理卡尼：上周与美国总统特朗普通话，必要时将再次沟通。",
+          "url": "https://wallstreetcn.com/livenews/3146138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
+          "url": "https://flash.jin10.com/detail/20260807073607063800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260807073117453800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "加拿大总理卡尼：（在被问及美国总统特朗普称加拿大人“令人讨厌”的言论时）渥太华正在为加拿大企业发声。",
+          "url": "https://flash.jin10.com/detail/20260806233640213800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普再称对伊朗战争将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3146368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         }
       ]
     },
@@ -518,11 +784,12 @@
           "url": "https://www.cls.cn/detail/2447874",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
         },
         {
           "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
@@ -631,142 +898,98 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 11,
+      "keyword_group": "a股 港股",
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普签署行政令，宣布加征关税",
-          "url": "https://news.ifeng.com/c/8vNvJb617ek",
-          "source": "凤凰网",
+          "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
+          "url": "https://flash.jin10.com/detail/20260807113538270800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
-          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
-          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
-          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普对多晶硅加征关税",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普签署针对出生公民权的行政令",
-          "url": "https://www.toutiao.com/trending/7671022114153529394/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普谈霍尔木兹海峡：进展顺利。",
-          "url": "https://wallstreetcn.com/livenews/3146315",
+          "title": "在被调入港股通后的第一天交易日，MiniMax获南向资金净买入近27亿港元，在成交活跃股中位列净买入首位。",
+          "url": "https://wallstreetcn.com/livenews/3146326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "加拿大总理卡尼：上周与美国总统特朗普通话，必要时将再次沟通。",
-          "url": "https://wallstreetcn.com/livenews/3146138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
-          "url": "https://flash.jin10.com/detail/20260807073607063800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "08时40分"
         },
         {
-          "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
-          "url": "https://flash.jin10.com/detail/20260807073117453800",
+          "title": "A股创新药板块持续走强，普洛药业涨停，此前瑞康医药、百普赛斯、哈药股份、海正药业等多股涨停，贝达药业、昊帆生物、皓元医药跟涨。",
+          "url": "https://flash.jin10.com/detail/20260807112852485800",
           "source": "金十数据",
           "ranks": [
-            22
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时40分"
+          "time_info": "11时48分"
         },
         {
-          "title": "加拿大总理卡尼：（在被问及美国总统特朗普称加拿大人“令人讨厌”的言论时）渥太华正在为加拿大企业发声。",
-          "url": "https://flash.jin10.com/detail/20260806233640213800",
+          "title": "港股大模型概念股持续拉升，MINIMAX-W、智谱盘中一度涨超15％。",
+          "url": "https://wallstreetcn.com/livenews/3146390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "港股大模型概念股持续走高，MINIMAX-W(00100.HK)涨近25%，智谱(02513.HK)涨超17%。",
+          "url": "https://flash.jin10.com/detail/20260807104654889800",
           "source": "金十数据",
           "ranks": [
             24
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，微盘股指数跌超2%，数字货币、软件开发、游戏、影视等方向跌幅居前，沪深京三市下跌个股超4700只。",
+          "url": "https://wallstreetcn.com/livenews/3146373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "A股存量博弈特征凸显，机构：科创制造主线的结构性行情将阶段性延续",
+          "url": "https://wallstreetcn.com/livenews/3146296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "08时40分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -780,15 +1003,38 @@
           "time_info": "[00时19分 ~ 08时40分]"
         },
         {
+          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
           "url": "https://www.zhihu.com/question/2068637080209421054",
           "source": "知乎",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "DeepSeek官宣涨价，且“幅度较大”！",
+          "url": "https://wallstreetcn.com/articles/3778814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
         },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -803,27 +1049,89 @@
           "time_info": "[00时19分 ~ 08时40分]"
         },
         {
-          "title": "DeepSeek官宣涨价，且“幅度较大”！",
-          "url": "https://wallstreetcn.com/articles/3778814",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
           "title": "DeepSeek拟上调API服务价格",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
             10,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 11时48分]"
+        },
+        {
+          "title": "梁文锋投了宇树",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E4%BA%86%E5%AE%87%E6%A0%91",
+          "source": "百度热搜",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 08时40分]"
+          "time_info": "[11时47分 ~ 11时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "能源",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
+          "url": "https://wallstreetcn.com/livenews/3146427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "国家能源局印发《电力安全生产“十五五”行动计划》",
+          "url": "https://wallstreetcn.com/livenews/3146426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
+          "url": "https://flash.jin10.com/detail/20260807112520435800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
+          "url": "https://flash.jin10.com/detail/20260807074227443800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "德国电网融资体系大改：可再生能源项目将首次承担费用",
+          "url": "https://wallstreetcn.com/livenews/3146134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     },
@@ -839,19 +1147,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
           "url": "https://www.cls.cn/detail/2447905",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时39分 ~ 08时40分]"
+          "appearance_count": 4,
+          "time_info": "[08时39分 ~ 11时48分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
@@ -929,30 +1238,41 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "在被调入港股通后的第一天交易日，MiniMax获南向资金净买入近27亿港元，在成交活跃股中位列净买入首位。",
-          "url": "https://wallstreetcn.com/livenews/3146326",
-          "source": "华尔街见闻-快讯",
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
           "ranks": [
-            3
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时40分"
+          "time_info": "00时19分"
         },
         {
-          "title": "A股存量博弈特征凸显，机构：科创制造主线的结构性行情将阶段性延续",
-          "url": "https://wallstreetcn.com/livenews/3146296",
+          "title": "金价反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "水贝金价两天涨了近50元",
+          "url": "https://wallstreetcn.com/livenews/3146122",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时40分"
+          "time_info": "00时19分"
         }
       ]
     },
@@ -978,65 +1298,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "能源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
-          "url": "https://flash.jin10.com/detail/20260807074227443800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时40分"
-        },
-        {
-          "title": "德国电网融资体系大改：可再生能源项目将首次承担费用",
-          "url": "https://wallstreetcn.com/livenews/3146134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
-          "url": "https://www.cls.cn/detail/2447296",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "水贝金价两天涨了近50元",
-          "url": "https://wallstreetcn.com/livenews/3146122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
         }
       ]
     },
