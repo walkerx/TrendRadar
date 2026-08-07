@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:42:50.546588+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-08-07T20:53:57.953421+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 20时53分]"
         },
         {
           "title": "人民锐评：用“Token”还是“词元”，事关科技话语权",
@@ -122,6 +123,19 @@
           "time_info": "08时40分"
         },
         {
+          "title": "谁是宇树科技背后大赢家",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E6%98%AF%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%83%8C%E5%90%8E%E5%A4%A7%E8%B5%A2%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 20时53分]"
+        },
+        {
           "title": "宇树科技发行价格150.80元/股",
           "url": "https://www.toutiao.com/trending/7670565723299020826/",
           "source": "今日头条",
@@ -150,18 +164,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
-          "url": "https://wallstreetcn.com/livenews/3146694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -186,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
-        },
-        {
-          "title": "胜宏科技：与核心客户合作的研发迭代产品正顺利推进，部分客户已释放2027-2028年长期需求",
-          "url": "https://wallstreetcn.com/livenews/3146693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -233,17 +225,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "立昂微：拟受让国投（上海）科技成果转化创业投资基金企业（有限合伙）持有的浙江金瑞泓科技股份有限公司11.4705%股权，交易金额为人民币3.18亿元。",
-          "url": "https://wallstreetcn.com/livenews/3146691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "谁是宇树科技背后赢家",
           "url": "https://www.toutiao.com/trending/7671113266424368678/",
           "source": "今日头条",
@@ -258,19 +239,6 @@
           "time_info": "[13时37分 ~ 19时42分]"
         },
         {
-          "title": "谁是宇树科技背后大赢家",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%81%E6%98%AF%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%83%8C%E5%90%8E%E5%A4%A7%E8%B5%A2%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
-        },
-        {
           "title": "宇树科技王兴兴：会持续推进电子皮肤技术应用的落地",
           "url": "https://wallstreetcn.com/livenews/3146592",
           "source": "华尔街见闻-快讯",
@@ -283,6 +251,18 @@
           "time_info": "[16时54分 ~ 17时57分]"
         },
         {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
+        },
+        {
           "title": "宇树科技王兴兴：人形机器人会为人类生活带来更多的创新创业机会",
           "url": "https://wallstreetcn.com/livenews/3146591",
           "source": "华尔街见闻-快讯",
@@ -293,6 +273,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时54分 ~ 17时57分]"
+        },
+        {
+          "title": "胜宏科技：与核心客户合作的研发迭代产品正顺利推进，部分客户已释放2027-2028年长期需求",
+          "url": "https://wallstreetcn.com/livenews/3146693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
+        },
+        {
+          "title": "立昂微：拟受让国投（上海）科技成果转化创业投资基金企业（有限合伙）持有的浙江金瑞泓科技股份有限公司11.4705%股权，交易金额为人民币3.18亿元。",
+          "url": "https://wallstreetcn.com/livenews/3146691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "宇树科技发行价格150.80元/股",
@@ -390,6 +394,18 @@
           "time_info": "[11时47分 ~ 11时48分]"
         },
         {
+          "title": "宇树科技中一签需缴款7.54万元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
+        },
+        {
           "title": "宇树科技IPO 一批90后千万富豪或诞生",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO+%E4%B8%80%E6%89%B990%E5%90%8E%E5%8D%83%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%88%96%E8%AF%9E%E7%94%9F",
           "source": "百度热搜",
@@ -445,17 +461,6 @@
           "time_info": "16时54分"
         },
         {
-          "title": "宇树科技中一签需缴款7.54万元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（8月7日）",
           "url": "https://flash.jin10.com/detail/20260807073838399800",
           "source": "金十数据",
@@ -495,7 +500,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -528,7 +533,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -602,7 +607,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -616,8 +621,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 20时53分]"
         },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -631,6 +636,19 @@
           "time_info": "[08时39分 ~ 08时40分]"
         },
         {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 20时53分]"
+        },
+        {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
@@ -642,18 +660,6 @@
           "time_info": "[08时39分 ~ 15时08分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 19时42分]"
-        },
-        {
           "title": "报道：LG董事长与黄仁勋下周将会面 或讨论实体AI和智能工厂",
           "url": "https://wallstreetcn.com/livenews/3146328",
           "source": "华尔街见闻-快讯",
@@ -663,6 +669,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时40分"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 20时53分]"
         },
         {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
@@ -723,16 +741,31 @@
           "time_info": "[08时39分 ~ 13时37分]"
         },
         {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            11
+            9,
+            25,
+            14,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
+          "time_info": "[16时54分 ~ 20时53分]"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 20时53分]"
         },
         {
           "title": "中国AI偶像能飞",
@@ -775,30 +808,17 @@
           "time_info": "[15时08分 ~ 16时54分]"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            25,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时42分]"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
           "source": "财联社热门",
           "ranks": [
             11,
-            13
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时57分 ~ 19时42分]"
+          "time_info": "[18时52分 ~ 20时53分]"
         },
         {
           "title": "戚薇AI短剧 雷霆视角",
@@ -826,18 +846,6 @@
           "time_info": "[00时19分 ~ 08时40分]"
         },
         {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时42分]"
-        },
-        {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
           "url": "https://www.cls.cn/detail/2447404",
           "source": "财联社热门",
@@ -859,6 +867,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 08时40分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
@@ -973,17 +993,6 @@
           "time_info": "00时19分"
         },
         {
-          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
-          "url": "https://wallstreetcn.com/articles/3778904",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
           "url": "https://www.cls.cn/detail/2447281",
           "source": "财联社热门",
@@ -1015,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美科研团队利用AI设计出可复制的新型噬菌体",
@@ -1059,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "AI相关债券密集发售引发“消化不良”，华尔街被迫重新思考配售策略",
+          "url": "https://wallstreetcn.com/livenews/3146706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "马斯克：估计Terafab算力将按1-4分配给Optimus和航天器AI项目",
@@ -1133,7 +1164,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1152,7 +1183,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -1167,6 +1198,21 @@
           "time_info": "[08时39分 ~ 18时53分]"
         },
         {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 20时53分]"
+        },
+        {
           "title": "特朗普签署行政令，宣布加征关税",
           "url": "https://news.ifeng.com/c/8vNvJb617ek",
           "source": "凤凰网",
@@ -1178,30 +1224,17 @@
           "time_info": "[08时39分 ~ 15时08分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时47分 ~ 19时42分]"
-        },
-        {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
           "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
           "source": "凤凰网",
           "ranks": [
             7,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 20时53分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
@@ -1235,8 +1268,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 20时53分]"
+        },
+        {
+          "title": "特朗普称伊朗谈判取得进展 市场等待就业数据之际美指期货上涨",
+          "url": "https://flash.jin10.com/detail/20260807202458983800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "特朗普：数据中心可能会比石油更重要",
@@ -1334,7 +1378,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1370,6 +1414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "语气显著软化！特朗普直言不降息不怪沃什，并甩锅“政治化理事会”",
+          "url": "https://flash.jin10.com/detail/20260807200444932800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -1422,7 +1477,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1474,7 +1529,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
@@ -1565,6 +1620,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "东方证券：公司拟通过发行A股股份及支付现金的方式购买上海证券有限责任公司100%股权事项获得上海市国有资产监督管理委员会批复，原则同意本次交易方案。",
+          "url": "https://wallstreetcn.com/livenews/3146710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "A股中际旭创短线跳水，现跌超4%，此前一度涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3146488",
           "source": "华尔街见闻-快讯",
@@ -1648,7 +1714,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1689,18 +1755,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
           "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 20时53分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -1748,6 +1815,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 08时40分]"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时53分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -1838,15 +1917,15 @@
           "time_info": "00时19分"
         },
         {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
+          "title": "伊朗最高领袖军事顾问雷扎伊表示，沙特必须明白，与土耳其和巴基斯坦达成纸面协议并不会带来安全，就像多年来对美国的单方面依赖并未带来安全一样。改革你的政策，以便不必向他人乞求安全。",
+          "url": "https://flash.jin10.com/detail/20260807195826499800",
+          "source": "金十数据",
           "ranks": [
-            26
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "20时53分"
         },
         {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
@@ -1863,7 +1942,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "国家能源局官网首晒核电“家底”：三代堆升级、四代堆多点突破 机制电价启幕",
@@ -1877,8 +1956,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 20时53分]"
+        },
+        {
+          "title": "国家能源局：8月7日全国用电负荷入夏以来第四次创历史新高 达到15.57亿千瓦",
+          "url": "https://flash.jin10.com/detail/20260807202227367800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "工信部公布《享受车船税减免优惠的节约能源使用新能源汽车车型目录》（第八十九批），比亚迪方程豹钛9、赛力斯问界M8等多款车型在列。",
@@ -1925,6 +2015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "8月7日全国用电负荷四创新高 国家能源局全力保障迎峰度夏民生用电",
+          "url": "https://wallstreetcn.com/livenews/3146713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
@@ -1980,12 +2081,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "迅策：与天合算力订立战略合作备忘 共建能源垂类大模型",
+          "url": "https://flash.jin10.com/detail/20260807195249328800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -2052,6 +2164,17 @@
           "time_info": "[15时08分 ~ 18时53分]"
         },
         {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 20时53分]"
+        },
+        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -2076,17 +2199,6 @@
           "time_info": "[00时19分 ~ 08时40分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时42分]"
-        },
-        {
           "title": "梁文锋投了宇树",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E4%BA%86%E5%AE%87%E6%A0%91",
           "source": "百度热搜",
@@ -2107,12 +2219,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -2122,8 +2245,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时39分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[08时39分 ~ 20时53分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -2148,8 +2271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 20时53分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
@@ -2172,6 +2295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
