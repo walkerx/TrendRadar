@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T21:46:20.893048+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-08-09T22:31:34.720787+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -87,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时30分 ~ 21时46分]"
+          "appearance_count": 14,
+          "time_info": "[11时30分 ~ 22时31分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -109,6 +109,18 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 17时35分]"
+        },
+        {
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时31分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -194,6 +206,18 @@
           "time_info": "[11时30分 ~ 18时29分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时31分]"
+        },
+        {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
           "url": "https://wallstreetcn.com/livenews/3146999",
           "source": "华尔街见闻-快讯",
@@ -225,17 +249,6 @@
           "time_info": "[14时48分 ~ 20时40分]"
         },
         {
-          "title": "伊朗婉转回应最高领袖病危传闻",
-          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时46分]"
-        },
-        {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
           "url": "https://wallstreetcn.com/livenews/3146996",
           "source": "华尔街见闻-快讯",
@@ -249,15 +262,28 @@
           "time_info": "[00时28分 ~ 07时24分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
           "ranks": [
+            8,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时31分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时31分]"
         },
         {
           "title": "伊朗外长再重申目前未与美国谈判",
@@ -336,28 +362,28 @@
           "time_info": "09时19分"
         },
         {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
+          "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
+          "url": "https://wallstreetcn.com/livenews/3147111",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
+          "title": "伊朗陆军司令：将回应任何敌对行动",
+          "url": "https://www.toutiao.com/trending/7671949132243763263/",
+          "source": "今日头条",
           "ranks": [
             6,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时46分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时31分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
@@ -384,6 +410,31 @@
           "time_info": "09时19分"
         },
         {
+          "title": "据伊朗司法系统媒体米赞通讯社：伊朗巴斯基组织副司令表示，未来将发布伊朗最高领袖穆杰塔巴在公众场合和与指挥官会晤的视频。",
+          "url": "https://flash.jin10.com/detail/20260809190537023800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 22时31分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.douyin.com/hot/2603545",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 22时31分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
           "url": "https://flash.jin10.com/detail/20260809162616053800",
           "source": "金十数据",
@@ -408,19 +459,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时37分 ~ 18时29分]"
-        },
-        {
-          "title": "据伊朗司法系统媒体米赞通讯社：伊朗巴斯基组织副司令表示，未来将发布伊朗最高领袖穆杰塔巴在公众场合和与指挥官会晤的视频。",
-          "url": "https://flash.jin10.com/detail/20260809190537023800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时46分]"
         },
         {
           "title": "伊朗称在阿巴斯港附近海域扣押12艘违规船只",
@@ -473,18 +511,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时24分 ~ 21时46分]"
-        },
-        {
-          "title": "伊朗陆军司令：将回应任何敌对行动",
-          "url": "https://www.toutiao.com/trending/7671949132243763263/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时46分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -598,15 +624,43 @@
           "time_info": "[15时51分 ~ 17时35分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.douyin.com/hot/2603545",
-          "source": "抖音",
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://wallstreetcn.com/livenews/3147079",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8,
+            21,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时46分]"
+          "time_info": "[20时40分 ~ 22时31分]"
+        },
+        {
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://flash.jin10.com/detail/20260809192733431800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时31分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统举行会谈",
+          "url": "https://flash.jin10.com/detail/20260809191842613800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时31分]"
         },
         {
           "title": "伊朗外长强调霍尔木兹海峡未重新开放",
@@ -669,18 +723,6 @@
           "time_info": "[19时24分 ~ 20时40分]"
         },
         {
-          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
-          "url": "https://wallstreetcn.com/livenews/3147079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时46分]"
-        },
-        {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
           "url": "https://flash.jin10.com/detail/20260808224359664800",
           "source": "金十数据",
@@ -729,28 +771,15 @@
           "time_info": "[18时29分 ~ 19时24分]"
         },
         {
-          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
-          "url": "https://flash.jin10.com/detail/20260809192733431800",
-          "source": "金十数据",
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A9%89%E8%BD%AC%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%97%85%E5%8D%B1%E4%BC%A0%E9%97%BB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时46分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统举行会谈",
-          "url": "https://flash.jin10.com/detail/20260809191842613800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时46分]"
+          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -803,7 +832,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -822,7 +851,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -848,8 +877,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时30分 ~ 21时46分]"
+          "appearance_count": 14,
+          "time_info": "[11时30分 ~ 22时31分]"
         },
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -904,11 +933,12 @@
             13,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 21时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 22时31分]"
         },
         {
           "title": "首个全国产10万卡AI超集群投用",
@@ -932,8 +962,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 21时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 22时31分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -980,17 +1010,6 @@
           "time_info": "[13时00分 ~ 17时35分]"
         },
         {
-          "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
-          "url": "https://wallstreetcn.com/livenews/3147103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
           "source": "百度热搜",
@@ -1002,6 +1021,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时19分 ~ 13时01分]"
+        },
+        {
+          "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
+          "url": "https://wallstreetcn.com/livenews/3147103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时31分]"
         },
         {
           "title": "AI帮你开发以前要花钱的功能",
@@ -1027,6 +1058,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时19分 ~ 11时31分]"
+        },
+        {
+          "title": "哈马斯高级官员Basem Naim：预计调停人和美国将“施压以色列总理内塔尼亚胡和他的政府”遵守（加沙和平）路线图。 我们仍然尊重十天前同调停方、和平委员会在埃及开罗达成的路线图共识。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3147083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时31分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -1064,16 +1108,15 @@
           "time_info": "[13时00分 ~ 14时48分]"
         },
         {
-          "title": "哈马斯高级官员Basem Naim：预计调停人和美国将“施压以色列总理内塔尼亚胡和他的政府”遵守（加沙和平）路线图。 我们仍然尊重十天前同调停方、和平委员会在埃及开罗达成的路线图共识。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3147083",
-          "source": "华尔街见闻-快讯",
+          "title": "网民AI造谣“西平灭门案”被行拘",
+          "url": "https://www.toutiao.com/trending/7671970111683969066/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时46分]"
+          "time_info": "[22时30分 ~ 22时31分]"
         },
         {
           "title": "苹果AI 千问",
@@ -1131,13 +1174,24 @@
           "time_info": "07时24分"
         },
         {
+          "title": "70亿token做出AI督学军官",
+          "url": "https://search.bilibili.com/all?keyword=70%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%86%9B%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "毛宁向世界分享AI“中式天庭”",
           "url": "https://www.toutiao.com/trending/7671660224529825833/",
           "source": "今日头条",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1166,8 +1220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 21时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 22时31分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -1253,8 +1307,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时00分 ~ 21时46分]"
+          "appearance_count": 12,
+          "time_info": "[13时00分 ~ 22时31分]"
+        },
+        {
+          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
+          "url": "https://flash.jin10.com/detail/20260809212948063800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时31分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -1268,15 +1334,17 @@
           "time_info": "[00时27分 ~ 04时24分]"
         },
         {
-          "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
-          "url": "https://flash.jin10.com/detail/20260809212948063800",
-          "source": "金十数据",
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -1344,19 +1412,6 @@
           "time_info": "[19时24分 ~ 20时40分]"
         },
         {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时46分]"
-        },
-        {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
           "url": "https://flash.jin10.com/detail/20260809002354192800",
           "source": "金十数据",
@@ -1395,8 +1450,24 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "宇树科技明日打新，注意四大事项",
+          "url": "https://www.cls.cn/detail/2449251",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时51分 ~ 22时31分]"
+        },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
           "url": "https://www.cls.cn/detail/2448863",
@@ -1411,19 +1482,21 @@
           "time_info": "[00时27分 ~ 09时19分]"
         },
         {
-          "title": "宇树科技明日打新，注意四大事项",
-          "url": "https://www.cls.cn/detail/2449251",
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
           "source": "财联社热门",
           "ranks": [
+            11,
+            10,
             9,
-            7,
+            8,
             6,
             5,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时51分 ~ 21时46分]"
+          "appearance_count": 8,
+          "time_info": "[16时37分 ~ 22时31分]"
         },
         {
           "title": "央媒：用Token还是词元事关科技话语权",
@@ -1442,33 +1515,6 @@
           "time_info": "[04时24分 ~ 14时48分]"
         },
         {
-          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
-          "url": "https://www.cls.cn/detail/2449266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 21时46分]"
-        },
-        {
-          "title": "普通人如何抓住科技红利",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
           "title": "宇树科技明日申购",
           "url": "https://www.toutiao.com/trending/7670840910796881962/",
           "source": "今日头条",
@@ -1480,8 +1526,43 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 21时46分]"
+          "appearance_count": 7,
+          "time_info": "[17时35分 ~ 22时31分]"
+        },
+        {
+          "title": "普通人如何抓住科技红利",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E6%8A%93%E4%BD%8F%E7%A7%91%E6%8A%80%E7%BA%A2%E5%88%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时31分]"
+        },
+        {
+          "title": "宇树科技明日申购，中一签能赚多少？",
+          "url": "https://wallstreetcn.com/articles/3779007",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 22时31分]"
+        },
+        {
+          "title": "券商综合测算：宇树科技中一签或赚20万元",
+          "url": "https://wallstreetcn.com/livenews/3147113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "宇树科技中一签需缴7.54万元",
@@ -1495,18 +1576,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时37分 ~ 20时40分]"
-        },
-        {
-          "title": "宇树科技明日申购，中一签能赚多少？",
-          "url": "https://wallstreetcn.com/articles/3779007",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "方正证券：市场超跌反弹进入攻坚期，科技与景气赛道分化演绎",
@@ -1529,8 +1598,30 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 22时31分]"
+        },
+        {
+          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时51分 ~ 20时40分]"
+          "time_info": "[22时30分 ~ 22时31分]"
+        },
+        {
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "宇树科技上市",
@@ -1568,8 +1659,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 21时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 22时31分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -1595,11 +1686,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时31分]"
+        },
+        {
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 22时31分]"
         },
         {
           "title": "银河证券：A股市场正从“预期博弈”转向“现实验证”",
@@ -1623,17 +1727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 13时01分]"
-        },
-        {
-          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2449376",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         },
         {
           "title": "伊拉克石油出口骤降75%将如何影响A股",
@@ -1756,8 +1849,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时00分 ~ 21时46分]"
+          "appearance_count": 12,
+          "time_info": "[13时00分 ~ 22时31分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -1799,8 +1892,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时30分 ~ 21时46分]"
+          "appearance_count": 14,
+          "time_info": "[11时30分 ~ 22时31分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
