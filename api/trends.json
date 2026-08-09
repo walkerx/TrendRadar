@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T15:51:31.024459+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-08-09T16:37:53.554389+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 16时37分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -88,11 +88,12 @@
             19,
             22,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 15时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 16时37分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -107,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -182,23 +183,12 @@
             1,
             4,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 15时51分]"
-        },
-        {
-          "title": "伊朗总统说必须摆脱非战非和局面",
-          "url": "https://wallstreetcn.com/livenews/3147050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[11时31分 ~ 16时37分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -209,8 +199,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 16时37分]"
         },
         {
           "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
@@ -221,8 +211,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 16时37分]"
+        },
+        {
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 16时37分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
+          "url": "https://flash.jin10.com/detail/20260809162616053800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
@@ -249,6 +263,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时28分 ~ 05时26分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：只要美国违反临时协议，就不会进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260809161610479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -285,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐表示，与美国没有谈判，只通过中介交换信息。",
+          "url": "https://flash.jin10.com/detail/20260809161412221800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
@@ -408,6 +444,18 @@
           "time_info": "[01时25分 ~ 02时31分]"
         },
         {
+          "title": "伊朗外长称将继续坚持抵抗立场",
+          "url": "https://flash.jin10.com/detail/20260809145146414800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时37分]"
+        },
+        {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
           "url": "https://flash.jin10.com/detail/20260808224359664800",
           "source": "金十数据",
@@ -453,17 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "伊朗外长称将继续坚持抵抗立场",
-          "url": "https://flash.jin10.com/detail/20260809145146414800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
@@ -552,8 +589,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 15时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 16时37分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -572,6 +609,20 @@
           "time_info": "[00时27分 ~ 11时31分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 16时37分]"
+        },
+        {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
           "url": "https://www.cls.cn/detail/2449139",
           "source": "财联社热门",
@@ -582,8 +633,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -598,21 +649,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -636,9 +674,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时37分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 16时37分]"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -652,18 +702,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时19分 ~ 13时01分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 15时51分]"
         },
         {
           "title": "AI帮你开发以前要花钱的功能",
@@ -805,8 +843,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -831,11 +869,25 @@
             15,
             18,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 15时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 16时37分]"
+        },
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 16时37分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -849,19 +901,6 @@
           "time_info": "[00时27分 ~ 09时19分]"
         },
         {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 15时51分]"
-        },
-        {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
           "url": "https://wallstreetcn.com/livenews/3147021",
           "source": "华尔街见闻-快讯",
@@ -873,11 +912,12 @@
             20,
             23,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 15时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 16时37分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -905,18 +945,6 @@
           "time_info": "[11时31分 ~ 15时51分]"
         },
         {
-          "title": "泰勒·斯威夫特下架特朗普团队音频",
-          "url": "https://flash.jin10.com/detail/20260809135228907800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时51分]"
-        },
-        {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
           "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
           "source": "凤凰网",
@@ -924,8 +952,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 16时37分]"
+        },
+        {
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 16时37分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -966,7 +1007,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -1002,11 +1043,23 @@
           "url": "https://www.cls.cn/detail/2449251",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时37分]"
+        },
+        {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时51分"
+          "time_info": "16时37分"
         },
         {
           "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
@@ -1015,9 +1068,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "宇树科技中一签需缴7.54万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B47.54%E4%B8%87%E5%85%83%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "宇树科技上市",
@@ -1140,8 +1204,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1150,11 +1214,24 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 16时37分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1169,28 +1246,17 @@
           "time_info": "[00时27分 ~ 07时24分]"
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时00分 ~ 15时51分]"
-        },
-        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 16时37分]"
         }
       ]
     },
@@ -1206,8 +1272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -1224,8 +1290,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 13时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "周一A股真正要看什么",
@@ -1300,8 +1366,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -1346,8 +1412,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 16时37分]"
         }
       ]
     }
