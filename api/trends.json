@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T16:11:18.974966+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-08-11T18:47:56.644233+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -50,16 +50,45 @@
           "time_info": "[00时51分 ~ 14时59分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8,
+            9,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -72,18 +101,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
         },
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -112,31 +129,17 @@
           "time_info": "[11时40分 ~ 16时11分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            9,
-            8
+            1,
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            10,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -194,6 +197,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "字节跳动新成立AI数据与安全部门",
+          "url": "https://flash.jin10.com/detail/20260811183836039800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "美国得克萨斯州州长阿博特：OpenAI已经作出承诺，会严格遵循当地数据中心的相关规范标准。",
           "url": "https://flash.jin10.com/detail/20260811021755846800",
           "source": "金十数据",
@@ -216,6 +230,19 @@
           "time_info": "14时59分"
         },
         {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
+        },
+        {
           "title": "美国得州州长Abbott：OpenAI承诺将遵守本地数据中心标准。",
           "url": "https://wallstreetcn.com/livenews/3147632",
           "source": "华尔街见闻-快讯",
@@ -226,6 +253,44 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 02时51分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
         },
         {
           "title": "涉及中国AI，日本自卫队极为担心",
@@ -239,40 +304,28 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
           "ranks": [
             10,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
+          "time_info": "[16时11分 ~ 18时47分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
+          "time_info": "[16时11分 ~ 18时47分]"
         },
         {
           "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
@@ -321,18 +374,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 09时19分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -416,17 +457,6 @@
           "time_info": "09时19分"
         },
         {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
           "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
           "url": "https://flash.jin10.com/detail/20260811005211685800",
           "source": "金十数据",
@@ -436,17 +466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
         },
         {
           "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
@@ -565,7 +584,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -587,7 +606,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -601,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "智光电气：网传完成英伟达AIDC BESS自测等消息不属实",
+          "url": "https://wallstreetcn.com/livenews/3147990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "OpenAI“叫停”Astra意味着什么",
@@ -617,8 +647,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
+        },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
           "url": "https://news.ifeng.com/c/8vTlIUCd26B",
@@ -630,17 +671,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -667,6 +697,21 @@
           "time_info": "[00时51分 ~ 09时19分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 18时47分]"
+        },
+        {
           "title": "特朗普称要向伊朗索赔",
           "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
           "source": "凤凰网",
@@ -678,20 +723,6 @@
           "time_info": "[03时53分 ~ 07时31分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 16时11分]"
-        },
-        {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -699,8 +730,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
         },
         {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
@@ -710,8 +741,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -735,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-11）",
+          "url": "https://flash.jin10.com/detail/20260811184126216800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "特朗普否认华尔街日报关于他与沃什谈话的报道，称：我非常尊重美联储主席沃什。 几天前还曾与沃什短暂对话过一次。 自从沃什接任美联储主席以来，和他谈过一次。",
@@ -788,7 +830,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1159,7 +1201,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -1167,7 +1209,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -1177,8 +1219,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
+          "time_info": "[11时39分 ~ 18时47分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -1192,15 +1245,17 @@
           "time_info": "[00时51分 ~ 04时37分]"
         },
         {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
           "source": "凤凰网",
           "ranks": [
-            2
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
         },
         {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
@@ -1212,19 +1267,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时39分 ~ 13时03分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -1247,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3148024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
@@ -1310,9 +1363,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "卡塔尔：阿曼与伊朗的谈判已进入“高级阶段”",
+          "url": "https://flash.jin10.com/detail/20260811183346473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
@@ -1468,6 +1532,17 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
+          "title": "布伦特原油和美国原油回吐部分涨幅，卡塔尔政府发言人表示阿曼与伊朗的谈判已进入高级阶段。",
+          "url": "https://flash.jin10.com/detail/20260811183204331800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "布伦特原油期货上涨4美元/桶，因伊朗与美国互相提出赔偿要求，霍尔木兹海峡重启希望减弱。",
           "url": "https://flash.jin10.com/detail/20260811020633941800",
           "source": "金十数据",
@@ -1507,7 +1582,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1543,6 +1618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "卡塔尔外交发言人：阿曼与伊朗之间的谈判目前已进入“高级阶段”。",
+          "url": "https://flash.jin10.com/detail/20260811182333920800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
@@ -1617,7 +1703,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1628,7 +1714,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1639,7 +1725,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1650,7 +1736,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1668,9 +1754,325 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 22,
+      "keyword_group": "科技",
+      "match_count": 25,
       "titles": [
+        {
+          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
+          "url": "https://wallstreetcn.com/articles/3779085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 18时47分]"
+        },
+        {
+          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+          "url": "https://www.cls.cn/detail/2450388",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 09时19分]"
+        },
+        {
+          "title": "宇树科技：回拨机制启动后，网上发行最终中签率为0.01809759%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33754082",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            14,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 16时11分]"
+        },
+        {
+          "title": "中国黑科技圈粉老外",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%BB%91%E7%A7%91%E6%8A%80%E5%9C%88%E7%B2%89%E8%80%81%E5%A4%96%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 03时53分]"
+        },
+        {
+          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
+          "url": "https://wallstreetcn.com/articles/3779037",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "恒生科技指数高开低走，午盘前跌逾1%，恒指现跌0.54%。",
+          "url": "https://flash.jin10.com/detail/20260811111227648800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "恒生指数收盘跌1.1%，恒生科技指数跌1.93%",
+          "url": "https://wallstreetcn.com/livenews/3147948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 07时31分]"
+        },
+        {
+          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
+          "url": "https://wallstreetcn.com/livenews/3147681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "行云科技：算力卡被卡在海关传闻不实，在手算力长期3-5年订单约150.82亿元",
+          "url": "https://wallstreetcn.com/livenews/3148020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
+        },
+        {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 18时47分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3147828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 13时03分]"
+        },
+        {
+          "title": "宇树科技：网上发行最终中签率0.0181%",
+          "url": "https://www.toutiao.com/trending/7672361613353029174/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 04时37分]"
+        },
+        {
+          "title": "黄晓明再回应靠长鑫科技赚百亿传闻",
+          "url": "https://www.toutiao.com/trending/7672605240819089454/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 16时11分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.07%，报25966点。 恒生科技指数主连夜盘收涨0.18%，报4937点。",
+          "url": "https://wallstreetcn.com/livenews/3147656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时37分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，房地产、公用事业、科技板块至少跌1%，能源板块涨4.4%。 纳斯达克100指数初步收跌0.4%，半导体指数跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3147679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "九联科技：2026年上半年净利润3511.02万元，实现扭亏为盈",
+          "url": "https://wallstreetcn.com/livenews/3148018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3147676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "华宏科技：目前暂未从事新能源汽车废旧电池拆解业务",
+          "url": "https://flash.jin10.com/detail/20260811091254515800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260811105621423800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "金十图示：2026年08月11日（周二）港A科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20260811105136856800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "行云科技：截至本公告披露日，公司在手算力长期3-5年订单规模约150.82亿元",
+          "url": "https://flash.jin10.com/detail/20260811181845500800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "九联科技：2026年上半年净利润3511.02万元，实现扭亏为盈",
+          "url": "https://flash.jin10.com/detail/20260811181529267800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "香港恒生指数开盘上涨0.24%，报25998.59点；恒生科技指数涨0.27%。MNIMAX涨4.2%，智谱涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3147768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 港股",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
+          "url": "https://www.cls.cn/detail/2450866",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时39分 ~ 18时47分]"
+        },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
           "url": "https://wallstreetcn.com/articles/3779046",
@@ -1697,19 +2099,6 @@
           "time_info": "[07时31分 ~ 16时11分]"
         },
         {
-          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
-          "url": "https://www.cls.cn/detail/2450866",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时39分 ~ 16时11分]"
-        },
-        {
           "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
           "source": "澎湃新闻",
@@ -1729,9 +2118,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "兜兜转转一圈以后，港股又回到了起点",
+          "url": "https://wallstreetcn.com/articles/3779127",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "A股贵金属板块高开低走，赤峰黄金跌近9%，四川黄金、招金黄金、中金黄金、山金国际、西部黄金均跌超5%。",
@@ -1751,7 +2151,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1765,6 +2165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "A股*ST闻泰短线异动拉升，现涨超7%。",
@@ -1883,7 +2294,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1923,264 +2334,20 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
-          "url": "https://wallstreetcn.com/articles/3779085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 16时11分]"
-        },
-        {
-          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
-          "url": "https://www.cls.cn/detail/2450388",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 09时19分]"
-        },
-        {
-          "title": "宇树科技：回拨机制启动后，网上发行最终中签率为0.01809759%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33754082",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            14,
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 16时11分]"
-        },
-        {
-          "title": "中国黑科技圈粉老外",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%BB%91%E7%A7%91%E6%8A%80%E5%9C%88%E7%B2%89%E8%80%81%E5%A4%96%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时51分 ~ 03时53分]"
-        },
-        {
-          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
-          "url": "https://wallstreetcn.com/articles/3779037",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "恒生科技指数高开低走，午盘前跌逾1%，恒指现跌0.54%。",
-          "url": "https://flash.jin10.com/detail/20260811111227648800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "恒生指数收盘跌1.1%，恒生科技指数跌1.93%",
-          "url": "https://wallstreetcn.com/livenews/3147948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 07时31分]"
-        },
-        {
-          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
-          "url": "https://wallstreetcn.com/livenews/3147681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%。蔚来、京东、比亚迪股份、小米等跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3147828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 13时03分]"
-        },
-        {
-          "title": "宇树科技：网上发行最终中签率0.0181%",
-          "url": "https://www.toutiao.com/trending/7672361613353029174/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 04时37分]"
-        },
-        {
-          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
-          "url": "https://www.cls.cn/detail/2450976",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
-        },
-        {
-          "title": "非科技板块的春天？医药板块调研热度超越半导体",
-          "url": "https://www.cls.cn/detail/2450966",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
-        },
-        {
-          "title": "黄晓明再回应靠长鑫科技赚百亿传闻",
-          "url": "https://www.toutiao.com/trending/7672605240819089454/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 16时11分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.07%，报25966点。 恒生科技指数主连夜盘收涨0.18%，报4937点。",
-          "url": "https://wallstreetcn.com/livenews/3147656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 04时37分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，房地产、公用事业、科技板块至少跌1%，能源板块涨4.4%。 纳斯达克100指数初步收跌0.4%，半导体指数跌2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3147679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
-          "url": "https://wallstreetcn.com/livenews/3147676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "华宏科技：目前暂未从事新能源汽车废旧电池拆解业务",
-          "url": "https://flash.jin10.com/detail/20260811091254515800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20260811105621423800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "金十图示：2026年08月11日（周二）港A科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20260811105136856800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "香港恒生指数开盘上涨0.24%，报25998.59点；恒生科技指数涨0.27%。MNIMAX涨4.2%，智谱涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3147768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 18时47分]"
+        },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
@@ -2193,17 +2360,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时31分 ~ 16时11分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 16时11分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -2245,7 +2401,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -2365,7 +2521,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -2376,7 +2532,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -2435,7 +2591,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -2468,46 +2624,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深度求索开设“DeepSeek Harness团队”公众号",
-          "url": "https://flash.jin10.com/detail/20260811154106380800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2067921583944085650",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "DeepSeek会偷偷给人取外号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -2515,7 +2632,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价会涨到多高",
@@ -2540,6 +2657,17 @@
           "time_info": "11时40分"
         },
         {
+          "title": "金价冲上4400美元 黄金股为何跳水",
+          "url": "https://www.toutiao.com/trending/7672685366725316123/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
           "title": "国际金价周一涨1.1%，现货白银涨3.2%",
           "url": "https://wallstreetcn.com/livenews/3147700",
           "source": "华尔街见闻-快讯",
@@ -2549,6 +2677,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深度求索开设“DeepSeek Harness团队”公众号",
+          "url": "https://flash.jin10.com/detail/20260811154106380800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         }
       ]
     },
