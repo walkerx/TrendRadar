@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T19:53:30.833744+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-08-12T20:59:23.947348+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时37分 ~ 19时53分]"
+          "appearance_count": 14,
+          "time_info": "[06时37分 ~ 20时59分]"
         },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 19时53分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 20时59分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -82,6 +82,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时12分 ~ 20时59分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -120,19 +133,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时12分 ~ 19时53分]"
         },
         {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
@@ -206,8 +206,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时13分 ~ 19时53分]"
+          "appearance_count": 8,
+          "time_info": "[16时13分 ~ 20时59分]"
         },
         {
           "title": "AI科创润童心 网络安全伴成长",
@@ -238,7 +238,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -429,6 +429,28 @@
           "time_info": "09时27分"
         },
         {
+          "title": "马斯克最新讲话：五年后AI占SpaceX价值99%，我们必须取得AI的胜利！",
+          "url": "https://wallstreetcn.com/articles/3779250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "险资二季度持仓净增1.83亿股，近期积极调研AI算力、医药与硬科技",
           "url": "https://wallstreetcn.com/livenews/3148270",
           "source": "华尔街见闻-快讯",
@@ -457,7 +479,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -556,7 +578,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1018,7 +1040,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1106,8 +1128,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时37分 ~ 19时53分]"
+          "appearance_count": 12,
+          "time_info": "[06时37分 ~ 20时59分]"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 20时59分]"
         },
         {
           "title": "特朗普：我不信任伊朗。",
@@ -1156,17 +1189,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
-          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
@@ -1201,6 +1223,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时57分 ~ 19时01分]"
+        },
+        {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 20时59分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -1260,17 +1293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时00分 ~ 19时01分]"
-        },
-        {
-          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
-          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
@@ -1452,7 +1474,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "宇树科技中签号出炉",
@@ -1490,8 +1512,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时12分 ~ 19时53分]"
+          "appearance_count": 9,
+          "time_info": "[14时12分 ~ 20时59分]"
+        },
+        {
+          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
+          "url": "https://www.cls.cn/detail/2452438",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 20时59分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月12日）",
@@ -1536,19 +1571,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
-        },
-        {
-          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
-          "url": "https://www.cls.cn/detail/2452438",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 19时53分]"
         },
         {
           "title": "宇树科技中签号出炉 共约1.94万个",
@@ -1623,6 +1645,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时01分 ~ 19时53分]"
+        },
+        {
+          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
+          "url": "https://www.zhihu.com/question/2070230480356634919",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 20时59分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.37%，报25533点。 恒生科技指数主连夜盘收跌0.81%，报4793点。",
@@ -1704,6 +1738,17 @@
           "time_info": "17时58分"
         },
         {
+          "title": "欧洲科技股指数有望创下今年最长连涨纪录",
+          "url": "https://wallstreetcn.com/livenews/3148621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "中坚科技：涉嫌信息披露违法违规，收到浙江证监局行政处罚事先告知书",
           "url": "https://flash.jin10.com/detail/20260812174340677800",
           "source": "金十数据",
@@ -1715,26 +1760,26 @@
           "time_info": "17时58分"
         },
         {
-          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
-          "url": "https://www.zhihu.com/question/2070230480356634919",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "鸿特科技：拟实施配股，股票停牌",
           "url": "https://flash.jin10.com/detail/20260812192551716800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3148615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "腾讯控股：金融科技及企业服务业二季度的收入同比增长9%至人民币603亿元",
@@ -1754,7 +1799,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1809,6 +1854,18 @@
       "match_count": 28,
       "titles": [
         {
+          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
+          "url": "https://www.cls.cn/detail/2452324",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 20时59分]"
+        },
+        {
           "title": "A股“股王”，股价重回2200元",
           "url": "https://www.cls.cn/detail/2451978",
           "source": "财联社热门",
@@ -1820,18 +1877,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时02分 ~ 17时58分]"
-        },
-        {
-          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
-          "url": "https://www.cls.cn/detail/2452324",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时57分 ~ 19时53分]"
         },
         {
           "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
@@ -1847,6 +1892,18 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时00分 ~ 20时59分]"
+        },
+        {
           "title": "港股开盘，恒指开跌0.6%，科指开跌0.8%，黄金股多股高开，腾讯音乐(01698.HK)开跌11.41%，公司第二季度总收入89.3亿元同比增长5.8%，加大回购力度至4亿美元。",
           "url": "https://flash.jin10.com/detail/20260812092126925800",
           "source": "金十数据",
@@ -1856,18 +1913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时00分 ~ 19时53分]"
         },
         {
           "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
@@ -2129,7 +2174,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
@@ -2158,6 +2203,17 @@
           "time_info": "19时01分"
         },
         {
+          "title": "新能源汽车新车销量占比首超60%",
+          "url": "https://www.toutiao.com/trending/7673110698733637130/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "央行：支持政策性开发性金融机构推进新型政策性金融工具，重点支持数字经济、人工智能、消费基础设施，以及交通、能源、地下管网建设改造等城市更新领域",
           "url": "https://flash.jin10.com/detail/20260812183458695800",
           "source": "金十数据",
@@ -2167,6 +2223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
+        },
+        {
+          "title": "新能源汽车月度新车销量占比首超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%88%E5%BA%A6%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%8D%A0%E6%AF%94%E9%A6%96%E8%B6%8560%25%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "截至今年6月，我国可再生能源制氢产能规模超140万吨",
@@ -2261,6 +2328,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "美国7月未季调能源通胀年率 14.7%，前值15.7%。",
+          "url": "https://flash.jin10.com/detail/20260812203023843800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "国际能源署：全球需求预计在第三季度下降280万桶/日。",
           "url": "https://flash.jin10.com/detail/20260812160235606800",
           "source": "金十数据",
@@ -2311,7 +2389,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -2341,7 +2419,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -2377,6 +2455,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时36分 ~ 14时12分]"
+        },
+        {
+          "title": "美国7月CPI数据公布后，美元指数短线走高约10点，现报99.85。现货黄金短线走低约30美元，又走高逾20美元，现报4412.38美元/盎司。美股期货短线小幅走低后又迅速走高，纳斯达克100指数期货涨幅扩大至0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3148634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -2456,6 +2545,18 @@
           "time_info": "[04时51分 ~ 06时37分]"
         },
         {
+          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 20时59分]"
+        },
+        {
           "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
           "url": "https://flash.jin10.com/detail/20260812043909627800",
           "source": "金十数据",
@@ -2466,17 +2567,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时37分]"
-        },
-        {
-          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3148604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "美股盘前：CoreWeave涨约16%，超微电脑涨约10%，Lumentum涨约7%",
@@ -2521,6 +2611,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走高20点，现报99.82。",
+          "url": "https://flash.jin10.com/detail/20260812203142684800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
+          "url": "https://wallstreetcn.com/livenews/3148221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时00分 ~ 05时42分]"
+        },
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260812032920147800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时51分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
+          "url": "https://wallstreetcn.com/livenews/3148179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时57分"
+        },
+        {
+          "title": "美元指数DXY短线下挫12点，最低至99.70，现回升至99.79。",
+          "url": "https://flash.jin10.com/detail/20260812172851182800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     },
@@ -2630,59 +2784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
-          "url": "https://wallstreetcn.com/livenews/3148221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时00分 ~ 05时42分]"
-        },
-        {
-          "title": "美元指数11日上涨",
-          "url": "https://flash.jin10.com/detail/20260812032920147800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时00分 ~ 04时51分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
-          "url": "https://wallstreetcn.com/livenews/3148179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "美元指数DXY短线下挫12点，最低至99.70，现回升至99.79。",
-          "url": "https://flash.jin10.com/detail/20260812172851182800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         }
       ]
     },
