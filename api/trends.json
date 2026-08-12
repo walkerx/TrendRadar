@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:03:10.609159+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-08-12T14:12:32.264512+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -58,6 +58,18 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时37分 ~ 14时12分]"
+        },
+        {
           "title": "给AI时代一点手搓实拍的小震撼",
           "url": "https://www.douyin.com/hot/2605459",
           "source": "抖音",
@@ -65,11 +77,12 @@
             7,
             6,
             8,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 12时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 14时12分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -82,18 +95,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时55分 ~ 12时03分]"
-        },
-        {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时37分 ~ 12时03分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -157,6 +158,31 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
+        },
+        {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
           "url": "https://flash.jin10.com/detail/20260812003202953800",
           "source": "金十数据",
@@ -179,28 +205,15 @@
           "time_info": "04时51分"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            7,
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
-        },
-        {
-          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
-          "url": "https://www.cls.cn/detail/2451840",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
@@ -225,6 +238,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时36分]"
+        },
+        {
+          "title": "AI产业给韩国人带来什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 14时12分]"
         },
         {
           "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
@@ -317,7 +342,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -361,7 +386,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -394,18 +419,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "AI产业给韩国人带来什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -416,7 +430,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -449,15 +463,48 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
+          "url": "https://wallstreetcn.com/livenews/3148411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "易中天用AI解读庄子",
+          "url": "https://www.toutiao.com/trending/7672540891936522281/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "美团王莆中：不开线下药店，坚持做医药商家AI转型小帮手",
+          "url": "https://flash.jin10.com/detail/20260812131034656800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -534,6 +581,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
+        },
+        {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
           "url": "https://flash.jin10.com/detail/20260812063020231800",
           "source": "金十数据",
@@ -570,6 +628,18 @@
           "time_info": "[02时57分 ~ 04时00分]"
         },
         {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
+        },
+        {
           "title": "伊朗议会国家安全和外交政策委员会主席阿齐兹：核问题是公众的关键诉求，将是谈判中的复杂部分。谈判将非常困难。",
           "url": "https://wallstreetcn.com/livenews/3148200",
           "source": "华尔街见闻-快讯",
@@ -582,29 +652,6 @@
           "time_info": "[02时57分 ~ 04时00分]"
         },
         {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
-        },
-        {
           "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
           "url": "https://www.cls.cn/detail/2451814",
           "source": "财联社热门",
@@ -612,8 +659,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
         },
         {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
@@ -624,8 +671,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
         },
         {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
@@ -660,6 +707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "最高领袖久不露面，伊朗权力真空扩大：强硬派正抢占战争主导权",
+          "url": "https://flash.jin10.com/detail/20260812133649340800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
@@ -834,6 +892,18 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时37分 ~ 14时12分]"
+        },
+        {
           "title": "特朗普：我不信任伊朗。",
           "url": "https://wallstreetcn.com/livenews/3148320",
           "source": "华尔街见闻-快讯",
@@ -867,18 +937,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时37分 ~ 12时03分]"
-        },
-        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
@@ -899,8 +957,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -956,7 +1014,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1000,7 +1058,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1107,7 +1165,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
@@ -1134,6 +1192,18 @@
           "time_info": "09时27分"
         },
         {
+          "title": "A股“股王”，股价重回2200元",
+          "url": "https://www.cls.cn/detail/2451978",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时12分]"
+        },
+        {
           "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
           "url": "https://wallstreetcn.com/livenews/3148284",
           "source": "华尔街见闻-快讯",
@@ -1158,17 +1228,6 @@
           "time_info": "[07时36分 ~ 09时27分]"
         },
         {
-          "title": "A股“股王”，股价重回2200元",
-          "url": "https://www.cls.cn/detail/2451978",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2606599",
           "source": "抖音",
@@ -1191,13 +1250,24 @@
           "time_info": "[12时02分 ~ 12时03分]"
         },
         {
+          "title": "A股房地产板块午后持续走高，城建发展触及涨停，市北高新、京投发展此前封板，荣盛发展、新城控股、天地源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812134750862800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "A股脑机接口概念异动拉升，创新医疗快速涨停，菲沃泰涨超10%，爱朋医疗、声迅股份、倍益康、三博脑科、南京熊猫跟涨。",
           "url": "https://wallstreetcn.com/livenews/3148387",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1208,9 +1278,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "A股食品加工制造板块大幅拉升，安记食品涨停，百合股份此前涨停，好想你、盖世食品、莲花控股、金达威、海欣食品跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812133459847800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "A股百货零售板块短线拉升，中兴商业涨停，宁波中百此前封板，百大集团、上海九百、永辉超市、银座股份、东百集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812133321893800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "港股南方两倍做多三星电子(07747.HK)涨超17%，南方东英SK海力士(07709.HK)涨超15%。",
@@ -1219,9 +1311,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "A股“股王”、第二高价股双双大涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E3%80%81%E7%AC%AC%E4%BA%8C%E9%AB%98%E4%BB%B7%E8%82%A1%E5%8F%8C%E5%8F%8C%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "A股食品加工制造板块大幅拉升，安记食品涨停，百合股份此前涨停，好想你、盖世食品、莲花控股、金达威、海欣食品跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-08-12）",
@@ -1235,6 +1349,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "A股百货零售板块短线拉升，中兴商业涨停，宁波中百此前封板，百大集团、上海九百、永辉超市、银座股份、东百集团等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-08-12）",
           "url": "https://flash.jin10.com/detail/20260812090155534800",
           "source": "金十数据",
@@ -1246,15 +1371,48 @@
           "time_info": "09时27分"
         },
         {
+          "title": "A股医疗器械板块震荡拉升，宝莱特20cm涨停，澳华内镜涨超10%，鹿得医疗、康众医疗、南卫股份、戴维医疗等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "A股脑机接口板块走高，创新医疗涨停，菲沃泰涨超10%，爱朋医疗、倍益康、世运电路、三博脑科、东方中科跟涨。",
           "url": "https://flash.jin10.com/detail/20260812111101444800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "A股医药商业板块短线拉升，瑞康医药涨停，第一医药、鹭燕医药、浙江震元、人民同泰、漱玉平民等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260812131837390800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "A股光学元件板块持续走高，光智科技、中润光学涨超10%，东田微、激智科技、水晶光电、波长光电、戈碧迦等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "港股科网股震荡走弱，腾讯控股(00700.HK)跌超3%，快手(01024.HK)、百度(09888.HK)跌超2%，阿里巴巴(09988.HK)、京东(09618.HK)等跟跌。",
@@ -1263,9 +1421,157 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "宇树科技中签号出炉",
+          "url": "https://www.cls.cn/detail/2451500",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 09时27分]"
+        },
+        {
+          "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33760242",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时37分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月12日）",
+          "url": "https://flash.jin10.com/detail/20260812072924097800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "香港恒生指数8月12日（周三）开盘下跌154.43点，跌幅0.6%，报25498.39点；<br/>香港恒生科技指数8月12日（周三）开盘下跌38.67点，跌幅0.8%，报4785.75点；<br/>国企指数8月12日（周三）开盘下跌48.5点，跌幅0.57%，报8479.6点；<br/>红筹指数8月12日（周三）开盘下跌5.66点，跌幅0.14%，报4116.27点。",
+          "url": "https://flash.jin10.com/detail/20260812092135039800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "宇树科技中签号出炉 共约1.94万个",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时42分]"
+        },
+        {
+          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
+          "url": "https://wallstreetcn.com/livenews/3148243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时51分 ~ 06时37分]"
+        },
+        {
+          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
+          "url": "https://wallstreetcn.com/articles/3779167",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时12分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌超3%，腾讯音乐跌11.87%，1药网跌8.29%，Tims中国跌8.05%，信也科技跌5.93%，陆金所控股跌5.72%。",
+          "url": "https://wallstreetcn.com/livenews/3148216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时51分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.37%，报25533点。 恒生科技指数主连夜盘收跌0.81%，报4793点。",
+          "url": "https://wallstreetcn.com/livenews/3148211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时51分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.94%，报6532.41点，脱离6月2日以来最高收盘位6730.14点。 热门中概股里，腾讯音乐初步收跌11.9%，B站跌5.2%，新东方跌4.6%，网易跌4.1%，阿特斯涨1.8%，万国数据涨3.9%，再鼎医药涨10.3%。 ETF中，中概互联网指数ETF（KWEB）收跌3.54%，中国科技指数ETF（CQQQ）收跌1.97%。 XtrackersHarvest中证50（ASHS）收1.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，MSCI新兴市场ex中国ETF（EMXC）收涨0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3148229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时42分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "宇树科技中签者发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
@@ -1305,8 +1611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 14时12分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -1421,145 +1727,8 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "宇树科技中签号出炉",
-          "url": "https://www.cls.cn/detail/2451500",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时27分]"
-        },
-        {
-          "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33760242",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时37分]"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月12日）",
-          "url": "https://flash.jin10.com/detail/20260812072924097800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "香港恒生指数8月12日（周三）开盘下跌154.43点，跌幅0.6%，报25498.39点；<br/>香港恒生科技指数8月12日（周三）开盘下跌38.67点，跌幅0.8%，报4785.75点；<br/>国企指数8月12日（周三）开盘下跌48.5点，跌幅0.57%，报8479.6点；<br/>红筹指数8月12日（周三）开盘下跌5.66点，跌幅0.14%，报4116.27点。",
-          "url": "https://flash.jin10.com/detail/20260812092135039800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "宇树科技中签号出炉 共约1.94万个",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时42分]"
-        },
-        {
-          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
-          "url": "https://wallstreetcn.com/livenews/3148243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时51分 ~ 06时37分]"
-        },
-        {
-          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
-          "url": "https://wallstreetcn.com/articles/3779167",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数跌超3%，腾讯音乐跌11.87%，1药网跌8.29%，Tims中国跌8.05%，信也科技跌5.93%，陆金所控股跌5.72%。",
-          "url": "https://wallstreetcn.com/livenews/3148216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时00分 ~ 04时51分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.37%，报25533点。 恒生科技指数主连夜盘收跌0.81%，报4793点。",
-          "url": "https://wallstreetcn.com/livenews/3148211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时00分 ~ 04时51分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.94%，报6532.41点，脱离6月2日以来最高收盘位6730.14点。 热门中概股里，腾讯音乐初步收跌11.9%，B站跌5.2%，新东方跌4.6%，网易跌4.1%，阿特斯涨1.8%，万国数据涨3.9%，再鼎医药涨10.3%。 ETF中，中概互联网指数ETF（KWEB）收跌3.54%，中国科技指数ETF（CQQQ）收跌1.97%。 XtrackersHarvest中证50（ASHS）收1.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，MSCI新兴市场ex中国ETF（EMXC）收涨0.96%。",
-          "url": "https://wallstreetcn.com/livenews/3148229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时42分]"
-        },
-        {
-          "title": "宇树科技中签者发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "能源",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
@@ -1586,6 +1755,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "中国汽车工业协会：新能源汽车月度新车销量占比首超60%",
+          "url": "https://wallstreetcn.com/livenews/3148449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
@@ -1633,6 +1813,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "8月11日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260812132723195800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美国能源部长：霍尔木兹海峡每天出口的石油七天平均值目前接近900万桶。",
           "url": "https://flash.jin10.com/detail/20260812000833387800",
           "source": "金十数据",
@@ -1642,6 +1833,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 14时12分]"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            26,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时56分 ~ 07时36分]"
+        },
+        {
+          "title": "梁文锋跻身全球最富有50人之列",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
+        },
+        {
+          "title": "Chatgpt把Deepseek当宿敌了",
+          "url": "https://s.weibo.com/weibo?q=Chatgpt%E6%8A%8ADeepseek%E5%BD%93%E5%AE%BF%E6%95%8C%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
@@ -1698,52 +1946,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 12时03分]"
-        },
-        {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            26,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 07时36分]"
-        },
-        {
-          "title": "梁文锋跻身全球最富有50人之列",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1795,11 +1997,12 @@
           "source": "金十数据",
           "ranks": [
             24,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 07时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 14时12分]"
         },
         {
           "title": "金十数据全球财经早餐 | 2026年8月12日",
@@ -1836,7 +2039,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
