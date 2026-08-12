@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-12T16:14:02.820166+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-08-12T17:58:14.500331+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时37分 ~ 17时58分]"
+        },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时37分 ~ 16时14分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -68,6 +68,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 17时58分]"
         },
         {
           "title": "给AI时代一点手搓实拍的小震撼",
@@ -172,18 +184,6 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 16时14分]"
-        },
-        {
           "title": "光速关服,AI虚拟歌姬停运",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
           "source": "贴吧",
@@ -192,8 +192,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时12分 ~ 16时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 17时58分]"
         },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -224,7 +224,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -289,6 +289,28 @@
           "time_info": "[07时36分 ~ 09时27分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 17时58分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 17时58分]"
+        },
+        {
           "title": "怎么看AI突破黎曼猜想下界",
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
           "source": "bilibili 热搜",
@@ -336,28 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时36分]"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 16时14分]"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "胡锡进称抵制AI短剧",
@@ -503,6 +503,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
+          "url": "https://wallstreetcn.com/livenews/3148525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3148357",
           "source": "华尔街见闻-快讯",
@@ -550,7 +561,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -563,6 +574,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 17时58分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -602,18 +625,6 @@
           "time_info": "[09时27分 ~ 16时14分]"
         },
         {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 16时14分]"
-        },
-        {
           "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260812023416358800",
           "source": "金十数据",
@@ -623,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "日本首相高市早苗：在霍尔木兹海峡局势进入关键阶段之际，考虑到伊朗正继续与相关国家就实现海峡开放展开沟通，日本认为，缓解当前军事紧张局势并尽快平息事态至关重要。",
+          "url": "https://flash.jin10.com/detail/20260812175424744800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
@@ -649,6 +671,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时56分 ~ 05时42分]"
+        },
+        {
+          "title": "日本首相高市早苗：鉴于当前最新的中东局势，我与伊朗总统佩泽希齐扬进行了第四次电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260812175416736800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
@@ -855,13 +888,24 @@
           "time_info": "04时51分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使会见巴基斯坦外长",
+          "url": "https://flash.jin10.com/detail/20260812173702411800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "日本首相高市早苗与伊朗总统通电话。（共同社）",
           "url": "https://wallstreetcn.com/livenews/3148490",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -877,13 +921,24 @@
           "time_info": "02时57分"
         },
         {
+          "title": "据伊朗学生通讯社：霍尔木兹甘省机场管理局发布通知，阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173329946800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "摩萨德前局长称以方人员多次“踩点”伊朗核设施",
           "url": "https://wallstreetcn.com/livenews/3148488",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -897,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘机场管理局：阿巴斯港国际机场将于8月15日恢复航班运营。",
+          "url": "https://flash.jin10.com/detail/20260812173318272800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
@@ -938,7 +1004,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
@@ -946,7 +1012,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -981,8 +1047,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时37分 ~ 16时14分]"
+          "appearance_count": 8,
+          "time_info": "[06时37分 ~ 17时58分]"
         },
         {
           "title": "特朗普：我不信任伊朗。",
@@ -1029,6 +1095,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时36分]"
+        },
+        {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 17时58分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -1078,15 +1156,15 @@
           "time_info": "[05时42分 ~ 06时37分]"
         },
         {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时13分 ~ 16时14分]"
+          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
@@ -1257,8 +1335,21 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "A股“股王”，股价重回2200元",
+          "url": "https://www.cls.cn/detail/2451978",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 17时58分]"
+        },
         {
           "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
           "url": "https://www.cls.cn/detail/2451293",
@@ -1273,17 +1364,15 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
-          "title": "A股“股王”，股价重回2200元",
-          "url": "https://www.cls.cn/detail/2451978",
+          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
+          "url": "https://www.cls.cn/detail/2452324",
           "source": "财联社热门",
           "ranks": [
-            8,
-            4,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 16时14分]"
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "港股开盘，恒指开跌0.6%，科指开跌0.8%，黄金股多股高开，腾讯音乐(01698.HK)开跌11.41%，公司第二季度总收入89.3亿元同比增长5.8%，加大回购力度至4亿美元。",
@@ -1325,11 +1414,12 @@
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854100%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 17时58分]"
         },
         {
           "title": "A股",
@@ -1508,6 +1598,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "南向资金今日净卖出29.06亿元。港股通（沪）方面，建滔积层板、阿里巴巴-W分别获净卖出6.13亿港元、5.26亿港元；腾讯控股净买入额居首，金额为2.86亿港元；港股通（深）方面，阿里巴巴-W、建滔积层板分别获净卖出9.34亿港元、3.66亿港元；净买入额居首，金额为6.29亿港元。",
+          "url": "https://flash.jin10.com/detail/20260812173200205800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "A股光学元件板块持续走高，光智科技、中润光学涨超10%，东田微、激智科技、水晶光电、波长光电、戈碧迦等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3148415",
           "source": "华尔街见闻-快讯",
@@ -1536,7 +1637,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         }
@@ -1544,7 +1645,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "宇树科技中签号出炉",
@@ -1567,8 +1668,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 17时58分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（8月12日）",
@@ -1599,9 +1700,44 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
+          "url": "https://wallstreetcn.com/livenews/3148560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "新思科技宣布实现首个HBM4 IP测试芯片验证",
+          "url": "https://flash.jin10.com/detail/20260812175352086800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时12分 ~ 17时58分]"
         },
         {
           "title": "宇树科技中签号出炉 共约1.94万个",
@@ -1642,18 +1778,6 @@
           "time_info": "[09时27分 ~ 14时12分]"
         },
         {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时12分 ~ 16时14分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数跌超3%，腾讯音乐跌11.87%，1药网跌8.29%，Tims中国跌8.05%，信也科技跌5.93%，陆金所控股跌5.72%。",
           "url": "https://wallstreetcn.com/livenews/3148216",
           "source": "华尔街见闻-快讯",
@@ -1664,6 +1788,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时51分]"
+        },
+        {
+          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
+          "url": "https://www.cls.cn/detail/2452438",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.37%，报25533点。 恒生科技指数主连夜盘收跌0.81%，报4793点。",
@@ -1690,15 +1825,70 @@
           "time_info": "[04时51分 ~ 05时42分]"
         },
         {
+          "title": "上交所发布关于上海毕得医药科技股份有限公司相关事项的监管工作函。",
+          "url": "https://flash.jin10.com/detail/20260812174357627800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "中坚科技：涉嫌信息披露违法违规，收到浙江证监局行政处罚事先告知书",
+          "url": "https://flash.jin10.com/detail/20260812174340677800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "腾讯控股：金融科技及企业服务业二季度的收入同比增长9%至人民币603亿元",
+          "url": "https://wallstreetcn.com/livenews/3148534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "三友科技：境外子公司拟投资3920万美元新建阴极铜项目",
+          "url": "https://flash.jin10.com/detail/20260812173324386800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
           "title": "晓程科技：2026年上半年实现净利润5570.83万元，同比增长31.24%",
           "url": "https://flash.jin10.com/detail/20260812155754836800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "9.4%！全球最大主权基金披露上半年回报，亚洲科技股成最大功臣",
+          "url": "https://flash.jin10.com/detail/20260812173206608800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "宇树科技中签者发声",
@@ -1714,8 +1904,173 @@
       ]
     },
     {
+      "keyword_group": "能源",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
+          "url": "https://www.zhihu.com/question/2069887569639248076",
+          "source": "知乎",
+          "ranks": [
+            4,
+            14,
+            8,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 09时27分]"
+        },
+        {
+          "title": "宝丰能源：2026年上半年净利润97.28亿元 同比增70.14%",
+          "url": "https://wallstreetcn.com/livenews/3148558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "截至今年6月，我国可再生能源制氢产能规模超140万吨",
+          "url": "https://wallstreetcn.com/livenews/3148277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "中国汽车工业协会：新能源汽车月度新车销量占比首超60%",
+          "url": "https://wallstreetcn.com/livenews/3148449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3148217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时00分 ~ 04时51分]"
+        },
+        {
+          "title": "新能源汽车月度新车销量占比首超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%9C%88%E5%BA%A6%E6%96%B0%E8%BD%A6%E9%94%80%E9%87%8F%E5%8D%A0%E6%AF%94%E9%A6%96%E8%B6%8560%25",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
+        },
+        {
+          "title": "曝大众酝酿把中国新能源车卖到欧洲",
+          "url": "https://www.toutiao.com/trending/7672708319464292395/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
+        },
+        {
+          "title": "美国能源部长Wright：目前离开霍尔木兹海峡的石油七日平均量已升至每日近900万桶。",
+          "url": "https://wallstreetcn.com/livenews/3148167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美国能源信息署（EIA）预计，德克萨斯州的电力负荷将在2027年增长6%，低于7月短期能源展望中预测的14%。",
+          "url": "https://flash.jin10.com/detail/20260812002038960800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "国际能源署：全球需求预计在第三季度下降280万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812160235606800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "美国能源信息署在德克萨斯州州长宣布暂停新数据中心开发后，下调了对该州电力需求的预测。",
+          "url": "https://flash.jin10.com/detail/20260812001608355800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "8月11日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260812132723195800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "美国能源部长：霍尔木兹海峡每天出口的石油七天平均值目前接近900万桶。",
+          "url": "https://flash.jin10.com/detail/20260812000833387800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "宝丰能源：2026年上半年净利润97.28亿元 同比增70.14%",
+          "url": "https://flash.jin10.com/detail/20260812173113690800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1751,6 +2106,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时36分 ~ 14时12分]"
+        },
+        {
+          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3148557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -1836,7 +2202,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
         },
@@ -1872,127 +2238,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "能源",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "5 万元以下微型车遇冷，40 万元以上新能源车热销，这说明了什么？",
-          "url": "https://www.zhihu.com/question/2069887569639248076",
-          "source": "知乎",
-          "ranks": [
-            4,
-            14,
-            8,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 09时27分]"
-        },
-        {
-          "title": "截至今年6月，我国可再生能源制氢产能规模超140万吨",
-          "url": "https://wallstreetcn.com/livenews/3148277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "中国汽车工业协会：新能源汽车月度新车销量占比首超60%",
-          "url": "https://wallstreetcn.com/livenews/3148449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
-          "url": "https://wallstreetcn.com/livenews/3148217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时00分 ~ 04时51分]"
-        },
-        {
-          "title": "美国能源部长Wright：目前离开霍尔木兹海峡的石油七日平均量已升至每日近900万桶。",
-          "url": "https://wallstreetcn.com/livenews/3148167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "美国能源信息署（EIA）预计，德克萨斯州的电力负荷将在2027年增长6%，低于7月短期能源展望中预测的14%。",
-          "url": "https://flash.jin10.com/detail/20260812002038960800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "国际能源署：全球需求预计在第三季度下降280万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260812160235606800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "美国能源信息署在德克萨斯州州长宣布暂停新数据中心开发后，下调了对该州电力需求的预测。",
-          "url": "https://flash.jin10.com/detail/20260812001608355800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "8月11日芝加哥商业交易所（CME）能源类商品成交量报告已在金十数据中心更新！欢迎点击查看",
-          "url": "https://flash.jin10.com/detail/20260812132723195800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "美国能源部长：霍尔木兹海峡每天出口的石油七天平均值目前接近900万桶。",
-          "url": "https://flash.jin10.com/detail/20260812000833387800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
         }
       ]
     },
@@ -2107,7 +2352,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
@@ -2144,6 +2389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "美元指数DXY短线下挫12点，最低至99.70，现回升至99.79。",
+          "url": "https://flash.jin10.com/detail/20260812172851182800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     },
