@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T00:54:26.795919+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-13T07:37:35.481093+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
           "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
@@ -37,19 +37,53 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "特朗普躲避暗杀更多细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%B2%E9%81%BF%E6%9A%97%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
+          "url": "https://flash.jin10.com/detail/20260813064543456800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
+        },
+        {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
@@ -61,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "特朗普签署备忘录，针对跨国网络犯罪",
+          "url": "https://wallstreetcn.com/livenews/3148771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "伊朗：美国国会应调查特朗普资产的增加情况",
@@ -96,21 +141,21 @@
           "time_info": "00时54分"
         },
         {
-          "title": "特朗普躲避暗杀更多细节曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%B2%E9%81%BF%E6%9A%97%E6%9D%80%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
+          "url": "https://flash.jin10.com/detail/20260813054700329800",
+          "source": "金十数据",
           "ranks": [
-            30
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
         }
       ]
     },
     {
       "keyword_group": "ai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -131,8 +176,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
+          "url": "https://www.cls.cn/detail/2452579",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
+          "url": "https://www.zhihu.com/question/2070508935673378471",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
@@ -146,15 +214,26 @@
           "time_info": "00时54分"
         },
         {
-          "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
-          "url": "https://www.cls.cn/detail/2452579",
-          "source": "财联社热门",
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
+        },
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         },
         {
           "title": "SpaceXAI宣布推出Grok 4.6",
@@ -162,17 +241,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
-          "url": "https://www.zhihu.com/question/2070508935673378471",
-          "source": "知乎",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -193,8 +261,20 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
         {
           "title": "DeepSeek V4 Pro正式版上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
@@ -203,19 +283,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
-          "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
           "source": "知乎",
           "ranks": [
-            5
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
           "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
@@ -229,61 +320,117 @@
           "time_info": "00时54分"
         },
         {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "source": "知乎",
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            15
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
+          "url": "https://wallstreetcn.com/livenews/3148768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "a股 港股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
-          "url": "https://flash.jin10.com/detail/20260813001419372800",
-          "source": "金十数据",
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
+          "source": "财联社热门",
           "ranks": [
+            4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
+          "url": "https://www.cls.cn/detail/2452324",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
         },
         {
-          "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
-          "url": "https://wallstreetcn.com/livenews/3148713",
+          "title": "今年以来已有52家新三板公司登陆A股",
+          "url": "https://wallstreetcn.com/livenews/3148786",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
         },
         {
-          "title": "谷歌：推出谷歌Pixel Tag。",
-          "url": "https://flash.jin10.com/detail/20260812234819125800",
-          "source": "金十数据",
+          "title": "年内A股国有控股上市公司已披露超千起并购计划",
+          "url": "https://wallstreetcn.com/livenews/3148784",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
+        },
+        {
+          "title": "分红、回购、增持常态化推进，A股公司以实际行动稳市场强信心",
+          "url": "https://wallstreetcn.com/livenews/3148781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
           "url": "https://wallstreetcn.com/articles/3779257",
@@ -320,9 +467,121 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "科技",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "95家公募获配宇树科技，金额超18亿元",
+          "url": "https://wallstreetcn.com/livenews/3148792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
+          "url": "https://www.cls.cn/detail/2452438",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技有望浮盈超7亿",
+          "url": "https://www.toutiao.com/trending/7673280015613627950/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：推出Pixel 11 Pro Fold。",
+          "url": "https://flash.jin10.com/detail/20260813001419372800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
+          "url": "https://wallstreetcn.com/livenews/3148713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "谷歌：推出谷歌Pixel Tag。",
+          "url": "https://flash.jin10.com/detail/20260812234819125800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗拖美国入不对称战争，“蝴蝶效应”波及日本卷帘门",
+          "url": "https://wallstreetcn.com/livenews/3148774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
         {
           "title": "伊朗：目前使用武器都是自主研发的",
           "url": "https://www.toutiao.com/trending/7672229042539888694/",
@@ -359,64 +618,8 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
-          "url": "https://www.cls.cn/detail/2452324",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
-          "url": "https://www.cls.cn/detail/2452438",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "能源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "新能源汽车新车销量占比首超60%",
@@ -426,25 +629,37 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
           "title": "新能源汽车迎来两个“首次”突破",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BF%8E%E6%9D%A5%E4%B8%A4%E4%B8%AA%E2%80%9C%E9%A6%96%E6%AC%A1%E2%80%9D%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "美国能源部表示，不会继续推进2024年12月选定的三条拟议国家利益输电走廊，不再将其纳入后续审查流程。",
+          "url": "https://wallstreetcn.com/livenews/3148762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
         }
       ]
     },
     {
       "keyword_group": "财经",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "今日重点关注的财经数据与事件：2026年8月13日 周四",
@@ -454,8 +669,36 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "金十数据全球财经早餐 | 2026年8月13日",
+          "url": "https://flash.jin10.com/detail/20260813065449525800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "07时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "minimax 智谱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "MSCI中国旗舰指数调整：新纳入智谱等33只标的",
+          "url": "https://flash.jin10.com/detail/20260813054538402800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     },
@@ -468,11 +711,12 @@
           "url": "https://www.cls.cn/detail/2452735",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时37分]"
         }
       ]
     }
