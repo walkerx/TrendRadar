@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-12T09:27:29.205361+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-12T12:03:10.609159+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时27分]"
-        },
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
           "url": "https://www.cls.cn/detail/2451347",
@@ -31,17 +20,30 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时03分]"
+        },
+        {
           "title": "AI打开了我童年记忆的百宝箱",
           "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
           "ranks": [
             5,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时03分]"
         },
         {
           "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
@@ -62,11 +64,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时03分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -77,8 +80,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 12时03分]"
+        },
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时37分 ~ 12时03分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -142,18 +157,6 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时37分 ~ 09时27分]"
-        },
-        {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
           "url": "https://flash.jin10.com/detail/20260812003202953800",
           "source": "金十数据",
@@ -174,6 +177,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
+        },
+        {
+          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
+          "url": "https://www.cls.cn/detail/2451840",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
         },
         {
           "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
@@ -249,6 +276,18 @@
           "time_info": "[04时51分 ~ 06时37分]"
         },
         {
+          "title": "国行苹果AI支持机型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
+        },
+        {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
           "url": "https://flash.jin10.com/detail/20260812055132698800",
           "source": "金十数据",
@@ -272,26 +311,15 @@
           "time_info": "00时55分"
         },
         {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
+          "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3148389",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
-          "url": "https://www.cls.cn/detail/2451840",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "12时03分"
         },
         {
           "title": "桑德斯要求三大AI公司暂停开发",
@@ -311,7 +339,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -327,15 +355,15 @@
           "time_info": "07时36分"
         },
         {
-          "title": "国行苹果AI支持机型",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%8C%E8%8B%B9%E6%9E%9CAI%E6%94%AF%E6%8C%81%E6%9C%BA%E5%9E%8B%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "如何评价米哈游旗下 AI 互动陪伴产品《BSide: Olivia Lin》宣告停止运营？",
+          "url": "https://www.zhihu.com/question/2070534573788751684",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "12时03分"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -360,6 +388,39 @@
           "time_info": "04时51分"
         },
         {
+          "title": "AI乐观情绪推动芯片股大幅上涨 韩国股市连续第三个交易日走高",
+          "url": "https://flash.jin10.com/detail/20260812111447024800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "AI产业给韩国人带来什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E7%BB%99%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "法兴银行：预计AI资本支出下半年继续加速，或到2027年上半年才见峰值",
+          "url": "https://flash.jin10.com/detail/20260812111418795800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "苹果再迎高层更替，支付和钱包服务负责人Bailey将退休",
           "url": "https://wallstreetcn.com/livenews/3148201",
           "source": "华尔街见闻-快讯",
@@ -380,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "A股AI应用方向早盘走高，省广集团、风语筑双双涨停，天龙集团涨超10%，引力传媒、福石控股、佳云科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -510,6 +582,52 @@
           "time_info": "[02时57分 ~ 04时00分]"
         },
         {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
+        },
+        {
+          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
+          "url": "https://www.cls.cn/detail/2451814",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
+        },
+        {
+          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
+          "url": "https://www.cls.cn/detail/2451716",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
+        },
+        {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
           "url": "https://wallstreetcn.com/livenews/3148212",
           "source": "华尔街见闻-快讯",
@@ -520,28 +638,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时51分]"
-        },
-        {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
@@ -577,17 +673,6 @@
           "time_info": "00时55分"
         },
         {
-          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
-          "url": "https://www.cls.cn/detail/2451814",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
           "url": "https://flash.jin10.com/detail/20260812030956313800",
           "source": "金十数据",
@@ -619,17 +704,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "伊朗议会国家安全和外交政策委员会主席阿齐兹：核问题是公众的关键诉求，将是谈判中的复杂部分。谈判将非常困难。",
@@ -734,7 +808,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -766,7 +840,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -777,7 +851,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -788,9 +862,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时37分 ~ 12时03分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -804,6 +890,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时36分]"
+        },
+        {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -848,20 +945,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
         {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
+          "title": "特朗普承认：悄悄换乘飞机了",
+          "url": "https://wallstreetcn.com/livenews/3148388",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时27分"
+          "time_info": "12时03分"
         },
         {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
@@ -881,7 +978,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -892,9 +989,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "特朗普回应“空军一号”调包计：特勤局和军方让我换机，我没多问",
+          "url": "https://flash.jin10.com/detail/20260812111839439800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -914,7 +1022,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -928,17 +1036,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
@@ -958,7 +1055,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -991,7 +1088,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1005,6 +1102,170 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 港股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "港股开盘，恒指开跌0.6%，科指开跌0.8%，黄金股多股高开，腾讯音乐(01698.HK)开跌11.41%，公司第二季度总收入89.3亿元同比增长5.8%，加大回购力度至4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260812092126925800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
+          "url": "https://wallstreetcn.com/livenews/3148284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时27分]"
+        },
+        {
+          "title": "两大龙头中报披露在即，机构研判港股后市或转入震荡整固期",
+          "url": "https://wallstreetcn.com/livenews/3148280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时27分]"
+        },
+        {
+          "title": "A股“股王”，股价重回2200元",
+          "url": "https://www.cls.cn/detail/2451978",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2606599",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "A股脑机接口概念异动拉升，创新医疗快速涨停，菲沃泰涨超10%，爱朋医疗、声迅股份、倍益康、三博脑科、南京熊猫跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3148387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "A股午评：创业板指震荡走强收涨1.73% 算力硬件方向领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260812113331881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "港股南方两倍做多三星电子(07747.HK)涨超17%，南方东英SK海力士(07709.HK)涨超15%。",
+          "url": "https://flash.jin10.com/detail/20260812113053487800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-08-12）",
+          "url": "https://flash.jin10.com/detail/20260812090324519800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-08-12）",
+          "url": "https://flash.jin10.com/detail/20260812090155534800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "A股脑机接口板块走高，创新医疗涨停，菲沃泰涨超10%，爱朋医疗、倍益康、世运电路、三博脑科、东方中科跟涨。",
+          "url": "https://flash.jin10.com/detail/20260812111101444800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "港股科网股震荡走弱，腾讯控股(00700.HK)跌超3%，快手(01024.HK)、百度(09888.HK)跌超2%，阿里巴巴(09988.HK)、京东(09618.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260812110213689800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -1044,8 +1305,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 09时27分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 12时03分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -1205,7 +1466,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
         },
@@ -1234,6 +1495,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时37分]"
+        },
+        {
+          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
+          "url": "https://wallstreetcn.com/articles/3779167",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超3%，腾讯音乐跌11.87%，1药网跌8.29%，Tims中国跌8.05%，信也科技跌5.93%，陆金所控股跌5.72%。",
@@ -1270,17 +1543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时42分]"
-        },
-        {
-          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
-          "url": "https://wallstreetcn.com/articles/3779167",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "宇树科技中签者发声",
@@ -1384,82 +1646,6 @@
       ]
     },
     {
-      "keyword_group": "a股 港股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
-          "url": "https://www.cls.cn/detail/2451293",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "港股开盘，恒指开跌0.6%，科指开跌0.8%，黄金股多股高开，腾讯音乐(01698.HK)开跌11.41%，公司第二季度总收入89.3亿元同比增长5.8%，加大回购力度至4亿美元。",
-          "url": "https://flash.jin10.com/detail/20260812092126925800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
-          "url": "https://wallstreetcn.com/livenews/3148284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 09时27分]"
-        },
-        {
-          "title": "两大龙头中报披露在即，机构研判港股后市或转入震荡整固期",
-          "url": "https://wallstreetcn.com/livenews/3148280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 09时27分]"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-08-12）",
-          "url": "https://flash.jin10.com/detail/20260812090324519800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-08-12）",
-          "url": "https://flash.jin10.com/detail/20260812090155534800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1526,8 +1712,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 09时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 12时03分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1548,11 +1734,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 12时03分]"
         }
       ]
     },
@@ -1629,7 +1816,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金价格大涨 有人一周回本近7万",
@@ -1638,9 +1825,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）上海金早盘价为955.49元/克，较国际金价(957.21元/克)，低1.72元/克",
+          "url": "https://flash.jin10.com/detail/20260812110126650800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
