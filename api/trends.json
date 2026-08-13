@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T22:24:11.412732+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-08-13T23:56:13.459406+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "长鑫科技 中国市值最大上市公司",
@@ -30,11 +30,12 @@
             13,
             15,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 23时56分]"
         },
         {
           "title": "宇树科技遭弃购8734股",
@@ -42,11 +43,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            5
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
         },
         {
           "title": "长鑫科技 中国市值最大上市公司",
@@ -60,17 +62,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时00分 ~ 21时01分]"
-        },
-        {
-          "title": "行云科技：公司所有核心长单无集中兑现风险 业绩释放平稳可持续",
-          "url": "https://wallstreetcn.com/livenews/3149208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
@@ -119,6 +110,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 09时29分]"
+        },
+        {
+          "title": "行云科技：公司所有核心长单无集中兑现风险 业绩释放平稳可持续",
+          "url": "https://wallstreetcn.com/livenews/3149208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时56分]"
         },
         {
           "title": "宏和科技：终止投资年产7200万米高性能电子级玻璃纤维布开发与生产项目",
@@ -202,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时02分 ~ 19时04分]"
+        },
+        {
+          "title": "宇树科技遭弃购8734股",
+          "url": "https://www.toutiao.com/trending/7673094694310805555/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "梁文锋打新宇树科技有望浮盈超7亿",
@@ -326,6 +340,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "费城半导体指数涨超2%，超微电脑涨超10%，英特尔涨近5%，美光科技涨超4%，闪迪涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/3149221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "宏和科技：2026年上半年电子级玻璃纤维布营收10.33亿元 平均售价同比上涨147.61%",
           "url": "https://flash.jin10.com/detail/20260813173040203800",
           "source": "金十数据",
@@ -384,7 +409,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
@@ -409,11 +434,12 @@
             13,
             6,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时56分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -422,11 +448,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 23时56分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -438,11 +465,12 @@
             15,
             18,
             20,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 23时56分]"
         },
         {
           "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
@@ -453,8 +481,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时00分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[18时00分 ~ 23时56分]"
         },
         {
           "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
@@ -492,6 +520,17 @@
           "time_info": "21时01分"
         },
         {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
+        },
+        {
           "title": "股价飙升34%！算力租赁商Nebius Q2云收入暴增514% 点燃AI基建板块",
           "url": "https://www.cls.cn/detail/2453081",
           "source": "财联社热门",
@@ -512,6 +551,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时00分 ~ 21时01分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -536,27 +588,16 @@
           "time_info": "16时17分"
         },
         {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
           "source": "抖音",
           "ranks": [
             15,
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
+          "time_info": "[22时23分 ~ 23时56分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -608,15 +649,15 @@
           "time_info": "[18时02分 ~ 19时04分]"
         },
         {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
           "source": "抖音",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "张朝阳谈AI如何帮助物理研究",
@@ -691,7 +732,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -743,7 +784,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
@@ -754,11 +795,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时29分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
@@ -789,6 +831,32 @@
           "time_info": "[09时29分 ~ 22时24分]"
         },
         {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
+        },
+        {
+          "title": "DeepSeek官宣涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
+        },
+        {
           "title": "DeepSeek V4 Pro正式版上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -813,16 +881,54 @@
           "time_info": "[00时54分 ~ 07时37分]"
         },
         {
-          "title": "DeepSeek官宣涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%98%E5%AE%A3%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
           "ranks": [
-            4,
-            25
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
+        },
+        {
+          "title": "让DeepSeek给小说取架空国名",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时56分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+          "url": "https://www.zhihu.com/question/2071318356477662328",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -837,42 +943,6 @@
           "time_info": "[07时37分 ~ 09时29分]"
         },
         {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
-        },
-        {
-          "title": "让DeepSeek给小说取架空国名",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
-        },
-        {
           "title": "梁文锋、马斯克同日上新",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%96%B0",
           "source": "百度热搜",
@@ -883,6 +953,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时03分 ~ 21时01分]"
+        },
+        {
+          "title": "DeepSeek API确认涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            24,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时56分]"
         },
         {
           "title": "快把真正的DeepSeek V4 Pro还给我",
@@ -921,28 +1004,15 @@
           "time_info": "[09时29分 ~ 12时08分]"
         },
         {
-          "title": "DeepSeek API确认涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
+          "url": "https://wallstreetcn.com/articles/3779332",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时24分]"
-        },
-        {
-          "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
-          "url": "https://www.zhihu.com/question/2071318356477662328",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时24分]"
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -979,15 +1049,15 @@
           "time_info": "[22时23分 ~ 22时24分]"
         },
         {
-          "title": "DeepSeek Harness发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
+          "url": "https://www.zhihu.com/question/2071335529577239335",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时56分"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -996,7 +1066,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1010,6 +1080,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "DeepSeek Harness 已发布，如何评价这款产品？",
+          "url": "https://www.zhihu.com/question/2071335385494557060",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "如何看待 Deepseek Harness 发布？",
+          "url": "https://www.zhihu.com/question/2071331484284220938",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -1029,7 +1121,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1070,7 +1162,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -1081,8 +1173,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时24分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时56分]"
         },
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -1092,11 +1184,24 @@
             9,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时07分 ~ 22时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时07分 ~ 23时56分]"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时03分 ~ 23时56分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -1112,16 +1217,15 @@
           "time_info": "[18时00分 ~ 22时24分]"
         },
         {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
           "source": "凤凰网",
           "ranks": [
-            5,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时03分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时56分]"
         },
         {
           "title": "特朗普：我想谋求第三任期，但美国法律太严",
@@ -1136,17 +1240,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时17分 ~ 21时01分]"
-        },
-        {
-          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
-          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -1238,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "美国法官驳回特朗普政府指控哈佛大学未能保护犹太学生的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260813233504432800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国总统特朗普周四日程一览",
@@ -1342,7 +1446,7 @@
     },
     {
       "keyword_group": "a股 港股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
@@ -1355,8 +1459,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时00分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[18时00分 ~ 23时56分]"
         },
         {
           "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
@@ -1462,6 +1566,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 09时29分]"
+        },
+        {
+          "title": "A股直线跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "分红、回购、增持常态化推进，A股公司以实际行动稳市场强信心",
@@ -1588,7 +1703,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -1601,8 +1716,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时37分 ~ 22时24分]"
+          "appearance_count": 15,
+          "time_info": "[07时37分 ~ 23时56分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -1615,6 +1730,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时37分 ~ 16时17分]"
+        },
+        {
+          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时56分]"
         },
         {
           "title": "美股盘前，Coherent跌约4%，Cerebras跌约17%，思科跌约4%",
@@ -1650,15 +1777,26 @@
           "time_info": "21时01分"
         },
         {
-          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
+          "title": "美股存储芯片股大涨，闪迪涨逾15%",
+          "url": "https://wallstreetcn.com/livenews/3149233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "美股三大指数开盘上涨",
+          "url": "https://www.douyin.com/hot/2608893",
+          "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
+          "time_info": "[23时55分 ~ 23时56分]"
         },
         {
           "title": "李大霄提醒警惕美股泡沫爆破",
@@ -1723,7 +1861,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1734,7 +1872,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1767,7 +1905,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1789,7 +1927,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         }
@@ -1797,20 +1935,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "伊朗将正式加入金砖国家新开发银行",
-          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时24分]"
-        },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
           "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
@@ -1820,8 +1946,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时00分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[18时00分 ~ 23时56分]"
+        },
+        {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时56分]"
         },
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -1831,8 +1969,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时00分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[21时00分 ~ 23时56分]"
         },
         {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
@@ -1846,15 +1984,15 @@
           "time_info": "[09时29分 ~ 12时08分]"
         },
         {
-          "title": "伊朗官员：美若敢用核弹 其全球基地将成靶子",
-          "url": "https://wallstreetcn.com/livenews/3149207",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
+          "url": "https://flash.jin10.com/detail/20260813234415417800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时24分"
+          "time_info": "23时56分"
         },
         {
           "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
@@ -1868,6 +2006,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 16时17分]"
+        },
+        {
+          "title": "伊朗官员：美若敢用核弹 其全球基地将成靶子",
+          "url": "https://wallstreetcn.com/livenews/3149207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时56分]"
         },
         {
           "title": "伊朗外长阿拉格齐：美国长期以来因情报失误而误判形势。典型例子就是对伊朗的战争。如今，在霍尔木兹海峡问题上，美国又犯下了一个更大的误判。",
@@ -1986,7 +2136,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         }
@@ -2058,11 +2208,12 @@
           "url": "https://wallstreetcn.com/articles/3779381",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时56分]"
         },
         {
           "title": "伊拉克石油营销公司报告称，阿布扎比最大的能源公司是购买其原油并通过霍尔木兹海峡运输货物的公司之一。",
@@ -2282,11 +2433,12 @@
           "url": "https://www.cls.cn/detail/2453615",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时56分]"
         }
       ]
     }
