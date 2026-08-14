@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-08-14T18:55:39.138184+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-08-14T19:42:22.238941+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "ai",
       "match_count": 30,
       "titles": [
-        {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            6,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时56分 ~ 18时55分]"
-        },
         {
           "title": "用AI给小时候的自己做头像",
           "url": "https://www.douyin.com/hot/2608882",
@@ -30,11 +16,27 @@
             7,
             10,
             14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时55分 ~ 19时42分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            11,
+            12,
             13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[03时55分 ~ 18时55分]"
+          "time_info": "[03时56分 ~ 19时42分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -45,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -129,6 +131,18 @@
           "time_info": "12时05分"
         },
         {
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3779354",
           "source": "华尔街见闻",
@@ -141,17 +155,6 @@
           "time_info": "[03时55分 ~ 09时28分]"
         },
         {
-          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
-          "url": "https://www.zhihu.com/question/2071486982732223991",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
-        },
-        {
           "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
           "url": "https://www.cls.cn/detail/2454270",
           "source": "财联社热门",
@@ -160,8 +163,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
+          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
+          "url": "https://www.cls.cn/detail/2454596",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
@@ -174,18 +189,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 18时55分]"
-        },
-        {
-          "title": "发力中国市场！据称苹果训练了一款“中国定制”大模型，开启AI双轨布局",
-          "url": "https://www.cls.cn/detail/2454596",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -293,7 +296,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -359,7 +362,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -402,8 +405,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
@@ -450,6 +453,29 @@
           "time_info": "[03时55分 ~ 06时37分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814181940361800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
+        },
+        {
           "title": "最年轻新闻秘书，“弃特朗普而去”",
           "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
           "source": "凤凰网",
@@ -483,28 +509,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时37分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
-          "url": "https://flash.jin10.com/detail/20260814181940361800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -709,8 +713,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时55分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[03时55分 ~ 19时42分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -722,8 +726,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时56分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[03时56分 ~ 19时42分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -798,8 +802,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 19时42分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时28分 ~ 18时55分]"
+          "time_info": "[12时05分 ~ 19时42分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -811,18 +827,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时55分 ~ 06时37分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 18时55分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -851,6 +855,17 @@
           "time_info": "[03时56分 ~ 06时37分]"
         },
         {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
@@ -861,17 +876,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 12时05分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
-          "url": "https://www.zhihu.com/question/2071375581464343126",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -918,6 +922,196 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "恒指低开0.70%，报25219.15点；恒生科技指数跌0.60%。京东跌6.5%，此前公布财报；联想集团跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3149405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "华是科技：拟以3亿元收购傲星科技30%股权",
+          "url": "https://flash.jin10.com/detail/20260814190945529800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            12,
+            16,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时56分 ~ 09时28分]"
+        },
+        {
+          "title": "宇树科技遭弃购8734股",
+          "url": "https://www.toutiao.com/trending/7673094694310805555/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时40分]"
+        },
+        {
+          "title": "网宿科技：2026年上半年净利润3.48亿元，同比下降6.61%。",
+          "url": "https://wallstreetcn.com/livenews/3149701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
+        },
+        {
+          "title": "翱捷科技：筹划发行H股并在香港联交所上市。",
+          "url": "https://wallstreetcn.com/livenews/3149700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
+        },
+        {
+          "title": "翱捷科技：董事会审议通过公司发行H股股票并在香港联交所上市的议案",
+          "url": "https://flash.jin10.com/detail/20260814181541311800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
+        },
+        {
+          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
+        },
+        {
+          "title": "剑桥科技：主营业务涉及高速光模块产品的研发、生产与销售，目前生产经营活动正常",
+          "url": "https://wallstreetcn.com/livenews/3149658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "浪潮集团架构调整：智能终端并入智慧科技，董事长孙业志卸任",
+          "url": "https://wallstreetcn.com/livenews/3149717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "剑桥科技：主营业务涉及高速光模块产品的研发、生产与销售，目前生产经营活动正常",
+          "url": "https://flash.jin10.com/detail/20260814172612903800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.63%。 恒生科技指数主连夜盘收涨0.71%。",
+          "url": "https://wallstreetcn.com/livenews/3149285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "芯擎科技加速芯片“天工100”量产交付",
+          "url": "https://wallstreetcn.com/livenews/3149433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3149305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。华虹宏力跌超9%，京东集团跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3149413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         }
       ]
     },
@@ -1098,173 +1292,22 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "恒指低开0.70%，报25219.15点；恒生科技指数跌0.60%。京东跌6.5%，此前公布财报；联想集团跌4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3149405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            12,
-            16,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时56分 ~ 09时28分]"
-        },
-        {
-          "title": "宇树科技遭弃购8734股",
-          "url": "https://www.toutiao.com/trending/7673094694310805555/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时40分]"
-        },
-        {
-          "title": "剑桥科技：主营业务涉及高速光模块产品的研发、生产与销售，目前生产经营活动正常",
-          "url": "https://wallstreetcn.com/livenews/3149658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "网宿科技：2026年上半年净利润3.48亿元，同比下降6.61%。",
-          "url": "https://wallstreetcn.com/livenews/3149701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "翱捷科技：筹划发行H股并在香港联交所上市。",
-          "url": "https://wallstreetcn.com/livenews/3149700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "翱捷科技：董事会审议通过公司发行H股股票并在香港联交所上市的议案",
-          "url": "https://flash.jin10.com/detail/20260814181541311800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "剑桥科技：主营业务涉及高速光模块产品的研发、生产与销售，目前生产经营活动正常",
-          "url": "https://flash.jin10.com/detail/20260814172612903800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时57分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.63%。 恒生科技指数主连夜盘收涨0.71%。",
-          "url": "https://wallstreetcn.com/livenews/3149285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "芯擎科技加速芯片“天工100”量产交付",
-          "url": "https://wallstreetcn.com/livenews/3149433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "美光科技：美光风投基金总承诺出资规模增至 5.5 亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3149305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "恒生科技指数日内跌幅扩大至1%。华虹宏力跌超9%，京东集团跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3149413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "a股 港股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
+          "url": "https://www.cls.cn/detail/2454642",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
           "url": "https://wallstreetcn.com/articles/3779335",
@@ -1275,18 +1318,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时55分 ~ 12时05分]"
-        },
-        {
-          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
-          "url": "https://www.cls.cn/detail/2454642",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "京东集团港股日内跌超10%，上日公布财报。",
@@ -1394,7 +1425,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1425,30 +1456,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时55分 ~ 18时55分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）：预计8月美国天然气产量平均为每日1226亿立方英尺，7月为每日1220亿立方英尺；9月预计平均为每日1232亿立方英尺。",
-          "url": "https://flash.jin10.com/detail/20260814183543528800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：预计8月美国石油产量平均为每日1,383万桶，7月为每日1,382万桶；9月预计平均为每日1,377万桶。",
-          "url": "https://flash.jin10.com/detail/20260814183509415800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
+          "appearance_count": 9,
+          "time_info": "[03时55分 ~ 19时42分]"
         },
         {
           "title": "英国石油公司：与XRG、阿联酋阿布扎比国家石油公司ADNOC的国际能源投资公司和UCC石油天然气控股公司合作，各方持有相等的工作权益份额。",
@@ -1469,11 +1478,36 @@
             17,
             16,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 18时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 19时42分]"
+        },
+        {
+          "title": "美国能源信息署（EIA）：预计8月美国天然气产量平均为每日1226亿立方英尺，7月为每日1220亿立方英尺；9月预计平均为每日1232亿立方英尺。",
+          "url": "https://flash.jin10.com/detail/20260814183543528800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
+        },
+        {
+          "title": "美国能源信息署（EIA）：预计8月美国石油产量平均为每日1,383万桶，7月为每日1,382万桶；9月预计平均为每日1,377万桶。",
+          "url": "https://flash.jin10.com/detail/20260814183509415800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 19时42分]"
         },
         {
           "title": "英国石油公司：与阿布扎比国家石油公司旗下国际能源投资平台 XRG 以及 UCC 油气控股达成合作，各方持有均等的作业权益份额。",
@@ -1504,7 +1538,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1647,6 +1681,17 @@
           "time_info": "[03时55分 ~ 09时28分]"
         },
         {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
           "url": "https://www.zhihu.com/question/2071179550575124530",
           "source": "知乎",
@@ -1658,17 +1703,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 06时37分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
         },
         {
           "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
@@ -1688,17 +1722,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "智谱发布GLM-5.3模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
-        },
-        {
           "title": "智谱发布 GLM-5.3，如何评价前沿编程能力与涌现的网络安全能力?",
           "url": "https://www.zhihu.com/question/2071591447367770456",
           "source": "知乎",
@@ -1707,8 +1730,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
+        },
+        {
+          "title": "智谱发布GLM-5.3模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83%20GLM-5.3%20%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "MINIMAX-W(00100.HK)：定于2026年8月26日举行本公司董事会会议，以考虑及通过本集团截至2026年6月30日止的六个月中期业绩，以及处理其他事项。",
@@ -1735,8 +1770,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 19时42分]"
         },
         {
           "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
