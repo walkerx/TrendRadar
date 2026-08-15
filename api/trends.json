@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T11:35:31.353749+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-08-15T12:25:36.478363+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -19,15 +19,15 @@
           "time_info": "[02时47分 ~ 10时14分]"
         },
         {
-          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
-          "url": "https://wallstreetcn.com/livenews/3149935",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：特朗普的要求令美国海军承压",
+          "url": "https://flash.jin10.com/detail/20260815114720287800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "12时25分"
         },
         {
           "title": "特朗普称将宣布霍尔木兹海峡为美领土",
@@ -61,6 +61,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 12时25分]"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -112,6 +124,20 @@
           "time_info": "[03时45分 ~ 04时27分]"
         },
         {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时25分]"
+        },
+        {
           "title": "特朗普证实部署中东的“林肯”号航母将被替换",
           "url": "https://flash.jin10.com/detail/20260815081235064800",
           "source": "金十数据",
@@ -125,17 +151,42 @@
           "time_info": "[08时58分 ~ 11时35分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
           "ranks": [
-            12,
+            7,
             10,
-            8
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时35分]"
+          "time_info": "[10时14分 ~ 12时25分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         },
         {
           "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
@@ -175,16 +226,15 @@
           "time_info": "[02时47分 ~ 04时27分]"
         },
         {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "time_info": "[11时35分 ~ 12时25分]"
         },
         {
           "title": "特朗普料将出席白宫预测市场会议",
@@ -199,30 +249,6 @@
           "time_info": "[03时45分 ~ 04时27分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
-        },
-        {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
           "url": "https://wallstreetcn.com/livenews/3149885",
           "source": "华尔街见闻-快讯",
@@ -233,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时58分 ~ 10时14分]"
-        },
-        {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         },
         {
           "title": "美国总统特朗普：对伊朗的封锁势不可挡，封锁是一道钢铁之墙。",
@@ -392,8 +407,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时47分 ~ 11时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时47分 ~ 12时25分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -415,8 +430,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -427,11 +442,26 @@
             22,
             27,
             21,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时47分 ~ 12时25分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[02时47分 ~ 11时35分]"
+          "time_info": "[02时47分 ~ 12时25分]"
         },
         {
           "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
@@ -460,28 +490,29 @@
           "time_info": "[02时47分 ~ 10时14分]"
         },
         {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时47分 ~ 11时35分]"
-        },
-        {
           "title": "印度总理莫迪：印度计划在一年内对1000万青年进行人工智能（AI）技能培训。 印度将为青年提供免费在线考试辅导课程。",
           "url": "https://wallstreetcn.com/livenews/3149933",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 12时25分]"
+        },
+        {
+          "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
+          "url": "https://wallstreetcn.com/articles/3779452",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时25分]"
         },
         {
           "title": "博通AI客户融资平台引担忧，盘中股价跌近7%",
@@ -494,19 +525,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时27分]"
-        },
-        {
-          "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
-          "url": "https://wallstreetcn.com/articles/3779452",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时35分]"
         },
         {
           "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
@@ -538,11 +556,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         },
         {
           "title": "失去AI恋人多位用户投诉平台",
@@ -614,6 +633,107 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
+          "url": "https://flash.jin10.com/detail/20260815100007836800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
+        },
+        {
+          "title": "伊朗外交部长：伊朗尚未决定恢复与美国的谈判。",
+          "url": "https://flash.jin10.com/detail/20260815113243919800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "伊朗外长：美国必须满足（伊朗的）条件，才能恢复霍尔木兹海峡的航运。",
+          "url": "https://flash.jin10.com/detail/20260815112723569800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://wallstreetcn.com/livenews/3149851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 04时27分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://flash.jin10.com/detail/20260815021403053800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时45分]"
+        },
+        {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时47分 ~ 04时27分]"
+        },
+        {
+          "title": "伊朗外长：卡塔尔和巴基斯坦正在与我们交换信息，但这并不是谈判。伊朗与阿曼的会谈是独立进行的，重点关注霍尔木兹海峡的海上航线。",
+          "url": "https://flash.jin10.com/detail/20260815112659829800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "a股 港股",
       "match_count": 7,
       "titles": [
@@ -625,8 +745,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时47分 ~ 11时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时47分 ~ 12时25分]"
         },
         {
           "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
@@ -638,8 +758,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时47分 ~ 11时35分]"
+          "appearance_count": 8,
+          "time_info": "[02时47分 ~ 12时25分]"
         },
         {
           "title": "今年以来港股IPO基石投资额同比增长158.3%",
@@ -648,11 +768,12 @@
           "ranks": [
             10,
             1,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时25分]"
         },
         {
           "title": "本周机构扎堆调研，A股六家公司接待超百家机构",
@@ -660,11 +781,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         },
         {
           "title": "上百家A股公司计划半年度现金分红，总额超900亿元",
@@ -672,11 +794,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         },
         {
           "title": "A股半年报盘点",
@@ -708,7 +831,7 @@
     },
     {
       "keyword_group": "能源",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国能源信息署（EIA）：预计8月美国原油产量平均为1383万桶/日（7月为1382万桶/日）；9月平均产量预计为1377万桶/日。 预计8月美国天然气产量平均为1226亿立方英尺/日（7月为1220亿立方英尺/日）；9月平均产量预计为1232亿立方英尺/日。",
@@ -717,11 +840,23 @@
           "ranks": [
             1,
             5,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时25分]"
+        },
+        {
+          "title": "印度总理莫迪：部分国家对资源和战略海路的武器化对印度经济安全构成风险，呼吁在能源方面实现更大自给自足，以降低国家对海外供应的脆弱性。",
+          "url": "https://flash.jin10.com/detail/20260815114335998800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时25分"
         },
         {
           "title": "“走在多瑙河上”：一场大旱如何冲击欧洲生态、航运与能源安全",
@@ -735,6 +870,18 @@
           "time_info": "[02时47分 ~ 04时27分]"
         },
         {
+          "title": "印度总理莫迪：决心在2047年前将印度建设成为发达国家。 未来7-8年内印度将新建多达8座芯片工厂。 预计到2047年印度核能发电量达到100吉瓦，印度计划启动5座核反应堆。 印度必须寻求替代能源。",
+          "url": "https://wallstreetcn.com/livenews/3149921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 12时25分]"
+        },
+        {
           "title": "贝克休斯：美国能源公司在三周内第二次增加钻井平台。美国油气钻井平台数量上升至2025年3月以来的最高水平。",
           "url": "https://wallstreetcn.com/livenews/3149838",
           "source": "华尔街见闻-快讯",
@@ -745,17 +892,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时45分]"
-        },
-        {
-          "title": "印度总理莫迪：决心在2047年前将印度建设成为发达国家。 未来7-8年内印度将新建多达8座芯片工厂。 预计到2047年印度核能发电量达到100吉瓦，印度计划启动5座核反应堆。 印度必须寻求替代能源。",
-          "url": "https://wallstreetcn.com/livenews/3149921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
         },
         {
           "title": "惠誉：受能源进口增加影响，预计英国今年经常账户赤字将适度扩大。",
@@ -797,6 +933,19 @@
           "time_info": "[02时47分 ~ 04时27分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时25分]"
+        },
+        {
           "title": "美股收盘：三大股指低收 博通跌近6%",
           "url": "https://flash.jin10.com/detail/20260815040246091800",
           "source": "金十数据",
@@ -819,94 +968,15 @@
           "time_info": "04时27分"
         },
         {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时35分]"
-        },
-        {
           "title": "美股三大指数全线收跌",
           "url": "https://www.toutiao.com/trending/7674037560066441266/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
-          "url": "https://flash.jin10.com/detail/20260815100007836800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
-        },
-        {
-          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-          "url": "https://wallstreetcn.com/livenews/3149851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时47分 ~ 04时27分]"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-          "url": "https://flash.jin10.com/detail/20260815021403053800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时45分]"
-        },
-        {
-          "title": "伊朗方面的最新表态传递出哪些信号",
-          "url": "https://www.toutiao.com/trending/7673859930650054186/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时47分 ~ 04时27分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
-          "url": "https://flash.jin10.com/detail/20260815050929790800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
         }
       ]
     },
@@ -915,28 +985,30 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "金十数据整理：每日科技要闻速递（8月15日）",
-          "url": "https://flash.jin10.com/detail/20260815094700190800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
-        },
-        {
           "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
           "url": "https://www.cls.cn/detail/2455045",
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月15日）",
+          "url": "https://flash.jin10.com/detail/20260815094700190800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.61%。 恒生科技指数主连夜盘收涨0.81%。",
@@ -955,11 +1027,12 @@
           "url": "https://www.cls.cn/detail/2455019",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 12时25分]"
         }
       ]
     },
@@ -986,11 +1059,12 @@
           "ranks": [
             8,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时47分 ~ 11时35分]"
+          "appearance_count": 7,
+          "time_info": "[02时47分 ~ 12时25分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -1000,11 +1074,12 @@
             8,
             9,
             11,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时47分 ~ 11时35分]"
+          "appearance_count": 7,
+          "time_info": "[02时47分 ~ 12时25分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -1012,11 +1087,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         }
       ]
     },
@@ -1032,8 +1108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时25分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
@@ -1070,11 +1146,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 11时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 12时25分]"
         },
         {
           "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
@@ -1133,8 +1210,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时25分]"
         }
       ]
     },
